@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- mitab calendar -->
+   <string name="accessibility_pick_recurrence">Répéter</string>
+     <string name="event_color_picker_dialog_title">Couleur de l\'événement</string>
+     <string name="event_color_set_to_default">Utiliser la couleur par défaut</string>
+     <string name="choose_event_color_label">Couleur</string>
+     <string name="recurrence_dialog_title">Répétition</string>
+     <string name="create_event_dialog_save">Enregistrer</string>
+     <string name="done_label">Fait</string>
+     <string name="event_not_found">Événement non trouvé</string>
+     <string name="map_label">Carte</string>
+     <string name="no_results_found">Aucun résultat</string>
+     <string name="call_label">Appel</string>
+
+<!-- à traduire ?? affichées sur mipad ou non?? à vérifier... -->
+     <string name="accessibility_email_notification">Email guests</string>
+     <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
+     <string name="calendar_color_picker_dialog_title">Calendar Color</string>
+     <string name="calendar_square_color_picker_description">Color picker</string>
+     <string name="color_picker_default_title">Select a Color</string>
+     <string name="color_swatch_description">Color %1$d</string>
+     <string name="color_swatch_description_selected">Color %1$d selected</string>
+     <string name="day_picker_description">Month grid of days</string>
+     <string name="deleted_key">%1$s deleted</string>
+     <string name="email_guests_label_title">Email</string>
+     <string name="email_organizer_label">Email organizer</string>
+     <string name="endByDate">; until %s</string>
+     <string name="hint_time_zone_search">Type country name</string>
+     <string name="hour_picker_description">Hours circular slider</string>
+     <string name="item_is_selected">%1$s selected</string>
+     <string name="lunar_calendar">农历</string>
+     <string name="lunar_yue">月</string>
+     <string name="minute_picker_description">Minutes circular slider</string>
+     <string name="palestine_display_name">Palestine</string>
+     <string name="preferences_debug_category">Debugging</string>
+     <string name="preferences_default_reminder_default">10</string>
+     <string name="preferences_experimental_category">Experimental</string>
+     <string name="preferences_reminders_category">Reminders</string>
+     <string name="preferences_reminders_quiet_hours_description">Silence event reminders during specified time.</string>
+     <string name="preferences_reminders_quiet_hours_end">Quiet hours end time</string>
+     <string name="preferences_reminders_quiet_hours_label">Quiet hours</string>
+     <string name="preferences_reminders_quiet_hours_start">Quiet hours start time</string>
+     <string name="preferences_reminders_responded_dialog">Skip Reminders</string>
+     <string name="preferences_reminders_responded_label">Skip Reminders</string>
+     <string name="recurrence_dialog_title_never">Never repeats</string>
+     <string name="recurrence_end_continously">Forever</string>
+     <string name="recurrence_end_count_label">For a number of events</string>
+     <string name="recurrence_end_date">Until %s</string>
+     <string name="recurrence_end_date_label">Until a date</string>
+     <string name="recurrence_month_pattern_by_day">on the same day each month</string>
+     <string name="searchview_description_clear">Clear query</string>
+     <string name="select_day">Select month and day</string>
+     <string name="select_hours">Select hours</string>
+     <string name="select_minutes">Select minutes</string>
+     <string name="select_year">Select year</string>
+     <string name="year_label">年</string>
+     <string name="year_picker_description">Year list</string>
+</resources>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="sns_choose_quality_high">Haute (%1$s)</string>
+  <string name="sns_choose_quality_low">Basse</string>
+  <string name="sns_choose_quality_title">Sélectionner la qualité</string>
+  <string name="toast_note_privacy_mode">Impossible de créer une note en mode invité</string>
+  <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Mi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
+  <string name="alert_action_edit_anyway">Continuer l\'édition</string>
+  <string name="alert_edit_action_delete">Supprimer</string>
+  <string name="alert_edit_action_update">Mise à jour</string>
+  <string name="alert_message_delete_folders">Supprimer %1$s dossier(s) sélectionné(s) ?</string>
+  <string name="alert_message_delete_folders_notes">Supprimer %1$s dossier(s) et %2$s note(s) sélectionné(s) ?</string>
+  <string name="alert_message_delete">Supprimer %1$s ?</string>
+  <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
+  <string name="alert_message_delete_notes">Confirmer la suppression de %1$s ?</string>
+  <string name="alert_message_edit_anyway">La note contient un contenu non supporté, l\'éditer pourrait engendrer une perte de données.</string>
+  <string name="alert_title_delete">Supprimer la note</string>
+  <string name="alert_title_edit_anyway">Confirmer l\'édition de la note qui pourrait engendrer une perte de données.</string>
+  <string name="all_terms">%1$s et %2$s</string>
+  <string name="app_name">Notes</string>
+  <string name="app_widget">Notes</string>
+  <string name="attachment_camera">Appareil photo</string>
+  <string name="attachment_contact">Contact</string>
+  <string name="attachment_gallery">Galerie</string>
+  <string name="button_new_note">Nouvelle Note</string>
+  <string name="call_record_folder_name">Notes vocales</string>
+  <string name="default_folder_name">Notes</string>
+  <string name="dlg_desc_confirm_alarm_silent">Attention, si vous désactivez cette option, les alarmes et notes ne sonneront pas si le téléphone est en mode silencieux.</string>
+  <string name="dlg_info_creating_message">Rédaction d\'un message…</string>
+  <string name="dlg_title_confirm_alarm_silent">Confirmation</string>
+  <string name="enable_sync">Synchroniser</string>
+  <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Mi %1$s, les synchroniser maintenant ?</string>
+  <string name="error_contact_not_exist">Le contact n\'existe pas</string>
+  <string name="error_note_empty_for_clock">Désolé, le rappel ne peut pas être défini sur une note vide</string>
+  <string name="error_note_empty_for_send_to_desktop">Désolé, impossible d\'envoyer à l\'écran d\'accueil puis de vider la note</string>
+  <string name="error_note_not_exist">La note n\'existe pas</string>
+  <string name="error_unsupport_content">Cette note contient un contenu non supporté, appuyez pour mettre à jour le système</string>
+  <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur l\'écran d\'accueil</string>
+  <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
+  <string name="format_move_notes_to_folder">%1$s notes ont été déplacées dans le dossier %2$s</string>
+  <string name="hint_foler_name">Entrez un nom de dossier</string>
+  <string name="info_note_enter_desktop">Note ajoutée à l\'écran d\'accueil</string>
+  <string name="login_sync">Se connecter</string>
+  <string name="menu_create_folder">Nouveau dossier</string>
+  <string name="menu_delete">Supprimer</string>
+  <string name="menu_move">Déplacer</string>
+  <string name="menu_move_parent_folder">Dossier parent</string>
+  <string name="menu_send_to_desktop">Afficher sur l\'écran d\'accueil</string>
+  <string name="menu_stick">Épingler</string>
+  <string name="menu_title_select_folder">Choix du dossier</string>
+  <string name="menu_unstick">Désépingler</string>
+  <string name="micloud_state_total_count">%1$s</string>
+  <string name="not_now">Pas maintenant</string>
+  <string name="note_alert_expired">Expiré</string>
+  <string name="note_link_email">Envoyer un e-mail</string>
+  <string name="note_link_other">Ouvrir la carte</string>
+  <string name="note_link_select">Sélectionner le lien</string>
+  <string name="note_link_tel">Appeler</string>
+  <string name="note_link_web">Ouvrir le lien</string>
+  <string name="notealert_enter">Jeter un coup d\'œil</string>
+  <string name="notealert_ok">Ignorer</string>
+  <string name="notelist_menu_new">Ajouter une note</string>
+  <string name="notelist_string_info">…</string>
+  <string name="notify_alarm_title">Rappel d\'alarme</string>
+  <string name="pref_desc_alarm_when_silent">Les alarmes ne sonneront pas en mode silencieux</string>
+  <string name="pref_title_alarm_when_silent">Alarme en mode silencieux</string>
+  <string name="pref_title_common">Paramètres généraux</string>
+  <string name="pref_title_font_size">Taille de police</string>
+  <string name="pref_title_note_style">Style des notes</string>
+  <string name="search">Notes</string>
+  <string name="search_hint">Rechercher des notes</string>
+  <string name="search_label">Recherche de notes…</string>
+  <string name="search_setting_description">Rechercher du texte dans les notes</string>
+  <string name="select_account_prompt">Activer la synchronisation de notes</string>
+  <string name="snippet_image_stub">[Image]</string>
+  <string name="snippet_image_template">[Image %1$s]</string>
+  <string name="toast_folder_privacy_mode">"Impossible de modifier le dossier en mode invité"</string>
+  <string name="toast_message_add_image_fail">Impossible d\'insérer l\'image !</string>
+  <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour ajouter de nouvelles pièces jointes</string>
+  <string name="toast_reach_text_limit_truncate">"Le contenu de la note a été ciselée parce qu'il était trop long"</string>
+  <string name="widget_havenot_content">Aucune note, appuyez pour en créer une.</string>
+  <string name="widget_under_visit_mode">Mode invité, impossible de voir le contenu de la note</string>
+  <string name="widget_under_privacy_mode">Mode invité, impossible de voir le contenu de la note</string>
+  <string name="undo">Annuler</string>
+  <string name="redo">Refaire</string>
+  <string name="alarm_bar_title">Rappel</string>
+  <string name="permlab_accessNote">Accéder aux notes Mi</string>
+  <string name="permdesc_accessNote">Les applications malicieuses peuvent utiliser ceci pour accéder à vos données personnelles.</string>
+  <string name="menu_source">De : %1$s</string>
+  <string name="unknown_source">Source inconnue</string>
+  <string name="menu_send_weibo">Partager via Weibo</string>
+  <string name="menu_send_wechat">Partager via WeChat</string>
+  <string name="widget_content_loading">Chargement…</string>
+  <string name="sns_action_send">Partager</string>
+  <string name="sns_title_edit">Modifier le titre</string>
+  <string name="sns_content_default">Partager la photo</string>
+  <string name="sns_hint_title">Objet (optionnel)</string>
+  <string name="sina_share_pendding">Envoi…</string>
+  <string name="sina_share_success">Message envoyé</string>
+  <string name="sina_share_fail">Échec de l\'envoi</string>
+  <string name="sns_footer_text">Créer avec Mi Notes</string>
+  <string name="sina_token_expired_warning">Le compte Weibo a expiré, veuillez vous reconnecter</string>
+  <string name="sina_token_invalid_warning">Le compte Weibo est non valide, veuillez vous reconnecter</string>
+  <string name="sns_title_send">Envoyer un message</string>
+  <string name="sina_share_fail_content_repeat">"Partage impossible, le contenu existe déjà…"</string>
+  <string name="sns_hint_content">"Qu'avez-vous en tête ?"</string>
+  <string name="sns_message_building">Création du billet…</string>
+  <string name="sns_message_sending">Publication…</string>
+  <string name="sns_toast_empty">"Impossible d'envoyer un billet vide"</string>
+  <string name="sns_toast_over_limit">Envoyé en tant qu\'image (dépassement du texte)</string>
+  <string name="sync_tips">Toucher pour synchroniser les notes sur Mi Cloud.</string>
+  <string name="sns_desc_preview_weibo">Aperçu du message Weibo</string>
+  <string name="sns_desc_preview_wechat">Aperçu du message WeChat</string>
+  <string name="format_move_notes_out_folder">%1$s déplacées</string>
+  <string name="loading_text">Chargement…</string>
+  <string name="sns_message_disconnect">"Pas de connexion réseau. Vérifiez votre connexion et essayez à nouveau."</string>
+  <string name="toast_message_add_text_warn">"Ce type de fichier n'est pas supporté"</string>
+  <string name="welcome_note_for_cm">"Et encore plus de fonctionnalités !
+   - Synchronisation avec Mi Cloud
+   - Enregistrement automatique
+   - Définition de rappels
+
+   Pour en savoir plus, allez sur
+   http://www.miui.com/forum.php?lang=1
+"</string>
+  <string name="menu_folders">Dossiers</string>
+</resources>

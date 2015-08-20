@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="advertise_pop_window">Bloquer les fenêtres publicitaires</string>
+  <string name="advertise_suspend_window">Empêcher les fenêtres flottantes</string>
+  <string name="clear_data_cache_cookie">Effacer le cache et les cookies</string>
+  <string name="clear_data_website_dataset">Stockage de données de sites</string>
+  <string name="done">Terminé</string>
+  <string name="find_in_page_close_accessibility_text">Fermer la recherche</string>
+  <string name="find_in_page_down_accessibility_text">Suivant</string>
+  <string name="find_in_page_edit_text_hint">Rechercher sur la page</string>
+  <string name="find_in_page_no_matches">Aucune correspondance</string>
+  <string name="find_in_page_up_accessibility_text">Précédent</string>
+  <string name="geolocation_permissions_prompt_url">\"%s\"</string>
+  <string name="gesture_kneading">Division des pages dans des fenêtres multiples</string>
+  <string name="gesture_slide_edge">Suivant ou précédent en glissant vers le bord droit ou gauche</string>
+  <string name="gesture_two_fingers_slide_up_down">Glisser vers le haut ou le bas pour ouvrir ou fermer un onglet</string>
+  <string name="input_valid_url">Veuillez saisir une URL valide</string>
+  <string name="quicklink_management_title">Ajouter à la page de démarrage</string>
+  <string name="quicklinks_top_suggest">Recommandé</string>
+  <string name="setting_menu_advance">Paramètres avancés</string>
+  <string name="setting_menu_general_setting">Paramètres généraux</string>
+  <string name="setting_menu_gesture">Gestes</string>
+  <string name="setting_menu_website_data">Contenu Web</string>
+  <string name="save_to">Enregistrer sous</string>
+  <string name="select">Sélectionner</string>
+  <string name="setting">Paramètres</string>
+  <string name="share">Partager</string>
+  <string name="start_page">Page de démarrage</string>
+  <string name="system_option">Paramètres système</string>
+  <string name="incognito_mode">Mode incognito</string>
+  <string name="loading">Chargement…</string>
+  <string name="more">Plus</string>
+  <string name="nav_screen_settings">Paramètres</string>
+  <string name="night_mode">Mode nuit</string>
+  <string name="find_in_page">Rechercher sur la page</string>
+  <string name="download_start">Démarrage…</string>
+  <string name="page_option">Options</string>
+  <string name="contextmenu_popupwindow_addContact">Créer un contact</string>
+  <string name="contextmenu_popupwindow_copy">Copier</string>
+  <string name="contextmenu_popupwindow_copyImage">Enregistrer l\'image</string>
+  <string name="contextmenu_popupwindow_copyLink">Copier l\'URL du lien</string>
+  <string name="contextmenu_popupwindow_dial">Appeler</string>
+  <string name="contextmenu_popupwindow_map">Positionner</string>
+  <string name="contextmenu_popupwindow_openLinkBackground">Ouvrir dans un onglet en arr.-plan</string>
+  <string name="contextmenu_popupwindow_openLinkNewTab">Ouvrir dans un onglet</string>
+  <string name="contextmenu_popupwindow_selectText">Sélectionner le texte</string>
+  <string name="contextmenu_popupwindow_sendMail">Envoyer</string>
+  <string name="contextmenu_popupwindow_viewImage">Afficher l\'image</string>
+  <string name="change_desktop">Mode ordinateur de bureau</string>
+  <string name="address_qr">Créer un code QR</string>
+  <string name="address_copy_url">Copier l\'URL</string>
+  <string name="add_bookmark_title">Ajouter un favori</string>
+  <string name="add_homepage">Ajouter sur page de démar.</string>
+  <string name="add_lancher">Ajouter sur l\'accueil</string>
+  <string name="bookmark">Favoris</string>
+  <string name="bookmark_action_bar_add_group_title">Ajouter un groupe</string>
+  <string name="bookmark_action_bar_new_group_title">Nouveau groupe</string>
+  <string name="bookmark_menu_add_group_txt">Ajouter un groupe</string>
+  <string name="bookmark_menu_change_group_txt">Gérer les favoris</string>
+  <string name="bookmark_menu_delete_window_cancel_txt">Annuler</string>
+  <string name="bookmark_menu_delete_window_delete_txt">Supprimer</string>
+  <string name="bookmark_menu_edit_txt">Éditer</string>
+  <string name="bookmark_menu_moveout_group_txt">Déplacer</string>
+  <string name="bookmark_select_all">Tout sélectionner</string>
+  <string name="bookmark_unselect_all">Tout désélectionner</string>
+  <string name="browser_filechooser_title">Choisir un fichier à uploader</string>
+  <string name="browser_no_more_tab">Plus d\'onglet</string>
+  <string name="change_mode">Changer les modes</string>
+  <string name="download_fail">"Téléchargement échoué"</string>
+  <string name="download_managent">Téléchargements</string>
+  <string name="download_nosdcard">Insérez une carte SD pour télécharger %s.</string>
+  <string name="download_nosdcard_title">Aucune carte SD</string>
+  <string name="download_sdcard_busy">La carte SD est occupée.</string>
+  <string name="download_sdcard_busy_title">Carte SD indisponible</string>
+  <string name="edit_mode_title_empty">Sélectionner des éléments</string>
+  <string name="frontedit_add">Ajouter à la page de démarrage</string>
+  <string name="pref_check_security_url">Vérifier la fiabilité du site</string>
+  <string name="pulldownheaderlayout_canpulldown">Relâchez pour actualiser</string>
+  <string name="pulldownheaderlayout_loading">Actualisation…</string>
+  <string name="pulldownheaderlayout_nocanpulldown">Faites glisser vers le bas pour actualiser</string>
+  <string name="readmode_footer_error_message">"Impossible de charger la page"</string>
+  <string name="readmode_footer_last_page">Ceci est la dernière page</string>
+  <string name="readmode_footer_refresh_message">Actualiser</string>
+  <string name="readmode_settings_fonttitle">Tailler du texte</string>
+  <string name="readmode_settings_themetitle">Arrière-plan</string>
+  <string name="unsecurity_url_toast">"Ce site n'est pas fiable"</string>
+  <string name="video_history">Vidéos</string>
+  
+  
+  <!-- spécial mitab, sans variable dans le text, voir cancro -->
+  <string name="geolocation_permissions_prompt_message">souhaite connaître votre position géographique.</string>
+</resources>

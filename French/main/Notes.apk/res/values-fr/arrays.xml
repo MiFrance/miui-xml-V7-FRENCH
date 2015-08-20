@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string-array name="contact_entries">
+      <item>Nom</item>
+      <item>Surnom</item>
+      <item>Téléphone</item>
+      <item>E-mail</item>
+      <item>Organisation</item>
+      <item>Messagerie Instantanée</item>
+      <item>Téléphone SIP</item>
+      <item>Anniversaire</item>
+      <item>Site internet</item>
+      <item>Adresse</item>
+      <item>Note</item>
+  </string-array>
+  <string-array name="font_size_names">
+      <item>Petite</item>
+      <item>Par défaut</item>
+      <item>Grande</item>
+      <item>Maximale</item>
+  </string-array>
+  <string-array name="welcome_notes_content">
+      <item>"Touchez pour créer une note
+"</item>
+      <item>"Pour ajouter une photo ou afficher des cases à cocher, touchez le bouton ci-dessous
+"</item>
+      <item>"Pressez puis maintenez une note pour la verrouiller, la déplacer ou encore la supprimer
+"</item>
+      <item>"Et d'autres fonctionnalités telles que :
+  - Synchronisation avec Mi Cloud
+  - Définir des rappels
+
+Pour en savoir plus visitez :
+http://www.miui.com/forum.php?lang=1
+"</item>
+  </string-array>
+</resources>

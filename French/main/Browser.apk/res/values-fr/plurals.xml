@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <plurals name="webview_matches_found">
+    <item quantity="other">%1$d sur %2$d</item>
+    <item quantity="one">1 résultat</item>
+  </plurals>
+  <plurals name="webview_last_num_days">
+    <item quantity="other">Les %d derniers jours</item>
+  </plurals>
+  <plurals name="v5_edit_mode_title">
+    <item quantity="other">%1$d éléments sélectionnés</item>
+    <item quantity="one">%1$d élément sélectionné</item>
+  </plurals>
+  <plurals name="adblock_rules_number_text">
+    <item quantity="other">%d éléments bloqués</item>
+    <item quantity="one">%d élément bloqué</item>
+  </plurals>
+  <plurals name="find_on_page_matches">
+    <item quantity="other">%d résultats</item>
+    <item quantity="one">%d résultat</item>
+  </plurals>
+  <plurals name="suggest_access_item_album_songs">
+    <item quantity="other">%d chansons</item>
+    <item quantity="one">%d chanson</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_albums">
+    <item quantity="other">%d albums</item>
+    <item quantity="one">%d album</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_pop">
+    <item quantity="other">%d chansons populaires</item>
+    <item quantity="one">%d chanson populaire</item>
+  </plurals>
+  <plurals name="last_num_days">
+    <item quantity="other">Les %d derniers jours</item>
+  </plurals>
+  <plurals name="matches_found">
+    <item quantity="other">%1$d sur %2$d</item>
+    <item quantity="one">1 résultat</item>
+  </plurals>
+</resources>

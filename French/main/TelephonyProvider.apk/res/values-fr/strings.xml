@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="app_label">Stockage téléphone + Messages</string>
+  <string name="mms_provider_label">MMS</string>
+  <string name="mms_sms_provider_label">Messages</string>
+  <string name="sms_provider_label">SMS</string>
+  <string name="siminfo_default_name">SIM %d</string>
+</resources>

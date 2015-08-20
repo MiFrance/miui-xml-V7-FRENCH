@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more dufos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+  <plurals name="confirm_delete_has_cloud_image">
+      <item quantity="other">Supprimer %s photos du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s photo du &lt;b>cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_local_image">
+      <item quantity="other">Supprimer %s photos ?</item>
+      <item quantity="one">Supprimer %s photo ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_video">
+      <item quantity="other">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_local_video">
+      <item quantity="other">Supprimer %s vidéos ?</item>
+      <item quantity="one">Supprimer %s vidéo ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_image">
+      <item quantity="other">Supprimer %s photos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s photo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_video">
+      <item quantity="other">Supprimer %s vidéos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s vidéo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="number_of_items_selected">
+      <item quantity="other">%1$d sélectionnés</item>
+      <item quantity="zero">%1$d sélectionné</item>
+      <item quantity="one">%1$d sélectionné</item>
+  </plurals>
+  <plurals name="number_of_pictures">
+      <item quantity="other">%1$d</item>
+      <item quantity="zero">%1$d</item>
+      <item quantity="one">%1$d</item>
+  </plurals>
+  <plurals name="number_of_images">
+      <item quantity="other">%1$d images</item>
+      <item quantity="zero">%1$d image</item>
+      <item quantity="one">%1$d image</item>
+  </plurals>
+  <plurals name="number_of_items">
+      <item quantity="other">%1$d éléments</item>
+      <item quantity="zero">%1$d élément</item>
+      <item quantity="one">%1$d élément</item>
+  </plurals>
+  <plurals name="how_many_pics">
+    <item quantity="other">%d photos</item>
+    <item quantity="one">%d photo</item>
+  </plurals>
+  <plurals name="how_many_sub_folders">
+    <item quantity="other">%d dossiers</item>
+    <item quantity="one">%d dossier</item>
+  </plurals>
+  <plurals name="how_many_videos">
+    <item quantity="other">%d vidéos</item>
+    <item quantity="one">%d vidéo</item>
+  </plurals>
+  <plurals name="message_no_delete_access_with_count">
+    <item quantity="other">"Vous n'avez pas les autorisations pour supprimer ces %d fichiers."</item>
+    <item quantity="one">"Vous n'avez pas les autorisations pour supprimer ce fichier."</item>
+  </plurals>
+  <plurals name="pick_with_limited_upper_bound_title">
+    <item quantity="other">Vous pouvez sélectionner %d éléments</item>
+    <item quantity="one">Vous pouvez sélectionner %d élément</item>
+  </plurals>
+  <plurals name="seconds">
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Ne pas afficher ces visages ?"</item>
+        <item quantity="one">"Ne pas afficher ce visage ?"</item>
+    </plurals>
+  <plurals name="more_face">
+    <item quantity="other">%1$s nouveaux visages peuvent aussi correspondre à %2$s >></item>
+    <item quantity="one">Un nouveau visage peut aussi correspondre à %2$s >></item>
+  </plurals>
+  <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d photos sur %2$s à ajouter</item>
+        <item quantity="one">%1$d photo sur %2$s à ajouter</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d photos sur %2$s à ajouter</item>
+        <item quantity="one">%1$d photo sur %2$s à ajouter</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d ans "</item>
+        <item quantity="one">"%1$d an "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">%1$d mois</item>
+        <item quantity="one">%1$d mois</item>
+    </plurals>
+  <plurals name="confirm_delete_album">
+    <item quantity="other">Supprimer %1$s albums (%2$s au total) ?</item>
+    <item quantity="one">Supprimer %1$s album (%2$s au total) ?</item>
+  </plurals>
+  <plurals name="confirm_delete_video_from_many_albums">
+    <item quantity="other">" "<Data> Supprimer %1$d vidéos de %2$d album(s) ?</Data>" "</item>
+    <item quantity="one">" "<Data> Supprimer %1$d vidéo de %2$d album(s) ?</Data>" "</item>
+  </plurals>
+</resources>

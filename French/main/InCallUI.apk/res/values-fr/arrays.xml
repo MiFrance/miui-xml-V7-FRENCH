@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ims_call_types">
+      <item>Voix</item>
+      <item>Vidéo</item>
+  </string-array>
+  <string-array name="clir_display_values">
+      <item>Réseau par défaut</item>
+      <item>Cacher le numéro</item>
+      <item>Afficher le numéro</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+      <item>Seulement à la maison</item>
+      <item>Automatique</item>
+  </string-array>
+  <string-array name="dtmf_tone_entries">
+      <item>Normales</item>
+      <item>Longues</item>
+  </string-array>
+    <string-array name="list_language_entries">
+        <item>Anglais</item>
+        <item>Français</item>
+        <item>Espagnol</item>
+        <item>Japonais</item>
+        <item>Coréen</item>
+        <item>Chinois</item>
+        <item>Hébreu</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Mode TTY désactivé</item>
+        <item>TTY complet</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+</resources>

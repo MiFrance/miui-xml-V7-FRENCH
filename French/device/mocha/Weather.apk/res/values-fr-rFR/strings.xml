@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH 
+	
+	y'a plus de + de place sur la mitab pour afficher..
+	
+	
+	-->
+	
+	
+<resources>
+  <string name="view_sun_titile">Lever et coucher de soleil</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="bluetooth_enter_passkey_msg">"Saisissez le code d\'association, puis appuyez sur Retour ou Entrée."</string>
+  <string name="not_installed">"Non installé pour cet utilisateur"</string>
+  <string name="bluetooth_enter_pin_msg">Appareil</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <plurals name="confirm_delete_has_cloud_local_image">
+      <item quantity="other">Supprimer %s photos de &lt;b>la tablette et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s photo de &lt;b>la tablette et du cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_video">
+      <item quantity="other">Supprimer %s vidéos de &lt;b>la tablette et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s vidéo de &lt;b>la tablette et du cloud&lt;/b> ?</item>
+  </plurals>
+</resources>

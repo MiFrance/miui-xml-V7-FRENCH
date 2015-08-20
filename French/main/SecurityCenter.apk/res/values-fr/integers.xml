@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="power_center_low_battery_percent_start">34</integer>
+    <integer name="power_center_low_battery_percent_end">37</integer>
+    <integer name="power_center_on_time_start_time_start">5</integer>
+    <integer name="power_center_on_time_start_time_end">10</integer>
+    <integer name="power_center_on_time_end_time_start">14</integer>
+    <integer name="power_center_on_time_end_time_end">19</integer>
+    <integer name="pref_val_antivirus_status_save">0</integer>
+    <integer name="pref_val_antivirus_status_risk">1</integer>
+    <integer name="pref_val_antivirus_status_virus">2</integer>
+    <integer name="pref_val_installed_apps_sort_by_lunch_time">0</integer>
+    <integer name="pref_val_installed_apps_sort_by_pkg_size">1</integer>
+    <integer name="pref_val_large_file_sort_by_size">0</integer>
+    <integer name="pref_val_large_file_sort_by_name">1</integer>
+    <integer name="pref_val_cache_data_sort_by_size">0</integer>
+    <integer name="pref_val_cache_data_sort_by_name">1</integer>
+    <integer name="pref_val_garbage_cleanup_daily">1</integer>
+    <integer name="pref_val_garbage_cleanup_three_days">3</integer>
+    <integer name="pref_val_garbage_cleanup_seven_days">7</integer>
+    <integer name="pref_val_garbage_cleanup_never">1000</integer>
+    <integer name="pref_val_garbage_size_100m">100000000</integer>
+    <integer name="pref_val_garbage_size_300m">300000000</integer>
+    <integer name="pref_val_garbage_size_500m">500000000</integer>
+    <integer name="pref_val_garbage_size_1000m">1000000000</integer>
+</resources>

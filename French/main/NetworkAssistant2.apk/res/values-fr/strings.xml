@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="main_toolbar_saving">Compression</string>
+  <string name="traffic_saving_tecsupport">Propulsé par Opera Max</string>
+  <string name="traffic_saving_notify_start_title">Compression des données</string>
+  <string name="traffic_saving_notify_start_content">%s économisés ce mois-ci</string>
+  <string name="traffic_saving_toast_start_mobile">Compression des données activée</string>
+  <string name="traffic_saving_toast_start_none_mobile">La compression des données démarrera lorsque vous serez connecté sur un réseau mobile</string>
+  <string name="traffic_saving_toast_start_unreachable">Erreur, impossible d\'activer la compression des données</string>
+  <string name="traffic_saving_toast_stop">Compression des données désactivée</string>
+  <string name="traffic_saving_title">Économie de données</string>
+  <string name="traffic_saving_button_start">Activer</string>
+  <string name="traffic_saving_button_stop">Désactiver</string>
+  <string name="traffic_saving_button_sorted">Détails</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Sélectionner la SIM</string>
+  <string name="traffic_saving_can_optimized">Optimiser</string>
+  <string name="traffic_saving_msg_today">Économisé aujourd\'hui :</string>
+  <string name="traffic_saving_msg_month">Économisé ce mois :</string>
+  <string name="traffic_saving_history_title">Historique</string>
+  <string name="traffic_saving_history_total_traffic">Données</string>
+  <string name="traffic_saving_button_mng">Gérer les paramètres d\'économie de données</string>
+  <string name="traffic_saving_need_optimize">Peut être optimisé</string>
+  <string name="traffic_saving_notification_button_start">Activer</string>
+  <string name="traffic_saving_one_key_optimize">Optimiser pour économiser les données</string>
+  <string name="traffic_saving_optimized">Déjà optimisé</string>
+  <string name="traffic_saving_pic_compress_orig">Original</string>
+  <string name="traffic_saving_ratio">Données réduites de %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Ne peut réduire significativement la consommation de données"</string>
+  <string name="traffic_saving_recommanded_close">Désactiver cet élément</string>
+  <string name="traffic_saving_recommanded_open">Activer cet élément</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activer automatiquement l\'économiseur de données pour réduire la consommation de données mobiles dans les applications.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Si vous avez un quota de données mensuel, n\'oubliez pas de désactiver ce service pour les applications tierces, afin de ne pas encourir de frais supplémentaires de votre opérateur.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Activer</string>
+  <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>
+  <string name="pref_traffic_saving_switch">Compresser les données</string>
+  <string name="pref_traffic_saving_switch_hint">Permet d\'économiser des données grâce à la compression</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Affiche les informations relatives à l\'économie de données dans le menu déroulant.</string>
+  <string name="pref_traffic_saving_issue">F.A.Q.</string>
+  <string name="pref_traffic_saving_issue_content">"Cette application permet d'économiser de données mobiles 2G et 3G en compressant les textes et les photos sur quasiment toute application de votre téléphone.
+&lt;br />&lt;br />
+&lt;b>1. Cette application fouille-t-elle dans mes données privées ?&lt;/b>
+&lt;br />&lt;br />
+Non ! Les données privées sont envoyées en utilisant des connexions cryptées ne peuvent être pas optimisées. Donc, toutes vos données privées sont acheminées directement vers la destination souhaitée au lieu de transiter par les serveurs de compression. Nous n'analysons ni stockons aucune de vos données privées !
+&lt;br />&lt;br />
+&lt;b>2. Quel est l'effet sur la consommation de la batterie ?&lt;/b>
+&lt;br />&lt;br />
+L'efficacité énergétique est un aspect dont nous nous soucions, et nous prévoyons d'autres optimisations dans ce domaine.
+&lt;br />&lt;br />
+Nos tests montrent que la consommation de la batterie avec la compression activée est quasiment identique par rapport à la même configuration sans.
+&lt;br />&lt;br />
+&lt;b>3. Je ne vois aucune économie. Est-ce normal ?&lt;/b>
+&lt;br />&lt;br />
+La compression réalise des économies de données sur le texte et les images transférées via des connexions normales non cryptées.L\'application ne peut pas compresser le trafic binaire ou crypté (par exemple, les installations ou mises à jour d'applications de Google Play).
+&lt;br />&lt;br />
+&lt;b>4. Pourrais-je optimiser le trafic Wi-Fi à l'avenir ?&lt;/b>
+&lt;br />&lt;br />
+C'est une option que nous envisageons, en raison du nombre de demandes à ce sujet. Restez à l'écoute pour les mises à jour."</string>
+  <string name="app_name">Moniteur</string>
+  <string name="list_empty_text">Vide</string>
+  <string name="firewall_activity_lable">Limiter l\'utilisation des données par application</string>
+  <string name="firewall_applist">Applis</string>
+  <string name="firewall_rule_group_title_mobile">Mobile</string>
+  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
+  <string name="firewall_fragment_tab_title_nonsys">Téléchargées</string>
+  <string name="firewall_fragment_tab_title_sys">Système</string>
+  <string name="firewall_fragment_sys_listempty">Vide</string>
+  <string name="firewall_fragment_nonesys_listempty">Vide</string>
+  <string name="firewall_service_network_blocked">%1$s n\'est pas autorisé à accéder aux réseaux %2$s</string>
+  <string name="main_traffic_used_text">utilisés</string>
+  <string name="main_traffic_remian_text">restants</string>
+  <string name="main_traffic_overlimit_text">hors limite</string>
+  <string name="main_toolbar_firewall">Pare-feu</string>
+  <string name="main_toolbar_statistic">Statistiques</string>
+  <string name="main_toolbar_purchase">Achats</string>
+  <string name="main_button_usage_adjust">Définir le quota</string>
+  <string name="app_mobile">Mobile</string>
+  <string name="app_wifi">Wi-Fi</string>
+  <string name="usage_sorted_activity_lable">Usage des données</string>
+  <string name="usage_sorted_loading_text">Chargement…</string>
+  <string name="usage_sorted_empty_text">Vide</string>
+  <string name="adjust_traffic_carrier_summary_today">Mis à jour aujourd\'hui à %s</string>
+  <string name="adjust_traffic_carrier_summary_yesterday">Mis à jour hier à %s</string>
+  <string name="adjust_traffic_carrier_summary_two_day_before">Mis à jour il y a 2 jours</string>
+  <string name="adjust_traffic_carrier_summary_oneweek_before">Mis à jour il y a 1 semaine</string>
+  <string name="adjust_traffic_carrier_summary_more_oneweek_before">Mis à jour il y a plus d\'une semaine</string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Mis à jour il y a plus d\'un mois</string>
+  <string name="person_hotpot">Partage de connexion</string>
+  <string name="system_app">Applis système</string>
+  <string name="deleted_apps">Applis supprimées</string>
+  <string name="sorted_button">Trier par</string>
+  <string name="app_detail">Détails</string>
+  <string name="app_version">"Version "</string>
+  <string name="traffic_none">Aucun</string>
+  <string name="sorted_dialog_title">Trier par</string>
+  <string name="cancel_button">Annuler</string>
+  <string name="ok_button">OK</string>
+  <string name="main_button_normal_traffic">Pic</string>
+  <string name="main_button_idel_traffic">Creux</string>
+  <string name="main_button_usage_adjusting">Changement…</string>
+  <string name="main_button_usage_adjust_manual">Ajuster l\'usage de données</string>
+  <string name="main_button_usage_package_setting">Définir le quota de données</string>
+  <string name="main_traffic_used_only">Utilisé : %s</string>
+  <string name="main_alert_message_no_mobile_package">Quota de données mobiles non défini</string>
+  <string name="main_alert_message_no_imsi">Aucune carte SIM détectée</string>
+  <string name="main_alert_message_slot_no_data_connection">"La carte SIM ne supporte pas la
+connexion au réseau de données mobiles"</string>
+  <string name="permit_running_network">Autoriser les données en arrière-plan</string>
+  <string name="network_control">Voir les paramètres de l\'appli</string>
+  <string name="foreground_traffic">Premier plan %s</string>
+  <string name="background_traffic">Arrière plan %s</string>
+  <string name="stop_app_button">Arrêter</string>
+  <string name="detail_app_button">Détails</string>
+  <string name="force_stop_dlg_title">Restreindre les données en arrière-plan</string>
+  <string name="force_stop_dlg_text">"Si vous restreignez les données mobiles en arrière-plan, certaines applications et services ne fonctionneront uniquement si vous êtes connecté à un réseau Wi-Fi"</string>
+  <string name="pref_about_traffic_title">Paramètres d\'utilisation des données</string>
+  <string name="pref_package_traffic_normal">Limite : %s</string>
+  <string name="pref_package_traffic_overlay">%1$s | Additionnel : %2$s</string>
+  <string name="pref_package_traffic_leisure">%1$s | Creux : %2$s</string>
+  <string name="pref_package_traffic_settings">Quota de données mobiles</string>
+  <string name="pref_adjust_traffic_data">Définir l\'usage des données</string>
+  <string name="pref_about">À propos</string>
+  <string name="pref_version">Version %s</string>
+  <string name="pref_leisure_no_overlay">Activé</string>
+  <string name="pref_leisure_not_opened">Désactivé</string>
+  <string name="dual_setting_simcard1">SIM 1</string>
+  <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="pref_app_traffic_managent">Restreindre l\'usage des données par application</string>
+  <string name="traffic_protection_label">Alerte d\'usage des données</string>
+  <string name="traffic_protection_summary">Afficher une alerte lorsqu\'en approche du seuil défini</string>
+  <string name="traffic_protection_unknown"><u>Configurer plus tard</u></string>
+  <string name="traffic_protection_text_hint">Définir le quota de données %s</string>
+  <string name="traffic_protection_next">Suivant</string>
+  <string name="traffic_protection_data_usage_summary">Dépasser le quota de données défini par votre opérateur peut engendrer du hors-forfait ou une limitation du débit.</string>
+  <string name="traffic_protection_use_data">Données activées</string>
+  <string name="traffic_correction_start_correction">Connexion au serveur de votre opérateur…</string>
+  <string name="traffic_correction_start_correction_failed">Échec de la requête, veuillez vérifier vos paramètres opérateur</string>
+  <string name="traffic_correction_success">Usage des données mis à jour</string>
+  <string name="traffic_correction_failed">"Impossible d\'obtenir des info. sur l\'usage des données"</string>
+  <string name="traffic_setting_fragment_title">Paramètres de requêtes d\'usage des données</string>
+  <string name="traffic_setting_fragment_button2_text">Enregistrer</string>
+  <string name="traffic_setting_fragment_area">Locale</string>
+  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
+  <string name="traffic_setting_fragment_operator">Opérateur</string>
+  <string name="traffic_setting_fragment_brand">Marque</string>
+  <string name="traffic_setting_fragment_template">Modèle de message</string>
+  <string name="traffic_setting_fragment_loading_text">Chargement des informations réseau…</string>
+  <string name="traffic_setting_fragment_no_network">Aucun réseau de données disponible</string>
+  <string name="traffic_setting_fragment_get_template_falure">Erreur. Vérifiez votre connexion et réessayez.</string>
+  <string name="traffic_setting_fragment_send_num">Numéro de téléphone opérateur</string>
+  <string name="traffic_setting_fragment_sms_content">Contenu du message</string>
+  <string name="traffic_setting_fragment_send_num_tips">Saisir le numéro téléphonique</string>
+  <string name="traffic_setting_fragment_sms_content_tips">Écrivez votre message ici</string>
+  <string name="traffic_setting_fragment_null">Vide</string>
+  <string name="pref_category_title_other">Paramètres avancés</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Désactiver les données mobiles lorsque l\'usage des données a atteint la limite prédéfinie</string>
+  <string name="pref_connect_settings_exceed_limit">Restreindre l\'usage des données</string>
+  <string name="pref_free_traffic_exceed_limit">Prévenir lorsque l\'usage des données a atteint la limite prédéfinie</string>
+  <string name="pref_free_traffic_limit_warn">Avertissement sur le creux d\'usage des données</string>
+  <string name="pref_special_traffic_exceed_limit">Prévenir lorsque l\'usage des données a atteint la limite prédéfinie</string>
+  <string name="pref_special_traffic_limit_warn">Définir l\'alerte d\'usage des données</string>
+  <string name="pref_connect_settings_enable_background">Autoriser les données en arrière-plan</string>
+  <string name="pref_connect_settings_enable_background_hint">"Permettre aux applications d\'utiliser les données en arrière-plan lorsque vous ne les utilisez pas"</string>
+  <string name="pref_title_network_diagnostics">Diagnostic réseau</string>
+  <string name="pref_check_network_diagnostics">Vérifiez si votre connexion de données fonctionne normalement</string>
+  <string name="pref_title_update_notification">Aff. la consom. dans le menu déroulant</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Activer les exceptions intelligentes</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Activer automatiquement l\'économiseur de données pour les nouvelles applis, pour lesquelles la consommation peut être réduite significativement</string>
+  <string name="pref_traffic_saving_compressed">Compressé</string>
+  <string name="pref_traffic_saving_no_compress">Non compressé</string>
+  <string name="pref_traffic_saving_notify_switch">Afficher dans le menu déroulant</string>
+  <string name="pref_traffic_saving_pic_compress_level">Ratio de compression de l\'image</string>
+  <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
+  <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lors du déverrouillage de votre téléphone, si celui-ci est verrouillé depuis plus de 5 minutes</string>
+  <string name="pref_title_mobile_traffic">Afficher l\'usage des données en tenant compte du verrouillage</string>
+  <string name="pref_title_declaration">Avertissement important</string>
+  <string name="pref_new_installed_preconfig_title">Paramètres par défaut des nouvelles applications</string>
+  <string name="pref_manual_adjust">Définir manuellement les stats d\'usage de données</string>
+  <string name="pref_daily_adjust">Définir la limite du pic de données</string>
+  <string name="pref_free_adjust">Définir la limite du creux de données</string>
+  <string name="pref_specified_adjust">Définir une limite de données personnalisée</string>
+  <string name="pref_automatic_adjust">Paramètres</string>
+  <string name="pref_open_adjust_traffic">"Synchronisez chaque jour vos stats d\'usage de données avec les serveurs de votre opérateur"</string>
+  <string name="pref_auto_adjust_traffic">Synchro-auto des stats d\'usage des données</string>
+  <string name="pref_auto_adjust_settings">Paramètres de synchro-auto des stats d\'usage des données</string>
+  <string name="pref_adjust_data_usage">Modèle de message Opérateur</string>
+  <string name="pref_setting_operators_message">Modifier le message que votre téléphone envoie à votre opérateur pour synchroniser vos statistiques d\'usage de données</string>
+  <string name="pref_avaible_traffic">Forfait mobile</string>
+  <string name="pref_daily_traffic">Quota de données</string>
+  <string name="pref_data_usage_not_set">Définir la limite d\'usage de données</string>
+  <string name="pref_warning_values">Alerte d\'usage des données</string>
+  <string name="pref_pkg_begin_date">Date de remise à zéro de votre forfait</string>
+  <string name="pref_month_first_day">Premier jour du mois</string>
+  <string name="pref_month_begin_date">Date de remise à zéro de votre forfait</string>
+  <string name="pref_more_traffic_settings">Paramètres avancés</string>
+  <string name="pref_add_traffic_pkg">Achat supplémentaire de données mobiles</string>
+  <string name="pref_free_traffic_settings">Paramètres du creux d\'usage des données</string>
+  <string name="pref_specified_traffic_settings">Paramètres de limite de données</string>
+  <string name="input_traffic_pkg">Saisir le total</string>
+  <string name="begin_date">Date de remise à zéro de votre forfait</string>
+  <string name="tips_dialog_title">Quota de données mobiles inconnu ?</string>
+  <string name="tips_message">Pour consulter les détails de votre forfait mobile, composez le %2$s (%1$s).</string>
+  <string name="daily_pkg_traffic">Définir la limite du pic d\'usage des données</string>
+  <string name="input_aviable_traffic">Définir la limite</string>
+  <string name="pkg_traffic">Définir la limite d\'usage des données</string>
+  <string name="power_save_on_time_start_time_summary">De</string>
+  <string name="power_save_on_time_end_time_summary">à</string>
+  <string name="manual_input_traffic">Définir l\'usage de données</string>
+  <string name="manual_input_free_traffic">Définir le creux d\'usage des données</string>
+  <string name="declaration_dialog_msg">Cette fonctionnalité peut vous aider à suivre votre consommation, il n\'est pas garanti d\'éviter des frais supplémentaires. Pour de meilleurs résultats, fixer une limite.</string>
+  <string name="input_used_hint">Saisir le montant</string>
+  <string name="settings">Paramètres d\'usage des données</string>
+  <string name="adjust_traffic_data">Ajuster l\'usage de données</string>
+  <string name="per_month_pkg_traffic_settings">Définir la limite d\'usage des données</string>
+  <string name="data_usage_warning_title">Alerte d\'usage des données</string>
+  <string name="data_usage_warning_body">Appuyer pour afficher les détails d\'usage des données.</string>
+  <string name="data_usage_mobile_limit_title">Données mobiles désactivées</string>
+  <string name="data_usage_limit_body">Appuyer pour activer les données mobiles.</string>
+  <string name="data_usage_disabled_dialog">"Vous avez atteint votre limite d\'usage de données. 
+
+Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais supplémentaires."</string>
+
+  <string name="data_usage_disabled_dialog_enable">Activer les données</string>
+  <string name="data_usage_mobile_limit_snoozed_title">Limite d\'usage de données dépassée</string>
+  <string name="data_usage_limit_snoozed_body">Vous avez dépassé votre limite d\'usage de données</string>
+  <string name="data_usage_restricted_title">Données en arrière-plan désactivées</string>
+  <string name="data_usage_restricted_body">Appuyer pour activer les données en arrière plan</string>
+  <string name="data_usage_leisure_warning_title">Limite d\'usage de données</string>
+  <string name="data_usage_leisure_warning_body">Appuyer pour afficher les détails d\'usage des données.</string>
+  <string name="data_usage_correction_timeout_title">Temps d\'attente de synchronisation dépassé</string>
+  <string name="data_usage_correction_timeout_body">Appuyer pour mettre à jour manuellement.</string>
+<!-- à revoir ? data_usage_no_total_package_title nouvelle string : Data usage limit -->
+  <string name="data_usage_no_total_package_title">Moniteur de données</string>
+  <string name="data_usage_no_total_package_body">Appuyer pour définir un quota de données</string>
+  <string name="data_usage_no_total_package_body_dual">Appuyer pour définir un quota pour %s</string>
+  <string name="network_assistant_upgraded_title">Mise à jour terminée</string>
+  <string name="network_assistant_upgraded_body">Appuyer pour afficher les détails</string>
+  <string name="lock_screen_traffic_warn_title">Alerte d\'usage des données</string>
+  <string name="notification_title">%1$s-%2$s : %3$s utilisés</string>
+  <string name="notification_content_title">%1$s utilisés en veille</string>
+  <string name="spinner_title">%1$s - Données mobiles : %2$s</string>
+  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_cancel">Annuler</string>
+  <string name="traffic_config_alert_nomore">Ne pas redemander</string>
+  <string name="traffic_config_alert_setted">Limite définie</string>
+  <string name="mi_service_app_detail">Détails usage des données</string>
+  <string name="mi_service_framework">Framework Mi</string>
+  <string name="mi_service_traffic_detail">Détails Framework</string>
+  <string name="none_mi_service_app_detail">Vide</string>
+  <string name="pref_traffic_saving_whitelist">Exceptions</string>
+  <string name="pref_traffic_saving_whitelist_hint">L\'utilisation des données de ces applis ne sera pas restreint</string>
+  <string name="traffic_saving_history_total_money">Économisé</string>
+  <string name="traffic_saving_history_total_money_unit">RMB</string>
+  <string name="traffic_saving_history_total_month">Économisé ce mois-ci :</string>
+  <string name="traffic_saving_history_total_month_default">Moyenne des économies mensuelles :</string>
+  <string name="traffic_saving_history_total_month_value">"Écoute de &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> chansons / &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> heures de chat / Lecture de &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> articles"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Écoute de &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> chansons / &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font>h de chat / Lecture de &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> articles"</string>
+  <string name="traffic_saving_history_total_rate">Taux</string>
+  <string name="traffic_saving_whitelist_btn_add">Ajouter</string>
+  <string name="traffic_saving_whitelist_btn_add_app">Ajouter</string>
+  <string name="traffic_saving_whitelist_btn_added">Ajouté à la liste</string>
+  <string name="traffic_saving_whitelist_btn_remove">Supprimer</string>
+  <string name="traffic_saving_whitelist_btn_removed">Supprimé de la liste</string>
+  <string name="traffic_saving_whitelist_count">L\'utilisation des données de %d applis ne sera pas restreint</string>
+  <string name="traffic_saving_whitelist_no_app">Aucune application</string>
+  <string name="checkout_traffic_saving_history">Historique</string>
+  <string name="traffic_saving_msg_not_started">Inactif</string>
+  <string name="online_songs">Musique</string>
+  <string name="online_chat">Chat</string>
+  <string name="online_read">Lecture</string>
+  <string name="songs_number">18 pistes</string>
+  <string name="chat_number">10 heures</string>
+  <string name="read_number">86 articles</string>
+  <string name="songs_unit">" pistes"</string>
+  <string name="chat_uint">" heures"</string>
+  <string name="read_unit">" articles"</string>
+<!-- à revoir , creux d'usage ? -->
+  <string name="free_time_traffic_settings">Paramètres du creux d\'usage des données</string>
+  <string name="free_traffic_settings">Paramètres du creux d\'usage des données</string>
+  <string name="free_time_traffic">Limite du creux d\'usage des données</string>
+  <string name="datausage_purchase_order_history">Historique</string>
+  <string name="datausage_purchase_none_history">Vide</string>
+  <string name="datausage_purchase_time_in">" le "</string>
+  <string name="main_traffic_used">%s utilisés</string>
+  <string name="today_used_traffic">Auj. : %s</string>
+  <string name="remained_traffic">Restant : %s</string>
+  <string name="total_over_flow">Dépassé : %s</string>
+  <string name="pkg_total_traffic">Quota mensuel : %s</string>
+  <string name="datausage_ignore_app_list_count">"%d applis ignorées"</string>
+  <string name="pref_data_usage_ignore_settings">Ignorer l\'utilisation des données</string>
+  <string name="pref_data_usage_ignore_settings_summary">"Ne pas prendre un compte les données utilisées par les applis sélectionnées"</string>
+  <string name="input_used_max_hint">Saisir le montant (moins de %s)</string>
+  <string name="datausage_purchase_order_failure">Échec de l\'achat</string>
+  <string name="datausage_purchase_order_failure_cause">Votre achat a échoué car…</string>
+  <string name="main_primary_message_traffic_enough">Sous la limite de données</string>
+  <string name="main_primary_message_traffic_warning">Proche de la limite de données</string>
+  <string name="main_primary_message_traffic_overlimit">Dépassement de la limite de données</string>
+  <string name="main_primary_message_traffic_overlimit_purchase">Vous devez augmenter votre quota</string>
+  <string name="main_primary_message_traffic_purchase">Vous devez augmenter votre quota</string>
+  <string name="main_primary_message_traffic_cur_normal">Sous la limite de données</string>
+  <string name="main_primary_message_traffic_cur_normal_warning">Avertissement conso données</string>
+  <string name="main_primary_message_traffic_cur_normal_overlimit">Limite conso dépassée</string>
+  <string name="main_primary_message_traffic_cur_leisure">Heures creuses</string>
+  <string name="main_secondary_message_traffic_used_normal">%s utilisés en heures de pointe</string>
+  <string name="main_secondary_message_traffic_used_leisure">%s utilisés en heures creuses</string>
+  <string name="main_secondary_message_traffic_remain">"restant "</string>
+  <string name="main_secondary_message_traffic_over">"au-delà "</string>
+  <string name="main_secondary_message_traffic_detail_normal">"
+Heures de pointe: %1$s%2$s | %3$s utilisés"</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"
+Heures creuses: %1$s | %2$s utilisés"</string>
+  <string name="main_secondary_message_traffic_used_noleisure">%s utilisés en heures de pointe | données restantes</string>
+  <string name="left_precent">60%</string>
+  <string name="right_precent">100%</string>
+  <string name="traffic_setting_fragment_button1_text">Annuler</string>
+  <string name="free_time_traffic_title">Entrez la limite de données en heures creuses</string>
+  <string name="free_time_traffic_hint">Entrez la limite de données en heures creuses</string>
+  <string name="setting_traffic_pkg">Définir le quota</string>
+  <string name="traffic_config_alert_title">%s correction</string>
+  <string name="traffic_config_alert_body">"Votre opérateur indique que vous avez consommé %s
+Mettre à jour vos informations de consommation ?"</string>
+  <string name="traffic_config_alert_body_normal">"
+Votre opérateur indique que vous avez consommé %1$s de vos données en heures creuses sur ce mois, ce qui diffère des %2$s que vous avez indiqué manuellement."</string>
+  <string name="traffic_config_alert_body_leisure">"
+Votre opérateur indique que vous avez consommé %1$s de vos données en heures creuses sur ce mois, ce qui diffère des %2$s que vous avez indiqué manuellement."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Votre opérateur indique qu'il vous reste %s de données en heures creuses. Vous n'avez pas défini de limite pour les heures creuses."</string>
+  <string name="datausage_purchase_title_pkglist">Acheter des données supplémentaires</string>
+  <string name="datausage_purchase_title_confirm">Détails de l\'achat</string>
+  <string name="datausage_purchase_title_order">Acheter des données supplémentaires</string>
+  <string name="datausage_purchase_banner_title">Offre d\'achat de %s (exclusive)</string>
+  <string name="datausage_purchase_view_detail">Voir les détails</string>
+  <string name="datausage_purchase_buy">Acheter</string>
+  <string name="datausage_purchase_pay_confirm">Acheter</string>
+  <string name="datausage_purchase_pay_hint">Pour annuler, composer le %s</string>
+  <string name="datausage_purchase_pay_captcha_hint">Entrez ici le code que vous avez reçu</string>
+  <string name="datausage_purchase_pay_captcha_tips">Après réception de votre code de validation, saisissez-le dans le champ et tapez \"Acheter\" pour terminer votre achat. Ce code sera valable durant 10 minutes seulement.</string>
+  <string name="datausage_purchase_get_captcha">Récupérer le code de validation(%d)</string>
+  <string name="datausage_purchase_get_captcha_again">Envoyer un nouveau code</string>
+  <string name="datausage_purchase_get_captcha_failed">"Échec de récupération du code. Vérifiez votre connexion de données et essayez à nouveau."</string>
+  <string name="datausage_purchase_confirm_tip">Votre commande:</string>
+  <string name="datausage_purchase_ordering">Achat en cours…</string>
+  <string name="datausage_purchase_result_ok">"Vous avez acheté %s
+Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\'accès"</string>
+  <string name="datausage_purchase_result_failed">"L\'achat a échoué. Contactez votre opérateur pour plus d\'informations. "</string>
+  <string name="datausage_purchase_backto_ns">Retour</string>
+  <string name="datausage_purchase_goto_monthsetting">Modifier les infos du pack</string>
+  <string name="datausage_purchase_pkglist_nodata">"Il y a un conflit entre votre pack actuel et le pack que vous souhaitez acheter.
+ Contactez votre fournisseur d\'accès pour plus d\'informations."</string>
+  <string name="datausage_purchase_pkglist_networkerror">"Pas de connexion réseau. Vérifiez votre connexion de données et essayez à nouveau."</string>
+  <string name="datausage_purchase_pkglist_servererror">Oups ! Quelque chose cloche avec votre serveur.</string>
+  <string name="traffic_saving_history_total_rate_unit">%</string>
+  <string name="add_to_whitelist_button">Gérer les exceptions</string>
+  <string name="add_white_list">Ajouter</string>
+  <string name="daily_limit_and_lock_screen">Limite de données quotidienne &amp; notifications</string>
+  <string name="daily_limit_network_available_body">Toucher pour voir les stats d\'utilisation de données.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Touchez pour activer les données mobiles.</string> 
+  <string name="daily_limit_over_message">"Vous avez dépassé votre limite de données quotidienne."</string>
+  <string name="dialog_app_roaming_message">"En itinérance, seules les applis ajoutées à la liste d\'exceptions peuvent utiliser les données. %1$s ne fait pas partie de cette liste. Voir la liste maintenant ?"</string>
+  <string name="dialog_app_roaming_title">"Itinérance désactivée pour %1$s"</string>
+  <string name="dialog_roaming_message">Les applis de la liste d\'exceptions pourront utiliser les données en itinérance. Ajouter cette application à la liste ?</string>
+  <string name="dialog_roaming_title">Itinérance</string>
+  <string name="firewall_rule_group_title_roaming">Itinérance</string>
+  <string name="five_percent_total_pkg">%s (5%% de vos données mobiles mensuelles)</string>
+  <string name="international_roaming_setting">Itinérance</string>
+  <string name="international_roaming_whitelist_count">%d applis peuvent utiliser les données en itinérance</string>
+  <string name="lock_screen_traffic_notify_body">%1$s : verrouillé pendant %2$s, %3$s utilisés</string>
+  <string name="lock_screen_warning_category">Notifications de l\'écran de verrouillage</string>
+  <string name="lock_screen_warning_switch_summary">Afficher un avertissement sur l\'écran de verrouillage lorsque la consommation de données dépasse un certain seuil</string>
+  <string name="lock_screen_warning_switch_title">Affichers les avertissements sur l\'écran de verrouillage</string>
+  <string name="lock_screen_warning_value">Seuil d\'avertissement de la consommation de données</string>
+  <string name="main_alert_message_month_limit_error">Limite de données incorrecte</string>
+  <string name="network_speed_for_apps_close">Forcer l\'arrêt</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Forcer l\'arrêt de cette application?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Impossible de forcer l'arrêt des applications système."</string>
+  <string name="network_speed_for_apps_others">Autres</string>
+  <string name="network_speed_for_apps_title">Détails sur la vitesse de connexion</string>
+  <string name="network_speed_for_apps_total">Vitesse de connexion</string>
+  <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string>
+  <string name="notify_daily_limit_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string>
+  <string name="notify_daily_limit_title">Limite de données quotidienne</string>
+  <string name="notify_month_traffic_body">%s utilisés ce mois-ci. Appuyer pour configurer</string>
+  <string name="notify_month_traffic_title">%s utilisés ce mois-ci</string>
+  <string name="notify_month_traffic_title_for_slotnum">%1$s utilisés %2$s ce mois-ci</string>
+  <string name="notify_weekly_traffic_body">Pour limiter l\'utilisation de données automatiquement, configurer votre forfait de données mensuelles.</string>
+  <string name="notify_weekly_traffic_title">%s utilisés cette semaine.</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilisés %2$s cette semaine</string>
+  <string name="notify_setting_pkg_title">Entrez une limite de données mensuelle</string>
+  <string name="operator_name_cmcc">China Mobile</string>
+  <string name="operator_name_telcom">China Telecom</string>
+  <string name="operator_name_unicom">China Unicom</string>
+  <string name="operator_number_cmcc">10086</string>
+  <string name="operator_number_telcom">10000</string>
+  <string name="operator_number_unicom">10010</string>
+  <string name="operator_setted_error_dialog_message">"La SIM utilisée provient de %1$s. C'est différent de l'emplacement spécifié manuellement (%2$s). Changer l'emplacement de la SIM pour %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Touchez pour changer l\'emplacement de la SIM.</string>
+  <string name="operator_setted_error_notify_title">Erreur de carte SIM</string>
+  <string name="pref_allow_connect_network_title">Itinérance</string>
+  <string name="pref_allow_connect_network_whitelist_title">Ajouter des exceptions</string>
+  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
+  <string name="pref_title_over_traffic_limit_warning">En dépassement</string>
+  <string name="pref_title_traffic_limit_number">Taille</string>
+  <string name="pref_whitelist_setting">Gérer les exceptions</string>
+  <string name="privacy_declare_dialog_message">"En utilisant ce service, vous acceptes les &lt;a href=%s&gt; Termes et Conditions&lt;/a&gt; d'Opera ."</string>
+  <string name="privacy_declare_dialog_title">Termes et Conditions</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Mi pour mettre à jour vos informations de consommation de données."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Mi pour mettre à jour les modèles de requêtes SMS et vérifier la disponibilité de cette fonction dans votre pays."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Mi pour obtenir plus d'informations sur l'achat de données."</string>
+  <string name="privacy_prompt_upload">Notification de confidentialité</string>
+  <string name="reach_daily_limit_value_body">Réduisez votre consommation de données.</string>
+  <string name="reach_daily_limit_value_title">Limite de conso quotidienne atteinte</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Touchez pour ouvrir l\'économiseur de données.</string>
+  <string name="roaming_not_start_body">Les applis présentes dans la liste d\'exceptions pourront utiliser les données en itinérance</string>
+  <string name="roaming_not_start_title">Itinérance</string>
+  <string name="roaming_start_body">Touchez pour voir les applications autorisées à utiliser les données en itinérance.</string>
+  <string name="roaming_start_title">Itinérance</string>
+  <string name="sc_allow_network_dialog_message">Vous devez autoriser cette appli à se connecter à internet afin qu\'elle fonctionne normalement.</string>
+  <string name="sc_allow_network_dialog_tiltle">"Ne peut utiliser l'économie de données"</string>
+  <string name="show_traffic_dialog_message">Vos informations de consommation seront affichées dans le menu de notifications. Vous pouvez configurer cette fonction à tout moment dans Consommation de données &gt; Paramètres</string>
+  <string name="show_traffic_dialog_title">Afficher l\'utilisation des données dans le menu de notification</string>
+  <string name="tc_sms_report_direction">Demander un code (SMS de contrôle à l\'opérateur)</string>
+  <string name="tc_sms_report_do_report">Envoyer</string>
+  <string name="tc_sms_report_get_default">"Les SMS envoyés pour obtenir la consommation de données courante ne seront pas facturés par votre opérateur."</string>
+  <string name="tc_sms_report_get_sms">Obtenir le SMS</string>
+  <string name="tc_sms_report_get_sms2">Obtenir un SMS</string>
+  <string name="tc_sms_report_get_sms_again">Actualiser le SMS</string>
+  <string name="tc_sms_report_get_sms_failure">"Impossible de récupérer le format du SMS"</string>
+  <string name="tc_sms_report_get_sms_successs">Format du SMS mis à jour</string>
+  <string name="tc_sms_report_get_sms_timeout">Expiration de la requête</string>
+  <string name="tc_sms_report_get_success">"Rapport d\'utilisation des données reçu. Vérifiez qu'il soit cohérent avant de nous le transmettre."</string>
+  <string name="tc_sms_report_get_success_notify_body">Vérifiez la cohérence de ce rapport et transmettez le à MIUI.</string>
+  <string name="tc_sms_report_get_success_notify_title">SMS de rapport d\'utilisation des données reçu</string>
+  <string name="tc_sms_report_geting_sms">Lecture du SMS…</string>
+  <string name="tc_sms_report_notify_correction_body">Allez dans l\'appli Moniteur réseau dans le Centre de Sécurité et essayez manuellement.</string>
+  <string name="tc_sms_report_notify_correction_failure_title">"Impossible de mettre à jour l'utilisation des données"</string>
+  <string name="tc_sms_report_notify_get_failure_body">"Impossible d'envoyer le rapport. Vérifiez votre connexion à un réseau mobile avec données."</string>
+  <string name="tc_sms_report_notify_get_failure_title">"Impossible de récupérer le rapport"</string>
+  <string name="tc_sms_report_notify_get_timeout_body">Expiration. Vérifiez auprès de votre opérateur que le code fourni par SMS est correct.</string>
+  <string name="tc_sms_report_notify_get_timeout_title">"Impossible de récupérer le rapport"</string>
+  <string name="tc_sms_report_receive_content">Contenu du rapport d\'utilisation de données (à confirmer)</string>
+  <string name="tc_sms_report_receive_num">Numéro du destinataire</string>
+  <string name="tc_sms_report_send_num">Numéro de l\'opérateur</string>
+  <string name="tc_sms_report_summary">Aidez-nous à améliorer cette fonction en envoyant un rapport si vos informations de connexion sont incorrectes ou non mises à jour</string>
+  <string name="tc_sms_report_tips_dialog_message">"La conso de données utilise un SMS spécial pour récupérer les dernières données de la part de votre opérateur. Si cette action ne fonctionne pas, essayez de mettre à jour le format du SMS. Le format mis à jour sera transmis sur nos serveurs."</string>
+  <string name="tc_sms_report_tips_dialog_title">SMS de rapport conso</string>
+  <string name="tc_sms_report_title">Soumettre un bogue de la conso de données</string>
+  <string name="tc_sms_report_toast_text">Récupération…</string>
+  <string name="tc_sms_report_upload_success">"Le SMS conso a été envoyé. Nous l'exploiterons prochainement !"</string>
+  <string name="tc_sms_report_upload_when_net">Merci pour votre retour !</string>
+  <string name="ten_percent_total_pkg">%s (10%% de vos données mobiles mensuelles)</string>
+  <string name="three_percent_total_pkg">%s (3%% de vos données mobiles mensuelles)</string>
+  <string name="timeshow_h">%.1fh</string>
+  <string name="timeshow_h_int">%dh</string>
+  <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m">%dm</string>
+  <string name="timeshow_m_s">%1$dm %2$ds</string>
+  <string name="timeshow_s">%ds</string>
+  <string name="title_limit_traffic_per_day">Limite d\'utilisation quotidienne</string>
+  <string name="traffic_config_alert_body_extra">"
+Vous avez acheté %1$s de données supplémentaires ce mois-ci. Cela diffère avec les %2$s que vous avez ajouté manuellement."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec la limite mensuelle que vous avez saisie manuellement."</string>
+  <string name="traffic_limit_error_alert_body">"Votre opérateur indique qu'il vous reste %1$s ce mois-ci. C'est plus que la limite de %2$s que vous avez saisie manuellement."</string>
+  <string name="traffic_limit_error_alert_iknow">OK</string>
+  <string name="traffic_limit_error_alert_reset">Remettre à zéro</string>
+  <string name="traffic_limit_error_alert_title">Rappel de limite conso %s</string>
+  <string name="traffic_over_purchase_body">Touchez pour voir les détails.</string>
+  <string name="traffic_over_purchase_link">"Vous avez atteint votre limite conso mobile planifiée.&lt;br/>Si vous dépassez cette limite, vous risquez des frais d'opérateur supplémentaires.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Augmenter maintenant et économiser 50%.&lt;/U>&lt;/font>"</string>
+  <string name="traffic_over_purchase_title">Limite conso dépassée</string>
+  <string name="traffic_purchase_body">Économiser 50% en augmentant maintenant.</string>
+  <string name="traffic_purchse_suggestion">Il est temps d\'augmenter les données</string>
+  <string name="traffic_setting_app_count">%d applis</string>
+  <string name="traffic_setting_completed">OK</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Ajuster le plan de données et les limites d\'utilisation</string>
+  <string name="traffic_setting_extra_pkg_summary">Ajuster le plan de données et les limites d\'utilisation</string>
+  <string name="traffic_setting_extra_pkg_title">Paramètres additionnels</string>
+  <string name="traffic_setting_extra_traffic_title">Paramètres additionnels</string>
+  <string name="traffic_setting_open">Actif</string>
+  <string name="traffic_setting_step_num">Réglage de la planification de données</string>
+  <string name="traffic_warning_purchase_title">Avertissement d\'usage des données mobiles</string>
+  <string name="notify_weekly_pkg_body">%s utilisés cette semaine. Appuyer pour définir la limite.</string>
+  <string name="tc_sms_report_receive_content_null">"Aidez-nous à améliorer cette fonction!&lt;br/>Voici comment:&lt;br/>1. Allez dans \"Vérifier le SMS de commande\" et \"Numéro du destinataire\"&lt;br/>2. Tapez \"Récupérer le modèle SMS\"&lt;br/>3. Attendez la réception du SMS par votre opérateur &lt;br/>4. Tapez \"Envoyer à MIUI\"​"</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Données mobiles utilisées lorsque l\'écran était verrouillé.</string>
+  <string name="lock_screen_traffic_guide_notification_title">%s de données mobiles utilisées</string>
+  <string name="lock_screen_traffic_purchase_textview">Acheter des données mobiles</string>
+  <string name="arrearage_exception_summary">"Votre relevé opérateur indique que vous devriez mettre à niveau votre offre"</string>
+  <string name="arrearage_exception_title">Votre solde est trop faible</string>
+  <string name="btn_finish_diagnostic">OK</string>
+  <string name="btn_start_diagnostic">Démarrer</string>
+  <string name="btn_stop_diagnostic">Arrêter</string>
+  <string name="check_network_state">Vérification de l\'état du réseau...</string>
+  <string name="choose">Sélectionner</string>
+  <string name="connect_internet_by_mobiledata">Réseau mobile</string>
+  <string name="connect_internet_by_usbshare">Internet partagé par USB</string>
+  <string name="connect_internet_by_wifi">Wi-Fi</string>
+  <string name="current_network_state_not_need_diagnose">Tout a l\'air en ordre</string>
+  <string name="disable_air_mode">Veuillez d\'abord désactiver le mode avion</string>
+  <string name="enable_network">Veuillez d\'abord  activer votre réseau mobile</string>
+  <string name="load_fail">"Chargement impossible"</string>
+  <string name="main_toolbar_internet_by_mobiledata">Réseau mobile</string>
+  <string name="main_toolbar_internet_by_pc_brige">Internet partagé par USB</string>
+  <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
+  <string name="network_diagnostics">Test réseau</string>
+  <string name="pay_charge">Acheter des données supplémentaires</string>
+  <string name="repair">Réparer</string>
+  <string name="replace_dns">Remplacement DNS auto</string>
+  <string name="restrictbackground_conflict_saving_msg">"Vous ne pouvez pas utiliser l'économiseur de données lorsque les données de fond sont restreintes. Désactiver les données et ajouter une limite d'utilisation de donnée ?</string>
+  <string name="see_detail">Détails</string>
+  <string name="unable_connect_internet">"Pas de connexion Internet"</string>
+  <string name="notify_daily_limit_title_for_slotnum">Entrez une limite quotidienne pour %s</string>
+  <string name="notify_setting_pkg_title_for_slotnum">Entrez une limite mensuelle pour %s</string>
+  <string name="signal_exception_summary">"Pas de connexion réseau dans cette zone."</string>
+  <string name="signal_exception_title">Test du signal réseau</string>
+  <string name="usbsharenet_exception_summary">"Impossible de tester le réseau partagé par Mi PC Suite."</string>
+  <string name="usbsharenet_exception_title">Test du réseau partagé par USB</string>
+  <string name="apn_exception_summary">Réinitialisez les paramètres APN.</string>
+  <string name="apn_exception_title">Test de la configuration APN</string>
+  <string name="wifi_exception_summary">Vérifiez les connexions réseau Wi-Fi disponibles.</string>
+  <string name="wifi_exception_title">Test du réseau Wi-Fi</string>
+  <string name="gateway_exception_summary">Vérifiez votre routeur et réessayez.</string>
+  <string name="gateway_exception_title">Test du routeur</string>
+  <string name="dns_exception_summary">Vérifiez les paramètres DNS du routeur.</string>
+  <string name="dns_exception_title">Test d\'accès aux serveurs DNS</string>
+  <string name="add_miservice_dialog_content">"%s requiert que vous ajoutiez le service de framework MIUI à la liste d'exceptions. Vous recevrez peut-être des notifications des applications MIUI et d'autres applications tierces."</string>
+  <string name="add_miservice_dialog_title">Service de framework MIUI</string>
+  <string name="repair_loading_text">Chargement…</string>
+  <string name="root">Accès root</string>
+  <string name="saving_conflict_dialog_cancel">Annuler</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="saving_conflict_dialog_title">Attention</string>
+  <string name="saving_conflict_restrictbackground_msg">"Vous ne pouvez pas utiliser l'économiseur de données lorsque les données de fond sont restreintes. Autorisez les données de fond et activez l'économiseur de données ?"</string>
+  <string name="firewall_network_restrict_notify_message">Appuyer pour modifier les paramètres.</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s n'est pas autorisé à se connecter à %2$s."</string>
+  <string name="traffic_correction_success_notify_message">Appuyer pour afficher les détails.</string>
+  <string name="hints_install_apps_new">Jamais utilisé</string>
+  <string name="hints_install_apps_today">Utilisé aujourd\'hui</string>
+  <string name="dialog_roaming_apps_sorted_title">Trier par</string>
+  <string name="roaming_limit_network_notification_body">Appuyer pour afficher les réseaux disponibles</string>
+  <string name="wifi_network_blocked_notification_title">Aucune connexion internet</string>
+  <string name="mian_page_primary_txt">Itinérance internationale</string>
+  <string name="network_blocked_connected_open_wifi">Connecté à un réseau publique</string>
+  <string name="network_blocked_notification_summary">Appuyer pour afficher les détails</string>
+  <string name="captive_portal_exception_title">Connecté à un réseau publique</string>
+  <string name="data_network_blocked_notification_title">Aucune connexion internet</string>
+  <string name="network_blocked_switch_wifi">Basculer les réseaux</string>
+  
+  <string name="hints_input_roaming_daily_limit">Entrer la limite d\'utilisation des données</string>
+  <string name="ip_address_exception_summary">"Impossible d\'obtenir une adresse IP. Si jamais vous rencontrez à nouveau cette erreur, essayez d\'utiliser une adresse IP statique."</string>
+  <string name="local_ip_exception_summary">"Impossible de récupérer l\'adresse IP locale. Pour notifier cette erreur à MIUI, utilisez l\'appli Rapports et transmettez un rapport à partir de votre appareil."</string>
+  <string name="network_mobile_exception_detail">"Votre appareil ne peut se connecter à internet :
+
+ 1. Assurez-vous de ne pas avoir dépassé votre quota de données mobiles.
+ 2. Si vous venez d\'augmenter votre quota, redémarrez votre appareil et essayez à nouveau.
+ 3. Le signal réseau de votre opérateur est peut-être faible dans votre localité actuelle."</string>
+  <string name="network_operator_exception_summary">"Impossible d'activer la carte SIM. Assurez-vous d'avoir inséré correctement la carte SIM et que votre quota de données est bien actif auprès de votre opérateur."</string>
+  <string name="network_permission_exception_tips">"Impossible d'utiliser les données mobiles pour se connecter au réseau"</string>
+  <string name="network_roaming_exception_tips">"Impossible d'utiliser les données mobiles en itinérance pour se connecter au réseau."</string>
+  <string name="network_route_exception_detail">"Il semble y avoir un problème avec le routeur sur lequel vous êtes connecté :
+
+"<b>"1. Problèmes sur les réseaux Wi-Fi publics
+"</b>"Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs connectés à ce réseau peut entraîner des lenteurs ou des erreurs de connexions. Sélectionnez un autre réseau et essayez à nouveau.
+ 2."<b>" Problèmes liés aux fournisseurs d'accès
+"</b>"Assurez-vous que votre abonnement est actif auprès de votre fournisseur d'accès.
+ 3."<b>" Problèmes matériels sur votre box
+"</b>"Essayez de redémarrer votre box ou consultez les réglages administrateur.
+ 4."<b>" Autres problèmes liées à la box
+"</b>"Lisez les instructions fournies avec votre box, et restaurez les réglages usine.
+ 5."<b>" Assurez-vous que votre box soit bien connectée
+"</b>"Essayez un autre câble Ethernet pour connecter votre box. Si vous estimez qu'il y a un problème avec votre connexion, contactez votre fournisseur d'accès."</string>
+  <string name="network_sim_exception_detail">"Il semble y avoir un problème avec votre carte SIM :
+
+ 1. Assurez-vous que votre abonnement est actif auprès de votre opérateur mobile. Essayez d'utiliser la carte SIM d'un ami pour vous connecter normalement.
+ 2. Si vous utilisez deux cartes SIM, essayez de basculer sur l'autre carte, et voyez si vous pouvez vous connecter normalement.
+ 3. Assurez-vous que votre carte ainsi que votre emplacement SIM ne soient pas endommagés. Vérifiez que la carte SIM est bien insérée dans son emplacement."</string>
+  <string name="open_now">Autoriser l\'appli à utiliser les données mobiles</string>
+  <string name="other_exception_summary">"Vous n'avez pas de connexion Internet"</string>
+  <string name="other_exception_title">Recherche d\'autres problèmes</string>
+  <string name="pref_roaming_daily_limit_setting">Limite quotidienne de données en itinérance</string>
+  <string name="pref_roaming_setting_gategory">Itinérance des données</string>
+  <string name="protocol_exception_title">Diagnostics réseau</string>
+  <string name="protocol_loop_back_exception_summary">Le test de boucle locale a échoué. Pour notifier cette erreur à MIUI, utilisez l\'appli Rapport et transmettez un rapport à partir de votre appareil.</string>
+  <string name="renew_ip">Réessayer</string>
+  <string name="roaming_limit_dialog_message">Limite de données en itinérance atteinte.</string>
+  <string name="roaming_limit_notification_title">Limite de données en itinérance atteinte</string>
+  <string name="roaming_limit_warning_notification_body">Touchez pour voir l\'utilisation des données.</string>
+  <string name="sim_state_exception_summary">Le contrôle SIM indique qu\'il y a un problème avec votre carte SIM.</string>
+  <string name="usbsharenet_pc_exception_summary">"Ne peut se connecter à Internet en utilisant une connexion partagée. Vérifiez la connexion à Internet de votre ordinateur."</string>
+
+  <string name="miuishare_title_more">Plus</string>
+  <string name="miuishare_title_share">Partager</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="network_connected_exception_title">Test du réseau</string>
+  <string name="network_not_available">"Pas de connexion réseau"</string>
+  <string name="networkchanged_exception_summary">La connexion réseau a été modifiée. Essayez à nouveau.</string>
+  <string name="networkchanged_exception_title">Connexion modifiée</string>
+  <string name="no_network_btn">Essayez à nouveau</string>
+  <string name="permission_exception_summary">"Certaines applis n'ont pas l'autorisation de se connecter à Internet"</string>
+  <string name="permission_exception_title">Voir les permissions réseau</string>
+  <string name="gateway_exception_summary2">"Échec de connexion au serveur"</string>
+  <string name="pref_title_diagnostics_show_float_notification">Notifications flottantes</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="emailAddressTypes">
+      <item>Domicile</item>
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisée</item>
+  </string-array>
+  <string-array name="imProtocols">
+      <item>AIM</item>
+      <item>Windows Live</item>
+      <item>Yahoo</item>
+      <item>Skype</item>
+      <item>QQ</item>
+      <item>Hangout</item>
+      <item>ICQ</item>
+      <item>Jabber</item>
+  </string-array>
+  <string-array name="organizationTypes">
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisée</item>
+  </string-array>
+  <string-array name="phoneTypes">
+      <item>Domicile</item>
+      <item>Mobile</item>
+      <item>Bureau</item>
+      <item>Télécopie bureau</item>
+      <item>Télécopie domicile</item>
+      <item>"Récepteur d\'appel"</item>
+      <item>Autre</item>
+      <item>Personnalisé</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+      <item>Domicile</item>
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisé</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+      <item>Domicile</item>
+      <item>Bureau</item>
+      <item>Autre</item>
+      <item>Personnalisé</item>
+  </string-array>
+     <string-array name="app_ops_labels">
+        <item>Essai d\'accéder à la localisation</item>
+        <item>Essai d\'accéder à la localisation</item>
+        <item>Essai d\'accéder à la localisation</item>
+        <item>Essai de vibrer</item>
+        <item>Essai d\'accès aux contacts</item>
+        <item>Essai de modifier les contacts</item>
+        <item>Essai d\'accès à l\'historique</item>
+        <item>Essai de modifier l\'historique</item>
+        <item>Essai d\'accès au calendrier</item>
+        <item>Essai de modifier le calendrier</item>
+        <item>Essai d\'accéder à la localisation</item>
+        <item>Essai d\'afficher une notification</item>
+        <item>Essai d\'accéder à la localisation</item>
+        <item>Essai de passer un appel</item>
+        <item>Essai d\'accès aux SMS</item>
+        <item>Essai de lecture/modification de SMS</item>
+        <item>Essai de réception de SMS</item>
+        <item>Essai de réception de SMS</item>
+        <item>Essai de réception de SMS</item>
+        <item>Essai de réception de SMS</item>
+        <item>Essai d\'envoi de SMS</item>
+        <item>Essai de lecture de SMS</item>
+        <item>Essai de lecture/modification de SMS</item>
+        <item>Essai de modification des paramètres</item>
+        <item>Essai de mettre au premier plan</item>
+        <item>Essai d\'accès aux notifications</item>
+        <item>Essai d\'accès à l\'appareil photo</item>
+        <item>Essai d\'enregistrement audio</item>
+        <item>Essai de lecture audio</item>
+        <item>Essai d\'accès au presse-papier</item>
+        <item>Essai de modification du presse-papier</item>
+        <item>Essai d\'utiliser les boutons médias</item>
+        <item>Essai avec le focus audio</item>
+        <item>Essai avec le volume principal</item>
+        <item>Essai avec le volume de la voix</item>
+        <item>Essai avec le volume de la sonnerie</item>
+        <item>Essai avec le volume des médias</item>
+        <item>Essai avec le volume de l\'alarme</item>
+        <item>Essai avec le volume des notifications</item>
+        <item>Essai avec le volume du Bluetooth</item>
+        <item>Essai d\'empêcher de passer en veille</item>
+        <item>Essai d\'accéder à la localisation</item>
+        <item>Essai d\'accéder à la localisation</item>
+        <item>Essai d\'activation/désactivation Wi-fi</item>
+        <item>Essai d\'activation/désactivation Bluetooth</item>
+        <item>Essai d\'activation/désactivation des données mobile</item>
+        <item>Essai d\'envoi de MMS</item>
+        <item>Essai de lecture de MMS</item>
+        <item>Essai de modification de MMS</item>
+        <item>Essai de régler au démarrage</item>
+     </string-array>
+</resources>

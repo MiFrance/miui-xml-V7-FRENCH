@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="advanced">Fonctions avancées</string>
+  <string name="app_name">Calculatrice</string>
+  <string name="basic">Panneau de base</string>
+  <string name="clear">EFF.</string>
+  <string name="clearDesc">effacer</string>
+  <string name="clear_history">Effacer l\'historique</string>
+  <string name="cos">cos</string>
+  <string name="cosDesc">cosinus</string>
+  <string name="cos_mathematical_value">cos</string>
+  <string name="del">SUPPR.</string>
+  <string name="delDesc">supprimer</string>
+  <string name="digit0">0</string>
+  <string name="digit1">1</string>
+  <string name="digit2">2</string>
+  <string name="digit3">3</string>
+  <string name="digit4">4</string>
+  <string name="digit5">5</string>
+  <string name="digit6">6</string>
+  <string name="digit7">7</string>
+  <string name="digit8">8</string>
+  <string name="digit9">9</string>
+  <string name="div">÷</string>
+  <string name="divDesc">diviser</string>
+  <string name="dot">.</string>
+  <string name="dotDesc">point</string>
+  <string name="e">E</string>
+  <string name="eDesc">"nombre d'Euler"</string>
+  <string name="e_mathematical_value">e</string>
+  <string name="enter">↓</string>
+  <string name="equal">=</string>
+  <string name="equalDesc">égal</string>
+  <string name="error">Erreur</string>
+  <string name="factorial">!</string>
+  <string name="factorialDesc">factoriel</string>
+  <string name="leftParen">(</string>
+  <string name="leftParenDesc">parenthèse gauche</string>
+  <string name="lg">log</string>
+  <string name="lgDesc">logarithme</string>
+  <string name="lg_mathematical_value">lg</string>
+  <string name="ln">ln</string>
+  <string name="lnDesc">logarithme naturel</string>
+  <string name="ln_mathematical_value">ln</string>
+  <string name="minus">−</string>
+  <string name="minusDesc">moins</string>
+  <string name="mul">×</string>
+  <string name="mulDesc">multiplier</string>
+  <string name="pi">π</string>
+  <string name="piDesc">pi</string>
+  <string name="plus">+</string>
+  <string name="plusDesc">plus</string>
+  <string name="power">^</string>
+  <string name="powerDesc">puissance</string>
+  <string name="rightParen">)</string>
+  <string name="rightParenDesc">parenthèse droite</string>
+  <string name="sin">sin</string>
+  <string name="sinDesc">sinus</string>
+  <string name="sin_mathematical_value">sin</string>
+  <string name="sqrt">√</string>
+  <string name="sqrtDesc">racine carrée</string>
+  <string name="tan">tan</string>
+  <string name="tanDesc">tangente</string>
+  <string name="tan_mathematical_value">tan</string>
+  <string name="text_copied_toast">Texte copié.</string>
+</resources>

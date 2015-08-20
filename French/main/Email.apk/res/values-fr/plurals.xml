@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+     <plurals name="move_conversation">
+        <item quantity="other">Déplacer %1$d conversations</item>
+        <item quantity="one">Déplacer la conversation</item>
+     </plurals>
+  <plurals name="draft">
+      <item quantity="other">Brouillons</item>
+      <item quantity="one">Brouillon</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation">
+      <item quantity="other">Supprimer ces %1$d conversations ?</item>
+      <item quantity="one">Supprimer cette conversation ?</item>
+  </plurals>
+  <plurals name="confirm_archive_conversation">
+      <item quantity="other">Archiver ces %1$d conversations ?</item>
+      <item quantity="one">Archiver cette conversation ?</item>
+  </plurals>
+  <plurals name="confirm_discard_drafts_conversation">
+      <item quantity="other">Supprimer les brouillons de ces %1$d conversations ?</item>
+      <item quantity="one">Supprimer les brouillons de cette conversation ?</item>
+  </plurals>
+  <plurals name="conversation_unstarred">
+      <item quantity="other">Désactivation du suivi de %1$d conversations en cours…</item>
+      <item quantity="one">Désactivation du suivi de %1$d conversation en cours…</item>
+  </plurals>
+  <plurals name="conversation_muted">
+      <item quantity="other">%1$d conversations ignorées.</item>
+      <item quantity="one">%1$d conversation ignorée.</item>
+  </plurals>
+  <plurals name="conversation_spammed">
+      <item quantity="other">%1$d conversations marquées comme spam</item>
+      <item quantity="one">%1$d conversation marquée comme spam</item>
+  </plurals>
+  <plurals name="conversation_not_spam">
+      <item quantity="other">"%1$d conversations retirées du dossier \"spam\""</item>
+      <item quantity="one">"%1$d conversation retirée du dossier \"spam\""</item>
+  </plurals>
+  <plurals name="conversation_not_important">
+      <item quantity="other">"%1$d conversations retirées du dossier \"important\""</item>
+      <item quantity="one">"%1$d conversation retirée du dossier \"important\""</item>
+  </plurals>
+  <plurals name="conversation_phished">
+      <item quantity="other">%1$d conversations signalées comme spam</item>
+      <item quantity="one">%1$d conversation signalée comme spam</item>
+  </plurals>
+  <plurals name="conversation_archived">
+      <item quantity="other">%1$d conversations archivées</item>
+      <item quantity="one">%1$d conversation archivée</item>
+  </plurals>
+  <plurals name="conversation_deleted">
+      <item quantity="other">%1$d conversations supprimées</item>
+      <item quantity="one">%1$d conversation supprimée</item>
+  </plurals>
+  <plurals name="conversation_folder_changed">
+      <item quantity="other">Dossiers modifiés.</item>
+      <item quantity="one">Dossier modifié.</item>
+  </plurals>
+  <plurals name="new_incoming_messages_many">
+      <item quantity="other">%1$d nouveaux messages. Afficher</item>
+      <item quantity="one">%1$d nouveau message. Afficher</item>
+  </plurals>
+  <plurals name="show_messages_read">
+      <item quantity="other">%1$d messages plus anciens</item>
+      <item quantity="one">%1$d message plus ancien</item>
+  </plurals>
+  <plurals name="actionbar_unread_messages">
+      <item quantity="other">%1$d non lus</item>
+  </plurals>
+  <plurals name="empty_folder_dialog_message">
+      <item quantity="other">%1$d messages vont être supprimés de manière définitive.</item>
+      <item quantity="one">%1$d message va être supprimé de manière définitive.</item>
+  </plurals>
+  <plurals name="move_messages">
+      <item quantity="other">Déplacer les messages</item>
+      <item quantity="one">Déplacer le message</item>
+  </plurals>
+  <plurals name="message_view_attachment_bytes">
+      <item quantity="other">%d O</item>
+      <item quantity="one">%d O</item>
+  </plurals>
+  <plurals name="message_view_attachment_kilobytes">
+      <item quantity="other">%d Ko</item>
+      <item quantity="one">%d Ko</item>
+  </plurals>
+  <plurals name="message_view_attachment_megabytes">
+      <item quantity="other">%d Mo</item>
+      <item quantity="one">%d Mo</item>
+  </plurals>
+  <plurals name="message_view_attachment_gigabytes">
+      <item quantity="other">%d Go</item>
+      <item quantity="one">%d Go</item>
+  </plurals>
+  <plurals name="contact_num_selected">
+      <item quantity="other">%d sélectionnés</item>
+      <item quantity="zero">%d sélectionné</item>
+      <item quantity="one">%d sélectionné</item>
+  </plurals>
+  <plurals name="num_selected">
+      <item quantity="other">%1$d éléments sélectionnés</item>
+      <item quantity="zero">%1$d élément sélectionné</item>
+      <item quantity="one">%1$d élément sélectionné</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation_with_sub">
+      <item quantity="other">Ces conversations sont fusionnées, êtes-vous sûr de vouloir les supprimer ?</item>
+      <item quantity="one">Cette conversation est fusionné, êtes-vous sûr de vouloir la supprimer ?</item>
+  </plurals>
+</resources>

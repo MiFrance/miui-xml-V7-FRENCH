@@ -1,0 +1,115 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Google",
+                    "url": "http://www.google.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Picasa",
+                    "url": "http://picasaweb.google.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Yahoo!",
+                    "url": "http://www.yahoo.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "MSN",
+                    "url": "http://www.msn.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Twitter",
+                    "url": "http://twitter.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Facebook",
+                    "url": "http://www.facebook.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Wikipedia",
+                    "url": "http://www.wikipedia.org/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "eBay",
+                    "url": "http://www.ebay.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "CNN",
+                    "url": "http://www.cnn.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "MIUI BBS",
+                    "url": "http://en.miui.com"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "ESPN",
+                    "url": "http://espn.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Weather Channel",
+                    "url": "http://www.weather.com/"
+                }
+            }
+        ]
+    }
+}

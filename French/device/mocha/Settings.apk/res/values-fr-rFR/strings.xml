@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="miracast_add_sink_title">Ajouter un dispositif</string>
+  <string name="miracast_airplane_mode_on">Le mode avion est actif, veuillez le désactiver pour utiliser l\'affichage sans fil.</string>
+  <string name="miracast_authentication_error">Erreur d\'authentification</string>
+  <string name="miracast_disconnect_dialog">Si vous vous déconnectez, votre connexion avec %1$s sera terminé.</string>
+  <string name="miracast_empty_list">Recherche de dispositifs d\'affichage sans fil…</string>
+  <string name="miracast_error_unknown_sink">Erreur inconnue</string>
+  <string name="miracast_error_wifi_is_off">Le Wi-Fi est désactivé</string>
+  <string name="miracast_game_mode_summary">Améliore les performances pour les jeux</string>
+  <string name="miracast_game_mode_text_off">NON</string>
+  <string name="miracast_game_mode_text_on">OUI</string>
+  <string name="miracast_game_mode_title">Mode jeu</string>
+  <string name="miracast_instructions">Diffuser des vidéos ou de la musique vers un dispositif ou écran compatible Miracast, vérifiez les normes prises en charge par vos appareils.</string>
+  <string name="miracast_is_discoverable">Visible par tous les dispositifs d\'affichage sans fil (%1$s)</string>
+  <string name="miracast_menu_add_sink">Ajouter un dispositif manuellement</string>
+  <string name="miracast_menu_title_refreshing">Actualisation…</string>
+  <string name="miracast_not_visible_to_other_devices">Non visible par d\'autres dispositifs d\'affichage sans fil</string>
+  <string name="miracast_password">Mot de passe</string>
+  <string name="miracast_pbc">Se connecter en utilisant le bouton WPS</string>
+  <string name="miracast_pin">Se connecter en utilisant un mot de passe</string>
+  <string name="miracast_remem_sink_busy">Enregistré, occupé</string>
+  <string name="miracast_remem_sink_ready_to_connect">Enregistré, prêt à se connecter</string>
+  <string name="miracast_settings">Affichage sans fil</string>
+  <string name="miracast_setup_ok">OK</string>
+  <string name="miracast_setup_stream">Diffuser</string>
+  <string name="miracast_setup_try_again">Réessayer</string>
+  <string name="miracast_show_password">Afficher le mot de passe</string>
+  <string name="miracast_ssid">Afficher le SSID</string>
+  <string name="miracast_title_disconnect">Se déconnecter ?</string>
+  <string name="miracast_use_password_button">Authentification par mot de passe</string>
+  <string name="miracast_warning_desc">Avertissement</string>
+  <string name="miracast_wps_complete">Configuration WPS réussi. Connexion au réseau…</string>
+  <string name="miracast_wps_connection_option_separator_text">OU</string>
+  <string name="miracast_wps_desc">WPS</string>
+  <string name="miracast_wps_onstart_pbc">Appuyez sur le bouton WPS de votre dispositif. Il peut être identifié par ce symbole :</string>
+  <string name="miracast_wps_setup_msg">Lancement du mode WPS…</string>
+  <string name="miracast_service_died">Connexion terminée</string>
+  <string name="miracast_service_restart">Connexion réinitialisée</string>
+  <string name="move_app_app_label">App</string>
+  <string name="move_app_data_label">Données</string>
+  <string name="move_app_dlg_text">Cela peut prendre quelques minutes. Ne retirez pas la carte SD pendant cette opération.</string>
+  <string name="move_app_free_on_device">%1$s de mémoire interne libres</string>
+  <string name="move_app_free_on_sdcard">%1$s libres sur la carte SD</string>
+  <string name="move_app_progress_to_device">Déplacement de %1$s vers la mémoire interne…</string>
+  <string name="move_app_progress_to_sdcard">Déplacement de %1$s vers la carte SD…</string>
+  <string name="move_app_to_device_dlg_title">Déplacer vers la mémoire interne ?</string>
+  <string name="move_app_to_sdcard_dlg_title">Déplacer vers la carte SD ?</string>
+  <string name="tnhwrevision_settings_list_item_title">Révision du hardware</string>
+</resources>

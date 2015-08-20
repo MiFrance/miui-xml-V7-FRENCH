@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="status_bar_toggle_ac">Ctrl d\'accès</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+  <string name="status_bar_toggle_brightness">Luminosité</string>
+  <string name="status_bar_toggle_auto_brightness">Lumin. auto</string>
+  <string name="status_bar_toggle_data">Données</string>
+  <string name="status_bar_toggle_divider">Plus</string>
+  <string name="status_bar_toggle_flight_mode">Mode avion</string>
+  <string name="status_bar_toggle_gps">GPS</string>
+  <string name="status_bar_toggle_lock">Verrouiller</string>
+  <string name="status_bar_toggle_mute">Silencieux</string>
+  <string name="status_bar_toggle_network_type">Type réseau</string>
+  <string name="status_bar_toggle_privacy_mode">Mode invité</string>
+  <string name="status_bar_toggle_reboot">Redémarrer</string>
+  <string name="status_bar_toggle_rotate">Rotation</string>
+  <string name="status_bar_toggle_screen_button">Touches</string>
+  <string name="status_bar_toggle_screenshot">Capture</string>
+  <string name="status_bar_toggle_shutdown">Éteindre</string>
+  <string name="status_bar_toggle_sync">Sync. auto</string>
+  <string name="status_bar_toggle_torch">Torche</string>
+  <string name="status_bar_toggle_vibrate">Vibreur</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_power_mode">Mode perf.</string>
+  <string name="status_bar_toggle_drive_mode">Mode voiture</string>
+  <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="status_bar_toggle_quiet_mode">NPD</string>
+  <string name="status_bar_toggle_sync_auto">Synchro automatique</string>
+  <string name="status_bar_toggle_sync_manual">Synchro manuelle</string>
+  <string name="status_bar_toggle_syncing">Synchroniser</string>
+  <string name="status_bar_toggle_paper_mode">Mode lecture</string>
+  <string name="screen_rotation_freeze_message">Rotation automatique désactivée</string>
+  <string name="screen_button_disabled_message">Touches de navigation désactivées. Vous pouvez les réactiver en appuyant sur Accueil et Marche/Arrêt simultanément</string>
+  <string name="screen_button_enabled_message">Touches de navigation activées</string>
+  <string name="alwaysUsePrompt">Mémoriser ce choix</string>
+  <string name="auto_start_warning_allow">Autoriser</string>
+  <string name="auto_start_warning_deny">Refuser</string>
+  <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement à l\'avenir?</string>
+  <string name="call_record_or">" ou "</string>
+  <string name="call_record_sample_prefix_miui">Appel</string>
+  <string name="caller_info_name_delimiter">" ou "</string>
+  <string name="copy">Copier</string>
+  <string name="cut">Couper</string>
+  <string name="fc_dialog_body">Envoyer un rapport de bogue à Mi pour une analyse ? Ce rapport peut contenir des informations personnelles. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais divulgué dans un contexte commercial.</string>
+  <string name="fc_dialog_jump_to_preview">Afficher le résumé</string>
+  <string name="first_back_long_press_message">"Maintenez appuyé le bouton Retour pour tuer le processus courant et ses services en arrière-plan.
+
+Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Boutons"</string>
+  <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
+  <string name="force_exit_message">Forcer l\'arrêt de %1$s</string>
+  <string name="force_exit_skip_message">"Ne peut fermer %1$s car requis par le système."</string>
+  <string name="global_actions_airplane_mode">Mode avion</string>
+  <string name="global_actions_reboot">Redémarrer</string>
+  <string name="global_actions_shutdown">Eteindre</string>
+  <string name="global_actions_silent_mode">Mode silencieux</string>
+  <string name="handy_mode_enter_dlg_msg">Entrez dans le mode à une main ?</string>
+  <string name="handy_mode_enter_dlg_title">Entrez dans le mode à une main</string>
+  <string name="key_btn_ok">OK</string>
+  <string name="key_btn_space">Espace</string>
+  <string name="location_usage_restricted_body">Toucher pour enlever la restriction.</string>
+  <string name="location_usage_restricted_title">Accès restreint à la localisation en arrière-plan</string>
+  <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
+  <string name="lockscreen_access_pattern_cleared">Motif désactivé</string>
+  <string name="lockscreen_access_pattern_detected">Motif terminé</string>
+  <string name="lockscreen_access_pattern_start">Motif démarré</string>
+  <string name="memory_clear_nothing_result">Aucune mémoire à libérer</string>
+  <string name="memory_clear_result">%1$sB libérés | %2$sB disponibles</string>
+  <string name="paste">Coller</string>
+  <string name="reboot_confirm_title">Votre téléphone va redémarrer.</string>
+  <string name="reboot_progress">Redémarrer…</string>
+  <string name="replace">Remplacer</string>
+
+  <string name="screen_button_notification_text">Pour les activer, appuyez simultanément sur les boutons Accueil et Allumage.</string>
+  <string name="screen_button_notification_title">Les boutons de navigation sont désactivés</string>
+  <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonctionnalité, appuyez simultanément sur les boutons Retour et Volume Haut.</string>
+  <string name="screen_on_proximity_sensor_summary">"Ne pas couvrir la zone orange de votre écran"</string>
+  <string name="screen_on_proximity_sensor_title">Empêcher les appels dans la poche</string>
+  <string name="screen_paper_mode_enter_toast">Le mode lecture est actif. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Paramètres additionnels &gt; Mode lecture.</string>
+
+  <string name="select">Sélectionner</string>
+  <string name="select_all">Sélectionner tout</string>
+  <string name="shutdown_confirm_title">Votre téléphone va s\'éteindre.</string>
+  <string name="shutdown_progress">Extinction…</string>
+  <string name="sim_added_reboot_confirm">Redémarrage</string>
+  <string name="sim_added_reboot_title">La carte SIM s\'activera après le redémarrage de votre appareil.</string>
+  <string name="softap_notifif_summary">%d connecté</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" actif</string>
+  <string name="unknown_caller">Numéro inconnu</string>
+  <string name="handy_mode_summary">Pour fermer, touchez la zone assombrie</string>
+  <string name="handy_mode_title">Mode à une main</string>
+
+  <string name="perm_send_push_dspt">Autoriser les messages push Mi</string>
+  <string name="perm_send_push_lab">Envoyer un message push</string>
+  <string name="permdesc_manageLocationPolicy">Autorise l\'appli à gérer les politiques de localisation et définir des règles spécifiques à chaque application.</string>
+  <string name="permlab_manageLocationPolicy">Gérer la politique de localisation</string>
+</resources>

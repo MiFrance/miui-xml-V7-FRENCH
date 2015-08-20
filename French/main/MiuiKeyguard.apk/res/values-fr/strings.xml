@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="default_lockscreen_unlock_hint_text">Glisser pour déverrouiller</string>
+  <string name="delete">Supprimer</string>
+  <string name="emergency_call_string">"Appel d\'urgence"</string>
+  <string name="experimental_try_string">Essayer</string>
+  <string name="experimental_validate">Valider</string>
+  <string name="experimental_validate_fail">La validation a échoué, veuillez réessayer</string>
+  <string name="experimental_validate_password">Mot de passe</string>
+  <string name="experimental_validate_progress">Validation…</string>
+  <string name="experimental_validate_thanks">Merci !</string>
+  <string name="experimental_validate_username">Identifiant Mi</string>
+  <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
+  <string name="find_device_turn_off_flight_mode">Désactiver le Mode avion</string>
+  <string name="forget_password_string">MDP oublié ?</string>
+  <string name="incorrect_pincode">Code PIN incorrect</string>
+  <string name="incorrect_pincode_remaining_attempts">Code PIN incorrect, %d tentatives restantes</string>
+  <string name="incorrect_pukcode">Code PUK incorrect</string>
+  <string name="incorrect_pukcode_remaining_attempts">Code PUK incorrect, %d tentatives restantes</string>
+  <string name="input_password_hint_text">Saisir le mot de passe</string>
+  <string name="input_pin_code">Code PIN</string>
+  <string name="input_puk_code">Code PUK</string>
+  <string name="keyguard_torch_cover_text">"Pour garder la torche allumée, appuyer sur le bouton d\'arrêt du téléphone."</string>
+  <string name="lock_screen_date">EEEE d MMMM</string>
+  <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
+  <string name="lockscreen_access_pattern_cleared">Schéma effacé.</string>
+  <string name="lockscreen_access_pattern_detected">Schéma terminé.</string>
+  <string name="lockscreen_access_pattern_start">Schéma commencé</string>
+  <string name="lockscreen_charging_msg">En charge</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues."</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
+  
+Réessayer dans %d secondes.""</string>
+  <string name="lockscreen_failed_attempts_now_wiping">"Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie."</string>
+  <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
+  <string name="lockscreen_glogin_invalid_input">"Nom d\'utilisateur ou mot de passe incorrect."</string>
+  <string name="lockscreen_glogin_password_hint">Mot de passe</string>
+  <string name="lockscreen_glogin_submit_button">Se connecter</string>
+  <string name="login_website_in_case_forget_password">Veuillez aller sur i.mi.com afin de réinitialiser votre mot de passe</string>
+  <string name="missed_call_text">Appels manqués : %d</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg" />
+  <string name="open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
+  <string name="phone_locked_string">Appareil verrouillé</string>
+  <string name="phone_locked_timeout_minutes_string">Veuillez réessayer dans %s minutes</string>
+  <string name="phone_locked_timeout_seconds_string">Veuillez réessayer dans %s secondes</string>
+  <string name="unlock_sim_string">Déverrouiller</string>
+  <string name="unlocking_sim_card">Déverrouillage de la carte SIM</string>
+  <string name="unlockscreen_low_battery">Branchez le chargeur</string>
+  <string name="unlockscreen_recharge_completed">Batterie chargée</string>
+  <string name="unlockscreen_recharging_message">Chargement %d%%</string>
+  <string name="wrong_password">Mot de passe incorrect</string>
+  <string name="click_to_enter_text">Appuyer pour l\'afficher</string>
+  <string name="confirm_pin_msg">Entrez à nouveau le code PIN</string>
+  <string name="invalid_confirm_pin_hint">"Les codes PIN ne correspondent pas"</string>
+  <string name="open_camera_hint_text">Glisser à gauche pour ouvrir l\'appareil photo</string>
+  <string name="open_remote_center_hint_text">Glisser à droite pour ouvrir le numéroteur</string>
+  <string name="unlock_string">Déverrouiller</string>
+</resources>

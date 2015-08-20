@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+    <string name="app_label">Service météo</string>
+    <string name="aqi_quality_index_break">IQA %1$s</string>
+    <string name="aqi_quality_index_dangerous">IQA %1$s</string>
+    <string name="aqi_quality_index_good">IQA %1$s</string>
+    <string name="aqi_quality_index_hazardous">IQA %1$s</string>
+    <string name="aqi_quality_index_light_pollution">IQA %1$s</string>
+    <string name="aqi_quality_index_moderate">IQA %1$s</string>
+    <string name="aqi_quality_index_pure">IQA %1$s</string>
+    <string name="aqi_quality_index_unhealthy">IQA %1$s</string>
+    <string name="view_indexes_wind_unit">km/h</string>
+    <string name="view_realtime_clear_substitution">Clair</string>
+</resources>

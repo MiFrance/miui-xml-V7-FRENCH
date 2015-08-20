@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+     <string-array name="moon_desc">
+        <item>Nouvelle Lune</item>
+        <item>Premier croissant</item>
+        <item>Premier quartier</item>
+        <item>Lune gibbeuse croissante</item>
+        <item>Pleine lune</item>
+        <item>Lune gibbeuse décroissante</item>
+        <item>Dernier quartier</item>
+        <item>Dernier croissant</item>
+        <item>Lune noire</item>
+     </string-array>
+</resources>

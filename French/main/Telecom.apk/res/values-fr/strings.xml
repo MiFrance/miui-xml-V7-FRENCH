@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources>
+    <string name="telecommAppLabel">"Téléphone"</string>
+    <string name="unknown">"Inconnu"</string>
+    <string name="notification_missedCallTitle">"Appel manqué"</string>
+    <string name="notification_missedCallsTitle">"Appels manqués"</string>
+    <string name="notification_missedCallsMsg">"%s appels manqués"</string>
+    <string name="notification_missedCallTicker">"Appel manqué de %s"</string>
+    <string name="notification_missedCall_call_back">"Rappeler"</string>
+    <string name="notification_missedCall_message">"Message"</string>
+    <string name="accessibility_call_muted">"Son coupé"</string>
+    <string name="accessibility_speakerphone_enabled">"Haut-parleur activé"</string>
+    <string name="respond_via_sms_canned_response_1">"Peux pas parler. Quoi de neuf ?"</string>
+    <string name="respond_via_sms_canned_response_2">"Je te rappelle tout de suite."</string>
+    <string name="respond_via_sms_canned_response_3">"Je t\'appellerai plus tard."</string>
+    <string name="respond_via_sms_canned_response_4">"Peux pas parler. On se rappelle ?"</string>
+    <string name="respond_via_sms_setting_title">"Réponses rapides"</string>
+    <string name="respond_via_sms_setting_title_2">"Modifier les réponses rapides"</string>
+    <string name="respond_via_sms_edittext_dialog_title">"Réponse rapide"</string>
+    <string name="respond_via_sms_confirmation_format">"Message envoyé à %s."</string>
+    <string name="outgoing_call_not_allowed">"Le propriétaire de l\'appareil n\'autorise que les appels d\'urgence."</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">"Pour émettre un appel, veuillez saisir un numéro valide."</string>
+    <string name="duplicate_video_call_not_allowed">"Impossible d\'ajouter un appel pour le moment."</string>
+    <string name="no_vm_number">"Numéro de messagerie vocale manquant"</string>
+    <string name="no_vm_number_msg">"Aucun numéro de messagerie vocale n\'est enregistré sur la carte SIM."</string>
+    <string name="add_vm_number_str">"Ajouter un numéro"</string>
+    <string name="respond_via_sms_menu_reset_default_activity">"Rétablir application par défaut"</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Veuillez désactiver le mode TTY pour passer des appels vidéo.</string>
+    <string name="select_account_dialog_title">Sélectionner un compte</string>
+    <string name="incall_error_call_failed">Impossible d\'émettre l\'appel.</string>
+
+<!-- à traduire
+     <string name="headset_plugin_view_text">Headset is plugged in.</string>
+     <string name="headset_plugin_view_title">Headset</string>
+     <string name="voice_report_incoming_call">Calling</string>
+     <string name="voice_report_unknown_num">Unknown number</string>
+-->
+</resources>

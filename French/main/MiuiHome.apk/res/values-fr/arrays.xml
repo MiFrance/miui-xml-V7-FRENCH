@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string-array name="transformation_entries">
+      <item>Classique</item>
+      <item>Sans rebond</item>
+      <item>Fondu</item>
+      <item>Éventail</item>
+      <item>Page</item>
+      <item>Cascade</item>
+      <item>Rotation</item>
+      <item>Cube 3D</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_entries">
+      <item>En fonction de l\'image</item>
+      <item>Centré</item>
+      <item>À gauche</item>
+      <item>À droite</item>
+  </string-array>
+  <string-array name="gadget_weather_theme_type_entries">
+      <item>Standard</item>
+      <item>Classique</item>
+  </string-array>
+  <string-array name="gadget_weather_image">
+      <item>Clair</item>
+      <item>Nuageux</item>
+      <item>Brouillard</item>
+      <item>Brumeux</item>
+      <item>Pluie torrentielle</item>
+      <item>Violent orage</item>
+      <item>Très fortes pluies</item>
+      <item>Orageux</item>
+      <item>Averses de pluie</item>
+      <item>Fortes précipitations</item>
+      <item>Pluvieux</item>
+      <item>Bruineux</item>
+      <item>Neige fondue</item>
+      <item>Tempête de neige</item>
+      <item>Plaques de neige</item>
+      <item>Chutes de neige violentes</item>
+      <item>Chutes de neige</item>
+      <item>Tempête de sable violente</item>
+      <item>Tempête de sable</item>
+      <item>Tempête de sable légère</item>
+      <item>Tempête de sable</item>
+      <item>Grêle</item>
+      <item>Vents poussiéreux</item>
+      <item>Poussières en suspension</item>
+      <item>Brouillard</item>
+  </string-array>
+  <string-array name="editing_mode_entries">
+      <item>Arranger</item>
+      <item>Widgets</item>
+      <item>Fond d\'écran</item>
+      <item>Transitions</item>
+  </string-array>
+</resources>

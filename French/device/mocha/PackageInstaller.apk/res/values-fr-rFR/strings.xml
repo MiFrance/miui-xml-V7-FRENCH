@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+  <string name="all">Permissions</string>
+  <string name="button_cancel">Annuler</string>
+  <string name="button_continue">Continuer</string>
+  <string name="button_continue_install">Installer</string>
+  <string name="button_install_lastest">Accéder à la nouvelle version</string>
+  <string name="button_install_official">Accéder à la version officielle</string>
+  <string name="button_next">Suivant</string>
+  <string name="button_remove">Supprimer</string>
+  <string name="installer_name">Source : %1$s</string>
+  <string name="main_title">Programme d\'installation d\'applications</string>
+  <string name="permission_warn_hint">L\'application recevra les permissions suivantes :</string>
+  <string name="permission_warn_title">Il peut être risqué d\'installer des applications depuis des sources non officielles.</string>
+  <string name="progress_verifying">Vérification en cours…</string>
+  <string name="update_log_default">Aucun mise à jour disponible</string>
+  <string name="update_time">%1$s le %2$s %3$s version %4$s</string>
+  <string name="update_title">Nouvelle version de %1$s disponible</string>
+  <string name="warn_message">Cette application peut compromettre la sécurité de vos données et informations personnelles</string>
+  <string name="warn_title">Application non vérifiée</string>
+</resources>

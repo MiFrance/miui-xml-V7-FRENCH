@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="ErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
+  <string name="ack_record">Enregistrement accusé de réception</string>
+  <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode avion.</string>
+  <string name="airplane_error_title">Mode avion</string>
+  <string name="app_name">Partage Bluetooth</string>
+  <string name="auth_notif_message">Saisir la clé de session de %1$s</string>
+  <string name="auth_notif_ticker">"Demande d\'authentification OBEX"</string>
+  <string name="auth_notif_title">Clé de session</string>
+  <string name="bt_enable_cancel">Annuler</string>
+  <string name="bt_enable_line1">Vous devez activer la fonction Bluetooth pour pouvoir utiliser les services Bluetooth.</string>
+  <string name="bt_enable_line2">Activer le Bluetooth maintenant ?</string>
+  <string name="bt_enable_ok">Activer</string>
+  <string name="bt_error_btn_ok">OK</string>
+  <string name="bt_share_picker_label">Bluetooth</string>
+  <string name="bt_sm_2_1">"Espace insuffisant sur la mémoire de stockage USB pour l\'enregistrement du fichier de "%1$s"."</string>
+  <string name="bt_sm_2_2">Espace nécessaire : %1$s</string>
+  <string name="bt_toast_1">"La réception du fichier va commencer. La progression va s\'afficher dans le panneau de notification."</string>
+  <string name="bt_toast_2">Impossible de recevoir le fichier.</string>
+  <string name="bt_toast_3">Réception du fichier de "%1$s" interrompue</string>
+  <string name="bt_toast_4">Envoi du fichier à "%1$s"</string>
+  <string name="bt_toast_5">Envoi de %1$s fichiers à "%2$s"</string>
+  <string name="bt_toast_6">Envoi du fichier à "%1$s" interrompu</string>
+  <string name="btopp_live_folder">Reçu par Bluetooth</string>
+  <string name="defaultname">Kit mains libres</string>
+  <string name="deleteAll_record">"Supprimer tout l\'enregistrement"</string>
+  <string name="delete_record">"Supprimer l\'enregistrement"</string>
+  <string name="download_cancel">Arrêter</string>
+  <string name="download_fail_line1">Fichier non reçu</string>
+  <string name="download_fail_line2">Fichier : %1$s</string>
+  <string name="download_fail_line3">Motif : %1$s</string>
+  <string name="download_fail_ok">OK</string>
+  <string name="download_line1">De : "%1$s"</string>
+  <string name="download_line2">Fichier : %1$s</string>
+  <string name="download_line3">Taille du fichier : %1$s</string>
+  <string name="download_line5">Réception de fichier en cours…</string>
+  <string name="download_ok">Masquer</string>
+  <string name="download_succ_line5">Fichier reçu</string>
+  <string name="download_succ_ok">Ouvrir</string>
+  <string name="download_success">Réception de %1$s terminée</string>
+  <string name="download_title">Transfert de fichier</string>
+  <string name="empty_file_notification_sent">Bluetooth : Fichier rejeté %1$s</string>
+  <string name="enabling_progress_content">Activation Bluetooth…</string>
+  <string name="enabling_progress_title">Veuillez patienter…</string>
+  <string name="inbound_history_title">Transferts entrants</string>
+  <string name="inbound_noti_title">Partage Bluetooth : fichiers reçus</string>
+  <string name="incoming_file_confirm_Notification_caption">Voulez-vous recevoir ce fichier ?</string>
+  <string name="incoming_file_confirm_Notification_title">Partage Bluetooth : réception de fichier</string>
+  <string name="incoming_file_confirm_cancel">Refuser</string>
+  <string name="incoming_file_confirm_content">"%1$s" souhaite vous envoyer %2$s (%3$s). \n\n Accepter le fichier ?</string>
+  <string name="incoming_file_confirm_ok">Accepter</string>
+  <string name="incoming_file_confirm_timeout_content">Expiration du délai de réception du fichier de "%1$s"</string>
+  <string name="incoming_file_confirm_timeout_ok">OK</string>
+  <string name="incoming_file_confirm_title">Transfert de fichier</string>
+  <string name="incoming_file_toast_msg">"Fichier entrant provenant d\'un autre appareil. Confirmez que vous souhaitez recevoir ce fichier."</string>
+  <string name="insert_record">"Insérer l\'enregistrement"</string>
+  <string name="localPhoneName">Mon nom</string>
+  <string name="miui_transfer_history_title">Historique de transfert Bluetooth</string>
+  <string name="miui_transfer_inbound_title">Entrant</string>
+  <string name="miui_transfer_outbound_title">Sortant</string>
+  <string name="no_transfers">L\'historique des transferts est vide.</string>
+  <string name="not_exist_file">Aucun fichier</string>
+  <string name="not_exist_file_desc">Le fichier n\'existe pas. \n</string>
+  <string name="noti_caption">Réussite : %1$s, échec : %2$s</string>
+  <string name="notification_received">Partage Bluetooth : %1$s reçu</string>
+  <string name="notification_received_fail">Partage Bluetooth : fichier %1$s non reçu</string>
+  <string name="notification_receiving">Partage Bluetooth : réception de %1$s</string>
+  <string name="notification_sending">Partage Bluetooth : envoi de %1$s</string>
+  <string name="notification_sent">Partage Bluetooth : %1$s envoyé</string>
+  <string name="notification_sent_complete">100 % effectués</string>
+  <string name="notification_sent_fail">Partage Bluetooth : fichier %1$s non envoyé</string>
+  <string name="notify_device_lose_connection_text">%1$s a perdu la connexion depuis un moment, cliquez pour supprimer le lien.</string>
+  <string name="notify_device_lose_connection_title">L\'appareil %1$s a perdu la connexion</string>
+  <string name="notify_server">Avertir le serveur TCP</string>
+  <string name="ok_button">OK</string>
+  <string name="outbound_history_title">Transferts sortants</string>
+  <string name="outbound_noti_title">Partage Bluetooth : fichiers envoyés</string>
+  <string name="pbap_acceptance_timeout_message">Délai d\'acceptation de la connexion à %1$s écoulé</string>
+  <string name="pbap_authentication_timeout_message">"Délai d\'attente dépassé pour la saisie de la clé de session avec "%1$s""</string>
+  <string name="pbap_session_key_dialog_header">Clé de session Bluetooth requise</string>
+  <string name="pbap_session_key_dialog_title">Saisir la clé de session de %1$s</string>
+  <string name="permdesc_bluetoothShareManager">"Permet à l\'application d\'accéder au gestionnaire BluetoothShare et de l\'utiliser pour le transfert de fichiers."</string>
+  <string name="permdesc_bluetoothWhitelist">"Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire."</string>
+  <string name="permdesc_handoverStatus">"Permet la réception d\'informations concernant l\'état du transfert via Bluetooth."</string>
+  <string name="permlab_bluetoothShareManager">accéder au gestionnaire de téléchargement</string>
+  <string name="permlab_bluetoothWhitelist">ajouter des appareils Bluetooth à la liste blanche.</string>
+  <string name="permlab_handoverStatus">recevoir des messages concernant les transferts Bluetooth</string>
+  <string name="start_server">Démarrer le serveur TCP</string>
+  <string name="status_canceled">"Le transfert a été annulé par l\'utilisateur."</string>
+  <string name="status_connection_error">Échec de la connexion.</string>
+  <string name="status_file_error">Problème de mémoire.</string>
+  <string name="status_forbidden">"L\'appareil cible n\'autorise pas le transfert."</string>
+  <string name="status_no_sd_card">Aucune mémoire de stockage USB</string>
+  <string name="status_not_accept">"Le contenu n\'est pas compatible."</string>
+  <string name="status_pending">"Le transfert de fichier n\'a pas encore commencé."</string>
+  <string name="status_protocol_error">Impossible de traiter la demande correctement.</string>
+  <string name="status_running">Le transfert de fichier est en cours.</string>
+  <string name="status_success">"Le transfert de fichiers s\'est déroulé correctement."</string>
+  <string name="status_unknown_error">Erreur inconnue.</string>
+  <string name="transfer_clear_dlg_msg">Tous les éléments de la liste seront effacés.</string>
+  <string name="transfer_clear_dlg_title">Effacer</string>
+  <string name="transfer_menu_clear">Effacer de la liste</string>
+  <string name="transfer_menu_clear_all">Effacer la liste</string>
+  <string name="transfer_menu_open">Ouvrir</string>
+  <string name="unbind_device_alert_cancel">Annuler</string>
+  <string name="unbind_device_alert_content">L\'appareil %1$s a perdu la connexion depuis un long moment, et supprimer le lien améliorera les performances. Souhaitez-vous supprimer le lien maintenant ?</string>
+  <string name="unbind_device_alert_ok">OK</string>
+  <string name="unbind_device_alert_title">Supprimer le lien à un appareil</string>
+  <string name="unknownName">Nom inconnu</string>
+  <string name="unknownNumber">Inconnu</string>
+  <string name="unknown_device">Périphérique inconnu</string>
+  <string name="unknown_file">Fichier inconnu</string>
+  <string name="unknown_file_desc">Aucune application ne permet de gérer ce type de fichier. \n</string>
+  <string name="update_record">"Confirmer l\'enregistrement"</string>
+  <string name="upload_fail_cancel">Fermer</string>
+  <string name="upload_fail_line1">"Le fichier n\'a pas été envoyé à %1$s."</string>
+  <string name="upload_fail_line1_2">Fichier : %1$s</string>
+  <string name="upload_fail_ok">Réessayer</string>
+  <string name="upload_line1">À : "%1$s"</string>
+  <string name="upload_line3">Type de fichier : %1$s (%2$s)</string>
+  <string name="upload_line5">Envoi de fichier en cours…</string>
+  <string name="upload_succ_line5">Fichier envoyé</string>
+  <string name="upload_succ_ok">OK</string>
+  <string name="upload_success">Envoi de %1$s terminé</string>
+  <string name="ble_device_address">Adresse MAC de l\'appareil BLE</string>
+  <string name="ble_device_profile_header_title">Réglages</string>
+  <string name="ble_device_profile_title">Appareil BLE connecté</string>
+  <string name="ble_device_profile">Profil de l\'appareil Bluetooth</string>
+  <string name="ble_device_rename">Renommer</string>
+  <string name="bluetooth_preference_connected_devices">Appareils connectés</string>
+  <string name="bluetooth_preference_found_devices">Appareils détectés</string>
+  <string name="bluetooth_preference_scan_title">Recherche d\'appareils</string>
+  <string name="bluetooth_search_for_devices">Actualiser</string>
+  <string name="device_picker">Sélectionner un appareil Bluetooth</string>
+  <string name="disconnect">Déconnecter</string>
+  <string name="mi_band_vibrate_alarm">Vibrer lors de l\'alarme</string>
+  <string name="mi_band_vibrate_incall">Vibrer en sonnant</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Vibrer en sonnant pour les appels d\'un contact</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Vibrer en sonnant pour les appels inconnus</string>
+  <string name="mi_band_vibrate_sms">Vibrer à la réception d\'un SMS</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Vibrer à la réception d\'un SMS d\'un contact</string>
+  <string name="mi_band_vibrate_sms_no_contacts">Vibrer à la réception d\'un SMS inconnu</string>
+  <string name="mi_key_alert_dialog_message">Touchez OK pour éteindre l\'alarme.</string>
+  <string name="mi_key_alert_dialog_title">Alerte Mi-Key</string>
+  <string name="mi_key_find_mikey">Trouver votre Mi-Key</string>
+  <string name="mi_key_find_phone">Trouver l\'appareil</string>
+  <string name="mi_key_take_photo">Prendre une photo</string>
+  <string name="progress_scanning">Recherche…</string>
+  <string name="ble_device_unbind">Effacer les paramètres</string>
+  <string name="airplane_can_not_share">"Le Bluetooth n'est pas disponible en mode avion"</string>
+  <string name="bluetooth_in_airplane_mode">Mode avion actif</string>
+  <string name="notify_need_on_BT_before_retry">Le Bluetooth est inactif. Veuillez l\'activer avant d\'essayer un nouvel envoi</string>
+  <string name="panu_disconnect_while_wifi_connected">Partage Bluetooth déconnecté</string>
+  <string name="panu_no_need_connect">Impossible d\'utiliser le partage Bluetooth en étant connecté au Wi-Fi</string>
+  <string name="sim_selected_dialog_title">Sélectionner la SIM</string>
+  <string name="suggested">Suggéré(s)</string>
+  <string name="too_much_file_sent">%1$s fichiers max à la fois</string>
+  <string name="upload_fail_waiting">L\'envoi de fichier(s) est en préparation, la transmission sera effectuée automatiquement par la suite</string>
+  <string name="incoming_line1">Expéditeur</string>
+  <string name="incoming_line2">Nom de fichier</string>
+  <string name="incoming_line3">Taille</string>
+  <string name="bluetooth_connected">Connecté</string>
+  <string name="bluetooth_connecting">Connexion…</string>
+  <string name="bluetooth_disconnected">Déconnecté</string>
+  <string name="bluetooth_disconnecting">Déconnexion…</string>
+  <string name="goto_package">Ouvrir %1$s</string>
+  <string name="install_package">Installez %1$s pour plus de fonctionnalités</string>
+  <string name="mi_key_open_camera">Ouvrir l\'appareil photo</string>
+  <string name="mi_key_summary_find_phone">Pressez et maintenez Mi-Key pour activer la sonnerie</string>
+  <string name="mi_key_summary_open_camera">Double-cliquez Mi-Key pour ouvrir l\'appareil photo</string>
+  <string name="mi_key_summary_take_photo">Cliquez Mi-Key pour prendre une photo</string>
+  <string name="reset_function_msg">Réinitialiser cette fonction peut perturber le fonctionnement de %1$s</string>
+  <string name="some_app_taking">(%1$s utilise déjà cette fonction)</string>
+  
+</resources>

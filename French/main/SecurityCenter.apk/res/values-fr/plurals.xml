@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <plurals name="power_center_battery_day">
+      <item quantity="other">"%d jours "</item>
+      <item quantity="one">"%d jour "</item>
+  </plurals>
+  <plurals name="power_center_battery_hour">
+      <item quantity="other">"%d h "</item>
+      <item quantity="one">"%d h "</item>
+  </plurals>
+  <plurals name="power_center_battery_minute">
+      <item quantity="other">"%d min "</item>
+      <item quantity="one">"%d min "</item>
+  </plurals>
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d permissions</item>
+        <item quantity="one">%d permission</item>
+     </plurals>
+     <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d applications non autorisées"</item>
+        <item quantity="one">"%d application non autorisée"</item>
+     </plurals>
+     <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d applications autorisées</item>
+        <item quantity="one">%d application autorisée</item>
+     </plurals>
+     <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d applications non autorisées"</item>
+        <item quantity="one">"%d application non autorisée"</item>
+     </plurals>
+     <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d applications autorisées</item>
+        <item quantity="one">%d application autorisée</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d applis</item>
+        <item quantity="one">%d appli</item>
+     </plurals>
+     <plurals name="summary_app_update">
+        <item quantity="other">Mises à jour disponibles pour %d applications</item>
+        <item quantity="one">Mise à jour disponible pour %d application</item>
+     </plurals>
+</resources>

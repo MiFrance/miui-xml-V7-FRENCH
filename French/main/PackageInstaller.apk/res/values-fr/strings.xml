@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="Parse_error_dlg_text">Un problème est survenu lors de l\'analyse du paquet.</string>
+  <string name="Parse_error_dlg_title">Erreur d\'analyse</string>
+  <string name="allow_source_dlg_text">"Une demande d\'installation d\'autres applications a été initiée à partir de l\'application %1$s.
+
+Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</string>
+  <string name="allow_source_dlg_title">Nouvelle source pour les applications</string>
+  <string name="app_name">Programme d\'installation du kit</string>
+  <string name="app_not_found_dlg_text">L\'application ne figure pas dans la liste des applications installées.</string>
+  <string name="app_not_found_dlg_title">Application non trouvée</string>
+  <string name="app_store_install_hint">Installer maintenant</string>
+  <string name="app_store_installing_message">Installation…</string>
+  <string name="app_store_missing_message">"Il semble que vous n\'ayez pas installé notre App Store officiel. L\'installer maintenant ?"</string>
+  <string name="app_store_missing_title">L\'App Store n\'est pas installé</string>
+  <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
+  Autoriser le démarrage automatique ?"</string>
+  <string name="caller_app">Source : %1$s</string>
+  <string name="cancel">Annuler</string>
+  <string name="dlg_app_replacement_statement">"L\'application que vous installez en remplacera une autre.
+
+Toutes les données utilisateur existantes seront sauvegardées."</string>
+  <string name="dlg_app_replacement_title">Remplacer l\'application ?</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) remplacera la version installée (%3$s). Toutes les données utilisateur existantes seront sauvegardées. 
+Voulez-vous continuer ?"</string>
+  <string name="dlg_ok">OK</string>
+  <string name="dlg_sys_app_replacement_statement">"Il s\'agit d\'une application système.
+
+Toutes les données utilisateur existantes seront sauvegardées."</string>
+  <string name="done">OK</string>
+  <string name="high_risk_perms">Autorisations à haut risque</string>
+  <string name="install">Installer</string>
+  <string name="install_confirm_question">Voulez-vous installer cette application ?</string>
+  <string name="install_done">Application installée.</string>
+  <string name="install_failed">Application non installée.</string>
+  <string name="install_failed_cpu_abi_incompatible">"Cette application n\'est pas compatible avec votre appareil."</string>
+  <string name="install_failed_file_not_found">Le package spécifié a été supprimé avant la finalisation de l\'installation.</string>
+  <string name="install_failed_inconsistent_certificates">Un package portant le même nom accompagné d\'une signature différente est déjà installé.</string>
+  <string name="install_failed_invalid_apk">Le package semble corrompu.</string>
+  <string name="install_failed_msg">Impossible d\'installer %1$s sur cet appareil.</string>
+  <string name="install_failed_older_sdk">Le package est uniquement compatible avec les dernières versions d\'Android.</string>
+  <string name="install_failed_system_incompatible">Cette appli n\'est pas compatible avec MIUI.</string>
+  <string name="install_failed_verify_failed">Impossible d\'installer le package, car il ne répond pas aux critères de validation.</string>
+  <string name="install_failed_verify_timeout">Expiration du délai lors de la tentative de validation de ce package. Veuillez le réinstaller ultérieurement.</string>
+  <string name="installing">Installation…</string>
+  <string name="launch">Ouvrir</string>
+  <string name="lift_ban">Lever l\'interdiction</string>
+  <string name="low_risk_perms">Autorisations à faible risque</string>
+  <string name="manage_applications">Gérer les applications</string>
+  <string name="manage_device_administrators">Gérer les administrateurs de l\'appareil</string>
+  <string name="ok">OK</string>
+  <string name="other_relative">Autres autorisations</string>
+  <string name="out_of_space_dlg_text">Impossible d\'installer %1$s. Veuillez libérer de l\'espace, puis réessayer.</string>
+  <string name="out_of_space_dlg_title">Mémoire insuffisante</string>
+  <string name="perm_action_accept">Accepter</string>
+  <string name="perm_action_prompt">Demander</string>
+  <string name="perm_action_reject">Refuser</string>
+  <string name="perm_notice">Alerte de sécurité</string>
+  <string name="perm_privacy_app_finish">Terminer</string>
+  <string name="perm_privacy_app_installed">Installation réussie !</string>
+  <string name="perm_privacy_app_launch">Ouvrir</string>
+  <string name="perm_privacy_app_trust">Faire confiance à cette application</string>
+  <string name="perm_privacy_app_trust_summary">MIUI ne surveillera pas cette application</string>
+  <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage auto</string>
+  <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
+  <string name="privacy_relative">Autorisations de confidentialité</string>
+  <string name="reboot_time">Préparation pour le redémarrage… (%1$s)</string>
+  <string name="safe_guard_support">Propulsé par %1$s</string>
+  <string name="safe_relative">Autorisations de sécurité</string>
+  <string name="security_settings_desc">Autoriser cette application à :</string>
+  <string name="settings">Paramètres</string>
+  <string name="trust_switch_dialog_msg">"MIUI ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
+  Faire confiance à cette application ?"</string>
+  <string name="uninstall_activity_text">%1$s fait partie de l\'application suivante :</string>
+  <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
+  <string name="uninstall_application_title">Désinstaller l\'application</string>
+  <string name="uninstall_confirm_question">Voulez-vous désinstaller cette application ?</string>
+  <string name="uninstall_done">Désinstallation terminée.</string>
+  <string name="uninstall_failed">Échec de la désinstallation.</string>
+  <string name="uninstall_failed_device_policy_manager">Impossible de désinstaller. Le package est un administrateur actif de l\'appareil.</string>
+  <string name="uninstall_failed_msg">Impossible de désinstaller %1$s.</string>
+  <string name="uninstall_failed_retained_app_msg">Une application personnalisée par votre opérateur ne peut être désinstallée.</string>
+  <string name="uninstall_update_text">Voulez-vous rétablir la configuration d\'usine de cette application ?</string>
+  <string name="uninstall_update_title">Désinstaller la mise à jour</string>
+  <string name="uninstalling">Désinstallation…</string>
+  <string name="unknown">Inconnu</string>
+  <string name="unknown_apps_dlg_title">Installation bloquée</string>
+  <string name="unknown_installer">Installateur inconnu</string>
+  <string name="virus_scan_clear">Supprimer</string>
+  <string name="virus_scan_install">" "<u>Poursuivre l\'installation</u>" "</string>
+  <string name="virus_scan_is_risk">Cette application présente un risque !</string>
+  <string name="virus_scan_is_virus">Cette application contient un virus, veuillez la supprimée immédiatement !</string>
+  <string name="permission_group_title_charges_related">Payant</string>
+  <string name="permission_group_title_privacy_related">Vie privée</string>
+  <string name="permission_group_title_media_related">Multimédia</string>
+  <string name="permission_group_title_settings_related">Paramètres</string>
+  <string name="permission_group_title_others">Autres</string>
+  <string name="permission_action_accept">Autoriser</string>
+  <string name="permission_action_prompt">Demander</string>
+  <string name="permission_action_reject">Refuser</string>
+  <string name="virus_scan_caller_unknown">Inconnu</string>
+  <string name="permission_send_sms_descx">Permet d\'envoyer des SMS et MMS</string>
+  <string name="dlg_appstore_notice">Récupérez cette application sur notre <u>&lt;font color=#91c727>Market&lt;/font></u> officiel</string>
+  <string name="lift_ban_once">Autoriser une fois</string>
+  <string name="unknown_apps_dlg_text">Votre téléphone ainsi que vos données personnelles sont plus vulnérables aux attaques si vous installez des applications provenant de sources inconnues. Vous reconnaissez être pleinement responsable de tout dommage ou perte de données résultant de leur utilisation. Vous pouvez désactiver cette alerte dans les Paramètres.</string>
+  <string name="activity_package_delete_confirm_title">Remarque importante</string>
+  <string name="button_text_cancel">Annuler</string>
+  <string name="button_text_delete">Supprimer</string>
+  <string name="button_text_delete_timer">Supprimer (%d)</string>
+  <string name="button_text_next_step">Suivant</string>
+  <string name="button_text_next_step_timer">Suivant (%d)</string>
+  <string name="package_delete_confirm_step_1">Supprimer %s ?</string>
+  <string name="package_delete_confirm_step_2">Supprimer cette aplication peut rendre votre système instable.</string>
+  <string name="package_delete_confirm_step_3">"Vous ne pourrez plus ouvrir cette application après l'avoir supprimée."</string>   
+</resources>

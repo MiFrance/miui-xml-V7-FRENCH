@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Mode par défaut</item>
+        <item>Mode Masqué</item>
+        <item>Mode Lecture</item>
+        <item>Mode Média</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Application en avant-plan</item>
+        <item>Ecran allumé</item>
+        <item>Ecran éteint</item>
+        <item>Ecran éteint depuis 10 minutes</item>
+        <item>Passer en plein écran</item>
+        <item>Quitter le plein écran</item>
+        <item>Application en arrière-plan</item>
+        <item>Le téléphone est en charge</item>
+        <item>Le téléphone n\'est pas en charge</item>
+        <item>Le téléphone est inactif</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Luminosité max de l\'écran</item>
+        <item>Fréquence max du CPU</item>
+        <item>Mode Ecran</item>
+        <item>Utilisation CPU</item>
+        <item>Données actives</item>
+        <item>Emplacement</item>
+        <item>Première notification</item>
+        <item>Notifications sur écran de verrouillage</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Aucune opération</item>
+        <item>Standard</item>
+        <item>Image</item>
+        <item>Film</item>
+        <item>Economie de batterie</item>
+        <item>Equilibré</item>
+        <item>Performance</item>
+        <item>Activer</item>
+        <item>Désactiver</item>
+    </string-array>
+</resources>

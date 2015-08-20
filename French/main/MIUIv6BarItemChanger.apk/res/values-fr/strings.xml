@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_text1">Auteur :</string>
+  <string name="about_text2">don11995</string>
+  <string name="about_text3">Concept :</string>
+  <string name="about_text4">stas2z</string>
+  <string name="about_text5">Icône :</string>
+  <string name="about_text6">DriffeX</string>
+  <string name="app_name">Gestionnaire des commutateurs</string>
+  <string name="data_access">Ctrl d\'accès</string>
+  <string name="data_airplane">Mode avion</string>
+  <string name="data_autolight">Luminosité auto</string>
+  <string name="data_block">Verrouiller</string>
+  <string name="data_bluetooth">Bluetooth</string>
+  <string name="data_buttons">Touches</string>
+  <string name="data_gps">GPS</string>
+  <string name="data_guest">Mode invité</string>
+  <string name="data_light">Torche</string>
+  <string name="data_mobile">Données</string>
+  <string name="data_rotate">Rotation</string>
+  <string name="data_screenshot">Capture</string>
+  <string name="data_silent">NPD</string>
+  <string name="data_sound">Silencieux</string>
+  <string name="data_speed">Mode performance</string>
+  <string name="data_sync">Sync. auto</string>
+  <string name="data_vibration">Vibreur</string>
+  <string name="data_wifi">Wi-Fi</string>
+  <string name="data_wifispot">Hotspot</string>
+  <string name="main_menu_about">À propos</string>
+  <string name="main_menu_howtouse">Tutoriel</string>
+  <string name="main_reset_button">Réinitialiser</string>
+  <string name="main_save_button">Enregistrer</string>
+  <string name="main_settings_question">Réinitialiser les paramètres ?</string>
+  <string name="main_settings_question_no">Non</string>
+  <string name="main_settings_question_yes">Oui</string>
+  <string name="main_settings_saved">Paramètres enregistrés</string>
+  <string name="main_header">Organisez vos commutateurs comme vous le souhaitez</string>
+  <string name="about_license">Utilisez cette application à vos risques et périls !</string>
+  <string name="howtouse_text">"1. Glissez-déposez pour organiser les commutateurs dans l\'ordre désiré.
+2. Appuyez sur \"Sauvegarder\".
+3. Profitez !"</string>
+  <string name="howtouse_text1">Utilisez \"Réinitialiser\" pour annuler les modifications.</string>
+  <string name="about_name">MIUIv6 Gestionnaire de commutateurs 1.1</string>
+  <string name="err_get_data">Erreur de lecture de la base de données</string>
+  <string name="err_init_settings">Erreur de récupération des paramètres courants</string>
+  <string name="err_reset">Erreur lors de la réinitialisation des paramètres</string>
+  <string name="err_saving">Erreur lors de la sauvegarde des paramètres</string>
+</resources>

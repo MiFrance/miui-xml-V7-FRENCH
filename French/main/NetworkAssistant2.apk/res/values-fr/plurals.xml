@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Pas de suivi sur l\'utilisation de données pour %d les applications</item>
+        <item quantity="one">Pas de suivi sur l\'utilisation de données pour %d l\'application</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Suivi d\'utilisation de données pour %d les applications</item>
+        <item quantity="one">Suivi d\'utilisation de données pour %d l\'applications</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d applications optimisées</item>
+        <item quantity="one">%d application optimisée</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d applications peuvent être optimisées</item>
+        <item quantity="one">%d application peut être optimisée</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d applications utilisent l\'économiseur de données</item>
+        <item quantity="one">%d application qui utilise l\'économiseur de données</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d applications n\'utilisent pas l\'économiseur de données</item>
+        <item quantity="one">%d application qui n\'utilise pas l\'économiseur de données</item>
+    </plurals>
+    	
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Utilisé il y a %d jours</item>
+        <item quantity="one">Utilisé hier</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d applications trouvées</item>
+        <item quantity="one">%d application trouvée</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Rechercher %d applis</item>
+        <item quantity="one">Rechercher %d appli</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d applis peuvent utiliser les données mobiles en itinérance</item>
+        <item quantity="one">%d appli peut utiliser les données mobiles en itinérance</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d applis ne peuvent utiliser les données mobiles en itinérance"</item>
+        <item quantity="one">"%d appli ne peut utiliser les données mobiles en itinérance"</item>
+    </plurals>
+</resources>

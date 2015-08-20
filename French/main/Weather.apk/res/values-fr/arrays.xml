@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string-array name="weather_type">
+      <item>Ensoleillé</item>
+      <item>Nuageux</item>
+      <item>Couvert</item>
+      <item>Brouillard</item>
+      <item>Pluie torrentielle</item>
+      <item>Averses</item>
+      <item>Pluie torrentielle</item>
+      <item>Orageux</item>
+      <item>Pluie</item>
+      <item>Fortes précipitations</item>
+      <item>Pluie modérée</item>
+      <item>Pluie légère</item>
+      <item>Pluie et neige mêlées</item>
+      <item>Blizzard</item>
+      <item>Neige</item>
+      <item>Heavy snow</item>
+      <item>Moderate snow</item>
+      <item>Light snow</item>
+      <item>Strong sandstorm</item>
+      <item>Sand storm</item>
+      <item>Sand</item>
+      <item>Windy</item>
+      <item>Grêle</item>
+      <item>Dust</item>
+      <item>Brume</item>
+      <item>Pluie verglaçante</item>
+      <item>Aucune donnée</item>
+  </string-array>
+  <string-array name="weather_indexes_uv_level">
+      <item>Très faible</item>
+      <item>Faible</item>
+      <item>Moyen</item>
+      <item>Haut</item>
+      <item>Très haut</item>
+  </string-array>
+  <string-array name="wind_direction">
+      <item>Vent N</item>
+      <item>Vent NE</item>
+      <item>Vent E</item>
+      <item>Vent SE</item>
+      <item>Vent S</item>
+      <item>Vent SO</item>
+      <item>Vent O</item>
+      <item>Vent NO</item>
+  </string-array>
+     <string-array name="moon_desc">
+        <item>Nouvelle Lune</item>
+        <item>Premier croissant</item>
+        <item>Premier quartier</item>
+        <item>Lune gibbeuse croiss.</item>
+        <item>Pleine lune</item>
+        <item>Lune gibbeuse décroiss.</item>
+        <item>Dernier quartier</item>
+        <item>Dernier croissant</item>
+        <item>Lune noire</item>
+     </string-array>
+</resources>

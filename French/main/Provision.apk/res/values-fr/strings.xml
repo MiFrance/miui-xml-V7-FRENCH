@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string name="locale_picker_confirm_dialog_desc">"Définir %s comme votre localisation ? "</string>
+  <string name="locale_picker_confirm_dialog_title">Définir votre localisation</string>
+  <string name="input_method_category">Il existe diverses méthodes de saisie, vous pouvez sélectionner celle appropriée en fonction de votre utilisation, si vous êtes novice il est recommandé d\'utiliser la méthode de saisie par défaut</string>
+  <string name="input_method_setting">Choisir la méthode de saisie</string>
+  <string name="other_settings">Autres paramètres</string>
+  <string name="other_settings_location">Localisation</string>
+  <string name="other_settings_location_summary">Permet aux applications de vous géolocaliser</string>
+  <string name="other_settings_user_experience">Programme d\'expérience utilisateur</string>
+  <string name="other_settings_user_experience_summary">"Envoyer des statistiques anonymes à Xiaomi (%s)"</string>
+  <string name="welcome">Bienvenue</string>
+  <string name="other_settings_user_experience_summary1">politique de confidentialité</string>
+  <string name="sim_card_detection">Carte SIM non détectée</string>
+  <string name="sim_card_detection_info">Une carte SIM est requise pour créer un compte Mi.</string>
+  <string name="sim_card_detecting">Détection de la carte SIM…</string>
+  <string name="next">Suivant</string>
+  <string name="sim_dectection_next">Continuer</string>
+  <string name="shut_down">Éteindre</string>
+  <string name="sim_redetection">Réessayer</string>
+  <string name="logo_congratulation">Terminé !</string>
+  <string name="congratulation_label">Et maintenant, profitez de MIUI v6 :)</string>
+  <string name="congratulation_next">Commencer à utiliser MIUI</string>
+  <string name="summary_not_set">Non défini</string>
+  <string name="summary_sim_card">SIM %1$d</string>
+  <string name="summary_sim_card_with_operator">SIM %1$d : %2$s</string>
+  <string name="multisim_settings_title">2 cartes SIM détectées</string>
+  <string name="multisim_settings_category">Paramètres cartes SIM</string>
+  <string name="pref_title_data_slot">Carte SIM pour les données</string>
+  <string name="pref_title_voice_slot">Carte SIM pour les appels</string>
+  <string name="agree">Accepter</string>
+  <string name="disagree">Annuler</string>
+  <string name="ime_privacy_policy">Politique de confidentialité du clavier sélectionné</string>
+  <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="provision_inputmethod_policy_description">"Afficher le clavier sélectionné "</string>
+  <string name="provision_inputmethod_policy_description1">Politique de confidentialité</string>
+  <string name="terms_of_use">Conditions d\'utilisation</string>
+  <string name="terms_of_service">Conditions d\'utilisation</string>
+  <string name="user_agreement">Contrat d\'utilisateur</string>
+  <string name="locale_picker_desc">Si vous souhaitez changer votre localisation plus tard, vous devrez effectuer une remise à zéro des données</string>
+  <string name="locale_picker_title">Sélectionnez un pays</string>
+  <string name="setting_locale">Application des paramètres de localisation...</string>
+  <string name="terms_of_use_label">Veuillez consulter et accepter le contrat d\'utilisateur et la politique de confidentialité avant d\'utiliser MIUI.</string>
+  <string name="ime_privacy_policy_no_network">"Aucune connexion réseau. Consultez la politique de confidentialité pour ce clavier sur %s."</string>
+  <string name="network_access_warning">Une connexion réseau est requise pour activer cet appareil</string>
+  <string name="miui_privacy_policy_no_network">Aucune connexion réseau. Consultez la politique de confidentialité sur %s</string>
+  <string name="miui_terms_no_network">Aucune connexion réseau. Consultez les conditions d\'utilisation sur %s</string>
+  <string name="install_preinstall_app">Chargement…</string>
+  <string name="page_layout_label">Ajustez la taille du texte et la mise en place pour votre écran d\'accueil, menu de notifications, clavier numérique, et plus.</string>
+  <string name="page_layout_title">Mise en place système</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Redémarrer</string>
+  <string name="title_congratulation">"Tout est fin prêt !"</string>
+  <string name="sim_card_detecting_title">Détection de la carte SIM</string>
+  <string name="skip_underline"><u>Passer cette étape</u></string> 
+</resources>

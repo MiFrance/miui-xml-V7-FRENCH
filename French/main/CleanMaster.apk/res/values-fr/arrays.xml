@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Taille</item>
+        <item>Nom</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Taille</item>
+        <item>Nom</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Fréquence d\'utilisation</item>
+        <item>Taille</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Tous les jours</item>
+        <item>Tous les 3 jours</item>
+        <item>Tous les 7 jours</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100Mo</item>
+        <item>300Mo</item>
+        <item>500Mo</item>
+        <item>1Go</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Demander avec une notification</item>
+        <item>Nettoyer en arrière-plan</item>
+        <item>Afficher une notification après le nettoyage</item>
+    </string-array>
+</resources>

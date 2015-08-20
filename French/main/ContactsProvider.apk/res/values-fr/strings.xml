@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+<resources>
+  <string name="app_label">Liste des contacts</string>
+  <string name="call_log_provider_label">Journal d\'appels</string>
+  <string name="create_contact">Nouveau contact</string>
+  <string name="debug_dump_database_message">Vous êtes sur le point de 1) faire une copie votre base de données qui comprend toutes les informations relatives à vos contacts et le journal d\'appels  2) l\'envoyer par e-mail. Rappelez-vous de la supprimer après l\'avoir copié hors de l\'appareil ou que le e-mail est reçu</string>
+  <string name="debug_dump_delete_button">Supprimer</string>
+  <string name="debug_dump_email_body">En pièce jointe tous les éléments de mes contacts. Merci de ne pas diffuser ces informations sensibles.</string>
+  <string name="debug_dump_email_sender_picker">Sélectionnez un programme pour envoyer votre fichier</string>
+  <string name="debug_dump_email_subject">Base de données des contacts en pièce-jointe</string>
+  <string name="debug_dump_start_button">Démarrer</string>
+  <string name="debug_dump_title">Copier la base de données des contacts</string>
+  <string name="default_directory">Contacts</string>
+  <string name="edit_contact">Ajouter au contact</string>
+  <string name="local_invisible_directory">Autre</string>
+  <string name="pound_search_tip">Entrez un numéro après "#" pour le rechercher</string>
+  <string name="provider_label">Contacts</string>
+  <string name="read_write_all_voicemail_description">"Permet à l'application de stocker et de récupérer tous les messages vocaux auxquels cet appareil peut accéder."</string>
+  <string name="read_write_all_voicemail_label">Accéder à tous les messages vocaux</string>
+  <string name="send_sms">Envoyer un message</string>
+  <string name="sharedUserLabel">Applications de base Android</string>
+  <string name="third_party_delete_contact_info">"%s\" supprime vos contacts Xiaomi, préférez l\'application système Contacts pour une sécurité accrue.</string>
+  <string name="upgrade_msg">Mise à jour de la base de données des contacts en cours…</string>
+  <string name="upgrade_out_of_memory_notification_text">Appuyez pour terminer la mise à jour.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">La mise à jour des contacts requiert plus de mémoire.</string>
+  <string name="upgrade_out_of_memory_notification_title">Mise à jour du stockage des contacts</string>
+  <string name="voicemail_from_column">"Message vocal de "</string>
+  <string name="search_the_yellowpage">Chercher dans cet annuaire</string>
+</resources>

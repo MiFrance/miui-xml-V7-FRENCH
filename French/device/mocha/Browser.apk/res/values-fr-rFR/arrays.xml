@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <string-array name="pre_webapp_text_sizes">
+      <item>Énorme</item>
+      <item>Grande</item>
+      <item>Normale</item>
+      <item>Petite</item>
+  </string-array>
+  <string-array name="pref_content_plugins_choices">
+      <item>Toujours activés</item>
+      <item>À la demande</item>
+      <item>Désactivés</item>
+  </string-array>
+  <string-array name="pref_homepage_choices">
+      <item>Page de démarrage par défaut</item>
+      <item>Personnalisée</item>
+  </string-array>
+  <string-array name="pref_text_size_choices">
+      <item>Minuscule</item>
+      <item>Petit</item>
+      <item>Standard</item>
+      <item>Grand</item>
+      <item>Énorme</item>
+  </string-array>
+  <string-array name="pref_default_zoom_choices">
+      <item>Lointain</item>
+      <item>Moyen</item>
+      <item>Rapproché</item>
+  </string-array>
+  <string-array name="pref_development_ua_choices">
+      <item>Android</item>
+      <item>Ordinateur de bureau</item>
+      <item>iPhone</item>
+      <item>iPad</item>
+      <item>Froyo-N1</item>
+      <item>Honeycomb-Xoom</item>
+  </string-array>
+  <string-array name="pref_data_preload_choices">
+      <item>"Jamais "</item>
+      <item>"Uniquement sur une connexion Wi-Fi "</item>
+      <item>"Toujours "</item>
+  </string-array>
+  <string-array name="pref_link_prefetch_choices">
+      <item>"Jamais "</item>
+      <item>"Uniquement sur une connexion Wi-Fi "</item>
+      <item>"Toujours "</item>
+  </string-array>
+  <string-array name="pref_video_preload_choices">
+      <item>"Jamais "</item>
+      <item>"Uniquement sur une connexion Wi-Fi "</item>
+      <item>"Toujours "</item>
+  </string-array>
+  <string-array name="pref_ua_choices">
+      <item>Par défaut</item>
+      <item>iPad</item>
+      <item>Ordinateur de bureau</item>
+  </string-array>
+  <string-array name="pref_volume_key_choices">
+      <item>Page haut/bas</item>
+      <item>Changer d\'onglet</item>
+  </string-array>
+  <string-array name="pref_fling_on_border_choices">
+      <item>Page avant/arrière</item>
+      <item>Changer d\'onglet</item>
+  </string-array>
+  <string-array name="pref_images_preload_choices">
+      <item>Jamais</item>
+      <item>En Wi-Fi uniquement</item>
+      <item>Toujours</item>
+  </string-array>
+  <string-array name="pref_default_text_encoding_choices">
+      <item>Latin-1 (ISO-8859-1)</item>
+      <item>Unicode (utf-8)</item>
+      <item>Chinois (GBK)</item>
+      <item>Chinois (Big5)</item>
+      <item>Japonais (ISO-2022-JP)</item>
+      <item>Japonais (SHIFT_JIS)</item>
+      <item>Japonais (EUC-JP)</item>
+      <item>Coréen (EUC-KR)</item>
+  </string-array>
+  <string-array name="menu_theme_setting">
+      <item>Blanc</item>
+      <item>Jaune</item>
+      <item>Noir</item>
+  </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+  <plurals name="search_results_title">
+      <item quantity="other">%1$s résultats pour \"%2$s\"</item>
+      <item quantity="one">%1$s résultats pour \"%2$s\"</item>
+  </plurals>
+  <plurals name="note_count_in_folder">
+    <item quantity="other">%1$s notes</item>
+    <item quantity="one">1 note</item>
+  </plurals>
+  <plurals name="folder_terms">
+    <item quantity="other">%1$s dossiers</item>
+    <item quantity="one">%1$s dossier</item>
+  </plurals>
+  <plurals name="cloud_state_unsynced_count">
+    <item quantity="other">"%1$s n'ont pas été synchronisé"</item>
+    <item quantity="one">"%1$s n'a pas été synchronisé"</item>
+  </plurals>
+  <plurals name="note_terms">
+    <item quantity="other">%1$s notes</item>
+    <item quantity="one">%1$s note</item>
+  </plurals>
+</resources>
