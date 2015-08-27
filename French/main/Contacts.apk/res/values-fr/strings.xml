@@ -219,7 +219,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="contact_detail_miprofile_subtitle">Fiches déjà échangées</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Impossible de se connecter au réseau"</string>
   <string name="contact_detail_profile_switch_fail_toast">Une erreur est survenue sur notre serveur</string>
-  <string name="contact_detail_profile_switch_off">Les fiches de contact sont désactivées</string>
+  <string name="contact_detail_profile_switch_off">Désactiver les fiches de contact</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"Impossible de désactiver les fiches de contact"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Fiches de contact désactivées</string>
   <string name="contact_detail_profile_switch_on">"Afficher le profil photo du contact"</string>
@@ -490,7 +490,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="importing_vcard_description">Importation de %s…</string>
   <string name="importing_vcard_finished_title">Carte de visite %s importée</string>
   <string name="in_call_show">Vidéo</string>
-  <string name="in_call_show_camera_open_error">Une erreur s\'est produite lors de l\'ouverture de la caméra, s\'il vous plaît réessayer</string>
+  <string name="in_call_show_camera_open_error">"Echec d'ouverture de l'appareil photo"</string>
   <string name="in_call_show_delete_message">Supprimer votre vidéo ?</string>
   <string name="in_call_show_delete_title">Supprimer votre vidéo ?</string>
   <string name="in_call_show_demo_present">Aperçu</string>
@@ -509,7 +509,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="in_call_show_too_short">Trop court. Essayez d\'enregistrer une vidéo plus longue.</string>
   <string name="in_call_show_video_pick">Choisissez la vidéo</string>
   <string name="in_call_show_video_pick_filter">"La vidéo doit être inférieure à 3 Mo et inférieure à 20 secondes. "</string>
-  <string name="in_call_show_view_play_error">Une erreur s\'est produite lors de la lecture de la vidéo, s\'il vous plaît réessayer</string>
+  <string name="in_call_show_view_play_error">"Echec de lecture de la vidéo"</string>
   <string name="insertContactDescription">Créer un contact</string>
   <string name="insertGroupDescription">Créer un groupe</string>
   <string name="invalidContactMessage">"Le contact n'existe pas."</string>

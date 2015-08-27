@@ -134,7 +134,7 @@
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
   <string name="context_menu_contact">Contact : %1$s</string>
-  <string name="context_menu_add_calendar">Afficher dans le calendrier</string>
+  <string name="context_menu_add_calendar">Ajouter au calendrier</string>
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse papier</string>
   <string name="context_menu_new_contact">Nouveau contact</string>
@@ -224,8 +224,8 @@
   <string name="invalid_recipient_message">Veuillez corriger le nom du ou des destinataires, sinon ils ne recevront pas le message.</string>
   <string name="kilobyte">Ko</string>
   <string name="layout_selector_title">"Mise en page du diaporama "</string>
-  <string name="loading_all_messages">Chargement de tous les messages…</string>
-  <string name="loading_conversations">Chargement des conversations…</string>
+  <string name="loading_all_messages">Un instant…</string>
+  <string name="loading_conversations">Un instant…</string>
   <string name="loading_mms">Un instant…</string>
   <string name="me">Moi</string>
   <string name="menu_compose_new">Nouveau message</string>

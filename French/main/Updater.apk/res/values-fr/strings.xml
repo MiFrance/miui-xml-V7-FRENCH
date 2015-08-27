@@ -236,6 +236,6 @@ Impossible de soumettre le rapport"</string>
   <string name="welcom_title">Bienvenue sur MIUI 7</string>
   <string name="download_success_reboot_immediately">Redémarrer pour appliquer la mise à jour</string>
   <string name="notification_auto_reboot_seccess_title">Appareil mis à jour automatiquement</string>
-  <string name="update_success_reboot_immediately">Appareil mis à jour</string>
+  <string name="update_success_reboot_immediately">Mise à jour téléchargée</string>
   <string name="updater_wait_for_unzip">Décompression de la mise à jour…</string>
 </resources>

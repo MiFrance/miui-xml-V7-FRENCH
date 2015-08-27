@@ -118,6 +118,8 @@
   <string name="cannot_send_message_reason">Votre message n\'a pas de destinataire valide</string>
   <string name="cant_delete_cloud_album">Impossible de supprimer %s, ce dernier est un album système ou est partagé par d\'autres personnes.</string>
   <string name="cant_delete_system_album">Impossible de supprimer %s, ce dernier est un album système ou est partagé par d\'autres personnes.</string>
+  <string name="change_to_face_mode">Basculer en mode visage</string>
+  <string name="change_to_photo_mode">Basculer en mode photo</string>
   <string name="choose_baby_sexy">Genre</string>
   <string name="cleaning_cache">Nettoyage du cache…</string>
   <string name="clear_thumbnail_cache">Effacer le cache des miniatures</string>
@@ -342,6 +344,7 @@
   <string name="operation_in_process">Traitement en cours…</string>
   <string name="operation_refresh">Actualiser</string>
   <string name="operation_rename">Renommer</string>
+  <string name="operation_rename_baby">Entre le nom du bébé</string>
   <string name="operation_set_as_screensaver">Définir comme écran de veille</string>
   <string name="operation_share">Partager</string>
   <string name="operation_successful">Partagé avec succès !</string>
@@ -639,6 +642,7 @@
   <string name="mishop">MiShop</string>
   <string name="no_such_album">Album non trouvé</string>
   <string name="not_now">Pas maintenant</string>
+  <string name="not_remind_any_more">"Ne plus me demander"</string>
   <string name="original">Original</string>
   <string name="original_scale">Échelle d\'origine</string>
   <string name="paint_crop_cancel_context">Enregistrer l\'image recadrée ?</string>
@@ -668,6 +672,7 @@
   <string name="cool_portrait">Portrait</string>
   <string name="create_baby_album">Créer un album de bébé</string>
   <string name="create_baby_album_dialog_msg">Créer un album pour \"%s\"?</string>
+  <string name="create_baby_album_later_toast">Vous pouvez aussi créer ultérieurement un album de bébé via le menu en haut à droite</string>
   <string name="create_new_face">Nouveau visage</string>
   <string name="create_quick_icon_on_desk">Créer des raccourcis</string>
   <string name="creating_baby_album">Création de l\'album…</string>

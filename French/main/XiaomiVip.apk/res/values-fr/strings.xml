@@ -2,7 +2,7 @@
 <resources>
   <string name="action">Voir</string>
   <string name="already_used">Utilisé</string>
-  <string name="app_name">XiaomiVIP</string>
+  <string name="app_name">Mi VIP</string>
   <string name="award_taken">Points collectés</string>
   <string name="award_time">Collectés sur %s</string>
   <string name="awarded_package_is_expired">Expiré</string>
@@ -18,51 +18,51 @@
   <string name="cube_ptr_refreshing">Mise à jour...</string>
   <string name="cube_ptr_release_to_refresh">Relâcher pour rafraîchir</string>
   <string name="cube_ptr_seconds_ago"> secondes</string>
-  <string name="days">%d jours</string>
-  <string name="exp_buff">+%s%% d\'expérience</string>
-  <string name="experience">Exp</string>
+  <string name="days">%dj</string>
+  <string name="exp_buff">+%s%% points</string>
+  <string name="experience">Pts</string>
   <string name="expired">Expiré</string>
   <string name="fail_reach_server">"Echec de connexion au serveur"</string>
   <string name="giveup">Abandonner</string>
   <string name="hello">Bonjour</string>
-  <string name="hours">%d heures</string>
-  <string name="in_progress">Envoi de la requête…</string>
+  <string name="hours">%dh</string>
+  <string name="in_progress">En cours…</string>
   <string name="invalid_json">Une erreur est survenue</string>
   <string name="level">Niveau</string>
-  <string name="level_detail">Limite de tâches quotidiennes: %d</string>
-  <string name="level_exp_value" formatted="false">%d/%d</string>
+  <string name="level_detail">Limite d\'objectif quotidienne: %d</string>
+  <string name="level_exp_value" formatted="false">Points : %d/%d</string>
   <string name="level_info_format" formatted="false">"Niveau %d %d/%d
 %s"</string>
   <string name="millis">%d millisecondes</string>
-  <string name="minutes">%d minutes</string>
-  <string name="my_award">Mes récompenses</string>
-  <string name="no_app">Veuillez d\'abord installer l\'application</string>
-  <string name="no_award">Aucune récompense</string>
+  <string name="minutes">%dm</string>
+  <string name="my_award">Mes prix</string>
+  <string name="no_app">Installez d\'abord l\'application</string>
+  <string name="no_award">Aucun prix</string>
   <string name="no_network">"Echec de connexion au réseau"</string>
-  <string name="no_task">Toutes les tâches ont été effectuées</string>
-  <string name="passive_task">Tâches d\'arrière-plan</string>
+  <string name="no_task">Tous les objectifs ont été atteints</string>
+  <string name="passive_task">Objectifs d\'arrière-plan</string>
   <string name="privilege">Privilèges</string>
   <string name="promote">Niveau supérieur</string>
   <string name="query_level_fail">"Ne peut récupérer l\'info"</string>
-  <string name="query_user_tasks_fail">"Ne peut récupérer l\'info de tâche"</string>
-  <string name="seconds">%d secondes</string>
+  <string name="query_user_tasks_fail">"Ne peut récupérer l\'info de l\'objectif"</string>
+  <string name="seconds">%ds</string>
   <string name="take_awarded_package">Rembourser</string>
   <string name="take_awarded_package_failed">"Echec de remboursement du cadeau. Attendez quelques minutes et essayez à nouveau."</string>
-  <string name="task">Tâches</string>
+  <string name="task">Objectifs</string>
   <string name="task_begin">En cours…</string>
   <string name="task_completed">Terminée</string>
   <string name="task_done">Effectuée</string>
-  <string name="task_limit">Pas de tâches restantes pour aujourd\'hui. A demain!</string>
+  <string name="task_limit">Aucun objectif restant pour aujourd\'hui. A demain!</string>
   <string name="task_not_completed">Non terminée</string>
   <string name="task_ongoing">En cours</string>
   <string name="task_score">%d points</string>
-  <string name="task_select_title">Choisissez une tâche</string>
+  <string name="task_select_title">Choisissez un objectif</string>
   <string name="task_start">Démarrer</string>
-  <string name="task_take_award">Obtenir des récompenses</string>
-  <string name="today_task">"Tâches du jour"</string>
+  <string name="task_take_award">Obtenir des prix</string>
+  <string name="today_task">"Objectifs du jour"</string>
   <string name="today_task_format" formatted="false">%d/%d</string>
-  <string name="unlimited_task">Tâches spéciales</string>
-  <string name="upgraded">Niv. Sup!</string>
+  <string name="unlimited_task">Objectifs spéciaux</string>
+  <string name="upgraded">Compte mis à jour!</string>
   <string name="use">Utiliser</string>
   <string name="validity">Expire le %s</string>
 </resources>
