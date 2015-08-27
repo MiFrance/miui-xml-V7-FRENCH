@@ -455,6 +455,7 @@
       <item>Albums</item>
       <item>Musique</item>
       <item>E-mail</item>
+	  <item>Vidéo</item>
   </string-array>
   <string-array name="wifi_peap_phase2_entries">
       <item>Aucun</item>

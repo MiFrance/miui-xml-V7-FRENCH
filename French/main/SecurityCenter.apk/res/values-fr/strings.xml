@@ -286,7 +286,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="activity_title_trash">Cache</string>
   <string name="system_check_content">risques : %1$d </string>
   <string name="memeory_check_content">applis : %1$d, mémoire : %2$s</string>
-  <string name="memory_check_content_none">Aucun</string>
+  <string name="memory_check_content_none">Vide</string>
   <string name="cache_check_content">applis : %1$d, cache : %2$s</string>
   <string name="system_header_title">%2$s peuvent être libérés (%1$d processus)</string>
   <string name="cache_header_title">%2$s peuvent être libérés (fichiers cache de %1$d applis)</string>

@@ -7,6 +7,7 @@
   <string name="award_time">Collectés sur %s</string>
   <string name="awarded_package_is_expired">Expiré</string>
   <string name="awarded_package_was_redeemed">Remboursé</string>
+  <string name="browse">Consulter</string>
   <string name="buff_enable">[ activé ]</string>
   <string name="cube_ptr_hours_ago"> heures</string>
   <string name="cube_ptr_last_update">dernière mise à jour: </string>

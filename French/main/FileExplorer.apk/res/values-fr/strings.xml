@@ -59,6 +59,7 @@
   <string name="decompress_to_here">Décompresser ici</string>
   <string name="delete_failed">Suppression échouée</string>
   <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
+  <string name="delete_file_error">"Impossible de supprimer le fichier"</string>
   <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$d fichiers sélectionnés ?</string>
   <string name="delete_folder">Êtes-vous sûr de vouloir supprimer ce dossier ?</string>
   <string name="delete_folders">Êtes-vous sûr de vouloir supprimer les %1$d dossiers sélectionnés ?</string>
@@ -160,6 +161,7 @@
   <string name="notification_setting">Notifications</string>
   <string name="notification_summary">"%1$s ne supporte pas encore cette fonction"</string>
   <string name="notification_title">Notifier lorsque de nouveaux fichiers sont ajoutés à %1$s</string>
+  <string name="online_not_support">"Impossible de consulter ce fichier en ligne pour le moment."</string>
   <string name="open_changed_file_message">"Le fichier que vous essayez d\'ouvrir a été modifié, vous pouvez : 
 1. Le télécharger (mettre à jour le fichier local) 
 2. L\'envoyer (mettre à jour le fichier distant)"</string>
@@ -263,6 +265,7 @@
   <string name="signin_error">Réseau actuellement indisponible, veuillez réessayer</string>
   <string name="signin_success">"Connexion réussie ! 
 %1$s d\'espace gratuit obtenus"</string>
+  <string name="smb_loading">Un instant…</string>
   <string name="space_info">Espace libre du réseau : %1$s disponible(s), total : %2$s</string>
   <string name="space_usage">Espace de stockage</string>
   <string name="start_server">Démarrer le service</string>

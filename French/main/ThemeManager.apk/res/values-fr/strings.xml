@@ -28,7 +28,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="backup_theme_progress_message">Sauvegarde du thème en cours, veuillez patienter…</string>
   <string name="backup_theme_success_message">Le thème a été sauvegardé avec succès !</string>
   <string name="change_wallpaper">Fond d\'écran</string>
-  <string name="choose_new_themes">Nouveaux Thèmes</string>
+  <string name="choose_new_themes">Thèmes</string>
   <string name="close">Fermer</string>
   <string name="component_category_finest_title">Principaux</string>
   <string name="component_category_more_title">Plus</string>
@@ -207,7 +207,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_setting">Paramètres</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
   <string name="title_component">Personnalisation du thème</string>
-  <string name="title_system_resource">Ressources locales</string>
+  <string name="title_system_resource">Téléchargés</string>
   <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Recadrer</string>
   <string name="wallpaper_decoded_error">Impossible de décoder</string>

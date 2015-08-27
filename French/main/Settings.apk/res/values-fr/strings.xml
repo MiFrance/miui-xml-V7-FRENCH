@@ -1272,7 +1272,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Activer l\'éclairage</string>
   <string name="pref_button_light_summary">Éclaire les touches Menu, Accueil et Retour</string>
-  <string name="pref_edge_handgrip">Edge handgrip</string>
+  <string name="pref_edge_handgrip">Contrôles latéraux</string>
   <string name="pref_operational_key">Touches opérationnelles</string>
   <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
@@ -2560,7 +2560,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="select_runtime_warning_message">"Redémarrer pour remplacer le moteur d'exécution %1$s par %2$s ?"</string>
   <string name="services_subtitle">Services</string>
   <string name="set_password_action">Définir un mot de passe</string>
-  <string name="set_password_message">Définissez un mot de passe pour désactiver le contrôle parental ainsi que pour déverrouiller cet appareil</string>
+  <string name="set_password_message">Définissez un mot de passe pour désactiver le contrôle parental ainsi que pour déverrouiller cet appareil.</string>
   <string name="set_password_title">Définir un mot de passe</string>
   <string name="sms_application_title">Application SMS par défaut</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utiliser %s au lieu de %s comme application SMS ?</string>
@@ -2605,8 +2605,8 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="checking_for_updates">Vérification de la disponibilité de mises à jour…</string>
   <string name="children_mode_enable_title">Contrôle parental</string>
   <string name="children_mode_set_apps_title">Applications accessible</string>
-  <string name="children_mode_tips_off">Après avoir activé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil</string>
-  <string name="children_mode_tips_on">Après avoir désactivé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil</string>
+  <string name="children_mode_tips_off">Après avoir activé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil.</string>
+  <string name="children_mode_tips_on">Après avoir désactivé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil.</string>
   <string name="children_mode_title">Contrôle parental</string>
   <string name="choose_smartcover_type">Choisissez le type de protection d\'écran</string>
   <string name="confirm_download_cancelation_dialog_message">Annuler le téléchargement ?</string>
