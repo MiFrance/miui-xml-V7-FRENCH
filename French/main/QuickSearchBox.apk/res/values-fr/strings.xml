@@ -54,10 +54,10 @@
   <string name="search_sources">Sources</string>
   <string name="search_sources_summary">Sélection des sources à explorer sur l\'appareil lors d\'une recherche</string>
   <string name="search_widget">Rechercher</string>
-  <string name="searchable_lable_app">app</string>
-  <string name="searchable_lable_browser">navigateur</string>
+  <string name="searchable_lable_app">applis</string>
+  <string name="searchable_lable_browser">web</string>
   <string name="searchable_lable_duokan">duokan</string>
-  <string name="searchable_lable_music">music</string>
+  <string name="searchable_lable_music">musique</string>
   <string name="searchable_lable_o2o">o2o</string>
   <string name="searchable_lable_video">vidéo</string>
   <string name="searchable_sources">Sources consultables en ligne</string>
