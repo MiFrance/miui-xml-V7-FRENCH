@@ -39,6 +39,7 @@
   <string name="action_menu_text_bandwidth">Economiseur de données</string>
   <string name="action_menu_text_bandwidth_off">Economiseur inactif</string>
   <string name="action_menu_text_bandwidth_on">Economiseur actif</string>
+  <string name="action_menu_text_find_in_page">Rechercher dans la page</string>
   <string name="add_bookmark">"Ajouter un favori "</string>
   <string name="add_folder">Ajouter un dossier</string>
   <string name="add_new_bookmark">Ajouter un favori</string>
@@ -82,7 +83,7 @@
   <string name="bookmark_folder_needs_title">Le dossier doit être nommé</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Vous devez attribuer un nom à votre favori.</string>
-  <string name="bookmark_needs_url">Le favori doit disposer d\'un emplacement.</string>
+  <string name="bookmark_needs_url">Le favori doit contenir une URL.</string>
   <string name="bookmark_not_saved">"Impossible d'enregistrer le favori."</string>
   <string name="bookmark_page">Ajouter la dernière page consultée</string>
   <string name="bookmark_saved">Enregistré dans les favoris</string>
@@ -591,7 +592,7 @@
   <string name="save_image_success">Image enregistrée</string>
   <string name="save_image_failed">"Échec de l'enregistrement de l'image"</string>
   <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
-  <string name="js_disable_confirm_message">La désactivation du JavaScript peut causer l\'affichage incorrect de certains sites web</string>
+  <string name="js_disable_confirm_message">La désactivation du JavaScript peut entraîner l\'affichage incorrect de certains sites web.</string>
   <string name="cloud_tab">Onglet Cloud</string>
   <string name="sync_item_browser_title">Synchroniser le navigateur</string>
   <string name="sync_item_browser_summary">Synchronise les données avec le cloud afin de pouvoir utiliser le navigateur sur différents appareils facilement</string>
@@ -754,7 +755,7 @@
   <string name="pref_check_security_url_title">Vérifier les liens</string>
   <string name="show_check_security_url_check_tip_dialog_title">Information</string>
   <string name="show_check_security_url_check_tip_dialog_description">"L'adresse de ce site sera envoyée vers les serveurs de Xiaomi afin vérifier sa sécurité. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
-  <string name="quicklink_bookmark_save">Enregistrer sous</string>
+  <string name="quicklink_bookmark_save">Emplacement du favori</string>
   <string name="voice_title">Énoncez votre commande…</string>
   <string name="voice_sub_title">"Vous ne savez pas quoi dire ? Essayez Ouvrir mi.com !"</string>
   <string name="voice_title_please">Commencez à parler…</string>

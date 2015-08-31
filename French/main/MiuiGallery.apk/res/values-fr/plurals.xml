@@ -37,9 +37,9 @@
       <item quantity="one">%1$d</item>
   </plurals>
   <plurals name="number_of_images">
-      <item quantity="other">%1$d images</item>
-      <item quantity="zero">%1$d image</item>
-      <item quantity="one">%1$d image</item>
+      <item quantity="other">%1$d photos</item>
+      <item quantity="zero">%1$d photo</item>
+      <item quantity="one">%1$d photo</item>
   </plurals>
   <plurals name="number_of_items">
       <item quantity="other">%1$d éléments</item>

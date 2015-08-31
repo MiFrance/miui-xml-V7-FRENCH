@@ -116,7 +116,7 @@
   <string name="instruction">Entrez l\'adresse suivante dans votre client FTP :</string>
 <!-- instruction_pre supprimé texte, ca fais plus propre : Démarrez le service pour activer le serveur FTP -->
   <string name="instruction_pre">" "</string>
-  <string name="just_now">A l\'instant</string>
+  <string name="just_now">à l\'instant</string>
   <string name="kuaipan_info">Fichiers KuaiPan</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">L\'espace de stockage disponible sur votre compte KuaiPan est insuffisant.</string>
@@ -371,10 +371,10 @@
   <string name="tab_local">Local</string>
   <string name="tab_more">Plus</string>
   <string name="tab_path">DOSSIERS</string>
-  <string name="tab_source">Applications</string>
+  <string name="tab_source">APPLIS</string>
   <string name="tab_storage">STOCKAGE</string>
   <string name="title_more_source">Plus d\'applications</string>
-  <string name="title_recent">Récent</string>
+  <string name="title_recent">RÉCENTS</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="user_guide_continue_use">Ok</string>
@@ -402,7 +402,7 @@
   <string name="get_cloud_space">Ajouter 500Go</string>
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments"</string>
   <string name="kuaipan_delete_guide_des">Supprimer le guide ?</string>
-  <string name="yesterday">Hier</string>
+  <string name="yesterday">hier</string>
 <!--- à traduire 
      <string name="kp_category_all">Category</string>
      <string name="kp_category_doc">Word</string>

@@ -118,8 +118,8 @@
   <string name="cannot_send_message_reason">Votre message n\'a pas de destinataire valide</string>
   <string name="cant_delete_cloud_album">Impossible de supprimer %s, ce dernier est un album système ou est partagé par d\'autres personnes.</string>
   <string name="cant_delete_system_album">Impossible de supprimer %s, ce dernier est un album système ou est partagé par d\'autres personnes.</string>
-  <string name="change_to_face_mode">Basculer en mode visage</string>
-  <string name="change_to_photo_mode">Basculer en mode photo</string>
+  <string name="change_to_face_mode">Trier par personnes</string>
+  <string name="change_to_photo_mode">Trier par albums</string>
   <string name="choose_baby_sexy">Genre</string>
   <string name="cleaning_cache">Nettoyage du cache…</string>
   <string name="clear_thumbnail_cache">Effacer le cache des miniatures</string>
@@ -267,7 +267,7 @@
   <string name="import_complete">Importation terminée</string>
   <string name="import_fail">Échec de l\'importation.</string>
   <string name="initial_cloud_button_text">Activer Mi Cloud</string>
-  <string name="initial_cloud_text">À tout moment et n\'importe où, organisez et visualisez vos photos</string>
+  <string name="initial_cloud_text">Stockez et visualisez vos photos de n\'importe où.</string>
   <string name="initializing_cloud">Initialisation…</string>
   <string name="input_baby_name">Saisissez un nom</string>
   <string name="input_baby_nick_name">Insérez un surnom</string>
@@ -312,7 +312,7 @@
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
   <string name="more">Plus</string>
-  <string name="more_face_album_name">Plus de visage</string>
+  <string name="more_face_album_name">Plus de personnes</string>
   <string name="move_to_cloud_album">Déplacer vers Mi Cloud</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
@@ -429,8 +429,8 @@
   <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>
   <string name="set_lockscreen">Application du fond d\'écran…</string>
   <string name="set_recent_album">Définir en tant qu\'album récent</string>
-  <string name="set_screensaver_path_message">Cet album s\'affichera 5 secondes après que l\'écran s\'éteigne.</string>
-  <string name="set_screensaver_path_message_if_only_charging">L\'images de cet album apparaîtra sur l\'écran de veille lorsque l\'appareil sera en charge.</string>
+  <string name="set_screensaver_path_message">Les photos de cet album seront affichées sur l\'économiseur d\'écran.</string>
+  <string name="set_screensaver_path_message_if_only_charging">Les photos de cet album seront affichées sur l\'économisuer d\'écran lorsque votre appareil est en charge.</string>
   <string name="set_screensaver_path_title">Diaporama d\'écran de veille</string>
   <string name="set_wallpaper">Application du fond d\'écran…</string>
   <string name="settings">Paramètres</string>
@@ -642,7 +642,7 @@
   <string name="mishop">MiShop</string>
   <string name="no_such_album">Album non trouvé</string>
   <string name="not_now">Pas maintenant</string>
-  <string name="not_remind_any_more">"Ne plus me demander"</string>
+  <string name="not_remind_any_more">"Ne plus afficher"</string>
   <string name="original">Original</string>
   <string name="original_scale">Échelle d\'origine</string>
   <string name="paint_crop_cancel_context">Enregistrer l\'image recadrée ?</string>
@@ -658,8 +658,8 @@
   <string name="moman">Moman Camera</string>
   <string name="moman_camera_drawing">Dessins Moman Camera</string>
   <string name="moman_camera_icon">Emoticônes Moman Camera</string>
-  <string name="moman_camera_picture">Images Moman Camera</string>
-  <string name="pocket_camera_picture">Images Pocket Camera</string>
+  <string name="moman_camera_picture">Photos Moman Camera</string>
+  <string name="pocket_camera_picture">Photos Pocket Camera</string>
   <string name="pocket_camera_video">Vidéos Pocket Camera</string>
   <string name="pocketcamera">PocketCamera</string>
   <string name="do_not_save">Ne pas enregistrer</string>
@@ -672,7 +672,7 @@
   <string name="cool_portrait">Portrait</string>
   <string name="create_baby_album">Créer un album de bébé</string>
   <string name="create_baby_album_dialog_msg">Créer un album pour \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Vous pouvez aussi créer ultérieurement un album de bébé via le menu en haut à droite</string>
+  <string name="create_baby_album_later_toast">Créez un album de bébé à tout moment dans les Paramètres</string>
   <string name="create_new_face">Nouveau visage</string>
   <string name="create_quick_icon_on_desk">Créer des raccourcis</string>
   <string name="creating_baby_album">Création de l\'album…</string>

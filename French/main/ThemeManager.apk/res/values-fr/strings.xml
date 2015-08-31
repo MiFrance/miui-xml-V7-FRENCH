@@ -8,8 +8,10 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="apply_default_font_tip">Souhaitez-vous continuer à utiliser la police actuelle ?</string>
   <string name="theme_yes">Oui</string>
   <string name="theme_no">Non</string>
-  <string name="theme_precast_update_notification_content">Touchez pour afficher les nouveaux thèmes.</string>
-  <string name="theme_precast_update_notification_title">Mis à jour pour MIUI 7</string>
+  <string name="theme_precast_create_notification_content">Touchez pour voir les nouveaux thèmes.</string>
+  <string name="theme_precast_create_notification_title">Mis à jour pour MIUI 7</string>
+  <string name="theme_precast_update_notification_content">Touchez pour explorer les mises à jour.</string>
+  <string name="theme_precast_update_notification_title">Mise à jour des thèmes MIUI 7</string>
   <string name="theme_provision_default_theme_title">Par défaut</string>
   <string name="theme_provision_loading_tips">Un moment svp…</string>
   <string name="theme_provision_title">Choisissez un thème</string>

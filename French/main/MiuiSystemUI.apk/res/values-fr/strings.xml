@@ -144,6 +144,11 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="return_to_incall_screen">Appuyer pour revenir à l\'appel</string>
   <string name="screen_button_notification_text">Pour les activer, appuyez sur les boutons d\'accueil et d\'alimentation simultanément.</string>
   <string name="screen_button_notification_title">Les boutons physiques sont désactivés</string>
+  <string name="screen_pinning_description">Epingle cet écran jusqu\'à ce que vous le détachiez. Touchez et maintenez Retour Arrière et Vue d\'ensemble simultanément pour le détacher.</string>
+  <string name="screen_pinning_description_accessible">Epingle cet écran jusqu\'à ce que vous le détachiez. Touchez et maintenez Vue d\'ensemble pour le détacher.</string>
+  <string name="screen_pinning_negative">Non merci</string>
+  <string name="screen_pinning_positive">J\'ai compris</string>
+  <string name="screen_pinning_title">L\'écran est épinglé</string>
   <string name="screenshot_failed_text">Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation.</string>
   <string name="screenshot_saved_text">Appuyer pour l\'afficher</string>
   <string name="screenshot_saved_title">Capture d\'écran effectuée</string>

@@ -101,8 +101,9 @@ C'est une option que nous envisageons, en raison du nombre de demandes à ce suj
   <string name="main_button_usage_adjusting">Changement…</string>
   <string name="main_button_usage_adjust_manual">Ajuster l\'usage de données</string>
   <string name="main_button_usage_package_setting">Définir le quota de données</string>
+  <string name="main_message_no_package_by_dual">Définir une limite de données pour %s</string>
   <string name="main_traffic_used_only">Utilisé : %s</string>
-  <string name="main_alert_message_no_mobile_package">Quota de données mobiles non défini</string>
+  <string name="main_alert_message_no_mobile_package">Définir une limite de données</string>
   <string name="main_alert_message_no_imsi">Aucune carte SIM détectée</string>
   <string name="main_alert_message_slot_no_data_connection">"La carte SIM ne supporte pas la
 connexion au réseau de données mobiles"</string>

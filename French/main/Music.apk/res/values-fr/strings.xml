@@ -76,6 +76,9 @@
   <string name="network_traffic">Trafic réseau</string>
   <string name="ok">OK</string>
   <string name="online_music">En ligne</string>
+  <string name="online_music_enabled_subtitle">Touchez pour écouter vos chansons favorites.</string>
+  <string name="online_music_enabled_summary">Ecoutez et téléchargez vos chansons favorites. Consultez le classement des hits et les listes de lecture à tout moment!</string>
+  <string name="online_music_enabled_title">Ecoute en ligne gratuite</string>
   <string name="send_to_title">Envoyer à (%1$s)</string>
   <string name="track_list_control_download">Télécharger</string>
   <string name="track_list_control_edit_add_tracks">Ajouter des chansons</string>
@@ -110,7 +113,7 @@
   <string name="error_not_acceptable">Une erreur de serveur s\'est produite. Synchronisation désactivée.</string>
   <string name="error_title">Avertissement</string>
   <string name="error_unauthorized">Trop d\'échecs d\'authentification de compte. Synchronisation désactivée.</string>
-  <string name="impunity_declaration">Cette application doit se connecter à Internet pour consulter et écouter de la musique en ligne.</string>
+  <string name="impunity_declaration">Cette application doit se connecter à Internet.</string>
   <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_settings">Afficher les conditions d\'utilisation</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Musique</string>
