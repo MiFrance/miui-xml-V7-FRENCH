@@ -605,7 +605,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="antivirus_privacy_dialog_summary">"Cette fonctionn encrypte et transmet l\'identifiant de votre appareil aux serveurs AVL et Tencent (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">voir la Politique de Confidentialité</string>
   <string name="antivirus_privacy_dialog_title">Politique de Confidentialité</string>
-  <string name="antivirus_sec_support">Propulsé par %s</string>
   <string name="antivirus_update_db">%s</string>
   <string name="item_dev_mode">Options développeur</string>
   <string name="summary_dev">Empêche les applications de voler des données personnelles</string>
