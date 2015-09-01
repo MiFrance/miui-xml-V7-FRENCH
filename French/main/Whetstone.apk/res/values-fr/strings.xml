@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Whetstone</string>
+  <string name="permstep_description">"Autoriser l'application à lire les informations de pas de votre appareil"</string>
+  <string name="permstep_label">Lire les pas</string>
+</resources>

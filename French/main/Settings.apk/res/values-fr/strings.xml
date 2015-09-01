@@ -2787,6 +2787,7 @@ et lancer le logiciel."</string>
   <string name="music_dirac_mode_off">Dirac inactif</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_basic">Mi Piston Basics</string>
+  <string name="music_dirac_mode_piston_color">Edition Couleur</string>
   <string name="music_hifi_title">Audio Hi-Fi</string>
   <string name="bt_trace_log">Activer Trace log Bluetooth</string>
   <string name="bt_trace_log_summary">Active le journal de suivi Bluetooth</string>
@@ -2954,7 +2955,7 @@ et lancer le logiciel."</string>
   <string name="wifi_display_operating_channel">Canal actif</string>
   <string name="wifi_display_session_info">Info session</string>
   <string name="wifi_subnet_mask">Masque de sous-réseau</string>
-  <string name="wifi_type_approval_dialog_title">NO. NTC</string>
+  <string name="wifi_type_approval_dialog_title">Information de régulation</string>
   <string name="wifi_type_approval_title">Certification</string>
   <string name="miracast_menu_teardown">Développer</string>
   <string name="bugreport_tool_log">Capture d\'un rapport de bug</string>

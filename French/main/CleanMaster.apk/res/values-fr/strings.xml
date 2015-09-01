@@ -131,6 +131,7 @@
     <string name="pref_summary_garbage_cleanup_check_time">Me prévient lorsque la Corbeille atteint une certaine taille</string>
     <string name="pref_summary_garbage_process_mode">Afficher des notifications lorsque l\'outil est actif</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Envoi et compare les noms de fichiers inconnus avec les définitions en ligne</string>
+    <string name="pref_summary_open_optimizer_memory_scan">Vérifier et nettoyer automatiquement la mémoire</string>
     <string name="pref_title_auto_clean_and_alert">Nettoyer automatiquement</string>
     <string name="pref_title_auto_clean_content_choose">Choisir les éléments à nettoyer</string>
     <string name="pref_title_auto_update_cleanup_db">Mises à jour automatiques</string>
@@ -142,6 +143,7 @@
     <string name="pref_title_garbage_process_mode">Notifications</string>
     <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>
     <string name="pref_title_open_optimizer_cloud_scan">Utiliser le moteur d\'analyse en ligne</string>
+    <string name="pref_title_open_optimizer_memory_scan">Nettoyage de la mémoire</string>
     <string name="summary_auto_cleaner">Nettoyer votre système automatiquement tous les 3 jours ?</string>
     <string name="summary_delete_cache">Certaines applis ont besoin du cache pour fonctionner normalement.</string>
     <string name="summary_delete_large_file">"Certains fichiers volumineux peuvent être utiles quand vous n'êtes pas connectés à internet (par ex. Cartes, Plannings, etc). Assurez-vous que ce fichier ne vous sert pas."</string>
@@ -162,6 +164,10 @@
     <string name="toast_network_eror">Erreur réseau !</string>
     <string name="toast_removed_from_white_list">" supprimé de la liste blanche"</string>
     <string name="toast_resolve_apk_error">Échec à la résolution de l\'APK</string>
+    <string name="toast_scaning_similar_image">Analyse des photos…</string>
+    <string name="toast_select_image_need_delete">Sélectionnez les photos à supprimer</string>
+    <string name="toast_select_white_need_remove">Sélectionnez les éléments à supprimer</string>
+    <string name="toast_selecte_group_restore_succeed">Photos restaurées</string>
     <string name="toast_uninstall_success">Désinstallation terminée</string>
     <string name="white_list_ad_header">Fichiers pub. : %d</string>
     <string name="white_list_apk_header">Fichiers .apk : %d</string>
