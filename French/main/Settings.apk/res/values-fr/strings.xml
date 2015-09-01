@@ -2876,12 +2876,12 @@ et lancer le logiciel."</string>
   <string name="handy_mode_enter_ask">Demandez avant d\'entrer dans le mode à une main</string>
   <string name="handy_mode_size">Taille de l\'écran</string>
   <string name="handy_mode_tips">Glissez vers la gauche ou la droite depuis le bouton Accueil pour ajuster la taille de l\'écran.</string>
-  <string name="layout_size_normal">Standard</string>
-  <string name="layout_size_exhuge">Large</string>
-  <string name="layout_size_huge"/>
-  <string name="layout_size_large"/>
-  <string name="layout_size_medium"/>
-  <string name="layout_size_small">Petit</string>
+  <string name="layout_size_exhuge">XXL</string>
+  <string name="layout_size_huge">XL</string>
+  <string name="layout_size_large">L</string>
+  <string name="layout_size_medium">M</string>
+  <string name="layout_size_normal">S</string>
+  <string name="layout_size_small">XS</string>
   <string name="local_auto_backup_section_title">Sauvegarde automatique</string>
   <string name="location_agps_apn_choose_dialog_title">Types d\'APN</string>
   <string name="location_agps_apn_summary">Choisir le type d\'APN favori</string>
@@ -3652,7 +3652,7 @@ l'assistant  e-mail"</string>
   <string name="fluency_mode_enabled_name">Optimiser les performances système</string>
   <string name="fluency_mode_summary">Désactive les animations système et réduit l\'utilisation de la RAM</string>
   <string name="fluency_mode_confirm_and_reboot">Redémarrer maintenant</string>
-  <string name="font_size_exhuge">Très grang</string>
+  <string name="font_size_exhuge">Très grande</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
   <string name="install_no_market_app_summary">Autoriser l\'installation d\'applications provenant de sources autres que l\'App Store</string>
   <string name="install_no_market_app_title">Sources inconnues</string>

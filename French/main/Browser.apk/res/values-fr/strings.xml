@@ -853,6 +853,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="video_push_single_message">Mettre à jour vers %1$d</string>
   <string name="webviewchromium_private_browsing_warning">Cette fonctionnalité n\'est pas supportée par cette version d\'Android.</string>
   <string name="action_menu_text_fullscreen">Plein écran</string>
+  <string name="action_menu_text_copy_url">Copier l\'URL</string>
   <string name="miuichromium_error_page_diagnostic">Diagnostique réseau</string>
   <string name="sub_sync_item_browser_title_useful">Synchroniser la page de démarrage</string>
   <string name="sub_sync_item_browser_title_useful_summary">Synchronise la page de démarrage du navigateur</string>

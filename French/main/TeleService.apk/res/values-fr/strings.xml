@@ -913,8 +913,8 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="msim_default_setting">Paramètres par défaut</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">"Cette carte est actuellement défini comme votre carte SIM par défaut. Si vous cessez de l\'utiliser, vous ne serez pas en mesure de faire des appels ou d\'utiliser votre connexion de données mobile. Vous pouvez désactiver cette carte SIM après avoir défini une autre carte SIM comme carte par défaut."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Vous n\'êtes pas en mesure de faire des appels ou d\'utiliser votre connexion de données mobile. Désactivez la carte SIM %s ?</string>
-  <string name="msim_disable_sim_card_title">Désactivez la carte SIM</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">Vous n\'êtes pas en mesure de faire des appels ou d\'utiliser votre connexion de données mobiles. Désactiver la carte SIM %s ?</string>
+  <string name="msim_disable_sim_card_title">Désactiver la carte SIM ?</string>
   <string name="msim_setting_no_sim_indicator">Aucun carte SIM</string>
   <string name="msim_sim_lock">Verrouillé</string>
   <string name="msim_sim_radio_off">Désactivé</string>

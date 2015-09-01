@@ -73,6 +73,7 @@
     <string name="hints_apk_version">Version : %s</string>
     <string name="hints_app_uninstall_residual">Effacer les fichiers résiduels ?</string>
     <string name="hints_cache_header_left">Fichiers cache : %d</string>
+    <string name="hints_cleanfinish">Nettoyage effectué</string>
     <string name="hints_finish_quick_cleanup">Nettoyage effectué</string>
     <string name="hints_finish_quick_cleanup_title">Nettoyage effectué, %s libérés</string>
     <string name="hints_finish_quick_scan">Analyse terminée</string>
@@ -92,6 +93,10 @@
     <string name="hints_latest_garbage_cleanup_never">Jamais nettoyé</string>
     <string name="hints_latest_garbage_cleanup_today">Dernier nettoyage : aujourd\'hui</string>
     <string name="hints_latest_garbage_cleanup_yesterday">Dernier nettoyage : hier</string>
+    <string name="hints_list_item_clean">Nettoyer</string>
+    <string name="hints_list_item_unlock">Nettoyer</string>
+    <string name="hints_list_item_keep">Conserver</string>
+    <string name="hints_list_item_lock">Conserver</string>
     <string name="hints_loading_text">Chargement…</string>
     <string name="hints_quick_cleanning">Nettoyage…</string>
     <string name="hints_quick_cleanuping">Optimisation…</string>

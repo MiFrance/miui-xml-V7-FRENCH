@@ -2,6 +2,28 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more dufos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+      <item quantity="other">&lt;Data>Certains éléments sélectionnés sont également présents sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> éléments sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+      <item quantity="other">&lt;Data>Certaines photos sélectionnées sont présentes sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>La photo sélectionnée est présente sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+      <item quantity="other">&lt;Data>Certaines vidéos sélectionnées sont présentes sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vidéos sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>La vidéo sélectionnée est présente sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vidéo sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+      <item quantity="other">&lt;Data>Les éléments sélectionnés sont présents sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> éléments de Mi Cloud ?&lt;/Data></item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_image_from_homepage">
+      <item quantity="other">&lt;Data>Les photos sélectionnées sont présentes sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos de Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>La photo sélectionnée est présente sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo de Mi Cloud ?&lt;/Data></item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_video_from_homepage">
+      <item quantity="other">&lt;Data>Les vidéos sélectionnées sont présentes sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vidéos de Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>La vidéo sélectionnée est présente sur Mi Cloud, supprimer &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vidéo de Mi Cloud ?&lt;/Data></item>
+  </plurals>
   <plurals name="confirm_delete_has_cloud_image">
       <item quantity="other">Supprimer %s photos du &lt;b>cloud&lt;/b> ?</item>
       <item quantity="one">Supprimer %s photo du &lt;b>cloud&lt;/b> ?</item>
