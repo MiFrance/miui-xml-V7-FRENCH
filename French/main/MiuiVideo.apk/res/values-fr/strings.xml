@@ -232,6 +232,7 @@
   <string name="vp_device_list">Périphériques</string>
   <string name="vp_select_function">Paramètres</string>
   <string name="vp_media_info">Afficher les détails</string>
+  <string name="vp_media_type_banned">Ce type de fichier n\'est pas supporté</string>
   <string name="vp_hide_media_info">Masquer les détails</string>
   <string name="vp_screen_shot">Capture d\'écran</string>
   <string name="vp_scale_screen">Ratio d\'aspect</string>
@@ -521,7 +522,7 @@
 	 <string name="video_bbs">Nous rejoindre</string>
 	 <string name="video_bbs_url">Rejoignez-nous et aidez-nous à améliorer cette application</string>
 	 <string name="video_plugin">Plug-in vidéo</string>
-	 <string name="video_plugin_downloading">Téléchargement...</string>
+	 <string name="video_plugin_downloading">Téléchargement(%1$s), veuillez patienter.</string>
 	 <string name="video_plugin_prepare">Un instant...</string>
 	 <string name="vp_video_bad_network_condition">Mauvaise connexion réseau, essayez plus tard</string>
 	 <string name="vp_video_plugin_installation">Installation du plug-in %1$s...</string>

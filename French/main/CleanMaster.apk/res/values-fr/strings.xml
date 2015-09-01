@@ -69,7 +69,7 @@
     <string name="empty_title_residual">Aucun résidu trouvé</string>
     <string name="header_optimizer">En utilisant cette fonction, vous acceptez les %s</string>
     <string name="hints_ad_header_left">Journaux : %d</string>
-    <string name="hints_apk_header_left">Paquets d\'installation : %d</string>
+    <string name="hints_apk_header_left">Paquets</string>
     <string name="hints_apk_version">Version : %s</string>
     <string name="hints_app_uninstall_residual">Effacer les fichiers résiduels ?</string>
     <string name="hints_cache_header_left">Fichiers cache : %d</string>
