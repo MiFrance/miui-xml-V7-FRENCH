@@ -3,13 +3,13 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-  <string name="active_phone_fail_nochoice">"Impossible d'activer la carte SIM"</string>
-  <string name="active_phone_fail_toast">"Impossible d'activer la carte SIM %1$s"</string>
+  <string name="active_phone_fail_nochoice">"Carte SIM non vérifiable"</string>
+  <string name="active_phone_fail_toast">"Carte SIM %1$s non vérifiable"</string>
   <string name="active_phone_sim_absent">Insérez maintenant vorte carte SIM</string>
-  <string name="active_phone_success_nochoice">Carte SIM activée</string>
-  <string name="active_phone_success_toast">Carte SIM %1$s activée</string>
-  <string name="activing_simcard">Activation de la SIM %1$d</string>
-  <string name="activing_simcard_alone">Activation de la SIM…</string>
+  <string name="active_phone_success_nochoice">Carte SIM vérifiée</string>
+  <string name="active_phone_success_toast">Carte SIM %1$s vérifiée</string>
+  <string name="activing_simcard">Vérification de la SIM %1$d</string>
+  <string name="activing_simcard_alone">Vérification de la SIM…</string>
   <string name="area_code_preference_summary">Auto numérotation du code pays</string>
   <string name="areacode_set_default">Défaut</string>
   <string name="china_mobile">China Mobile</string>
@@ -48,7 +48,7 @@
   <string name="left_minutes">" min"</string>
   <string name="load_rates_failed">"Echec du chargement"</string>
   <string name="loading">Un instant…</string>
-  <string name="loading_recent_failed">"Echec du chargement."</string>
+  <string name="loading_recent_failed">"Echec du chargement"</string>
   <string name="no_data">Pas de données</string>
   <string name="no_more">Plus rien</string>
   <string name="no_product_list">Vide</string>
@@ -84,12 +84,12 @@
   <string name="setting_duration_other_prompt">"Pour les tarifs internationaux, consultez "</string>
   <string name="setting_duration_title">Temps restant</string>
   <string name="sim1_activated">Carte SIM 1</string>
-  <string name="sim1_no_activated">Carte SIM 1 non activée</string>
+  <string name="sim1_no_activated">Carte SIM 1 vérifiée</string>
   <string name="sim2_activated">, Carte SIM 2</string>
-  <string name="sim2_no_activated">, carte SIM 2 non activée</string>
-  <string name="sim_activated">Activée</string>
+  <string name="sim2_no_activated">, carte SIM 2 non vérifiée</string>
+  <string name="sim_activated">Vérifiée</string>
   <string name="sim_card_activate">Carte SIM actuelle</string>
-  <string name="sim_no_activated">Non activée</string>
+  <string name="sim_no_activated">Non vérifiée</string>
   <string name="time_statistic">%1$d minutes de connexion réseau économisées</string>
   <string name="title_country">Région</string>
   <string name="title_duration">Durée</string>
