@@ -44,4 +44,11 @@
     <item>Masquer le numéro</item>
     <item>Afficher le numéro</item>
   </string-array>
+  <string-array name="livetalk_about_info_array">
+    <item>- Les appels vers des numéros nationaux et internationaux sont supportés.</item>
+    <item>- Chaque appel utilise 1Kio de données mobiles.</item>
+    <item>- Votre opérateur peut vous facturer des frais en itinérance lorsque vous utilisez ce service.</item>
+    <item>- Vous devez activer l\'Ecoute Libre pour utiliser ce service, sans quoi votre opérateur pourra vous facturer des frais en itinérance.</item>
+    <item>- Support du service: YunZhiXun, RonLianYunTongXun, LTSC</item>
+  </string-array>
 </resources>
