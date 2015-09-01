@@ -225,7 +225,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="contact_detail_profile_switch_on">"Afficher le profil photo du contact"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Impossible de désactiver les fiches de contact"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Appuyez pour activer cette fonction.</string>
-  <string name="contact_detail_profile_switch_on_success_toast">Les fiches de contact sont déjà activées</string> 
+  <string name="contact_detail_profile_switch_on_success_toast">Fiches de contact activées</string> 
   <string name="contact_directory_description">Répertoire %1$s</string>
   <string name="contact_edit_title_edit">Modifier le contact</string>
   <string name="contact_edit_title_insert">Créer un contact %s</string>
@@ -982,7 +982,6 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="status_away">Absent</string>
   <string name="status_busy">Occupé</string>
   <string name="strequentList">Favoris</string>
-  <string name="success_message_import_from_account">Importé avec succès</string>
   <string name="summary_kind_title">Résumé</string>
   <string name="take_new_photo">Prendre une autre photo</string>
   <string name="take_photo">Prendre une photo</string>

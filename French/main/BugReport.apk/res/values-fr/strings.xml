@@ -76,7 +76,7 @@
   <string name="bluetooth_problem4">"Ne peut pas recevoir de fichiers"</string>
   <string name="bugreport_dump_complete_notification_summary">Appuyer pour l\'afficher.</string>
   <string name="bugreport_dump_complete_notification_title">Rapport de bogue créé</string>
-  <string name="bugreport_dump_start_notification_summary">Peut prendre plusieurs minutes.</string>
+  <string name="bugreport_dump_start_notification_summary">Cela prendra plusieurs minutes.</string>
   <string name="bugreport_dump_start_notification_title">Création du rapport de bogue…</string>
   <string name="button_feedback">Autre</string>
   <string name="button_plus">+1</string>

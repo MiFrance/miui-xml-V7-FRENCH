@@ -26,6 +26,7 @@
   <string name="click_to_play">Vide</string>
   <string name="confirm_delete_history_text">Supprimer les éléments sélectionnés ?</string>
   <string name="continue_play">Écouter</string>
+  <string name="default_cp_name">Qingting FM</string>
   <string name="device_connected">Connecté</string>
   <string name="device_not_connected">Non connecté</string>
   <string name="dialog_title_download_quality">Qualité de téléchargement</string>
@@ -92,7 +93,7 @@
   <string name="priority_storage">Utilisez une carte SD externe</string>
   <string name="priority_storage_summary">Télécharger automatiquement sur la carte SD externe si disponible</string>
   <string name="project_device">Mi Phone</string>
-  <string name="qingting_logo"> | Qingting FM</string>
+  <string name="qingting_logo"> | %1$s </string>
   <string name="remaining_time">"Temps restant : "</string>
   <string name="search_hint">Recherche</string>
   <string name="section">Sélection</string>
@@ -100,7 +101,7 @@
   <string name="share">Partager</string>
   <string name="share_button">Partager</string>
   <string name="share_in_development"/>
-  <string name="share_text">de la Radio</string>
+  <string name="share_text">de la Radio Xiaomi [%1$s]</string>
   <string name="share_text_other">Écoute de %1$s à %2$s.</string>
   <string name="similar_programs">Programmes similaires</string>
   <string name="sleep_mode_canceled">Mode Veille éteint</string>

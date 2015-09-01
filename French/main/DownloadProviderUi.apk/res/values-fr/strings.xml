@@ -3,14 +3,20 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
+  <string name="about">A propos</string>
+  <string name="action_settings">Paramètres</string>
   <string name="all_downloads">Tous les téléchargements</string>
   <string name="app_downloads">%s téléchargements</string>
   <string name="app_label">Téléchargements</string>
+  <string name="app_name">Explorateur de fichiers</string>
+  <string name="auth_fail">"Impossible d'obtenir l'autorisation"</string>
   <string name="button_sort_by_date">Trier par date</string>
   <string name="button_sort_by_size">Trier par taille</string>
+  <string name="cancel">Annuler</string>
   <string name="cancel_running_download">Annuler</string>
   <string name="confirm_delete_downloads_message">%d téléchargements vont être supprimés</string>
   <string name="confirm_delete_the_download_item_message">Supprimer ces téléchargements ?</string>
+  <string name="create_task">Créer une tâche</string>
   <string name="delete_download">Supprimer</string>
   <string name="delete_downloads_records">Supprimer les téléchargements</string>
   <string name="delete_the_downloaded_file">Les fichiers téléchargés vont être supprimés.</string>
@@ -26,6 +32,8 @@
   <string name="dialog_queued_body">Ce fichier est en attente de téléchargement, et n\'est donc pas encore disponible.</string>
   <string name="dialog_title_not_available">Téléchargement impossible</string>
   <string name="dialog_title_queued_body">Fichier en attente</string>
+  <string name="do_not_support_url">"Ce type d'URL n'est pas supporté"</string>
+  <string name="download_auth">Récupération de l\'autorisation…</string>
   <string name="download_complete">Téléchargé</string>
   <string name="download_error">Échec</string>
   <string name="download_error_insufficient_space">Espace insuffisant</string>
@@ -46,14 +54,20 @@
   <string name="downloaded_empty">Vider</string>
   <string name="downloading_empty">Vider</string>
   <string name="downloads_operating">En cours…</string>
+  <string name="edit_hint"> Entrez une URL (http ou https)</string>
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
   <string name="expire_notification_msg">Votre abonnement à Xunlei va bientôt expirer.</string>
   <string name="expire_today_notification_msg">Votre abonnement à Xunlei expire aujourd\'hui.</string>
+  <string name="file_picker">Sélectionnez un emplacement</string>
+  <string name="input_valid_address">Saisissez l\'adresse d\'un fichier</string>
+  <string name="invalid_address">L\'adresse de fichier saisie est invalide</string>
   <string name="keep_queued_download">Conserver</string>
   <string name="menu_enter_edit_mode">Éditeur</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="missing_title">&lt;Inconnu&gt;</string>
+  <string name="network_error">"Echec de connexion au réseau"</string>
+  <string name="new_add">Nouveau</string>
   <string name="no_downloads">Aucun téléchargement</string>
   <string name="no_vip_info">Abonnez-vous à Xunlei pour accélérer vos téléchargements</string>
   <string name="no_vip_show_info">"Accélérez vos téléchargements
@@ -65,7 +79,9 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="paused_unknown">Erreur inconnue</string>
   <string name="paused_waiting_for_network">Attente connexion réseau</string>
   <string name="paused_waiting_to_retry">Attente nouvelle tentative</string>
+  <string name="pref_download_revert_default">Utiliser le dossier de téléchargement par défaut</string>
   <string name="pref_download_settings_title">Utilisation des données</string>
+  <string name="pref_download_storage_path">Créer un nouveau dossier pour les téléchargements</string>
   <string name="pref_summary_any_bytes_popup">Toujours attendre d\'être connecté via Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
@@ -77,12 +93,24 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="resume_download">Reprendre</string>
   <string name="retry_after_network_available">Veuillez réessayer lorsqu\'une connexion réseau sera disponible</string>
   <string name="retry_download">Réessayer</string>
+  <string name="revert_default">Réinitialiser</string>
+  <string name="revert_download_path">Utiliser le dossier de téléchargement par défaut ?</string>
+  <string name="save_path">"Enregistrer les téléchargements dans : "</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_operation_items">Sélectionner les éléments</string>
   <string name="selected_count">%1$d sélectionné(s) sur %2$d</string>
+  <string name="setting_close_debug">Mode Débogage désactivé</string>
+  <string name="setting_debug_fail">"Impossible d'activer le mode Débogage"</string>
+  <string name="setting_open_debug">Mode Débogage activé. Tapez 6 fois ici pour le désactiver.</string>
   <string name="show_more">Afficher %s de plus</string>
+  <string name="start_analysis">Vérifier</string>
+  <string name="start_download">Télécharger</string>
   <string name="start_xunlei_speedup_info">Identifiez-vous pour accélérer vos téléchargements.</string>
-  <string name="third_web_cancel">Cancel</string>
+  <string name="starting_analysis">Récup. des infos…</string>
+  <string name="storage_internal">Stockage interne</string>
+  <string name="storage_sd_card">Carte SD</string>
+  <string name="storage_usb">Stockage USB</string>
+  <string name="third_web_cancel">Annuler</string>
   <string name="third_web_confirm">OK</string>
   <string name="third_web_default">Remember this location</string>
   <string name="third_web_filename_hint">Name</string>
@@ -146,14 +174,13 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="dialog_confirm_delete_checkbox_message">Supprimer les fichiers locaux</string>
   <string name="dialog_confirm_delete_downloads_message">Supprimer les %d téléchargements ?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Supprimer</string>
+ <string name="version">Version %s</string>
   <string name="vip_auto_speedup">Accélération directe pour les membres VIP Xunlei</string>
-  <string name="vip_expire_show_info">"Votre abonnement à Xunlei a expiré.
-Renouvelez dès maintenant et profitez de 5% de réduction."</string>
-  <string name="vip_expire_today_show_info">"Votre abonnement à Xunlei a expiré.
-Renouvelez dès maintenant et profitez de 5% de réduction."</string>
+  <string name="vip_expire_show_info">"Votre abonnement à Xunlei a expiré.</string>
+  <string name="vip_expire_today_show_info">"Votre abonnement à Xunlei a expiré.</string>
   <string name="vip_show_info">"5 millions d\'abonnés.
 Accélérez les téléchargements sur tous vos appareils."</string>
-  <string name="high_speed_channel">Canal à haute vitesse</string>
+  <string name="high_speed_channel">Accélérateur Xunlei (payant): </string>
   <string name="add_flow_fail_haveget_msg">La période d\'essai a expiré.</string>
   <string name="add_flow_fail_vip_msg">L\'accélérateur Xunlei est actif</string>
   <string name="add_flow_success_msg">%s ajouté(s) ce mois-ci</string>
