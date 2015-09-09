@@ -31,7 +31,6 @@
   <string name="contacts_icon_label">Contacts</string>
   <string name="conference_call_number">%s personnes</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
-  <string name="select_voice_call_sim">Choisissez la carte SIM</string>
   <string name="separate_from_conference">Séparer l\'appel</string>
   <string name="call_title_redialing_with_times">Recomposé %d fois</string>
   <string name="onHold">En attente1</string>
@@ -492,7 +491,6 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="voicemail_number_not_set">&lt;Non défini&gt;</string>
   <string name="other_settings">Autres paramètres d\'appel</string>
   <string name="calling_via_template">Appel via %s</string>
-  <string name="cancel">Annuler</string>
   <string name="contactPhoto">photo du contact</string>
   <string name="goPrivate">mode privé</string>
   <string name="selectContact">sélectionner un contact</string>
@@ -629,7 +627,6 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
   <string name="sub_1">Abo. 1</string>
   <string name="sub_2">Abo. 2</string>
-  <string name="description_target_answer">Répondre</string>
   <string name="emergency_call_dialog_number_for_display">Appel d\'urgence</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Numéro inconnu</string>
@@ -1018,12 +1015,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="description_target_answer_video_call">"Répondre via un appel vidéo"</string>
   <string name="description_target_decline_upgrade_to_video_request">"Refuser la demande d\'appel vidéo"</string>
   <string name="incoming_via_template">"Appel entrant via %s"</string>
-  <string name="notification_action_accept">"Accepter"</string>
-  <string name="notification_action_answer_video">"Vidéo"</string>
-  <string name="notification_action_answer_voice">"Voix"</string>
-  <string name="notification_action_dismiss">"Ignorer"</string>
   <string name="notification_incoming_video_call">"Appel vidéo entrant"</string>
-  <string name="notification_requesting_video_call">"Demande de vidéo reçue"</string>
   <string name="onscreenChangeToVoiceText">"Passer à un appel vocal"</string>
   <string name="onscreenOverflowText">"Plus d\'options"</string>
   <string name="onscreenPauseVideoText">"Interrompre la vidéo"</string>
@@ -1035,18 +1027,9 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="overflowSwapMenuItemText">"Permuter les appels"</string>
   <string name="select_account_dialog_title">"Sélectionner un compte"</string>
   <string name="select_voice_call_sim">Sélectionner une carte SIM</string>
-  <string name="waiting_close_airplane_mode">En attente de désactivation du mode avion…</string>
   <string name="incall_error_missing_voicemail_number">Numéro de messagerie inconnu.</string>
-  <string name="antispam_notification_title">Numéro inconnu</string>
-  <string name="call_description_recording">Enregistrement…</string>
-  <string name="call_recording_notification_message">Appuyer pour écouter</string>
-  <string name="call_recording_notification_message_low_storage">Carte SD pleine</string>
-  <string name="call_recording_notification_message_sd_unmounted">Carte SD retirée</string>
-  <string name="call_recording_notification_title">Appel enregistré</string>
-  <string name="call_recording_notification_title_error">Impossible d\'enregistrer l\'appel</string>
   <string name="livetalk_left_minute">Restant : %s min</string>
   <string name="onscreen_audio_mode_conference">Conférence</string>
-  <string name="call_extension_conference_mode">Mode conférence</string>
   <string name="call_recording_notification_toggle_title">"Notification d'enregistrement d'appel"</string>
   <string name="waiting_close_airplane_mode">Un instant…</string>
 </resources>
