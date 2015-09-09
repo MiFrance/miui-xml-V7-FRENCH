@@ -448,6 +448,8 @@
      <string name="vp_offline_status_wait">En attente</string>
      <string name="vp_offline_title">Hors-ligne</string>
      <string name="vp_offline_title_name">Épisode %d</string>
+     <string name="vp_play_youku_failed_get_video_info">"Ne peut récupérer les infos de la vidéo"</string>
+     <string name="vp_play_youku_time_out">La connexion a expiré</string>
      <string name="vp_select_video_definition">Sélectionner la définition</string>
      <string name="vp_skip">Passer l\'intro et le générique</string>
      <string name="channel_ok">OK</string>

@@ -275,6 +275,7 @@
   <string name="express_inquiry_provider_info">Propulsé par</string>
   <string name="express_info_divider">" / "</string>
   <string name="all_services">Tous</string>
+  <string name="general_btn_follow_ok">Suivi</string>
   <string name="general_favorite_ok">Ajouté aux favoris</string>
   <string name="hms_no_subject_view">(Aucun objet)</string>
   <string name="choose_upload">Sélectionner un fichier</string>

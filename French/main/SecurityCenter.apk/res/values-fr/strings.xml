@@ -241,7 +241,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_garbage_cleanup">Nettoyage</string>
   <string name="menu_text_power_manager">Gestion de l\'énergie</string>
-  <string name="menu_text_power_percent">Batterie | %s</string>
+  <string name="menu_text_power_percent">%s</string>
   <string name="month_report_activity_label">Rapport mensuel</string>
   <string name="month_report_click_reconnect_network">Réessayer</string>
   <string name="month_report_disconnect_tip">"Impossible de se connecter au réseau"</string>

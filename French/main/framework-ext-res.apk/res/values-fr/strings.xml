@@ -76,6 +76,8 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="memory_clear_result">%1$sB libérés | %2$sB disponibles</string>
   <string name="paste">Coller</string>
   <string name="reboot_confirm_title">Votre téléphone va redémarrer.</string>
+  <string name="reboot_info_auto_boot">Votre téléphone va s\'allumer à %s selon votre plan d\'allumage automatique</string>
+  <string name="reboot_info_shutdown_alarm">Votré téléphone va s\'allumer et sonner à %s</string>
   <string name="reboot_progress">Redémarrer…</string>
   <string name="replace">Remplacer</string>
 

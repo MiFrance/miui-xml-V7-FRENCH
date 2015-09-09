@@ -42,7 +42,7 @@
   <string name="no_task">Tous les objectifs ont été atteints</string>
   <string name="passive_task">Objectifs d\'arrière-plan</string>
   <string name="privilege">Privilèges</string>
-  <string name="promote">Niveau supérieur</string>
+  <string name="promote">Atteignez les objectifs pour gagner des points</string>
   <string name="query_level_fail">"Ne peut récupérer l\'info"</string>
   <string name="query_user_tasks_fail">"Ne peut récupérer l\'info de l\'objectif"</string>
   <string name="seconds">%ds</string>
@@ -65,4 +65,5 @@
   <string name="upgraded">Compte mis à jour!</string>
   <string name="use">Utiliser</string>
   <string name="validity">Expire le %s</string>
+  <string name="validity_unknown">Expiration inconnue</string>
 </resources>

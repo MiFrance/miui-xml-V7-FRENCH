@@ -117,28 +117,28 @@
         <item quantity="one">%1$d mois</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d images à transférer</item>
-        <item quantity="one">Une image à transférer</item>
+        <item quantity="other">%1$d photos en attente de synchronisation</item>
+        <item quantity="one">Une photo en attente de synchronisation</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d vidéos à transférer</item>
-        <item quantity="one">Une vidéo à transférer</item>
+        <item quantity="other">%1$d vidéos en attente de synchronisation</item>
+        <item quantity="one">Une vidéo en attente de synchronisation</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d vidéos et images à transférer</item>
-        <item quantity="one">Une vidéo ou image à transférer</item>
+        <item quantity="other">%1$d éléments en attente de synchronisation</item>
+        <item quantity="one">Un élément en attente de synchronisation</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Transfert de %1$d images…</item>
-        <item quantity="one">Transfert d\'une image…</item>
+        <item quantity="other">Synchronisation de %1$d photos…</item>
+        <item quantity="one">Synchronisation d\'une photo…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Transfert de %1$d vidéos…</item>
-        <item quantity="one">Transfert d\'une vidéo…</item>
+        <item quantity="other">Synchronisation de %1$d vidéos…</item>
+        <item quantity="one">Synchronisation d\'une vidéo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Transfert de %1$d vidéos et images…</item>
-        <item quantity="one">Transfert d\'une vidéo ou image…</item>
+        <item quantity="other">Synchronisation de %1$d éléments…</item>
+        <item quantity="one">Synchronisation d\'un élément…</item>
     </plurals>
   <plurals name="confirm_delete_album">
     <item quantity="other">Supprimer %1$s albums (%2$s au total) ?</item>

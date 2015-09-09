@@ -31,6 +31,7 @@
   <string name="contacts_icon_label">Contacts</string>
   <string name="conference_call_number">%s personnes</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
+  <string name="select_voice_call_sim">Choisissez la carte SIM</string>
   <string name="separate_from_conference">Séparer l\'appel</string>
   <string name="call_title_redialing_with_times">Recomposé %d fois</string>
   <string name="onHold">En attente1</string>
@@ -62,6 +63,9 @@
   <string name="callFailed_unobtainable_number">Numéro incorrect</string>
   <string name="confCall">Conférence tél.</string>
   <string name="call_lost">Appel interrompu.</string>
+  <string name="call_description_recording">Enregistrement…</string>
+  <string name="call_extension_conference_mode">Mode Conférence</string>
+  <string name="notification_requesting_video_call">Appel vidéo entrant</string>
   <string name="ok">OK</string>
   <string name="audio_mode_speaker">Haut-parleur</string>
   <string name="audio_mode_earpiece">Écouteur du combiné</string>
@@ -402,6 +406,10 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="notification_voicemail_no_vm_number">Numéro de messagerie vocale inconnu</string>
   <string name="notification_network_selection_title">Aucun service</string>
   <string name="notification_network_selection_text">Réseau sélectionné (%s) non disponible</string>
+  <string name="notification_action_accept">Accepter</string>
+  <string name="notification_action_answer_video">Vidéo</string>
+  <string name="notification_action_answer_voice">Voix</string>
+  <string name="notification_action_dismiss">Rejeter</string>
   <string name="notification_action_end_call">Raccrocher</string>
   <string name="notification_missedCall_call_back">Rappeler</string>
   <string name="notification_missedCall_message">Message</string>
@@ -484,6 +492,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="voicemail_number_not_set">&lt;Non défini&gt;</string>
   <string name="other_settings">Autres paramètres d\'appel</string>
   <string name="calling_via_template">Appel via %s</string>
+  <string name="cancel">Annuler</string>
   <string name="contactPhoto">photo du contact</string>
   <string name="goPrivate">mode privé</string>
   <string name="selectContact">sélectionner un contact</string>
@@ -620,8 +629,10 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
   <string name="sub_1">Abo. 1</string>
   <string name="sub_2">Abo. 2</string>
+  <string name="description_target_answer">Répondre</string>
   <string name="emergency_call_dialog_number_for_display">Appel d\'urgence</string>
   <string name="antispam_marked_title">%1$s</string>
+  <string name="antispam_notification_title">Numéro inconnu</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="antispam_marked_count">Marqué par %1$d utilisateurs MIUI</string>
   <string name="antispam_provider">Identifié par %s</string>
@@ -641,6 +652,11 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="call_recording_error_low_storage">Enregistrement stoppé : espace insuffisant</string>
   <string name="call_recording_error_start_failed">L\'enregistreur est utilisé par une application</string>
   <string name="call_recording_error_unknown">Une erreur inconnue s\'est produite</string>
+  <string name="call_recording_notification_message">Touchez pour écouter.</string>
+  <string name="call_recording_notification_message_low_storage">La carte SD est pleine.</string>
+  <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
+  <string name="call_recording_notification_title">Appel enregistré</string>
+  <string name="call_recording_notification_title_error">"Impossible d'enregistrer cet appel"</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="online_check_provider_info">Identifié par %s</string>
   <string name="callFailed_incoming_cb_enabled">Le groupe a interdit tous les appels entrants.</string>
@@ -1032,4 +1048,5 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="onscreen_audio_mode_conference">Conférence</string>
   <string name="call_extension_conference_mode">Mode conférence</string>
   <string name="call_recording_notification_toggle_title">"Notification d'enregistrement d'appel"</string>
+  <string name="waiting_close_airplane_mode">Un instant…</string>
 </resources>

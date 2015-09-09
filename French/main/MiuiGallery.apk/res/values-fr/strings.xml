@@ -69,7 +69,7 @@
   <string name="apply">Appliquer</string>
   <string name="appwidget_empty_text">Aucune photo</string>
   <string name="appwidget_title">Galerie</string>
-  <string name="associate_face_album">Sélectionnez un album de visages</string>
+  <string name="associate_face_album">Sélectionnez un album</string>
   <string name="auto">Automatique</string>
   <string name="auto_create_recent_album">Création automatique d\'album</string>
   <string name="auto_create_recent_album_confirm">Après avoir désactivé cette fonctionnalité, la galerie effacera les données créées des albums favoris. Les albums favoris définis par l\'utilisateur ne seront pas affectés. Alternativement, vous pouvez le définir manuellement en touchant longuement un album.</string>
@@ -324,7 +324,7 @@
   <string name="multiface_crop_help">Appuyer sur un visage pour commencer</string>
   <string name="must_pick_file">Sélectionner une image</string>
   <string name="name_wrong">"Ce n'est pas %s"</string>
-  <string name="need_to_turn_on_sync">Cliquer pour activer Mi Cloud</string>
+  <string name="need_to_turn_on_sync">Activer la synchronisation avec Mi Cloud.</string>
   <string name="negative">Négatif</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="no">Non</string>
@@ -561,7 +561,7 @@
   <string name="start_slide_show">Démarrer le diaporama</string>
   <string name="click_to_add_picture">Appuyer pour ajouter des images</string>
   <string name="sync_in_progress_message">Synchronisation en cours…</string>
-  <string name="sync_ok">Synchro ok</string>
+  <string name="sync_ok">Synchronisé</string>
   <string name="alert_init_merged_title">Information</string>
   <string name="alert_init_merged_message">Dorénavant les photos stockées sur votre appareil et celles stockées sur Mi Cloud seront affichées ensemble.</string>
   <string name="item_not_sync_for_origin_video">Impossible de télécharger des vidéos non synchronisées avec Mi Cloud.</string>
