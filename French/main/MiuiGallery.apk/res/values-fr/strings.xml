@@ -710,7 +710,6 @@
   <string name="ignore_face">Ignorer cette personne</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="merge_album_positive_button_text">Fusionner</string>
-  <string name="name_wrong">"Ce n'est pas %s"</string>
   <string name="old">Vintage</string>
   <string name="operation_remove_from_face_album">Supprimer de cet album</string>
   <string name="photo_save_succeed">Image enregistrée</string>
