@@ -204,7 +204,7 @@
   <string name="contact_detail_miprofile_accept">Échange de fiches de contact</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Impossible d'échanger des fiches de contact"</string>
   <string name="contact_detail_miprofile_accept_success_toast">Fiches de contact échangées</string>
-  <string name="contact_detail_miprofile_binded_label">Ajoutée</string>
+  <string name="contact_detail_miprofile_binded_label">Vérifiée</string>
   <string name="contact_detail_miprofile_exchange_closed">"Aucun numéro de téléphone est associé à ce compte Mi
 Les fiches de contact sont désactivés"</string>
   <string name="contact_detail_miprofile_privacy_settings">Vos contacts doivent obtenir la permission pour visualiser vos fiches de contact</string>

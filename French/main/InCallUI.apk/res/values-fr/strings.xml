@@ -101,7 +101,7 @@
   <string name="voicemail">Messagerie vocale</string>
   <string name="voicemail_abbreviated">MV :</string>
   <string name="networks">Opérateurs de réseau</string>
-  <string name="call_settings">Paramètres</string>
+  <string name="call_settings">Téléphone</string>
   <string name="additional_gsm_call_settings">Autres paramètres</string>
   <string name="sum_gsm_call_settings">Autres paramètres d\'appel \"GSM uniquement"</string>
   <string name="additional_cdma_call_settings">Autres paramètres d\'appel CDMA</string>
