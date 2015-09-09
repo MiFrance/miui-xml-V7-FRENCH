@@ -43,6 +43,8 @@
   <string name="application">Apps</string>
   <string name="back">Retour</string>
   <string name="bedroom">Chambre</string>
+  <string name="bind_stb_dlg">Associer la Set Top Box pour changer de chaîne</string>
+  <string name="bind_stb_dlg_agree">associer maintenant</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Select manufacturer</string>
   <string name="brand_title_all">All</string>
@@ -106,6 +108,7 @@
   <string name="hot_mode">Chauffage</string>
   <string name="hot_videos">Popular</string>
   <string name="hour">h</string>
+  <string name="humidity">Humidité:</string>
   <string name="input_complete">OK</string>
   <string name="input_source">Source</string>
   <string name="input_speech_button">Press &amp; hold, then speak your command</string>
@@ -178,8 +181,8 @@
   <string name="not_respond">Échec</string>
   <string name="office">Travail</string>
   <string name="operator">Operator</string>
-  <string name="other">Other</string>
-  <string name="outdoor_temp">Outdoor temp %1$d ℃</string>
+  <string name="other">Autre</string>
+  <string name="outdoor_temp">Température ext. %1$d ℃</string>
   <string name="outdoor_temp_unknown">Unknown</string>
   <string name="place_frame">"Localisation : "</string>
   <string name="please_enter">"Input field can't be empty"</string>
@@ -210,6 +213,7 @@
   <string name="select_brand">Sélectionner la marque de %s</string>
   <string name="select_device">Sélectionner le type d\'appareil</string>
   <string name="select_dvb_carrier">Sélectionner le fournisseur d\'accès</string>
+  <string name="service_info">Information de Service</string>
   <string name="setting_airkan">AFFICHAGE SANS FIL</string>
   <string name="setting_common">GÉNÉRAUX</string>
   <string name="setting_version">Version %1$s</string>
@@ -282,6 +286,7 @@
   <string name="virtual_keyhboard">Use device keyboard</string>
   <string name="virtual_keyhboard_intro">"Use your device's keyboard to type on display"</string>
   <string name="volume">Volume</string>
+  <string name="weather_out">Température extérieure:</string>
   <string name="yes">OK</string>
   <string name="guide">Guide</string>
   <string name="edit_ir_device">Édition de la télécommande</string>
@@ -333,6 +338,7 @@
   <string name="passport_error_dup_phone">Ce n° de téléphone est déjà associé à un autre compte</string>
   <string name="passport_error_email">L\'adresse e-mail saisie est invalide</string>
   <string name="passport_error_empty_captcha_code">Entrez le code passport_captcha</string>
+  <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
   <string name="passport_error_empty_phone_num">Entrez votre n° de téléphone</string>
   <string name="passport_error_empty_pwd">Entrez votre mot de passe</string>
   <string name="passport_error_empty_username">Entrez votre nom d\'utilisateur</string>
@@ -363,7 +369,7 @@
   <string name="passport_input_verify_code_hint">Entrer le code de vérification</string>
   <string name="passport_license_host_unreachable">"Pas de connexion réseau. Vous pouvez voir cette page sur %s."</string>
   <string name="passport_loading">Chargement…</string>
-  <string name="passport_login">Connexion</string>
+  <string name="passport_login">Connexion à un compte existant</string>
   <string name="passport_login_failed">"Échec à la connexion"</string>
   <string name="passport_login_instead_reg">Utiliser ce numéro</string>
   <string name="passport_login_instead_reg_with_email">Utiliser cet e-mail</string>
@@ -377,7 +383,7 @@
   <string name="passport_phone_num_hint_text">N° de téléphone</string>
   <string name="passport_prev">Retour</string>
   <string name="passport_privacy_policy">Politique de confidentialité</string>
-  <string name="passport_provision_skip_login"><u>Ignorer</u></string>
+  <string name="passport_provision_skip_login"><u>Ignorer cette étape</u></string>
   <string name="passport_quick_login_dialog_step2_title">Vérification en 2 étapes</string>
   <string name="passport_quick_login_dialog_title">Vérifier le mot de passe</string>
   <string name="passport_quick_login_step2_title">Vérification en 2 étapes</string>
@@ -385,7 +391,7 @@
   <string name="passport_re_get_verify_code">Récupérer le code à nouveau</string>
   <string name="passport_re_register">Se connecter</string>
   <string name="passport_reg_failed">"Impossible d'enregistrer le compte"</string>
-  <string name="passport_reg_new">Créer un compte Mi</string>
+  <string name="passport_reg_new">Créer un compte Mi gratuitement</string>
   <string name="passport_reg_sms_send_prompt">Envoyer le code de vérification à %s</string>
   <string name="passport_reg_success">Compte créé</string>
   <string name="passport_reg_success_summary">%1$s a été rattaché à votre compte. Vous pouvez l\'utiliser pour vous connecter ou réinitialiser votre mot de passe.</string>
@@ -428,6 +434,7 @@
   <string name="passport_wrong_phone_number_format">Le format du n° de téléphone saisi est invalide</string>
   <string name="passport_wrong_vcode">Le code saisi est incorrect</string>
   <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes et aux autres services Mi, d\'où que vous soyez.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">La connexion à votre compte Mi nécessite un accès Internet. De plus, la localisation, Mi Cloud et Mi VIP seront automatiquement activés.</string>
   <string name="upgrade_already_latest">Aucune mise à jour disponible</string>
   <string name="upgrade_current_version">Version actuelle : %1s</string>
   <string name="upgrade_download">Télécharger</string>
@@ -450,6 +457,7 @@
   <string name="match_stb_intro_up">Set-top box Up key</string>
   <string name="match_ac_intro_mode">Open Air conditioner</string>
   <string name="match_ac_intro_power">Open Air conditioner</string>
+  <string name="match_count_frame">Associés %1$d/%2$d distants</string>
   <string name="match_is_respond">Did the remote respond?</string>
   <string name="passport_remove_account_notice">After exiting, how do you want to handle contacts and notes on your phone?</string>
   <string name="passport_data_keep_in_device">Remember password</string>

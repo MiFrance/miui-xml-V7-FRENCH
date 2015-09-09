@@ -101,7 +101,7 @@
     <item quantity="one">Un nouveau visage peut aussi correspondre à %2$s >></item>
   </plurals>
   <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos sur %2$s à ajouter</item>
+      <item quantity="other">%1$d photos sur %2$s à ajouter</item>
         <item quantity="one">%1$d photo sur %2$s à ajouter</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
@@ -115,6 +115,30 @@
     <plurals name="baby_age_subtitle_month">
         <item quantity="other">%1$d mois</item>
         <item quantity="one">%1$d mois</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d images à transférer</item>
+        <item quantity="one">Une image à transférer</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d vidéos à transférer</item>
+        <item quantity="one">Une vidéo à transférer</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d vidéos et images à transférer</item>
+        <item quantity="one">Une vidéo ou image à transférer</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Transfert de %1$d images…</item>
+        <item quantity="one">Transfert d\'une image…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Transfert de %1$d vidéos…</item>
+        <item quantity="one">Transfert d\'une vidéo…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Transfert de %1$d vidéos et images…</item>
+        <item quantity="one">Transfert d\'une vidéo ou image…</item>
     </plurals>
   <plurals name="confirm_delete_album">
     <item quantity="other">Supprimer %1$s albums (%2$s au total) ?</item>

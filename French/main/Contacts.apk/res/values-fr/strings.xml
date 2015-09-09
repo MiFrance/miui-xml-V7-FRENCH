@@ -982,6 +982,7 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="status_away">Absent</string>
   <string name="status_busy">Occupé</string>
   <string name="strequentList">Favoris</string>
+  <string name="success_message_import_from_account">Import effectué</string>
   <string name="summary_kind_title">Résumé</string>
   <string name="take_new_photo">Prendre une autre photo</string>
   <string name="take_photo">Prendre une photo</string>

@@ -107,4 +107,28 @@
       <item quantity="few">%1$d fichiers reçus pour l\'appli %2$s</item>
       <item quantity="many">%1$d fichiers reçus pour l\'appli %2$s</item>
   </plurals>
+  <plurals name="file_notify_title_wechat_video">
+      <item quantity="other">%1$d fichiers reçus de WeChat</item>
+      <item quantity="zero">%1$d fichier reçu de WeChat</item>
+      <item quantity="one">%1$d fichier reçu de WeChat</item>
+      <item quantity="two">%1$d fichiers reçus de WeChat</item>
+      <item quantity="few">%1$d fichiers reçus de WeChat</item>
+      <item quantity="many">%1$d fichiers reçus de WeChat</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_video_expire">
+      <item quantity="other">%1$d fichiers vidéo de WeChat vont expirer</item>
+      <item quantity="zero">%1$d fichier vidéo de WeChat va expirer</item>
+      <item quantity="one">%1$d fichier vidéo de WeChat va expirer</item>
+      <item quantity="two">%1$d fichiers vidéo de WeChat vont expirer</item>
+      <item quantity="few">%1$d fichiers vidéo de WeChat vont expirer</item>
+      <item quantity="many">%1$d fichiers vidéo de WeChat vont expirer</item>
+  </plurals>
+  <plurals name="backup_message_wechat_video">
+      <item quantity="other">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
+      <item quantity="zero">%1$d fichier vidéo temporaire de WeChat va être supprimé, souhaitez-vous le conserver ?</item>
+      <item quantity="one">%1$d fichier vidéo temporaire de WeChat va être supprimé, souhaitez-vous le conserver ?</item>
+      <item quantity="two">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
+      <item quantity="few">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
+      <item quantity="many">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
+  </plurals>
 </resources>
