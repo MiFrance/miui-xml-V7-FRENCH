@@ -173,7 +173,7 @@
   <string name="cloud_antispam_mark">Signaler spam</string>
   <string name="cloud_antispam_title">Anti-Spam Cloud</string>
   <string name="cloud_recommend_msg">Tapez pour synchroniser les contacts avec Mi Cloud.</string>
-  <string name="cloud_state_disabled">La synchronisation sur Mi Cloud est dédsactivée</string>
+  <string name="cloud_state_disabled">La synchronisation sur Mi Cloud est désactivée</string>
   <string name="cloud_state_loading">Un moment svp…</string>
   <string name="cloud_state_sync_finished">Synchroniser avec Mi Cloud</string>
   <string name="cloud_state_syncing">Synchronisé avec Mi Cloud</string>

@@ -51,7 +51,11 @@
     <string name="clean_content_two">%1$s et %2$s</string>
     <string name="clean_content_zero">"Ne rien nettoyer"</string>
     <string name="confirm_auto_cleaner">OK</string>
+    <string name="deepclean_app_content">Désinstaller les applis non utilisées depuis 7 jours</string>
+    <string name="deepclean_cache_content">Supprimer les données générées par les applis</string>
     <string name="deepclean_cache_header_left">Fichiers cache : %d</string>
+    <string name="deepclean_large_content">Supprimer les fichiers dépassant 10 Mio</string>
+    <string name="deepclean_title_uninstall_apps">Applications rarement utilisées</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Sauvegarder et la désinstaller la sélection ?</string>
     <string name="dialog_msg_check_all">%1$s contient %2$d éléments</string>
     <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être nécessaire de réinstaller la ROM</string>
@@ -150,6 +154,7 @@
     <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>
     <string name="pref_title_open_optimizer_cloud_scan">Utiliser le moteur d\'analyse en ligne</string>
     <string name="pref_title_open_optimizer_memory_scan">Nettoyage de la mémoire</string>
+    <string name="similar_image_desc">Supprimer les photos similaires</string>
     <string name="summary_auto_cleaner">Nettoyer votre système automatiquement tous les 3 jours ?</string>
     <string name="summary_delete_cache">Certaines applis ont besoin du cache pour fonctionner normalement.</string>
     <string name="summary_delete_large_file">"Certains fichiers volumineux peuvent être utiles quand vous n'êtes pas connectés à internet (par ex. Cartes, Plannings, etc). Assurez-vous que ce fichier ne vous sert pas."</string>
