@@ -110,7 +110,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="virus_scan_clear">Supprimer</string>
   <string name="virus_scan_install">" "<u>Poursuivre l\'installation</u>" "</string>
   <string name="virus_scan_is_risk">Cette application présente un risque !</string>
-  <string name="virus_scan_is_virus">Cette application contient un virus, veuillez la supprimée immédiatement !</string>
+  <string name="virus_scan_is_virus">Cette application contient un virus, veuillez la supprimer immédiatement !</string>
   <string name="permission_group_title_charges_related">Payant</string>
   <string name="permission_group_title_privacy_related">Vie privée</string>
   <string name="permission_group_title_media_related">Multimédia</string>

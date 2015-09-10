@@ -480,11 +480,11 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="empty_title_apk">Aucun fichier apk trouvé</string>
   <string name="empty_title_residual">Aucun résidu trouvé</string>
   <string name="toast_garbage_cleanup_success">Nettoyage effectué</string>
-  <string name="hints_cache_header_left">Fichiers cache : %d</string>
-  <string name="hints_ad_header_left">Journaux : %d</string>
-  <string name="hints_apk_header_left">Paquets d\'installation : %d</string>
-  <string name="hints_large_file_header_left">Fichiers volumineux : %d</string>
-  <string name="hints_residual_header_left">Résidus : %d</string>
+  <string name="hints_cache_header_left">Fichiers cache</string>
+  <string name="hints_ad_header_left">Journaux</string>
+  <string name="hints_apk_header_left">Paquets d\'installation</string>
+  <string name="hints_large_file_header_left">Fichiers volumineux</string>
+  <string name="hints_residual_header_left">Résidus</string>
   <string name="hints_installed_apps_header_left">Applications installées : %d</string>
   <string name="deepclean_cache_header_left">Fichiers cache : %d</string>
   <string name="hints_loading_text">Chargement…</string>
@@ -645,7 +645,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="permission_close_permission_control_dialog_msg">"Quand le Gestionnaire de permissions est désactivé, les applications ne demanderont pas votre permission avant de lire vos contacts, voir votre historique d'appel, changer un paramètre système, accéder à la caméra ou autre ressource."</string>
   <string name="permission_close_permission_control_dialog_title">Désactiver le Gestionnaire de permissions ?</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne demanderont pas votre permission avant de lire vos contacts, voir votre historique d'appel, changer un paramètre système, accéder à la caméra ou autre ressource. Vous pouvez activer cette fonctionnalité dans les paramètres de Permissions."</string>
-  <string name="permission_permission_control_closed_desc_dialog_title">Le gestionnaire de permissions est désactivé</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Gestionnaire de permissions désactivé</string>
   <string name="settings_title_permission">Paramètres de Permissions</string>
   <string name="menu_item_app_permissions_control">Gestionnaire de permissions</string>
   <string name="power_center_auto_shutdown">Planifier les allumages/extinctions</string>

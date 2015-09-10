@@ -2604,7 +2604,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="check_update">Vérifiez MàJ</string>
   <string name="checking_for_updates">Vérification de la disponibilité de mises à jour…</string>
   <string name="children_mode_enable_title">Contrôle parental</string>
-  <string name="children_mode_set_apps_title">Applications accessible</string>
+  <string name="children_mode_set_apps_title">Applications accessibles</string>
   <string name="children_mode_tips_off">Après avoir activé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil.</string>
   <string name="children_mode_tips_on">Après avoir désactivé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil.</string>
   <string name="children_mode_title">Contrôle parental</string>

@@ -68,11 +68,11 @@
     <string name="empty_title_large_files">Aucun fichier volumineux trouvé</string>
     <string name="empty_title_residual">Aucun résidu trouvé</string>
     <string name="header_optimizer">En utilisant cette fonction, vous acceptez les %s</string>
-    <string name="hints_ad_header_left">Journaux : %d</string>
+    <string name="hints_ad_header_left">Journaux</string>
     <string name="hints_apk_header_left">Paquets</string>
     <string name="hints_apk_version">Version : %s</string>
     <string name="hints_app_uninstall_residual">Effacer les fichiers résiduels ?</string>
-    <string name="hints_cache_header_left">Fichiers cache : %d</string>
+    <string name="hints_cache_header_left">Fichiers cache</string>
     <string name="hints_cleanfinish">Nettoyage effectué</string>
     <string name="hints_finish_quick_cleanup">Nettoyage effectué</string>
     <string name="hints_finish_quick_cleanup_title">Nettoyage effectué, %s libérés</string>
@@ -98,10 +98,11 @@
     <string name="hints_list_item_keep">Conserver</string>
     <string name="hints_list_item_lock">Conserver</string>
     <string name="hints_loading_text">Chargement…</string>
+    <string name="hints_memory_header_left">Mémoire</string>
     <string name="hints_quick_cleanning">Nettoyage…</string>
     <string name="hints_quick_cleanuping">Optimisation…</string>
     <string name="hints_quick_scanning">Analyse…</string>
-    <string name="hints_residual_header_left">Résidus : %d</string>
+    <string name="hints_residual_header_left">Résidus</string>
     <string name="hints_storage_free">Libre</string>
     <string name="hints_storage_free_size">%s disponibles</string>
     <string name="hints_title_garbage">de déchets</string>
