@@ -324,7 +324,9 @@
   <string name="multiface_crop_help">Appuyer sur un visage pour commencer</string>
   <string name="must_pick_file">Sélectionner une image</string>
   <string name="name_wrong">"Ce n'est pas %s"</string>
+  <string name="need_to_turn_on_network">Connexion mobile</string>
   <string name="need_to_turn_on_sync">Activer la synchronisation avec Mi Cloud.</string>
+  <string name="need_to_turn_on_wlan">Connexion au Wi-Fi</string>
   <string name="negative">Négatif</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="no">Non</string>
@@ -340,6 +342,7 @@
   <string name="none_picture">Aucune photo trouvée dans la galerie</string>
   <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'albums récents</string>
   <string name="not_show_hidden_albums">Ne pas afficher les albums masqués</string>
+  <string name="number_of_uploading_finish">Tous les fichiers ont été transférés sur Mi Cloud</string>
   <string name="open">Activer</string>
   <string name="open_public_message">Générer une URL et l\'envoyer à des amis</string>
   <string name="open_public_title">Partager publiquement</string>
@@ -481,6 +484,7 @@
   <string name="sync_album_in_proecess">L\'album est actuellement en cours de synchronisation, veuillez patienter…</string>
   <string name="sync_album_set_error">Impossible de télécharger la liste des albums. Veuillez réessayer plus tard.</string>
   <string name="sync_album_summary">Synchronise vos photos et captures d\'écran avec Mi Cloud.</string>
+  <string name="sync_cloud_space_full">Stockage Cloud saturé</string>
   <string name="sync_history_power_on">Synchroniser lors de la charge</string>
   <string name="sync_only_in_wifi">Wi-Fi uniquement</string>
   <string name="sync_only_in_wifi_alert">Désactiver la synchronisation via Wi-Fi uniquement peut engendrer une consommation élevée de données mobiles.</string>
@@ -561,7 +565,6 @@
   <string name="start_slide_show">Démarrer le diaporama</string>
   <string name="click_to_add_picture">Appuyer pour ajouter des images</string>
   <string name="sync_in_progress_message">Synchronisation en cours…</string>
-  <string name="sync_ok">Synchronisé</string>
   <string name="alert_init_merged_title">Information</string>
   <string name="alert_init_merged_message">Dorénavant les photos stockées sur votre appareil et celles stockées sur Mi Cloud seront affichées ensemble.</string>
   <string name="item_not_sync_for_origin_video">Impossible de télécharger des vidéos non synchronisées avec Mi Cloud.</string>

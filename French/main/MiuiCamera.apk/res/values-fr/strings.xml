@@ -31,6 +31,7 @@
   <string name="accessibility_video_pause_button">Bouton pause vidéo</string>
   <string name="accessibility_setting_button">Bouton paramètres additionnels</string>
   <string name="pref_camera_facedetection_title">Détection de visage</string>
+  <string name="pref_camera_fisheye_title">Fish eye</string>
   <string name="effect_setting_top_text">Effets</string>
   <string name="pref_face_beauty_title">Teint de peau</string>
   <string name="Import">Importer</string>
@@ -327,6 +328,7 @@
   <string name="pref_camera_snap_enable_summary">Lorsque l\'écran est éteint, appuyez et maintenez la touche Volume Bas pour entrer dans le mode de prise rapide. Appuyez à nouveau pour prendre une photo.</string>
   <string name="pref_camera_snap_enable_title">Mode de prise rapide</string>
   <string name="pref_camera_sound_title">Son de déclenchement</string>
+  <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_title">Mise au point tactile</string>
@@ -431,7 +433,9 @@
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
   <string name="simple_mode_button_text_slow_video">Quitter le mode time-lapse</string>
+  <string name="simple_mode_button_text_tilt_shift">Quitter le mode Tilt-shift</string>
   <string name="simple_mode_button_text_fast_video">Quitter le mode slow-motion</string>
+  <string name="simple_mode_button_text_fisheye">Quitter le mode Fish eye</string>
   <string name="simple_mode_button_text_countdown">Quitter le minuteur</string>
   <string name="burst_shoot_exit_button_text">Quitter le mode rafale</string>
   <string name="simple_mode_title">Mode simple</string>
@@ -515,6 +519,8 @@
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Arrière</string>
   <string name="pref_audio_focus_title">Focus audio</string>
+  <string name="pref_audio_indicator_entry_off">Audio désactivé</string>
+  <string name="pref_audio_indicator_entry_on">Audio activé</string>
   <string name="pref_camera_asd_night_title">Amélioration auto des photos de nuit</string>
   <string name="pref_camera_asd_popup_title">Notifier l\'utilisateur lorsque le flash est requis</string>
   <string name="pref_camera_delay_capture_title">Minuteur</string>
@@ -524,6 +530,7 @@
   <string name="pref_camera_long_pressing_shutter_title">Appuyez longuement sur le bouton l\'obturateur pour verrouiller AE/AF/AWB</string>
   <string name="simple_mode_button_asd_flash">Quitter le mode flash</string>
   <string name="simple_mode_button_asd_hdr">Quitter le mode HDR</string>
+  <string name="simple_mode_button_text_audio_capture">Couper le son de fermeture de l\'obturateur</string>
   <string name="simple_mode_button_text_delay_capture">Quitter le minuteur</string>
   <string name="simple_mode_button_text_scene">Quitter le mode scène</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>

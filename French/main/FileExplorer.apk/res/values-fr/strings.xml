@@ -60,6 +60,7 @@
   <string name="compress_message">Compresser vers :</string>
   <string name="compress_title">Compresser</string>
   <string name="confirm">OK</string>
+  <string name="confirm_clean">Clean up</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Échec de la copie</string>
   <string name="create_kuaipan_shortcut_pref">Créer un raccourci sur le bureau</string>
@@ -71,8 +72,12 @@
   <string name="decompress_cancel">Annuler</string>
   <string name="decompress_confirm">Décompresser ?</string>
   <string name="decompress_destination_error">"Échec de l'extraction : impossible d'extraire des fichiers ici."</string>
+  <string name="decompress_encrypted_rar_not_supported">L\'archive au format RAR n\'est pas supportée.</string>
   <string name="decompress_fail">Échec de la décompression !</string>
+  <string name="decompress_input_password">Veuillez saisir le mot de passe…</string>
+  <string name="decompress_password_error">Mot de passe incorrect. Veuillez essayer à nouveau…</string>
   <string name="decompress_success">Décompression réussie</string>
+  <string name="decompress_title">Extraire</string>
   <string name="decompress_to">Décompresser vers…</string>
   <string name="decompress_to_here">Décompresser ici</string>
   <string name="delete_failed">Suppression échouée</string>
@@ -294,6 +299,7 @@
   <string name="stay_awake_title">Rester éveillé</string>
   <string name="stop_server">Arrêter le service</string>
   <string name="storage_info">%1$s disponibles</string>
+  <string name="storage_info_detail">Disponible : %1$s Total : %1$s</string>
   <string name="storage_internal">Mémoire de l\'appareil</string>
   <string name="storage_sd_card">Carte SD</string>
   <string name="storage_usb">Périphérique de stockage USB</string>
@@ -399,6 +405,7 @@
   <string name="title_expire_video">Va bientôt expirer</string>
   <string name="title_more_source">Plus d\'applications</string>
   <string name="title_recent">RÉCENTS</string>
+  <string name="title_select_volume">Sélectionner un volume</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="user_guide_continue_use">Ok</string>

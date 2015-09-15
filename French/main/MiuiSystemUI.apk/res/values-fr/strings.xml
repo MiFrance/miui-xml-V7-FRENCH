@@ -140,7 +140,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notification_otg_trackball_out">Trackball déconnecté</string>
   <string name="notification_otg_unknow_in">Périphérique OTG connecté</string>
   <string name="notification_otg_unknow_out">Périphérique OTG déconnecté</string>
-  <string name="notification_template_text">" a un message, touchez pour l\'afficher."</string>
+  <string name="notification_template_text">"Nouvelle notification. Touchez pour l\'afficher."</string>
   <string name="return_to_incall_screen">Appuyer pour revenir à l\'appel</string>
   <string name="screen_button_notification_text">Pour les activer, appuyez sur les boutons d\'accueil et d\'alimentation simultanément.</string>
   <string name="screen_button_notification_title">Les boutons physiques sont désactivés</string>

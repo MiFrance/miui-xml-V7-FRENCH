@@ -122,6 +122,8 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="third_web_filesize">Size</string>
   <string name="third_web_savepath">Location</string>
   <string name="third_web_title">Save</string>
+  <string name="title_tips">Attention</string>
+  <string name="title_unbind_xunlei">Retirer votre compte Xunlei</string>
   <string name="xunlei_brand">Propulsé par Xunlei</string>
   <string name="xunlei_switch">Accélérateur de téléchargement Xunlei</string>
   <string name="turn_off_xunlei_message">Votre vitesse de téléchargement sera, peut-être, réduite.</string>
@@ -186,6 +188,8 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="vip_expire_today_show_info">"Votre abonnement à Xunlei a expiré.</string>
   <string name="vip_show_info">"5 millions d\'abonnés.
 Accélérez les téléchargements sur tous vos appareils."</string>
+  <string name="xiaomi_account_not_exist_message">"Ce compte Mi n'existe pas"</string>
+  <string name="xunlei_account_has_unbind_message">Compte Xunlei retiré</string>
   <string name="high_speed_channel">Accélérateur Xunlei (payant): </string>
   <string name="add_flow_fail_haveget_msg">La période d\'essai a expiré.</string>
   <string name="add_flow_fail_vip_msg">L\'accélérateur Xunlei est actif</string>
@@ -198,6 +202,8 @@ Accélérez les téléchargements sur tous vos appareils."</string>
   <string name="privacy_tip_content">"Utiliser l'accélérateur Xunlei pour les téléchargements ? L\'URL du téléchargement sera envoyé sur les serveurs Xunlei. Les détails de votre compte Mi seront également envoyés pour vérifier si vous avez des abonnements actifs au service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utiliser l\'accélérateur Xunlei ?</string>
+  <string name="quit_btn">Quitter</string>
+  <string name="rebind_btn">Ajouter à nouveau</string>
   <string name="unbind_xunlei_2_success">Compte Xunlei ajouté</string>
   <string name="unbind_xunlei_success">Déconnexion du compte Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>

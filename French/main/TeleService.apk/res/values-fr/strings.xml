@@ -57,7 +57,7 @@
   <string name="not_supported_number_content">"La recharge ne supporte pas les numéros de services. Essayez d'utiliser votre carte SIM habituelle pour passer cet appel. Cet appel sera facturé par votre opérateur."</string>
   <string name="order_by_name">Alphabétique</string>
   <string name="order_by_recent">Fréquemment utilisés</string>
-  <string name="order_id">"N° de commande: "</string>
+  <string name="order_id">N° de commande: %1$s</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Etat de la commande: échec</string>
   <string name="order_status_successful">Etat de la commande: terminée</string>
@@ -411,7 +411,7 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="puk_lock_warning">Veuillez noter que cette carte SIM sera inutilisable en cas de nouvel échec !</string>
   <string name="puk_label">Code PUK</string>
   <string name="enter_pin2_text">PIN2</string>
-  <string name="old_pin2_label">Ancien PIN2</string>
+  <string name="old_pin2_label">PIN2</string>
   <string name="new_pin2_label">Nouveau PIN2</string>
   <string name="confirm_pin2_label">Confirmez le PIN2</string>
   <string name="bad_puk2">"Code PUK2 erroné, veuillez réessayer"</string>

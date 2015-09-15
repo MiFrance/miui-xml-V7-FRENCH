@@ -222,6 +222,7 @@
   <string name="channel_empty_hint">Vide</string>
   <string name="play_count_ci">lectures : %d</string>
   <string name="tv_channel_empty_hint">Vide</string>
+  <string name="tv_cp_info_format">support par %1$s</string>
   <string name="comment_edit_start_hint">Toucher les étoiles pour donner une note</string>
   <string name="select_none">Tout désélectionner</string>
   <string name="select_count_xiang">%d éléments sélectionnés</string>
@@ -232,7 +233,7 @@
   <string name="vp_device_list">Périphériques</string>
   <string name="vp_select_function">Paramètres</string>
   <string name="vp_media_info">Afficher les détails</string>
-  <string name="vp_media_type_banned">Ce type de fichier n\'est pas supporté</string>
+  <string name="vp_media_type_unsported">Ce type de fichier n\'est pas supporté</string>
   <string name="vp_hide_media_info">Masquer les détails</string>
   <string name="vp_screen_shot">Capture d\'écran</string>
   <string name="vp_scale_screen">Ratio d\'aspect</string>
@@ -541,6 +542,12 @@
   <string name="vp_mobile_network_using_negative">Annuler</string>
   <string name="vp_mobile_network_using_positive">Continuer</string>
   <string name="vp_mobile_network_using_warning">Lire les vidéos en ligne via votre connexion mobile aura un coût sur votre consommation de données.</string>
+  <string name="vp_mobile_network_using_warning_line_1">Utiliser vos données mobiles pour visionner une vidéo augmentera votre consommation.</string>
+  <string name="vp_mobile_network_using_warning_line_2">Si vous dépassez votre quota de données, votre opérateur peut vous facturer des frais supplémentaires.</string>
+  <string name="vp_mplayer_error_io">Erreur d\'E/S</string>
+  <string name="vp_mplayer_error_malformed">Média invalide</string>
+  <string name="vp_mplayer_error_server_died">Le serveur multimédia s\'est arrêté</string>
+  <string name="vp_mplayer_error_timed_out">Expiration de l\'opération</string>
   <string name="player_plugin_des">Voir les plug-ins disponibles pour le lecteur vidéo</string>
   <string name="player_plugin_title">Plug-ins du lecteur vidéo</string>
   <string name="vp_player_plugin_dlg_neg_btn">Fermer</string>

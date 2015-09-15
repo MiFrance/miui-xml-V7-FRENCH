@@ -33,7 +33,7 @@
   <string name="level_exp_value" formatted="false">Points : %d/%d</string>
   <string name="level_info_format" formatted="false">"Niveau %d %d/%d
 %s"</string>
-  <string name="millis">%d millisecondes</string>
+  <string name="millis">%dms</string>
   <string name="minutes">%dm</string>
   <string name="my_award">Mes prix</string>
   <string name="no_app">Installez d\'abord l\'application</string>
