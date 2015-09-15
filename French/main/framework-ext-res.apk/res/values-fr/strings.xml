@@ -103,5 +103,7 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="perm_send_push_dspt">Autoriser les messages push Mi</string>
   <string name="perm_send_push_lab">Envoyer un message push</string>
   <string name="permdesc_manageLocationPolicy">Autorise l\'appli à gérer les politiques de localisation et définir des règles spécifiques à chaque application.</string>
+  <string name="permdesc_bindJobService">Cette permission permet au système Android de lancer l\'application en arrière-plan à la demande.</string>
   <string name="permlab_manageLocationPolicy">Gérer la politique de localisation</string>
+  <string name="permlab_bindJobService">"lance le service en arrière-plan de l\'application"</string>
 </resources>
