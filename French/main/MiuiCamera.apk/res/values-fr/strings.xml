@@ -530,7 +530,6 @@
   <string name="pref_camera_long_pressing_shutter_title">Appuyez longuement sur le bouton l\'obturateur pour verrouiller AE/AF/AWB</string>
   <string name="simple_mode_button_asd_flash">Quitter le mode flash</string>
   <string name="simple_mode_button_asd_hdr">Quitter le mode HDR</string>
-  <string name="simple_mode_button_text_audio_capture">Couper le son de fermeture de l\'obturateur</string>
   <string name="simple_mode_button_text_delay_capture">Quitter le minuteur</string>
   <string name="simple_mode_button_text_scene">Quitter le mode scène</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
@@ -539,8 +538,6 @@
   <string name="pref_camera_flashmode_entry_torch">Torche</string>
   <string name="pref_camera_hdr_entry_off">Inactif</string>
   <string name="do_not_save">Ne pas enregistrer</string>
-  <string name="pref_audio_indicator_entry_off">Déclench. audio</string>
-  <string name="pref_audio_indicator_entry_on">Déclench. audio</string>
   <string name="start_capture">OK</string>
   <string name="confirm_location_alert">Enregistrer les coordonnées de localisation</string>
   <string name="confirm_location_title">Se souvenir du lieu des photos ?</string>
