@@ -39,6 +39,10 @@
       <item quantity="other">%d pistes vont être envoyées</item>
       <item quantity="one">1 piste va être envoyée</item>
   </plurals>
+  <plurals name="NPlaylist_delete_confirm">
+      <item quantity="other">Supprimer %d listes de lecture ?</item>
+      <item quantity="one">Supprimer %d liste de lecture ?</item>
+  </plurals>
   <plurals name="Nnew_tracks_count">
     <item quantity="other">%d nouveaux</item>
     <item quantity="one">1 nouvelle</item>
@@ -47,8 +51,36 @@
     <item quantity="other">%d chansons similaires</item>
     <item quantity="one">%d chanson similaire</item>
   </plurals>
-     <plurals name="Nnew_local_audios">
-        <item quantity="other">%d pistes ajoutées</item>
-        <item quantity="one">%d piste ajoutée</item>
-     </plurals>
+  <plurals name="Nartists_count">
+      <item quantity="other">%d artistes</item>
+      <item quantity="one">%d artiste</item>
+  </plurals>
+  <plurals name="Ngroups_count">
+      <item quantity="other">%d groupes</item>
+      <item quantity="one">%d groupe</item>
+  </plurals>
+  <plurals name="dialog_delete_descript">
+      <item quantity="other">Supprimer %d chansons ?</item>
+      <item quantity="one">Supprimer %d chanson ?</item>
+  </plurals>
+  <plurals name="dialog_remove_descript">
+      <item quantity="other">Retirer %d chansons ?</item>
+      <item quantity="one">Retirer %d chanson ?</item>
+  </plurals>
+  <plurals name="Nnew_local_audios">
+     <item quantity="other">%d pistes ajoutées</item>
+     <item quantity="one">%d piste ajoutée</item>
+  </plurals>
+  <plurals name="Nquit_warning">
+      <item quantity="other">Le lecteur s\'arrêtera dans %d minutes</item>
+      <item quantity="one">Le lecteur s\'arrêtera dans %d minute</item>
+  </plurals>
+  <plurals name="multichoice_title">
+      <item quantity="other">%d éléments sélectionnés</item>
+      <item quantity="one">%d élément sélectionné</item>
+  </plurals>
+  <plurals name="song_already_favorite">
+      <item quantity="other">Les chansons ont été marquées comme favorites.</item>
+      <item quantity="one">La chanson a été marquée comme favorite.</item>
+  </plurals>
 </resources>

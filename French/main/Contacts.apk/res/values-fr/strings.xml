@@ -383,6 +383,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="email_mobile">Envoyer un e-mail à un mobile</string>
   <string name="email_other">Envoyer un e-mail</string>
   <string name="email_work">Envoyer un e-mail à une adresse professionnelle</string>
+  <string name="emergency_number_label">Numéro d\'urgence</string>
   <string name="emptyGroup">Ce groupe est vide</string>
   <string name="empty_divider_title">Vous pouvez :</string>
   <string name="enter_contact_name">Saisissez le nom du contact</string>
@@ -456,7 +457,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="import_all_sim_entries_miui">Importer tous les contacts</string>
   <string name="import_all_vcard_string">Importer tous les fichiers de carte de visite</string>
   <string name="import_contact_card_button">Importer</string>
-  <string name="import_failure_no_vcard_file">Aucune carte de visite dans le stockage</string>
+  <string name="import_failure_no_vcard_file">Aucune carte de visite trouvée dans le stockage.</string>
   <string name="import_from_other_phone">Importer à partir d\'un autre téléphone</string>
   <string name="import_from_sdcard">Importer…</string>
   <string name="import_from_sim">Importer depuis la carte SIM</string>
@@ -501,6 +502,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="in_call_show_long_press_to_record">Appuyez &amp; maintenez pour enregistrer</string>
   <string name="in_call_show_pick_video">Choisissez</string>
   <string name="in_call_show_preview">Aperçu</string>
+  <string name="in_call_show_preview_reshoot">Réessayer</string>
   <string name="in_call_show_recording">Enregistrement…</string>
   <string name="in_call_show_reshoot">Réessayer</string>
   <string name="in_call_show_save_completed">Profil vidéo enregistrée</string>
@@ -621,7 +623,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="miprofile_request_agenda_yesterday">%1$s désirent échanger des fiches de contact</string>
   <string name="miprofile_request_agree">Accepte</string>
   <string name="miprofile_request_agree_exchange_profile">Fiches de contact échangées</string>
-  <string name="miprofile_request_agreed">%1$s Consenti à l\'échange de fiches de contact avec moi</string>
+  <string name="miprofile_request_agreed">%1$s a accepté l\'échange de fiches de contact avec moi</string>
   <string name="miprofile_request_alertdialog_message">Votre fiche vous sera envoyé automatiquement après acceptation de votre contact.</string>
   <string name="miprofile_request_alertdialog_title">Fiches de contact échangées</string>
   <string name="miprofile_request_clear_alertdialog_message">Effacer l\'historique des échanges de fiches de contact ?</string>
@@ -1055,8 +1057,8 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="refresh">Actualiser</string>
   <string name="t9_search_guide_pinyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
   <string name="t9_search_guide_zhuyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
-  <string name="yellowPageNavigationIconLabel">Pages jaunes</string>
-  <string name="yellowPageNavigationLabel">Pages jaunes</string>
+  <string name="yellowPageNavigationIconLabel">Répertoire</string>
+  <string name="yellowPageNavigationLabel">Répertoire</string>
   <string name="yellowpage_navigation_no_content">Aucun résultat</string>
   <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
   <string name="yellowpage_navigation_search_offline_hint">Réseau indisponible</string>

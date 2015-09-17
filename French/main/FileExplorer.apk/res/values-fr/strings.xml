@@ -56,7 +56,7 @@
   <string name="clean_trash_box">Vider la corbeille</string>
   <string name="cleaning">Nettoyage…</string>
   <string name="close">Fermer</string>
-  <string name="compress_fail">La compression a échoué, la destination existe déjà</string>
+  <string name="compress_fail">"Echec de la compression. Un fichier du même nom existe déjà."</string>
   <string name="compress_message">Compresser vers :</string>
   <string name="compress_title">Compresser</string>
   <string name="confirm">OK</string>
@@ -70,16 +70,16 @@
   <string name="cution">Conseils</string>
   <string name="data_capacity">Espace : %1$s</string>
   <string name="decompress_cancel">Annuler</string>
-  <string name="decompress_confirm">Décompresser ?</string>
-  <string name="decompress_destination_error">"Échec de l'extraction : impossible d'extraire des fichiers ici."</string>
-  <string name="decompress_encrypted_rar_not_supported">L\'archive au format RAR n\'est pas supportée.</string>
-  <string name="decompress_fail">Échec de la décompression !</string>
-  <string name="decompress_input_password">Veuillez saisir le mot de passe…</string>
-  <string name="decompress_password_error">Mot de passe incorrect. Veuillez essayer à nouveau…</string>
-  <string name="decompress_success">Décompression réussie</string>
+  <string name="decompress_confirm">Extraire ?</string>
+  <string name="decompress_destination_error">"Impossible d'extraire des fichiers ici."</string>
+  <string name="decompress_encrypted_rar_not_supported">Les archives au format RAR ne sont pas supportées.</string>
+  <string name="decompress_fail">Échec de l\'extraction. Un fichier du même nom existe déjà ou l\'archive est corrompue.</string>
+  <string name="decompress_input_password">Entrez le mot de passe</string>
+  <string name="decompress_password_error">Le mot de passe saisi est incorrect.</string>
+  <string name="decompress_success">Extraction terminée</string>
   <string name="decompress_title">Extraire</string>
-  <string name="decompress_to">Décompresser vers…</string>
-  <string name="decompress_to_here">Décompresser ici</string>
+  <string name="decompress_to">Extraire les fichiers vers…</string>
+  <string name="decompress_to_here">Extraire ici</string>
   <string name="delete_failed">Suppression échouée</string>
   <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
   <string name="delete_file_error">"Impossible de supprimer le fichier"</string>
@@ -125,10 +125,10 @@
   <string name="folder_name_empty">Le nom de dossier ne peut être vide</string>
   <string name="folder_name_illegal">Nom de dossier non valide</string>
   <string name="forward_to_web_recycle_prompt"><a href="%1$s">Appuyez ici</a> pour ouvrir la corbeille du cloud</string>
-  <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres et des lettres. Sensible à la casse.</string>
-  <string name="ftp_anonymous_login">FTP anonyme</string>
-  <string name="ftp_invalid_username_or_password">Erreur d\'authentification</string>
-  <string name="ftp_open_port_error">Impossible d\'ouvrir le port FTP sélectionné, vérifiez votre connexion réseau et réessayez.</string>
+  <string name="ftp_account_req_notice">De 4 à 16 caractères maximum, lettres et chiffres uniquement. Sensible à la casse.</string>
+  <string name="ftp_anonymous_login">Connexion anonyme</string>
+  <string name="ftp_invalid_username_or_password">Le nom d\'utilisateur ou le mot de passe saisis sont invalides.</string>
+  <string name="ftp_open_port_error">Impossible d\'ouvrir le port. Vérifiez votre connexion réseau ou changer de numéro de port.</string>
   <string name="ftp_password_hint">Mot de passe</string>
   <string name="ftp_port_number">Port</string>
   <string name="ftp_transfer_secure">Sécuriser le transfert FTP</string>
@@ -144,7 +144,7 @@
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">L\'espace de stockage disponible sur votre compte KuaiPan est insuffisant.</string>
   <string name="kuaipan_prompt">Aide</string>
-  <string name="kuaipan_prompt_message">Le serveur est actuellement indisponible, veuillez réessayer plus tard</string>
+  <string name="kuaipan_prompt_message">Notre serveur est indisponible pour le moment. Veuillez réessayer plus tard…</string>
   <string name="kuaipan_tech_support">Propulsé par kuaipan.cn</string>
   <string name="load_err">Échec du chargement</string>
   <string name="load_more">Voir plus</string>
@@ -284,7 +284,7 @@
   <string name="server_control_advanced_settings">Paramètres avancés</string>
   <string name="server_control_charset">Codage de transfert</string>
   <string name="server_control_settings">Paramètres</string>
-  <string name="share_link_failed">Impossible de créer le lien partagé, veuillez réessayer à nouveau !</string>
+  <string name="share_link_failed">"Echec de génération du lien."</string>
   <string name="show_message">Le fichier ne peut pas être ouvert tant que le téléchargement n\'est pas terminé</string>
   <string name="sign_description">Connexion…</string>
   <string name="signin_error">Réseau actuellement indisponible, veuillez réessayer</string>

@@ -15,6 +15,14 @@
         <item quantity="other">Rappeler dans %d mins</item>
         <item quantity="one">Rappeler dans %d min</item>
     </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Rappel dans %d minutes.</item>
+        <item quantity="one">Rappel dans %d minute.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Les alarmes s\'éteindront après %d minutes</item>
+        <item quantity="one">Les alarmes s\'éteindront après %d minute</item>
+    </plurals>
     <plurals name="timer_message_with_minutes">
         <item quantity="other">%1$d minutes</item>
         <item quantity="one">%1$d minute</item>
