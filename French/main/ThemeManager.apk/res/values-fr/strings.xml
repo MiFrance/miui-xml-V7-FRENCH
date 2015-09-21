@@ -49,9 +49,9 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="download_success">Téléchargé avec succès</string>
   <string name="fail_to_add_account">Impossible d\'ajouter le compte</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
-  <string name="loading">Chargement…</string>
+  <string name="loading">Un instant…</string>
   <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
-  <string name="loading_resource_detail_info">Chargement…</string>
+  <string name="loading_resource_detail_info">Un instant…</string>
   <string name="lockscreen_magazine_subscribe">%1$s adeptes</string>
   <string name="lockscreen_magazine_summary">Obtenir de nouveaux fonds d\'écran directement sur votre écran de verrouillage</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s sélectionné</string>
@@ -82,7 +82,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
-  <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
+  <string name="resource_comment_edit_title">Commentaire à propos de %1$s</string>
   <string name="resource_comment_entry_tips">Commentaires (%1$s)</string>
   <string name="resource_comment_expand_full_text">Développer le texte▼</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
@@ -94,7 +94,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_comment_publish">Envoyer</string>
   <string name="resource_comment_rate">Note :</string>
   <string name="resource_comment_sending">Soumission du commentaire…</string>
-  <string name="resource_comment_title">Commentaires : %1$s</string>
+  <string name="resource_comment_title">Commentaires à propos de %1$s</string>
   <string name="resource_comment_upload_data_invalid">Désolé, le commentaire soumis n\'est pas valide</string>
   <string name="resource_comment_upload_failed">L\'enregistrement du commentaire a échoué</string>
   <string name="resource_comment_upload_hint">Les commentaires seront affichés après avoir été examinés.</string>
@@ -231,7 +231,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Mi.</string>
   <string name="resource_account_login_title">Connexion</string>
   <string name="resource_account_switch">Changer de compte</string>
-  <string name="resource_comment_loading_list">Chargement des commentaires…</string>
+  <string name="resource_comment_loading_list">Un instant…</string>
   <string name="resource_comment_score_count">%1$s utilisateurs</string>
   <string name="resource_exchange">Activer un code</string>
   <string name="resource_exchange_confirm">Confirmer</string>

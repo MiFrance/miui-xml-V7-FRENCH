@@ -176,7 +176,7 @@
   <string name="voicemail">Messagerie vocale</string>
   <string name="voicemail_abbreviated">MV :</string>
   <string name="networks">Opérateurs de réseau</string>
-  <string name="call_settings">Paramètres d\'appel</string>
+  <string name="call_settings">Téléphone</string>
   <string name="additional_gsm_call_settings">Autres paramètres</string>
   <string name="sum_gsm_call_settings">Autres paramètres d\'appel \"GSM uniquement"</string>
   <string name="additional_cdma_call_settings">Autres paramètres d\'appel CDMA</string>
@@ -907,7 +907,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="preference_telocation_summary_countrycode_off">ne pas ajouter automatiquement l\'indicatif du pays</string>
   <string name="preference_telocation_summary_countrycode_on">ajouter automatiquement l\'indicatif du pays</string>
   <string name="telocation_edit_custom_location_title">Configuration de la localisation</string>
-  <string name="telephony_setting">Appels</string>
+  <string name="telephony_setting">Téléphone</string>
   <string name="msim_setting_categery_title">Paramètres de la carte SIM</string>
   <string name="msim_general_setting">Paramètres généraux</string>
   <string name="msim_default_setting">Paramètres par défaut</string>

@@ -252,6 +252,8 @@
   <string name="clear_display_images_whitelist_title">Supprimer les autorisations liées aux images</string>
   <string name="collapse_recipient_details">Réduire les coordonnées du destinataire</string>
   <string name="compose">Nouveau message</string>
+  <string name="compose_attachment_number_limit">Vous ne pouvez ajouter plus de 10 pièces jointes !</string>
+  <string name="compose_picturesexceedlimits">Vous ne pouvez ajouter plus de 5 images dans le message !</string>
   <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi de la réponse en cours…</string>
   <string name="confirm_send_message">Envoyer ce message ?</string>
@@ -983,6 +985,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="contact_edit_set_vip">Activer le mode VIP</string>
   <string name="contact_edit_title_permission">"Permissions des contacts"</string>
   <string name="contact_edit_title_phone_contact">Liste des contacts du téléphone</string>
+  <string name="contact_in_filter_call_phone_str">appel : %s</string>
+  <string name="contact_in_filter_title">De sa provenance.</string>
   <string name="dialog_account_auto_sync_setting_no_open">"La synchro des messages est désactivée, vous ne recevrez pas de nouveaux messages."</string>
   <string name="dialog_auto_sync_setting_no_open">"La synchro est désactivée, vous ne recevrez pas de nouveaux messages."</string>
   <string name="oauth_error_description">Impossible de s\'authentifier</string>

@@ -768,7 +768,7 @@
   <string name="return_to_top">Appuyer sur \"Photo\" pour revenir en haut</string>
   <string name="saturation_abbr">S</string>
   <string name="script">Script</string>
-  <string name="select_item_face">"Photos possibles pour '%s'"</string>
+  <string name="select_item_face">"Est-ce '%s' ?"</string>
   <string name="single_device_project_dialog_checkbox_text">Se rappeler de cet écran</string>
   <string name="single_device_project_dialog_title">Caster sur %s</string>
   <string name="ubifocus_data_invalid">Certaines données de cette image sont corrompues.</string>
@@ -789,7 +789,7 @@
   <string name="face_album_long_tap_tip">Pour sélectionner plusieurs personnes et changer les paramètres de groupe, maintenez une longue pression sur une photo de profil</string>
   <string name="ignore_alert_title">"Ne plus afficher cet album ?"</string>
   <string name="event_create_long_photo">Création de la photo…</string>
-  <string name="not_is">N\'est pas</string>
+  <string name="not_is">Non</string>
   <string name="rename_event">Renommer l\'évènement</string>
   <string name="share_title_more">Plus</string>
   <string name="wechat_timeline_title">Chronologie WeChat</string> 
@@ -801,5 +801,5 @@
   <string name="invite_sharer_title">"Inviter %1$s %2$s"</string>
   <string name="invite_tip">"Partagez les photos de votre bébé"</string>
   <string name="invited_tip">Invité</string>
-  <string name="is">C\'est</string>
+  <string name="is">Oui</string>
 </resources>

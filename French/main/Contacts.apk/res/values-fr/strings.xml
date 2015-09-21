@@ -262,7 +262,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="default_ringtone">Sonnerie par défaut</string>
   <string name="deleteConfirmation">Ce contact sera supprimé.</string>
   <string name="deleteConfirmationDetail">Voulez-vous vraiment supprimer \"%s\" ?</string>
-  <string name="deleteConfirmation_title">Supprimer</string>
+  <string name="deleteConfirmation_title">Supprimer ce contact ?</string>
   <string name="delete_call_log_message">Supprimer l\'historique des appels ?</string>
   <string name="delete_call_log_title">Sélectionnez le journal d\'appels à supprimer ?</string>
   <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d'appel du contact ?"</string>
@@ -848,7 +848,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="quit_dialog_confirm_message">"Vous n'avez aucun contacts de fusionné"</string>
   <string name="quit_dialog_confirm_title">Quitter l\'opération de fusion des contacts ?</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"%s" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"%s" contient des informations provenant de plusieurs comptes. Toute information ne pouvant être supprimée sera masquée dans votre liste de contacts.</string>
   <string name="readOnlyContactWarning">"Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts"</string>
   <string name="readingSimContacts">Lecture des informations de la carte SIM, veuillez patienter…</string>
   <string name="reading_vcard_canceled_title">Lecture des données vCard annulée</string>
@@ -1057,8 +1057,8 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="refresh">Actualiser</string>
   <string name="t9_search_guide_pinyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
   <string name="t9_search_guide_zhuyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
-  <string name="yellowPageNavigationIconLabel">Répertoire</string>
-  <string name="yellowPageNavigationLabel">Répertoire</string>
+  <string name="yellowPageNavigationIconLabel">Pages jaunes</string>
+  <string name="yellowPageNavigationLabel">Pages jaunes</string>
   <string name="yellowpage_navigation_no_content">Aucun résultat</string>
   <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
   <string name="yellowpage_navigation_search_offline_hint">Réseau indisponible</string>

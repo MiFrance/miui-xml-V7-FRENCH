@@ -2597,7 +2597,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="welcome">Bienvenue</string>
   <string name="account_add">Ajouter</string>
   <string name="apply_now_button_text">Mettre à jour</string>
-  <string name="account_list">Tous</string>
+  <string name="account_list">Autres comptes</string>
   <string name="dialog_no">Non</string>
   <string name="dialog_yes">Oui</string>
   <string name="cancel_download_buton_text">Annuler</string>

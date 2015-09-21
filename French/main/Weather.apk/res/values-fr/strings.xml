@@ -4,7 +4,6 @@
 <resources>
   <string name="app_label">Météo</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
-  <string name="view_aqi_time_format">dd/MM/yyyy HH:mm</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="app_name">Météo</string>
   <string name="location_management">Villes</string>
@@ -20,17 +19,10 @@
   <string name="button_allow">OK</string>
   <string name="button_abandon">Abandon changes</string>
   <string name="button_not_allow">Annuler</string>
-  <string name="location_allow_err">Impossible de détecter votre position</string>
   <string name="view_aqi_title">Qualité de l\'air</string>
   <string name="act_weather_find_city_net_no_good">Impossible de se connecter au réseau.</string>
   <string name="act_weather_find_city_click_retry">Réessayer</string>
-  <string name="act_weather_find_city_connect_net">Impossible de se connecter au réseau.</string>
   <string name="act_weather_find_city_searching">Recherche…</string>
-  <string name="loading_weather">Chargement…</string>
-  <string name="act_weather_cycle_link_china">WeatherChina</string>
-  <string name="menu_add">Ajouter une ville</string>
-  <string name="menu_more">Détails</string>
-  <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="location_tag">Me localiser</string>
   <string name="act_weather_find_city_no_result">Aucun résultat</string>
   <string name="act_weather_find_city_added">Ajouté</string>
@@ -49,7 +41,6 @@
   <string name="view_indexes_item_today">Aujourd\'hui</string>
   <string name="view_indexes_item_tommorrow">Demain</string>
   <string name="view_aqi_main_no_data">N/C</string>
-  <string name="activity_main_refresh_time">Mis à jour %1$s</string>
   <string name="view_indexes_wind_unit">km/h</string>
   <string name="activity_main_update_time">Mis à jour %1$s</string>
   <string name="activity_main_update_time_right_now">à l\'instant</string>
@@ -63,7 +54,6 @@
   <string name="activity_main_time_format">dd/MM</string>
   <string name="accuweather_default_url">http://www.accuweather.com</string>
   <string name="accuweather_tag">accu</string>
-  <string name="application_screenorientation">portrait</string>
   <string name="aqi_quality_index_break">IQA %1$s</string>
   <string name="aqi_quality_index_dangerous">IQA %1$s</string>
   <string name="aqi_quality_index_good">IQA %1$s</string>
