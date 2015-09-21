@@ -38,8 +38,8 @@
   <string name="default_send_data_msg">Envoi des données</string>
   <string name="default_receive_data_msg">Réception des données</string>
   <string name="default_close_channel_msg">Canal fermé</string>
-  <string name="stk_dialog_accept">OUI</string>
-  <string name="stk_dialog_reject">NON</string>
+  <string name="stk_dialog_accept">Accepter</string>
+  <string name="stk_dialog_reject">Refuser</string>
   <string name="app_name2">Services SIM2</string>
   <string name="default_setup_call_msg">Appel en cours de paramétrage</string>
   <string name="app_name3">Services SIM3</string>
