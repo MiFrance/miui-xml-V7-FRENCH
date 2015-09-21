@@ -51,7 +51,7 @@
     <string name="clean_content_two">%1$s et %2$s</string>
     <string name="clean_content_zero">"Ne rien nettoyer"</string>
     <string name="confirm_auto_cleaner">OK</string>
-    <string name="deepclean_app_content">Désinstaller les applis non utilisées depuis 7 jours</string>
+    <string name="deepclean_app_content">Désinstaller les applis non utilisées depuis 30 jours</string>
     <string name="deepclean_cache_content">Supprimer les données générées par les applis</string>
     <string name="deepclean_cache_header_left">Fichiers cache : %d</string>
     <string name="deepclean_large_content">Supprimer les fichiers dépassant 10 Mio</string>
@@ -86,6 +86,7 @@
     <string name="hints_garbage_cleanup_result_safe">Optimal</string>
     <string name="hints_garbage_handle_item_content">%1$d éléments, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Aucun élément</string>
+   <string name="hints_install_apps_else">Utilisé depuis %s</string>
     <string name="hints_install_apps_interval">utilisé il y a %d jours</string>
     <string name="hints_install_apps_new">jamais utilisé</string>
     <string name="hints_install_apps_risk">menace détectées</string>
@@ -141,7 +142,7 @@
     <string name="pref_summary_garbage_cleanup_check_time">Me prévient lorsque la Corbeille atteint une certaine taille</string>
     <string name="pref_summary_garbage_process_mode">Afficher des notifications lorsque l\'outil est actif</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Envoi et compare les noms de fichiers inconnus avec les définitions en ligne</string>
-    <string name="pref_summary_open_optimizer_memory_scan">Vérifier et nettoyer automatiquement la mémoire</string>
+    <string name="pref_summary_open_optimizer_memory_scan">Sélectionner automatiquement les applications à nettoyer</string>
     <string name="pref_title_auto_clean_and_alert">Nettoyer automatiquement</string>
     <string name="pref_title_auto_clean_content_choose">Choisir les éléments à nettoyer</string>
     <string name="pref_title_auto_update_cleanup_db">Mises à jour automatiques</string>

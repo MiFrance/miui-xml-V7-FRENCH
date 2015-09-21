@@ -185,7 +185,7 @@
   <string name="cit_sd_plugout_check_title">test du montage de la carte SD</string>
   <string name="cit_sd_unmount">Démonter la carte SD</string>
   <string name="cit_sd_unmount_sucess">La carte SD a été montée avec succès</string>
-  <string name="cit_sim_check_summary">Vérifie les détails de l\'état de la carte SIM</string>
+  <string name="cit_sim_check_summary">Assurez-vous que les informations et l\'état de votre carte SIM sont affichés correctement.</string>
   <string name="cit_sim_check_title">Test de la carte SIM</string>
   <string name="cit_sim_error_unknown">Erreur carte SIM inconnu</string>
   <string name="cit_sim_network_operator">Opérateurs réseau:</string>
@@ -251,7 +251,7 @@
   <string name="cit_usb_OTG_out">Périphérique USB OTG déconnecté</string>
   <string name="cit_usb_charger_in">Chargeur USB connecté</string>
   <string name="cit_usb_charger_out">Chargeur USB déconnecté</string>
-  <string name="cit_version_check_summary">Versions/N° de série logiciel/matériel</string>
+  <string name="cit_version_check_summary">Voici les informations de votre appareil ci-dessous. Veuillez confirmer que les informations en surbrillance sont bien correctes.</string>
   <string name="cit_version_check_title">Informations sur l\'appareil</string>
   <string name="cit_vga_camera_capture">Prendre une photo</string>
   <string name="cit_vga_camera_capture_fail">Impossible de prendre une photo</string>
