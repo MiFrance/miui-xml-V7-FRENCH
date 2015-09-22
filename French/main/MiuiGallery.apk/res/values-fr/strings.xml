@@ -90,7 +90,7 @@
   <string name="baby_album_sharers_page_title">Partager avec la famille</string>
   <string name="baby_birthday">Anniversaire</string>
   <string name="baby_lock_wallpaper">Fond d\'écran de verrouillage</string>
-  <string name="baby_lock_wallpaper_cancelled">Retour au fond d\'écran par défaut</string>
+  <string name="baby_lock_wallpaper_cancelled">Retour au fond d\'écran de verrouillage par défaut</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Appliquer les paramètres actuels ?</string>
   <string name="baby_lock_wallpaper_title">"Utilisez des photos de bébé comme papier peint sur l'écran de verrouillage"</string>
   <string name="baby_name_cannot_empty">Saisissez le nom</string>
@@ -116,7 +116,7 @@
   <string name="camera_setas_wallpaper">Fond d\'écran</string>
   <string name="camera_view_none_message">Les photos et vidéos prises s\'afficheront ici.</string>
   <string name="cancel">Annuler</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Désactiver le fond d\'écran du bébé pour le fond d\'écran par défaut ?</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Restaurer le fond d\'écran de verrouillage par défaut ?</string>
   <string name="cancel_hint">L\'opération a été annulée</string>
   <string name="cannot_delete_sharer_photo">Impossible de supprimer %s élément(s) ajouté(s) par d\'autres utilisateurs.</string>
   <string name="cannot_remove_creator">Impossible de supprimer le propriétaire</string>
@@ -432,9 +432,9 @@
   <string name="send_public_url">Partager l\'URL de l\'album</string>
   <string name="sepia">Sépia</string>
   <string name="set_as_baby_lock_wallpaper">Définir comme fond d\'écran de verrouillage</string>
-  <string name="set_baby_icon_picker_default_title">Définir l\'icône du bébé</string>
-  <string name="set_bg_file_exist_message">Conflit entre les noms des photos</string>
-  <string name="set_bg_picker_default_title">Définir la miniature</string>
+  <string name="set_baby_icon_picker_default_title">Associer une photo</string>
+  <string name="set_bg_file_exist_message">Cet élément existe déjà</string>
+  <string name="set_bg_picker_default_title">Définir la photo d\'arrière-plan</string>
   <string name="set_bg_unknow_reasons">Erreur inconnue</string>
   <string name="set_hidden_album">Masquer</string>
   <string name="set_image">Utiliser l\'image comme</string>
@@ -490,6 +490,7 @@
   <string name="sync_album_in_proecess">L\'album est actuellement en cours de synchronisation, veuillez patienter…</string>
   <string name="sync_album_set_error">Impossible de télécharger la liste des albums. Veuillez réessayer plus tard.</string>
   <string name="sync_album_summary">Synchronise vos photos et captures d\'écran avec Mi Cloud.</string>
+  <string name="sync_battery_low">Batterie faible</string>
   <string name="sync_cloud_space_full">Stockage Cloud saturé</string>
   <string name="sync_history_power_on">Synchroniser lors de la charge</string>
   <string name="sync_only_in_wifi">Wi-Fi uniquement</string>

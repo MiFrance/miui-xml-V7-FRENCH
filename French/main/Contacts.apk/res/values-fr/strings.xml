@@ -210,7 +210,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="contact_detail_miprofile_privacy_settings">Vos contacts doivent obtenir la permission pour visualiser vos fiches de contact</string>
   <string name="contact_detail_miprofile_request">Appuyez pour échanger des fiches</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Échec de l'envoi de la demande"</string>
-  <string name="contact_detail_miprofile_request_subtitle">Après l\'acceptation du destinataire, la photo du profil et les informations du contact seront automatiquement mises à jour</string>
+  <string name="contact_detail_miprofile_request_subtitle">"Mettre à jour automatiquement les informations de ce contact"</string>
   <string name="contact_detail_miprofile_request_success_toast">Demande envoyée</string>
   <string name="contact_detail_miprofile_save">Appuyez pour obtenir la fiche du contact</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Impossible d'obtenir la fiche du contact"</string>

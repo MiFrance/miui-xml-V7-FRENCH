@@ -308,6 +308,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="hints_last_virus_scan_risk">Analysé il y a %d jours : risqué</string>
   <string name="hints_last_virus_scan_virus">Analysé il y a %d jours : dangereux</string>
   <string name="hints_need_quick_scan">Analyse rapide recommandée</string>
+  <string name="hints_need_regular_scan">Analysez régulièrement votre appareil</string>
   <string name="hints_handle_item_text_safe">Aucun résultat</string>
   <string name="hints_handle_item_text_risk">%d</string>
   <string name="hints_handle_item_text_virus">%d</string>

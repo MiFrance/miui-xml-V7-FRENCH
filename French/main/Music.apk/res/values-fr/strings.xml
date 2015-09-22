@@ -88,7 +88,7 @@
   <string name="network_traffic">Trafic réseau</string>
   <string name="ok">OK</string>
   <string name="online_music_enabled_subtitle">Touchez pour écouter vos chansons favorites.</string>
-  <string name="online_music_enabled_summary">Ecoutez et téléchargez vos chansons favorites. Consultez le classement des hits et les listes de lecture à tout moment!</string>
+  <string name="online_music_enabled_summary">Ecoutez et téléchargez vos chansons favorites. Accédez aux hits et aux meilleures playlists à tout moment!</string>
   <string name="online_music_enabled_title">Ecoute en ligne gratuite</string>
   <string name="one_month">1 mois</string>
   <string name="send_to_title">Envoyer à (%1$s)</string>
@@ -271,8 +271,8 @@
   <string name="no_local_songs_selected">Veuillez télécharger la piste avant d\'effectuer cette action</string>
   <string name="no_online_song_selected">Aucune piste sélectionnée</string>
   <string name="is_loading_data">Toujours en cours de chargement. Veuillez patienter et réessayer.</string>
-  <string name="is_scanning">Analyse en cours, veuillez patienter.</string>
-  <string name="is_scanning_support_online">Analyse en cours, veuillez patienter ou sélectionner de la musique en ligne.</string>
+  <string name="is_scanning">Analyse en cours…</string>
+  <string name="is_scanning_support_online">Analyse en cours… (pendant ce temps, n\'hésitez pas à écouter de la musique en ligne)</string>
   <string name="japan_korea_female">Artistes féminines (Japon/Corée)</string>
   <string name="japan_korea_group">Groupes (Japon/Corée)</string>
   <string name="japan_korea_male">Artistes masculins (Japon/Corée)</string>
@@ -319,7 +319,7 @@
   <string name="share_text_song">"Chanson dans Mi Musique : "</string>
   <string name="song_is_empty">Le nom de la chanson ne peut être vide.</string>
   <string name="song_unit">éléments</string>
-  <string name="start_to_download">Début du téléchargement…</string>
+  <string name="start_to_download">Téléchargement…</string>
   <string name="ringtone_not_support">Format musical non pris en charge</string>
   <string name="priority_storage">Utiliser la carte SD externe</string>
   <string name="priority_storage_summary">Télécharge en priorité sur la carte SD externe (si disponible)</string>

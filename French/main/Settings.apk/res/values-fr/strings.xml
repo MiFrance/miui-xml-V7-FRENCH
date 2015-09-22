@@ -1223,7 +1223,8 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="oldman_mode_entry_name">paramètres mode sénior</string>
   <string name="oldman_mode_settings_caption">paramètres mode sénior</string>
   <string name="oldman_mode_enabled_name">activer le mode sénior</string>
-  <string name="oldman_mode_summary">activer ou désactiver le monde sénior, redémarrage requis !</string>
+  <string name="oldman_mode_summary">activer ou désactiver le mode sénior, redémarrage requis !</string>
+  <string name="oldman_mode_summary_cta">Le mode sénior requier un accès à Internet ainsi qu\'à vos contacts, messages et localisation pour fonctionner normalement.</string>
   <string name="oldman_mode_confirm_title">confirmation mode sénior</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">activer le monde sénior ?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">désactiver le monde sénior ?</string>
@@ -2331,7 +2332,8 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="preferred_app_settings">Applications par défaut</string>
   <string name="preferred_app_settings_default">Par défaut</string>
   <string name="preferred_app_settings_reset">Réinitialiser</string>
-  <string name="preferred_app_settings_reset_message">Êtes-vous sûr de vouloir restaurer toutes les applications par défaut ?</string>
+  <string name="preferred_app_settings_reset_button">Réinitialiser</string>
+  <string name="preferred_app_settings_reset_message">Les applications par défaut seront configurées selon les réglages usine de MIUI.</string>
   <string name="preferred_application_title">Préférée %s</string>
   <string name="preferred_application_warning_message">Remplacer l\'appli %1$s par défaut peut augmenter la consommation énergétique, réduire les performances et peut mettre vos données personnelles en danger. L\'utilisation de l\'appli %2$s par défaut est recommandée.</string>
   <string name="preferred_application_warning_replace">Remplacer</string>

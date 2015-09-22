@@ -426,7 +426,7 @@
   <string name="show_images_only">Images uniquement</string>
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
-  <string name="simple_mode_button_text_audio_capture">Quitter le déclenchement audio</string>
+  <string name="simple_mode_button_text_audio_capture">Désactiver le déclenchement par voix</string>
   <string name="simple_mode_button_text_color_effect">Quitter le mode effets</string>
   <string name="simple_mode_button_text_face_beauty">Quitter le mode teint de peau</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
@@ -459,7 +459,7 @@
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">"La prise de photos en rafale n'est pas supportée quand le mode beauté du visage est actif."</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Le mode rafale n\'est pas supporté lorsque le HDR est activé.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n\'est pas supporté quand l\'ISO n\'est défini sur \'auto\'."</string>
-  <string name="toast_start_audio_capture">Émettre un son d\'obturateur lors de la capture</string>
+  <string name="toast_start_audio_capture">Émettre un son lors de la prise de photo</string>
   <string name="undo">Annuler</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Caméra</string>

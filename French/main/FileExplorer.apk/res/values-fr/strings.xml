@@ -69,6 +69,11 @@
   <string name="create_share_link_description">Création d\'un lien de partage…</string>
   <string name="cution">Conseils</string>
   <string name="data_capacity">Espace : %1$s</string>
+  <string name="data_consumption_cancel">Quitter</string>
+  <string name="data_consumption_checkbox_hint">"Ne plus afficher"</string>
+  <string name="data_consumption_confirm">OK</string>
+  <string name="data_consumption_message">Cette application requiert un accès Internet via Wi-Fi pour fonctionner correctement.</string>
+  <string name="data_consumption_title">Connexion Internet</string>
   <string name="decompress_cancel">Annuler</string>
   <string name="decompress_confirm">Extraire ?</string>
   <string name="decompress_destination_error">"Impossible d'extraire des fichiers ici."</string>
