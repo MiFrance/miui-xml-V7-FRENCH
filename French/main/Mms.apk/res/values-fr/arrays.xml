@@ -106,4 +106,8 @@
         <item>1 jour</item>
         <item>Maximum</item>
      </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Reçu</item>
+        <item>Envoyé</item>
+    </string-array>
 </resources>

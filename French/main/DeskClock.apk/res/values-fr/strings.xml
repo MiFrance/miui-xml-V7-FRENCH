@@ -106,6 +106,7 @@
   <string name="stopwatch_title">Chrono</string>
   <string name="system_time_setting">Paramètres</string>
   <string name="time">Heure</string>
+  <string name="timer_alarm_cancel_pad">Touchez l\'écran pour arrêter la sonnerie</string>
   <string name="timer_alert_alert_silenced">Minuteur arrêté après %d minutes.</string>
   <string name="timer_continue">Reprendre</string>
   <string name="timer_got_it">OK</string>

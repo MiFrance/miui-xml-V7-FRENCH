@@ -38,7 +38,7 @@
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="upgrade">Mise à jour:</string>
   <string name="find_ktv">Scanner un code QR KTV</string>
-  <string name="action_item_add">Ajouter à</string>
+  <string name="action_item_add">Ajouter à la playlist</string>
   <string name="action_item_add_to_current_playlist">Playlist actuelle</string>
   <string name="action_item_add_to_new_playlist">Nouvelle playlist</string>
   <string name="action_item_cancel">Annuler</string>
@@ -242,7 +242,7 @@
   <string name="dialog_button_editor_choice">Recommandations</string>
   <string name="action_item_download">Télécharger</string>
   <string name="action_item_add_to_favorite_playlist">Playlist favorite</string>
-  <string name="action_item_add_song">Ajouter</string>
+  <string name="action_item_add_song">Ajouter à la playlist</string>
   <string name="format_unsupported_or_corrupted">"Ce format n'est pas supporté ou le fichier est corrompu"</string>
   <string name="avoid_to_use_traffic_summary">Affiche une alerte d\'usage des données mobiles</string>
   <string name="avoid_to_use_traffic_title">Streamer uniquement via Wi-Fi</string>
@@ -342,7 +342,7 @@
   <string name="chinese_group">Groupes (Chine)</string>
   <string name="chinese_male">Artistes masculins (Chine)</string>
   <string name="click_modify">Appuyer pour éditer les paroles.</string>
-  <string name="delete_file_as_well">Supprimer également le fichier local</string>
+  <string name="delete_file_as_well">Supprimer définitivement cette chanson</string>
   <string name="delete_file_end">Supprimer définitivement</string>
   <string name="delete_file_start">Supprimer les fichiers sélectionnés</string>
   <string name="desc_online_personal_radio">Juste pour vous</string>
