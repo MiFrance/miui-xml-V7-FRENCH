@@ -57,7 +57,6 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
   <string name="activate_popup_title_manual">Activation %s</string>
   <string name="activate_popup_title_new_sim_card">Réactivation %s </string>
   <string name="activate_popup_title_register_account">Enregistrement compte Mi</string>
-  <string name="activate_sms_postfix">Un SMS sera envoyé afin d\'activer votre appareil Mi</string>
   <string name="activate_status_desc_acquire_phone_number">Acquisition du numéro de téléphone…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">"Erreur serveur pendant l\'acquisition du numéro de téléphone"</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Impossible de récupérer le numéro de téléphone"</string>
