@@ -1323,6 +1323,11 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="quick_launch_shortcut">Rechercher + %1$s</string>
   <string name="quick_launch_summary">Configurer des raccourcis clavier pour lancer des applications</string>
   <string name="quick_launch_title">Lancement rapide</string>
+  <string name="quiet">Ne pas déranger</string>
+  <string name="quiet_group">Ne pas déranger</string>
+  <string name="quiet_important_interruptions_mode">Autoriser uniquement les exceptions</string>
+  <string name="quiet_mode">Activé</string>
+  <string name="quiet_off_mode">Désactivé</string>
   <string name="radioInfo_cid">CID ou IDC</string>
   <string name="radioInfo_data_connected">Connecté</string>
   <string name="radioInfo_data_connecting">Connexion</string>
@@ -1446,6 +1451,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="screen_never_timeout_title">Toujours allumé</string>
   <string name="screen_on_proximity_sensor_summary">Désactive les fonctions d\'appel si l\'appareil est dans la poche (via le capteur de proximité).</string>
   <string name="screen_on_proximity_sensor_title">Éviter les erreurs de manipulation</string>
+  <string name="screen_resolution_title">Résolution de l\'écran</string>
   <string name="screen_saturation">Saturation des couleurs</string>
   <string name="screen_timeout">Veille</string>
   <string name="screen_timeout_summary">Après %1$s d\'inactivité</string>

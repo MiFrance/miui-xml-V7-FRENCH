@@ -17,8 +17,10 @@
   <string name="act_set_city_find_side_error">Échec de localisation</string>
   <string name="menu_location">Villes</string>
   <string name="button_allow">OK</string>
-  <string name="button_abandon">Abandon changes</string>
+  <string name="button_abandon">Abandonner les changements</string>
   <string name="button_not_allow">Annuler</string>
+  <string name="button_confirm">Autoriser</string>
+  <string name="button_exit">Quitter</string>
   <string name="view_aqi_title">Qualité de l\'air</string>
   <string name="act_weather_find_city_net_no_good">Impossible de se connecter au réseau.</string>
   <string name="act_weather_find_city_click_retry">Réessayer</string>

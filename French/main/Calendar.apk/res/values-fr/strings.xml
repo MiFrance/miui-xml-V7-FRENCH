@@ -171,7 +171,7 @@
   <string name="preferences_home_tz_title">Mon fuseau horaire</string>
   <string name="preferences_reminder_title">Notifications et rappels</string>
   <string name="preferences_show_week_num_title">Afficher numéro semaine</string>
-  <string name="preferences_title">Paramètres</string>
+  <string name="preferences_title">Agenda</string>
   <string name="preferences_use_home_tz_descrip">Afficher les agendas et les événements dans votre fuseau horaire habituel, même en déplacement</string>
   <string name="preferences_use_home_tz_title">Mon fuseau horaire</string>
   <string name="preferences_week_start_day_dialog">1er jour de la semaine</string>

@@ -40,6 +40,7 @@
   <string name="action_menu_text_bandwidth_off">Economiseur inactif</string>
   <string name="action_menu_text_bandwidth_on">Economiseur actif</string>
   <string name="action_menu_text_find_in_page">Rechercher dans la page</string>
+  <string name="action_menu_text_refresh">Recharger</string>
   <string name="add_bookmark">"Ajouter un favori "</string>
   <string name="add_folder">Ajouter un dossier</string>
   <string name="add_new_bookmark">Ajouter un favori</string>
