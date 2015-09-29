@@ -30,11 +30,9 @@
   <string name="location_north">N</string>
   <string name="location_south">S</string>
   <string name="location_west">O</string>
-  <string name="getting_location">Localisation en cours…</string>
   <string name="guide_toast">Veuillez calibrer la boussole en reproduisant le geste suivant.</string>
   <string name="latitude">Latitude</string>
   <string name="longitude">Longitude</string>
-  <string name="menu_calibrate">Calibrer</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pression</string>
   <string name="pressure_unit">hPa</string>
@@ -43,7 +41,6 @@
   <string name="do_not_show_next_time">Ne plus afficher</string>
   <string name="error_camera_unavailable">Vérifiez si une autre application utilise actuellement Caméra.</string>
   <string name="error_camera_unavailable_title">Caméra indisponible</string>
-  <string name="calibrate_altitude">Calibrer</string>
   <string name="location_enable">Activer</string>
   <string name="location_enable_later">Plus tard</string>
   <string name="location_enabled">Service de localisation activé, vous pouvez le désactiver via les paramètres</string>

@@ -110,6 +110,7 @@
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
   <string name="error_open_file_failed_no_app_found">Aucune application ne peut ouvrir ce fichier</string>
   <string name="expand_all">Tous</string>
+  <string name="extract">Extraire</string>
   <string name="fail_to_create_folder">Impossible de créer le dossier, celui-ci existe déjà</string>
   <string name="fail_to_create_folder_unknown">Création impossible : erreur inconnue.</string>
   <string name="fail_to_rename">Impossible de renommer ce fichier. Il doit probablement déjà exister</string>
@@ -154,6 +155,9 @@
   <string name="load_err">Échec du chargement</string>
   <string name="load_more">Voir plus</string>
   <string name="loading">Chargement en cours…</string>
+  <string name="local_image">Photos</string>
+  <string name="local_music">Musique</string>
+  <string name="local_video">Vidéo</string>
   <string name="login_reg_content">KuaiPan vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
   <string name="login_reg_content0">KuaiPan, votre cloud personnel</string>
   <string name="menu_item_cleanup">Nettoyage de fichiers</string>
@@ -165,7 +169,8 @@
   <string name="menu_item_sort_size">Taille</string>
   <string name="menu_item_sort_type">Type</string>
   <string name="migrate_announcement_msg">Si vous avez un compte vous pouvez y accéder dans les paramètres et préférences d\'accès</string>
-  <string name="move_failed">Impossible de déplacer</string>
+  <string name="move_failed">Déplacement impossible</string>
+  <string name="move_to">Déplacer vers…</string>
   <string name="multi_select_title">%1$s élément(s) sélectionné(s)</string>
   <string name="name_empty">Vous devez saisir un nom.</string>
   <string name="net_lose_connected">Réseau non disponible, impossible d\'obtenir la taille</string>
@@ -284,6 +289,9 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Rechercher</string>
   <string name="search_title_hint">Rechercher</string>
+  <string name="select_image">Choisir des photos</string>
+  <string name="select_music">Choisir des chansons</string>
+  <string name="select_video">Choisir des vidéos</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">L\'envoi à KuaiPan a échoué. Le contenu n\'est pas pris en charge</string>
   <string name="server_control_advanced_settings">Paramètres avancés</string>
@@ -304,10 +312,13 @@
   <string name="stay_awake_title">Rester éveillé</string>
   <string name="stop_server">Arrêter le service</string>
   <string name="storage_info">%1$s disponibles</string>
-  <string name="storage_info_detail">Disponible : %1$s Total : %1$s</string>
+  <string name="storage_info_detail">Disponible : %1$s Total : %2$s</string>
   <string name="storage_internal">Mémoire de l\'appareil</string>
+  <string name="storage_internal_description">Mémoire de l\'appareil</string>
   <string name="storage_sd_card">Carte SD</string>
+  <string name="storage_sd_card_description">Carte SD</string>
   <string name="storage_usb">Périphérique de stockage USB</string>
+  <string name="storage_usb_description">Périphérique de stockage USB</string>
   <string name="storage_warning">Le périphérique n\'est pas disponible ou ne peut pas être lu</string>
   <string name="tab_category">Parcourir</string>
   <string name="toast_file_not_can_read">Le fichier est illisible ou corrompu.</string>

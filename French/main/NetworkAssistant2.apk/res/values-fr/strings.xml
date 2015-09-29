@@ -579,6 +579,10 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="open_now">Autoriser l\'appli à utiliser les données mobiles</string>
   <string name="other_exception_summary">"Vous n'avez pas de connexion Internet"</string>
   <string name="other_exception_title">Recherche d\'autres problèmes</string>
+  <string name="package_change_notification_summary">Touchez pour en savoir plus.</string>
+  <string name="package_change_notification_title">Ajuster la limite d\'utilisation de données de manière automatique</string>
+  <string name="package_setted_error_notification_summary">Touchez pour voir les détails de votre consommation.</string>
+  <string name="package_setted_error_notification_titile">"Echec d'application du plan de données"</string>
   <string name="pref_roaming_daily_limit_setting">Limite quotidienne de données en itinérance</string>
   <string name="pref_roaming_setting_gategory">Itinérance des données</string>
   <string name="protocol_exception_title">Diagnostics réseau</string>

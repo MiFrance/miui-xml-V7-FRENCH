@@ -14,6 +14,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_precast_update_notification_title">Mise à jour des thèmes MIUI 7</string>
   <string name="theme_provision_default_theme_title">Par défaut</string>
   <string name="theme_provision_loading_tips">Un moment svp…</string>
+  <string name="theme_provision_oper_button_next">Suivant</string>
   <string name="theme_provision_title">Choisissez un thème</string>
   <string name="theme_fresh_man_notifaction">Nouveaux thèmes disponibles</string>
   <string name="resource_delete">Supprimer</string>

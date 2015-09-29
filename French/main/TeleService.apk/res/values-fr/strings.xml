@@ -17,7 +17,7 @@
   <string name="china_unicom">China Unicom</string>
   <string name="default_area_code_setting">Code pays par défaut</string>
   <string name="default_areacode">Code pays par défaut</string>
-  <string name="dialog_activate_livetalk">Utiliser un abonnement prépayé</string>
+  <string name="dialog_activate_livetalk">Vérifier</string>
   <string name="dialog_call_ordinary_telephone">Utiliser la carte SIM</string>
   <string name="dialog_hang_up">Raccrocher</string>
   <string name="dialog_no">Non</string>
@@ -26,12 +26,12 @@
   <string name="do_not_ask">"Ne plus demander"</string>
   <string name="ensure_info">Oui</string>
   <string name="error_type_account_201">Fonds insuffisants</string>
-  <string name="error_type_account_202">"L'appel a échoué"</string>
   <string name="error_type_account_203">"Le type de numéro composé n'est pas supporté"</string>
   <string name="error_type_account_208">"Impossible d'appeler ce numéro"</string>
   <string name="error_type_account_301">Le code saisi est incorrect</string>
   <string name="error_type_account_302">Le code saisi a déjà été utilisé</string>
   <string name="error_type_account_500">"Echec de connexion au réseau mobile"</string>
+  <string name="error_type_account_inner">Erreur interne au service</string>
   <string name="error_type_network">Erreur réseau</string>
   <string name="error_type_unknown">Erreur inconnue</string>
   <string name="expected_avaiable_minute">Minutes restantes</string>
@@ -53,8 +53,12 @@
   <string name="no_more">Plus rien</string>
   <string name="no_product_list">Vide</string>
   <string name="not_activate_sim_card_content">"L'abonnement prépayé n'a pas été activé pour la carte SIM sélectionnée. Essayez d'utiliser votre carte SIM habituelle pour passer cet appel. Vous serez facturé normalement par votre opérateur."</string>
+  <string name="not_activate_sim_card_content_title">"Le téléphone n'a pas été vérifié"</string>
+  <string name="not_activate_sim_card_content_with_operator">"La recharge n'a pas été validée pour la carte SIM sélectionnée %1$s(%2$s). Essayez d\'utiliser votre carte SIM habituelle pour passer cet appel. Cet appel sera facturé par votre opérateur."</string>
   <string name="not_sufficient_funds_content">Le crédit de votre abonnement est trop faible. Essayez d\'utiliser votre carte SIM pour passer cet appel. Vous serez facturé normalement par votre opérateur.</string>
+  <string name="not_sufficient_funds_content_title">Crédit insuffisant</string>
   <string name="not_supported_number_content">"La recharge ne supporte pas les numéros de services. Essayez d'utiliser votre carte SIM habituelle pour passer cet appel. Cet appel sera facturé par votre opérateur."</string>
+  <string name="not_supported_number_content_title">Non supporté</string>
   <string name="order_by_name">Alphabétique</string>
   <string name="order_by_recent">Fréquemment utilisés</string>
   <string name="order_id">N° de commande: %1$s</string>
@@ -98,10 +102,7 @@
   <string name="title_user_config">Activer la carte SIM</string>
   <string name="unable_dial_livetalk">"L'appel a échoué"</string>
   <string name="use_history">Activité</string>
-  <string name="use_history_duration_hour">%1$h</string>
-  <string name="use_history_duration_min">%1$smin</string>
-  <string name="use_history_endtime">Fin: %1$s</string>
-  <string name="use_history_starttime">Début: %1$s</string>
+  <string name="use_history_duration_min">%1$s mins</string>
   <string name="phoneAppLabel">Téléphone</string>
   <string name="emergencyDialerIconLabel">Appels d\'urgence</string>
   <string name="phoneIconLabel">Téléphone</string>
@@ -1489,4 +1490,6 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="cdma_alert_message">"Si vous sélectionnez une autre carte par défaurt pour les données mobiles, vous ne pourrez utiliser votre carte UIM China Telecom (hormis en itinérance)."</string> 
   <string name="cdma_alert_title">La carte UIM doit être celle par défaut</string>
   <string name="can_not_use_for_not_data_sim">"(Non utilisée: doit être définie comme SIM par défaut pour les données)"</string>
+  <string name="livetalk_user_config_title">Vérifier le numéro de téléphone</string>
+  <string name="livetalk_white_list_number_title">Composer directement sans recharge</string>
 </resources>

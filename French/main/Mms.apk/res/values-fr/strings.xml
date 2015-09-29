@@ -106,7 +106,7 @@
   <string name="close">Fermer</string>
   <string name="cloud_recommend_msg">Appuyez sur pour synchroniser les messages avec Mi Cloud.</string>
   <string name="cloud_state_disabled">La synchronisation avec Mi Cloud est désactivée</string>
-  <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+  <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
   <string name="cloud_state_syncing">Synchroniser avec Mi Cloud…</string>
   <string name="compressing">Image trop grande. Compression en cours…</string>
   <string name="confirm">Confirmer</string>

@@ -355,7 +355,7 @@ Dernière sauvegarde : %2$s"</string>
   <string name="micloud_member_refresh_button">Actualiser</string>
   <string name="micloud_member_buy_content" formatted="false">"Valide pour %s-%s-%s
 
-%s Mi Credits par an"</string>
+%s Mi Credits"</string>
   <string name="micloud_member_buy_title">Confirmation de la commande</string>
   <string name="micloud_member_net_error_alert_message">Veuillez vous connecter à internet.</string>
   <string name="micloud_member_net_error_alert_title">Connexion impossible</string>

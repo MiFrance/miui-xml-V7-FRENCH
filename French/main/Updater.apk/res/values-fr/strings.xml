@@ -60,7 +60,8 @@
   <string name="get_update_error">"Impossible d\'obtenir des informations sur la mise à jour"</string>
   <string name="go_on_download">Continuer</string>
   <string name="install">Installer</string>
-  <string name="install_failed">Mise à jour échouée</string>
+  <string name="install_failed">Echec de la mise à jour</string>
+  <string name="install_file_explorer">Explorateur de fichiers requis</string>
   <string name="install_file_explorer">Installer un explorateur de fichiers</string>
   <string name="install_qq">"Installer l\'application QQ"</string>
   <string name="internal_build">interne</string>
@@ -75,6 +76,8 @@
   <string name="miui_summary_has_new_version">"  Mise à jour disponible  "</string>
   <string name="miui_summary_no_new_version">Aucune mise à jour disponible</string>
   <string name="miui_summary_now_version">"Version actuelle "</string>
+  <string name="miui_summary_slogan">"  Faite à votre image  "</string>
+  <string name="miui_summary_updating">"  Mise à jour…  "</string>
   <string name="monthly_build">mensuelle</string>
   <string name="my_best_update">"La meilleure mise à jour que j\'ai choisie"</string>
   <string name="my_expect_update">"Les attentes que j\'ai choisies"</string>

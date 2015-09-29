@@ -131,4 +131,12 @@
       <item quantity="few">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
       <item quantity="many">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
   </plurals>
+  <plurals name="file_count">
+      <item quantity="other"> %1$d éléments</item>
+      <item quantity="zero"> %1$d éléments</item>
+      <item quantity="one"> %1$d élément</item>
+      <item quantity="two"> %1$d éléments</item>
+      <item quantity="few"> %1$d éléments</item>
+      <item quantity="many"> %1$d éléments</item>
+  </plurals>
 </resources>

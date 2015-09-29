@@ -40,7 +40,6 @@
   <string name="backup_items_sysdata_tailer">" fichiers de données système "</string>
   <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde…</string>
-  <string name="backup_recently">" (dernière)"</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
   <string name="batch_delete_backup_confirm">Supprimer les sauvegarde(s) sélectionnée(s) ?</string>
@@ -93,7 +92,10 @@
   <string name="enable_encrypt_xiaomi_account">Cette sauvegarde a été créée par %1$s, supprimez le compte actuel et connectez-vous à %2$s afin de restaurer les données.</string>
   <string name="err_authentication_failed">L\'authentification a échoué</string>
   <string name="err_bakfile_broken">"Vous ne pouvez pas utiliser cette sauvegarde."</string>
+  <string name="err_filesystem_mount">"Echec d\'accès à l\'espace de stockage du routeur"</string>
   <string name="err_low_storage">Espace insuffisant</string>
+  <string name="err_router_disconnected">"Vérifiez la connexion à votre routeur et essayez à nouveau."</string>
+  <string name="err_router_files_delete">"Echec de suppression des sauvegardes sur le routeur"</string>
   <string name="err_unknown">Erreur inconnue</string>
   <string name="err_version_too_old">Le fichier de sauvegarde est trop ancien.</string>
   <string name="err_version_unsupported">"Cette version de sauvegarde, n\'est pas prise en charge."</string>
@@ -186,6 +188,7 @@
   <string name="software_backup_info">Applications et leurs données</string>
   <string name="start_backup">Démarrer la sauvegarde</string>
   <string name="start_restore">Restauration</string>
+  <string name="state_mounting">Accès à l\'espace de stockage du routeur…</string>
   <string name="state_waiting">Veuillez patienter…</string>
   <string name="succeed">Réussi</string>
   <string name="summary_err_backup_encrypting">Connectez-vous à votre compte Mi.</string>

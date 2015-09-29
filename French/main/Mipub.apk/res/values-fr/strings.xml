@@ -72,6 +72,7 @@
   <string name="adding_attachments_title">Ajout de pièces jointes</string>
   <string name="adding_recipients">Ajout de destinataires…</string>
   <string name="app_label">Messages</string>
+  <string name="app_name">com.miui.mipub</string>
   <string name="attach_image">Image</string>
   <string name="attach_record_sound">Enregistrer un son</string>
   <string name="attach_record_video">Prendre une vidéo</string>

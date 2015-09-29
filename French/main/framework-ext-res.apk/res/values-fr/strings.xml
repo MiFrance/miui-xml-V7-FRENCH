@@ -14,6 +14,7 @@
   <string name="status_bar_toggle_flight_mode">Mode avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Verrouiller</string>
+  <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Silencieux</string>
   <string name="status_bar_toggle_network_type">Type réseau</string>
   <string name="status_bar_toggle_privacy_mode">Mode invité</string>
