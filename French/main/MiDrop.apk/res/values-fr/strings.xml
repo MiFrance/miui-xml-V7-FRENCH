@@ -51,8 +51,8 @@
   <string name="receiver_in_progress_title">Envoi de fichier(s)…</string>
   <string name="receiver_interrupt_summary">"Ne pas désactiver le Wi-Fi lors de la réception de fichiers"</string>
   <string name="receiver_interrupt_summary_v21">"Ne pas désactiver le hotspot Wi-Fi lors de la réception de fichiers"</string>
-  <string name="receiver_notification_turn_on">Le destinataire doit activer MiDrop dans sa barre de notification</string>
-  <string name="receiver_notification_turn_on_help">Turn on to find devices and send files.</string>
+  <string name="receiver_notification_turn_on">Le destinataire doit activer MiDrop</string>
+  <string name="receiver_notification_turn_on_help">Activer pour rechercher des appareils et envoyer des fichiers.</string>
   <string name="receiver_pic_file_current">Réception de %2$d image(s) venant de %1$s​…</string>
   <string name="receiver_pic_file_num">%2$d image(s) de %1$s</string>
   <string name="receiver_reject">Refuser</string>

@@ -61,8 +61,7 @@
   <string name="go_on_download">Continuer</string>
   <string name="install">Installer</string>
   <string name="install_failed">Echec de la mise à jour</string>
-  <string name="install_file_explorer">Explorateur de fichiers requis</string>
-  <string name="install_file_explorer">Installer un explorateur de fichiers</string>
+  <string name="install_file_explorer">Veuillez installer un explorateur de fichiers</string>
   <string name="install_qq">"Installer l\'application QQ"</string>
   <string name="internal_build">interne</string>
   <string name="later">Plus tard</string>

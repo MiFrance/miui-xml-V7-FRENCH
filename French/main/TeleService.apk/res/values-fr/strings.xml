@@ -31,7 +31,7 @@
   <string name="error_type_account_301">Le code saisi est incorrect</string>
   <string name="error_type_account_302">Le code saisi a déjà été utilisé</string>
   <string name="error_type_account_500">"Echec de connexion au réseau mobile"</string>
-  <string name="error_type_account_inner">Erreur interne au service</string>
+  <string name="error_type_account_inner">Erreur interne</string>
   <string name="error_type_network">Erreur réseau</string>
   <string name="error_type_unknown">Erreur inconnue</string>
   <string name="expected_avaiable_minute">Minutes restantes</string>
@@ -53,7 +53,7 @@
   <string name="no_more">Plus rien</string>
   <string name="no_product_list">Vide</string>
   <string name="not_activate_sim_card_content">"L'abonnement prépayé n'a pas été activé pour la carte SIM sélectionnée. Essayez d'utiliser votre carte SIM habituelle pour passer cet appel. Vous serez facturé normalement par votre opérateur."</string>
-  <string name="not_activate_sim_card_content_title">"Le téléphone n'a pas été vérifié"</string>
+  <string name="not_activate_sim_card_content_title">"Le numéro de téléphone n'a pas été vérifié"</string>
   <string name="not_activate_sim_card_content_with_operator">"La recharge n'a pas été validée pour la carte SIM sélectionnée %1$s(%2$s). Essayez d\'utiliser votre carte SIM habituelle pour passer cet appel. Cet appel sera facturé par votre opérateur."</string>
   <string name="not_sufficient_funds_content">Le crédit de votre abonnement est trop faible. Essayez d\'utiliser votre carte SIM pour passer cet appel. Vous serez facturé normalement par votre opérateur.</string>
   <string name="not_sufficient_funds_content_title">Crédit insuffisant</string>
@@ -1491,5 +1491,5 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="cdma_alert_title">La carte UIM doit être celle par défaut</string>
   <string name="can_not_use_for_not_data_sim">"(Non utilisée: doit être définie comme SIM par défaut pour les données)"</string>
   <string name="livetalk_user_config_title">Vérifier le numéro de téléphone</string>
-  <string name="livetalk_white_list_number_title">Composer directement sans recharge</string>
+  <string name="livetalk_white_list_number_title">Composer des appels sans la recharge</string>
 </resources>

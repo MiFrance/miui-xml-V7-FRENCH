@@ -65,7 +65,7 @@
   <string name="expire_notification_msg">Votre abonnement à Xunlei va bientôt expirer.</string>
   <string name="expire_today_notification_msg">Votre abonnement à Xunlei expire aujourd\'hui.</string>
   <string name="extract_file">Décompression du fichier…</string>
-  <string name="file_exist_hint">Ce fichier est déjà en attente de téléchargement</string>
+  <string name="file_exist_hint">Ce fichier existe déjà</string>
   <string name="file_picker">Sélectionnez un emplacement</string>
   <string name="input_valid_address">Saisissez l\'adresse d\'un fichier</string>
   <string name="install">Installer</string>
@@ -170,12 +170,12 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="auth_activity_title">Compte Xunlei</string>
   <string name="bind_xunlei_account">Associer un compte Xunlei ></string>
   <string name="bt_download">Télécharger</string>
-  <string name="bt_xunlei_open_info">Utiliser le moteur Xunlei pour ouvrir ce type de lien (requis) ?</string>
+  <string name="bt_xunlei_open_info">Utiliser le moteur Xunlei pour ouvrir tous les liens de ce type ?</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">"Compte Xunlei d\'essai créé, "</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">" disponibles. Profitez d\'une vitesse de téléchargement accrue grâce à Xunlei"</string>
   <string name="xunlei_member_one_month">1 mois</string>
   <string name="xunlei_member_annual_fee">1 an</string>
-  <string name="xunlei_open_info">Utiliser le moteur Xunlei pour ouvrir ce type de lien (requis) ?</string>
+  <string name="xunlei_open_info">Utiliser le moteur Xunlei pour ouvrir tous les liens de ce type ?</string>
   <string name="xunlei_speed_service">Accélérateur de téléchargement Xunlei</string>
   <string name="download_list_get_free_vip">Essayer Xunlei gratuitement</string>
   <string name="free_high_speed_channel">Quota de l\'essai gratuit</string>

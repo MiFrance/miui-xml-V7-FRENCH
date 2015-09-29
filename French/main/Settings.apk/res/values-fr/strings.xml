@@ -2039,6 +2039,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_auto_connect">Connexion automatique</string>
   <string name="wifi_cancel">Annuler</string>
   <string name="wifi_certificate">Certificat Wi-Fi</string>
+  <string name="wifi_click_share_wlan">Appuyez pour partager le mot de passe</string>
   <string name="wifi_config_info">Configuration du Wi-Fi</string>
   <string name="wifi_connect">Se connecter</string>
   <string name="wifi_connect_failed_message">Connexion impossible de l\'appareil à ce réseau Wi-Fi.</string>
