@@ -549,7 +549,6 @@
   <string name="mx_on_sim_1">Mi Message SIM 1</string>
   <string name="mx_on_sim_2">Mi Message SIM 2</string>
   <string name="english_subject_limit">40 caractères maximum</string>
-  <string name="app_name">Gestion de l\'appareil</string>
   <string name="manage_permission_app_label">Gestion des permissions de l\'appareil</string>
   <string name="send_message_dlg_title">Gestion de l\'appareil</string>
   <string name="send_message_dlg_mgs">Remarque CMCC: Nous devons enregistrement votre appareil sur la plate-forme de gestion pour fournir le service d\envoi gratuit (Plate-forme de CMCC pouvant gérer les terminaux mobiles.that can manage the terminal devices. Fournit un service de paramétrage et de mise à jour distants. ). Un message gratuit contenant les infos de l\'appareil sera envoyé pour l\'enregistrement. Ce message sera envoyé une seule fois et ne contiendra pas de données personnelles (Ne pas envoyer de Hong-Kong, Macao, Taiwan, ou en itinérance). Choisir “OK” pour accepter l\'enregistrement et utiliser le service. Choisir “Annuler” pour ne pas utiliser ce service.</string>
