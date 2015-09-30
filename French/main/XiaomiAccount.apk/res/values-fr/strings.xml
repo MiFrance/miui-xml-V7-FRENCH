@@ -235,6 +235,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="micloud_space_info">%s disponibles</string>
   <string name="loading">Chargement…</string>
   <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="provision_skip_login">&lt;u&gt;Ignorer cette étape&lt;/u&gt;</string>
   <string name="user_agreement">Conditions d\'utilisation</string>
   <string name="reg_type_other_ways"><u>Utiliser une autre méthode de création de compte</u></string>
   <string name="reg_type_other_ways_title">Utiliser une autre méthode de création de compte</string>
@@ -289,7 +290,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_account_not_actived">"Votre compte n'a pas été activé"</string>
   <string name="passport_active_email_visit">Consultez votre boîte e-mail sur %s</string>
   <string name="passport_activing_account">Activation…</string>
-  <string name="passport_app_name">Compte Mi</string>
   <string name="passport_area_code_hot">Fréquemment utilisés</string>
   <string name="passport_area_code_title">Code pays</string>
   <string name="passport_bad_authentication">Nom d\'utilisateur ou mot de passe invalides</string>
@@ -309,8 +309,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_confirm">Ok</string>
   <string name="passport_confirm_recycle_account">Oui</string>
   <string name="passport_delete_account">Déconnecter</string>
-  <string name="passport_dspt_provision">"Utilisez votre compte Mi pour vous connecter à Mi Cloud, MIUI Theme Store, et les autres services Mi, d'où que vous soyez. "</string>
-  <string name="passport_dspt_provision2">En savoir plus</string>
   <string name="passport_email">Adresse e-mail</string>
   <string name="passport_email_or_id_hint_text">Adresse e-mail ou ID de compte Mi</string>
   <string name="passport_email_reg_success_summary">%1$s a été rattaché à votre compte. Vous pouvez l\'utiliser pour vous connecter ou réinitialiser votre mot de passe.</string>
@@ -368,7 +366,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_phone_num_hint_text">N° de téléphone</string>
   <string name="passport_prev">Retour</string>
   <string name="passport_privacy_policy">Politique de confidentialité</string>
-  <string name="passport_provision_skip_login"><u>Ignorer</u></string>
   <string name="passport_quick_login_dialog_step2_title">Vérification en 2 étapes</string>
   <string name="passport_quick_login_dialog_title">Vérifier le mot de passe</string>
   <string name="passport_quick_login_step2_title">Vérification en 2 étapes</string>
@@ -427,7 +424,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_verification_failed">Échec d\'authentification</string>
   <string name="passport_verify">Vérifier</string>
   <string name="passport_wait_for_sms_prompt">"Recommencer maintenant ? Les messages de vérification peuvent prendre 10 minutes pour être reçu si votre téléphone est à portée du réseau de votre opérateur."</string>
-  <string name="passport_welcome_skip_login"><u>Ignorer cette étape</u></string>
   <string name="passport_wrong_captcha">Le code saisi est incorrect</string>
   <string name="passport_wrong_password">Le mot de passe est incorrect</string>
   <string name="passport_wrong_phone_number_format">Le format du n° de téléphone saisi est invalide</string>

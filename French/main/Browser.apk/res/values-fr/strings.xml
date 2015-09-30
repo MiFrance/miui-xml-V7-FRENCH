@@ -111,6 +111,7 @@
   <string name="choosertitle_sharevia">Partager via</string>
   <string name="clear">Effacer</string>
   <string name="clear_history">Effacer l\'historique</string>
+  <string name="clear_most_visited">Effacer l\'historique des pages les plus visitées</string>
   <string name="clear_history_group">Effacer l\'historique de %s</string>
   <string name="clear_search_history">Effacer l\'historique</string>
   <string name="clip_dialog_title">Ouvrir le lien copié ?</string>
@@ -211,6 +212,13 @@
   <string name="history_saved_webpage">Enregistrer la page Web</string>
   <string name="history_track">Historique</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_delete_card_menu">Supprimer</string>
+  <string name="homepage_get_location">Détection de votre localisation</string>
+  <string name="homepage_get_location_failed">"Echec de récupération des infos, veuillez choisir une ville"</string>
+  <string name="homepage_more_cards">Plus de cartes</string>
+  <string name="homepage_more_sites">Plus de sites</string>
+  <string name="homepage_search_hint">Rechercher</string>
+  <string name="homepage_top_card_menu">Haut de page</string>
   <string name="homepage_set">La page d\'accueil a été définie.</string>
   <string name="http">http://</string>
   <string name="in_incognito">La navigation privée est activée, aucun historique ne sera sauvegardé.</string>
@@ -353,6 +361,9 @@
   <string name="pref_link_prefetch_summary">Autoriser le navigateur à précharger en arrière-plan les pages Web associées</string>
   <string name="pref_link_prefetch_title">Préchargement des pages Web</string>
   <string name="pref_link_prefetch_value_never_summary">Ne jamais autoriser le navigateur à précharger des pages web liées en arrière-plan</string>
+  <string name="pref_notifications_hint">Notifications</string>
+  <string name="pref_notifications_receive">Nouvelle notification d\'alerte</string>
+  <string name="pref_notifications_title">Notifications</string>
   <string name="pref_min_font_size">Taille de police minimale</string>
   <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Vider le cache</string>
@@ -452,6 +463,7 @@
   <string name="search_cancel">&#60;</string>
   <string name="search_hint">Rech. ou saisir l\'URL</string>
   <string name="search_settings_description">Favoris et historique de navigation</string>
+  <string name="search_sm">SM</string>
   <string name="security_warning">Avertissement de sécurité</string>
   <string name="select_dot">Sélectionner le texte</string>
   <string name="send_bookmark_to_home_screen">Ajouter à l\'écran d\'accueil</string>
@@ -489,6 +501,7 @@
   <string name="uploads_disabled">Les transferts de fichiers sont désactivés.</string>
   <string name="url_copy_done">URL copiée</string>
   <string name="url_hint">Rechercher ou saisir une URL</string>
+  <string name="url_hint_from_search">Saisir un mot-clé</string>
   <string name="user_defined_webpage">Ajouter un lien</string>
   <string name="user_defined_webpage_title">Ajouter un lien sur page d\'accueil</string>
   <string name="username">Nom</string>
@@ -523,6 +536,11 @@
   <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="month_picker_dialog_title">Définir le mois</string>
+  <string name="nav_bottom_bar_back">Retour</string>
+  <string name="nav_bottom_bar_close_all">Fermer tout</string>
+  <string name="nav_bottom_bar_new_tab">Nouvel onglet</string>
+  <string name="nav_screen_container_tab_incognito">Onglet privé</string>
+  <string name="nav_screen_container_tab_normal">OngOnglet>
   <string name="week_picker_dialog_title">Définir la semaine</string>
   <string name="accessibility_datetime_picker_date">Date</string>
   <string name="accessibility_datetime_picker_time">Heure</string>
@@ -590,6 +608,7 @@
   <string name="pref_version_info">Version Info</string>
   <string name="pref_category_title_version">Version</string>
   <string name="pref_auto_update_under_wifi">Mise à jour automatique depuis Wi-Fi</string>
+  <string name="pref_category_hint">Catégorie</string>
   <string name="save_image_success">Image enregistrée</string>
   <string name="save_image_failed">"Échec de l'enregistrement de l'image"</string>
   <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
@@ -619,14 +638,14 @@
   <string name="miuishare_account_activate_confirmation">Activation requise</string>
   <string name="miuishare_account_activate_ok">Activer</string>
   <string name="miuishare_account_login_cancel">Annuler</string>
-  <string name="miuishare_account_login_confirmation">Connexion requise</string>
+  <string name="miuishare_account_login_confirmation">Veuillez vous identifier</string>
   <string name="miuishare_account_login_ok">Se connecter</string>
-  <string name="miuishare_account_need_activate">Partager avec Weibo nécessite que votre compte Weibo soit associé au compte Xiaomi, qui n\'est actuellement pas activée. Activez votre compte ?</string>
-  <string name="miuishare_account_need_login">Partager avec Weibo nécessite que votre compte Weibo soit associé au compte Xiaomi, qui est enregistré actuellement. Connectez-vous et partager maintenant ?</string>
+  <string name="miuishare_account_need_activate">Votre compte Weibo doit être rattaché à votre compte Mi. Se connecter avec votre compte Mi ?</string>
+  <string name="miuishare_account_need_login">Votre compte Weibo doit être rattaché à votre compte Mi actuel. Se connecter pour partager maintenant ?</string>
   <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">Pas de réseau pour partager</string>
+  <string name="miuishare_no_network">"Echec de connexion au réseau"</string>
   <string name="miuishare_publish">Envoyer</string>
-  <string name="miuishare_share_done">Le contenu partagé est envoyé.</string>
+  <string name="miuishare_share_done">Partagé</string>
   <string name="miuishare_share_editor_title">Partager</string>
   <string name="miuishare_title_more">Plus</string>
   <string name="miuishare_title_share">Partager</string>
@@ -661,6 +680,9 @@
   <string name="miui_autologin_bar_error">Impossible de se connecter, veuillez réessayer.</string>
   <string name="pref_adblock_title">Bloqueur de publicités</string>
   <string name="pref_enable_adblock_notification">Afficher les notifications</string>
+  <string name="pref_enable_news">Alertes Actualités</string>
+  <string name="pref_enable_novels">Alertes Nouvelles</string>
+  <string name="pref_enable_videos">Alertes Vidéos</string>
   <string name="pref_clear_adblock_statistics">Effacer les statistiques</string>
   <string name="pref_adblock_counts">Total : %d publicités bloquées</string>
   <string name="pref_clear_adblock_statistics_dlg">Réinitialiser le compteur ?</string>
