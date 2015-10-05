@@ -540,7 +540,7 @@
   <string name="nav_bottom_bar_close_all">Fermer tout</string>
   <string name="nav_bottom_bar_new_tab">Nouvel onglet</string>
   <string name="nav_screen_container_tab_incognito">Onglet privé</string>
-  <string name="nav_screen_container_tab_normal">OngOnglet</string>
+  <string name="nav_screen_container_tab_normal">Onglet</string>
   <string name="week_picker_dialog_title">Définir la semaine</string>
   <string name="accessibility_datetime_picker_date">Date</string>
   <string name="accessibility_datetime_picker_time">Heure</string>
