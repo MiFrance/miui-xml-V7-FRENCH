@@ -168,7 +168,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_apply_failured">"Vous ne pouvez pas appliquer le fond d'écran, sur l'écran de verrouillage"</string>
-  <string name="theme_apply_success">Écran de verrouillage appliquée</string>
+  <string name="theme_apply_success">Écran de verrouillage appliqué</string>
   <string name="theme_applying">Personnalisation…</string>
   <string name="theme_batch_has_update_text">%1$d mise(s) à jour disponible(s)</string>
   <string name="theme_batch_update_all">Tout mettre à jour</string>
