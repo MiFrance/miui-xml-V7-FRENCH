@@ -176,7 +176,7 @@
   <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="status_pending">en attente</string>
-  <string name="status_downloading">téléchargement</string>
+  <string name="status_downloading">Téléchargement…</string>
   <string name="status_paused">en pause</string>
   <string name="status_downloaded">téléchargé</string>
   <string name="status_installing">installation</string>
