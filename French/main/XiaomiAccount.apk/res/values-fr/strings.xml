@@ -387,8 +387,8 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_reg_via_sms_alert">Votre opérateur peut vous facturer le prix d\'un SMS pour l\'activation du service.</string>
   <string name="passport_reging">Création du compte…</string>
   <string name="passport_register">Créer un compte</string>
-  <string name="passport_register_account_goto_email">Allez dans votre boîte de réception</string>
-  <string name="passport_register_account_verified_confirm">"Vous avez déjà vérifié votre compte"</string>
+  <string name="passport_register_account_goto_email">Allez dans la boîte de réception</string>
+  <string name="passport_register_account_verified_confirm">"Compte vérifié"</string>
   <string name="passport_register_by_email"><u>réer un compte avec une adresse e-mail</u></string>
   <string name="passport_register_restricted">Beaucoup trop de comptes ont été associés avec ce nombre, essayez-en un autre</string>
   <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
@@ -397,7 +397,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_relogin_notice">Vous devez vous reconnecter</string>
   <string name="passport_remove_confirm">Se déconnecter</string>
   <string name="passport_remove_unactivated_account_notice">"Votre compte n'a pas été désactivé."</string>
-  <string name="passport_resend_active_email">Ré-envoyer le e-mail d\'activation</string>
+  <string name="passport_resend_active_email">Envoyer un nouvel e-mail</string>
   <string name="passport_reset_fail_title">"Impossible de réinitialiser"</string>
   <string name="passport_reset_password_prompt">Le mot de passe est incorrect</string>
   <string name="passport_reset_password_title">Réinitialiser le mot de passe</string>
