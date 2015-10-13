@@ -2012,6 +2012,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="vpn_username">Nom d\'utilisateur</string>
   <string name="wait_for_debugger">Attendre le débogueur</string>
   <string name="wait_for_debugger_summary">Avant de s\'exécuter, l\'application déboguée doit attendre qu\'un débogueur lui soit attaché.</string>
+  <string name="wakeup_for_keyguard_notification_title">Allumer l\'écran à la réception de notifications</string>
   <string name="wallpaper_settings_fragment_title">Sélectionner fond d\'écran de</string>
   <string name="wallpaper_settings_title">Fond d\'écran</string>
   <string name="wfd_available_devices">Périph. disponibles</string>

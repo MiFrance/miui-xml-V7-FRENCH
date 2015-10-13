@@ -82,6 +82,8 @@
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Album bébé</string>
   <string name="baby_album_new_photo_page_title">"%1$s album"</string>
+  <string name="baby_album_new_photo_remind">Vous avez de nouvelles photos dans votre album de bébé.</string>
+  <string name="baby_album_no_share_user_tip">Aucun abonné pour le moment</string>
   <string name="baby_album_picker_default_title">"Sélectionnez des visages %1$s"</string>
   <string name="baby_album_setting_title">Bébé info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -203,6 +205,7 @@
   <string name="duotone">Deux tons</string>
   <string name="duration">"Durée "</string>
   <string name="edit">Modifier</string>
+  <string name="edit_baby_info">Voir les informations du bébé</string>
   <string name="edited_photo_bucket_name">Édité</string>
   <string name="email_picker_title">Ajouter un e-mail partagé</string>
   <string name="enable_cloud_for_sharing">Activez l\'album Mi Cloud pour voir les photos partagées.</string>
@@ -210,9 +213,8 @@
   <string name="error_album_not_exist">"L'album n'existe pas."</string>
   <string name="error_cloud_not_active">L\'album Mi Cloud n\'est pas en service</string>
   <string name="error_invalid_link">Le lien est non valide ou a expiré, veuillez demander au propriétaire de l\'album de créer un nouveau lien de partage.</string>
-<!-- à reformuler : error_repeat_apply You have already been shared with this album  / error_share_with_creator :  You are a member of this album already -->
-  <string name="error_repeat_apply">Vous avez déjà été partagé avec cet album</string>
-  <string name="error_share_with_creator">Vous êtes déjà un membre de cet album</string>
+  <string name="error_link_has_expired">Le lien a expiré</string>
+  <string name="error_repeat_apply">Cet album a déjà été partagé</string>
   <string name="error_should_not_select_image">Attention : veuillez ne pas sélectionner un fichier image.</string>
   <string name="error_should_not_select_video">Attention : veuillez ne pas sélectionner un fichier vidéo.</string>
   <string name="error_socket_timeout">Délai d\'attente réseau écoulé, veuillez réessayer plus tard</string>
@@ -326,9 +328,9 @@
   <string name="multiface_crop_help">Appuyer sur un visage pour commencer</string>
   <string name="must_pick_file">Sélectionner une image</string>
   <string name="name_wrong">"Ce n'est pas %s"</string>
-  <string name="need_to_turn_on_network">Connexion mobile</string>
-  <string name="need_to_turn_on_sync">Activer la synchronisation avec Mi Cloud.</string>
-  <string name="need_to_turn_on_wlan">Connexion au Wi-Fi</string>
+  <string name="need_to_turn_on_network">Vous n\'avez pas de connexion Internet active</string>
+  <string name="need_to_turn_on_sync">Activer d\'abord la synchronisation avec Mi Cloud</string>
+  <string name="need_to_turn_on_wlan">Connexion préalable au Wi-Fi</string>
   <string name="negative">Négatif</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="no">Non</string>
@@ -342,9 +344,10 @@
   <string name="no_such_item">"Impossible de trouver l'élément."</string>
   <string name="no_thumbnail">Aucune vignette</string>
   <string name="none_picture">Aucune photo trouvée dans la galerie</string>
+  <string name="not_ask_any_more">"Ne plus demander après le prochain clic sur \"%s\""</string>
   <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'albums récents</string>
   <string name="not_show_hidden_albums">Ne pas afficher les albums masqués</string>
-  <string name="number_of_uploading_finish">Tous les fichiers ont été transférés sur Mi Cloud</string>
+  <string name="number_of_uploading_finish">Synchronisé(s) avec Mi Cloud</string>
   <string name="open">Activer</string>
   <string name="open_public_message">Générer une URL et l\'envoyer à des amis</string>
   <string name="open_public_title">Partager publiquement</string>
@@ -432,9 +435,9 @@
   <string name="send_public_url">Partager l\'URL de l\'album</string>
   <string name="sepia">Sépia</string>
   <string name="set_as_baby_lock_wallpaper">Définir comme fond d\'écran de verrouillage</string>
-  <string name="set_baby_icon_picker_default_title">Associer une photo</string>
+  <string name="set_baby_icon_picker_default_title">Définir une miniature pour ce bébé</string>
   <string name="set_bg_file_exist_message">Cet élément existe déjà</string>
-  <string name="set_bg_picker_default_title">Définir la photo d\'arrière-plan</string>
+  <string name="set_bg_picker_default_title">Définir la miniature préférée</string>
   <string name="set_bg_unknow_reasons">Erreur inconnue</string>
   <string name="set_hidden_album">Masquer</string>
   <string name="set_image">Utiliser l\'image comme</string>
@@ -491,7 +494,7 @@
   <string name="sync_album_set_error">Impossible de télécharger la liste des albums. Veuillez réessayer plus tard.</string>
   <string name="sync_album_summary">Synchronise vos photos et captures d\'écran avec Mi Cloud.</string>
   <string name="sync_battery_low">Batterie faible</string>
-  <string name="sync_cloud_space_full">Stockage Cloud saturé</string>
+  <string name="sync_cloud_space_full">Espace insuffisant sur le Cloud</string>
   <string name="sync_history_power_on">Synchroniser lors de la charge</string>
   <string name="sync_only_in_wifi">Wi-Fi uniquement</string>
   <string name="sync_only_in_wifi_alert">Désactiver la synchronisation via Wi-Fi uniquement peut engendrer une consommation élevée de données mobiles.</string>
@@ -522,7 +525,9 @@
   <string name="unpublishing">Annulation de la publication, veuillez patienter…</string>
   <string name="untagged">Aucun tag</string>
   <string name="upgrade_micloud_space">Obtenez de l\'espace supplémentaire</string>
+  <string name="user_agreement">"Conditions d\'Utilisation du Service"</string>
   <string name="user_alias_self">Moi</string>
+  <string name="user_policy">Politique de Confidentialité</string>
   <string name="video_err">Impossible de lire la vidéo.</string>
   <string name="view_sharers">Afficher les partageurs</string>
   <string name="vignette">Vignette</string>
@@ -621,12 +626,13 @@
   <string name="paint_cancel_context">Annuler les modifications et quitter ?</string>
   <string name="paint_cancel_title">Annulation des modifications</string>
   <string name="cloud_folder_chooser_move">Supprimer de l\'album original</string>
+  <string name="cloud_full_tip_str">Espace insuffisant sur le Cloud</string>
   <string name="secret_album_display_name">Album secret</string>
   <string name="remove_from_secret_successfully_message">Retirée de l\'album secret</string>
   <string name="add_to_secret_successfully_message">Ajoutée à l\'album secret</string>
   <string name="add_to_cloud_unfinished_message_with_count">%1$s éléments non ajoutés au cloud</string>
   <string name="cloudfolder_fail_to_load_data">Échec du chargement des données, veuillez ressayer</string>
-  <string name="impunity_declaration">Certaines fonctions de cette application requièrent l\'accès à internet pour fonctionner correctement.</string>
+  <string name="impunity_declaration">En utilisant ce service, vous acceptez les %1$s et %2$s de Xiaomi. Certaines fonctions nécessitent un accès Internet pour fonctionner normalement.</string>
   <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_settings">Afficher l\'avertissement de trafic</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Galerie</string>
@@ -749,6 +755,10 @@
   <string name="confirm_left_photo_will_move_in">%s est présent(e) dans toutes les photos restantes ?</string>
   <string name="confirm_left_photo_will_move_out">"%s n\'est présent(e) dans aucune des photos restantes ?"</string>
   <string name="confirm_not_face">Pas cette personne</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Etes-vous sûr qu\'il s\'agit de &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ce visage sera déplacé dans l\'album \"%2$s\" après confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Etes-vous sûr qu\'il ne s\'agit pas de &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ce visage sera déplace dans l\'album \"%2$s\" après confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Etes-vous sûr que ces personnes sont &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ces visages seront déplacés dans l\'album \"%2$s\" après confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Etes-vous sûr que ces personnes ne sont pas &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ces visages seront déplacés dans l\'album \"%2$s\" après confirmation. &lt;/Data&gt;" "</string>
   <string name="contrast_abbr">C</string>
   <string name="enabling_face_feature">Un instant…</string>
   <string name="face_albumset_pending_enable_tip">Les photos seront triées lorsque l\'appareil est connecté en Wi-Fi</string>
@@ -776,6 +786,7 @@
   <string name="ubifocus_refocus_data_invalid">"Impossible de modifier la mise au point car certaines données de cette images sont corrompues"</string>
   <string name="videos">" vidéos"</string>
   <string name="view_baby_album">Voir l\'album de bébé</string>
+  <string name="view_baby_info">Modifier les informations du bébé</string>
   <string name="paint_highlight_cancel_context">Enregistrer l\'image surlignée ?</string>
   <string name="paint_highlight_cancel_title">Abandonner les modifications</string>
   <string name="add_event">Ajouter un évènement</string>

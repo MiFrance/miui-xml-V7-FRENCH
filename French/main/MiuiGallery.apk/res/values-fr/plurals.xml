@@ -116,6 +116,10 @@
         <item quantity="other">%1$d mois</item>
         <item quantity="one">%1$d mois</item>
     </plurals>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d abonnés</item>
+        <item quantity="one">%1$d abonné</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos en attente de synchronisation</item>
         <item quantity="one">Une photo en attente de synchronisation</item>

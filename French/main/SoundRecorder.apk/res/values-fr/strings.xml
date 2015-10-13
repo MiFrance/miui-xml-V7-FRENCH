@@ -5,6 +5,7 @@
 <resources>
   <string name="record_back_pressed_hint">Réappuyer pour stopper</string>
   <string name="alert_message_delete_record">Voulez-vous supprimer le ou les enregistrement(s) sélectionné(s) ?</string>
+  <string name="alert_message_delete_record_title">Supprimer l\'enregistrement ?</string>
   <string name="app_name">Dictaphone</string>
   <string name="back">Retour</string>
   <string name="button_ok">OK</string>
@@ -23,7 +24,6 @@
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_sdcard_access">Impossible d\'accéder au stockage externe ou interne</string>
   <string name="fm_record">Enregistrements FM (%d)</string>
-  <string name="loading_recording">Chargement</string>
   <string name="hour">%d heure(s)</string>
   <string name="low_battery_error">La batterie est inférieure à 5%, pour s\'assurer que l\'enregistrement ne soit pas perdu il a été arrêté et sauvegardé.</string>
   <string name="low_battery_message_title">Batterie faible</string>
@@ -43,8 +43,6 @@
   <string name="preference_led_indicator">Écran de verrouillage</string>
   <string name="preference_led_indicator_prompt">Lors d\'un enregistrement, si l\'écran est verrouillé, l\'indiquer via la LED et la barre d\'état</string>
   <string name="preference_record_scenes_dialog_title">Sélectionner le mode d\'enregistrement</string>
-  <string name="preference_record_type_dialog_title">Sélectionner un type d\'enregistrement</string>
-  <string name="preference_record_type_title">Type d\'enregistrement</string>
   <string name="preference_scenes">Mode d\'enregistrement</string>
   <string name="preference_silent_mode">Enregistrement en silencieux</string>
   <string name="preference_tip_rename">Nommer les enregist. manuellement</string>
@@ -84,9 +82,6 @@
   <string name="record_download">Télécharger</string>
   <string name="record_download_msg">Veuillez attendre la fin du téléchargement pour lire l\'enregistrement.</string>
   <string name="record_download_msg_reload">Cet enregistrement n\'existe pas</string>
-  <string name="record_download_complete">Fini</string>
-  <string name="record_download_paused">En pause</string>
-  <string name="record_download_failed">Échoué</string>
   <string name="record_download_progress">%d%%</string>
   <string name="record_download_activity">Télécharg. enregistrements</string>
   <string name="retry">Réessayer</string>
@@ -104,7 +99,6 @@
   <string name="notification_title_all_paused">En pause</string>
   <string name="notification_message_all_paused">Peut augmenter la consommation de données mobiles.</string>
   <string name="toast_file_is_downloading">Ce fichier est en téléchargement, veuillez patienter</string>
-  <string name="record_download_pending">En attente</string>
   <string name="data_connection_button_text">OK</string>
   <string name="notification_recording_ticker">Mis en silencieux. Enregistrement…</string>
   <string name="error_sdcard_unmounted">Carte SD retirée, veuillez en insérer une</string>
