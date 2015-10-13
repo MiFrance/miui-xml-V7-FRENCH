@@ -187,6 +187,7 @@ Vous pouvez désactiver cette fonction à tout moment via les paramètres.
 
 Vous pouvez activer/désactiver cette fonction à tout moment via les paramètres."</string>
   <string name="sync_dspt_provision">"Mi Cloud synchronise vos photos, SMS, notes, et plus entre tous vos appareils Mi. Vous pouvez aussi y accéder depuis un navigateur via "</string>
+  <string name="sync_dspt_provision_header">Synchronisation</string>
   <string name="find_device_send_sms_alert">"
   
 Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service."</string>

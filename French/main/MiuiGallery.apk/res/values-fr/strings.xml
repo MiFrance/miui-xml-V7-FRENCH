@@ -344,7 +344,7 @@
   <string name="no_such_item">"Impossible de trouver l'élément."</string>
   <string name="no_thumbnail">Aucune vignette</string>
   <string name="none_picture">Aucune photo trouvée dans la galerie</string>
-  <string name="not_ask_any_more">"Ne plus demander après le prochain clic sur \"%s\""</string>
+  <string name="not_ask_any_more">"Ne plus demander pour \"%s\" réponses"</string>
   <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'albums récents</string>
   <string name="not_show_hidden_albums">Ne pas afficher les albums masqués</string>
   <string name="number_of_uploading_finish">Synchronisé(s) avec Mi Cloud</string>
@@ -359,7 +359,7 @@
   <string name="operation_in_process">Traitement en cours…</string>
   <string name="operation_refresh">Actualiser</string>
   <string name="operation_rename">Renommer</string>
-  <string name="operation_rename_baby">Entre le nom du bébé</string>
+  <string name="operation_rename_baby">Entrez un nom</string>
   <string name="operation_set_as_screensaver">Définir comme écran de veille</string>
   <string name="operation_share">Partager</string>
   <string name="operation_successful">Partagé avec succès !</string>
@@ -754,7 +754,7 @@
   <string name="confirm_face">Confirmer</string>
   <string name="confirm_left_photo_will_move_in">%s est présent(e) dans toutes les photos restantes ?</string>
   <string name="confirm_left_photo_will_move_out">"%s n\'est présent(e) dans aucune des photos restantes ?"</string>
-  <string name="confirm_not_face">Pas cette personne</string>
+  <string name="confirm_not_face">Aucun résultat</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Etes-vous sûr qu\'il s\'agit de &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ce visage sera déplacé dans l\'album \"%2$s\" après confirmation. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Etes-vous sûr qu\'il ne s\'agit pas de &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ce visage sera déplace dans l\'album \"%2$s\" après confirmation. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Etes-vous sûr que ces personnes sont &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ces visages seront déplacés dans l\'album \"%2$s\" après confirmation. &lt;/Data&gt;" "</string>

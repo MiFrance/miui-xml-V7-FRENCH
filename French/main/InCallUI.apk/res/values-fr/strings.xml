@@ -36,6 +36,7 @@
   <string name="onHold">En attente1</string>
   <string name="unknown">Inconnu</string>
   <string name="private_num">Numéro privé</string>
+  <string name="purchase_now">Recharger</string>
   <string name="payphone">Cabine téléphonique</string>
   <string name="callFailed_userBusy">Ligne occupée</string>
   <string name="callFailed_congestion">Réseau occupé</string>
@@ -87,6 +88,10 @@
   <string name="modify_call_option_vt_rx">Réception vidéo</string>
   <string name="modify_call_option_voice">Voix uniquement</string>
   <string name="accept_modify_call_request_prompt">Accepter la requête de modification d\'appel ?</string>
+  <string name="network_error_message">Essayez de passer un appel GSM. Il sera facturé par votre opérateur.</string>
+  <string name="network_error_title">Erreur réseau</string>
+  <string name="no_balance_message">Crédits restants insuffisants dans votre recharge téléphonique. Vous pouvez essayer de passer un appel GSM.</string>
+  <string name="no_balance_title">Crédits insuffisants</string>
   <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
   <string name="no_vm_number_msg">Aucun numéro de messagerie vocale n\'est enregistré sur la carte SIM.</string>
   <string name="add_vm_number_str">Ajouter un numéro</string>
@@ -608,6 +613,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="description_target_answer_rx_video">Répondre avec RX Vidéo</string>
   <string name="description_target_send_sms">Envoyer un SMS</string>
   <string name="description_target_decline">Refuser</string>
+  <string name="dial_with_gsm_phone">Appel GSM</string>
   <string name="description_direction_up_right">Haut Droite</string>
   <string name="description_direction_up_left">Haut Gauche</string>
   <string name="description_direction_down_left">Bas Gauche</string>
@@ -641,6 +647,8 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="ivr_menu_list_sub_menu_count_format">Appuyez sur %s</string>
   <string name="non_ivr_menu_view_menu">Afficher le menu</string>
   <string name="non_ivr_menu_collapse_menu">Masquer le menu</string>
+  <string name="not_support_message">"Votre recharge téléphonique ne prend pas en charge de tels numéros. Essayez de passer un appel GSM."</string>
+  <string name="not_support_title">"Numéro non pris en charge"</string>
   <string name="fraud_call_answer">Répondre</string>
   <string name="fraud_call_decline">Refuser</string>
   <string name="call_recording_error_privacy">Impossible d\'enregistrer en mode Invité</string>
@@ -654,6 +662,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
   <string name="call_recording_notification_title">Appel enregistré</string>
   <string name="call_recording_notification_title_error">"Impossible d'enregistrer cet appel"</string>
+  <string name="call_self">"Impossible de s'appeler soi-même!"</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="online_check_provider_info">Identifié par %s</string>
   <string name="callFailed_incoming_cb_enabled">Le groupe a interdit tous les appels entrants.</string>
@@ -692,6 +701,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="call_barring_sum">Réglages d\'interdiction d\'appel vocal</string>
   <string name="caller_manage_manage_done_text">Retour à l\'appel</string>
   <string name="cancel">Annuler</string>
+  <string name="cancel_call">Raccrocher</string>
   <string name="cannot_answered_Video_Call">L\'appel vidéo ne peut pas être répondu car il y a déjà un appel vocal actif</string>
   <string name="cannot_answered_Voice_Call">L\'appel vocal ne peut pas être répondu car il y a déjà un appel vidéo actif</string>
   <string name="card_title_incoming_vt_call">Appel vidéo entrant</string>

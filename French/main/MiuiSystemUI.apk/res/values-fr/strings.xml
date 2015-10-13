@@ -178,6 +178,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
+  <string name="task_access_locked_app_msg">"Le contenu de l'application est masqué."</string>
   <string name="title_usb_accessory">Accessoire USB</string>
   <string name="torch_activity_hint">Vous pouvez allumer la torche en maintenant la touche [icon] quand l\'écran est verrouillé</string>
   <string name="torch_activity_name">Torche</string>

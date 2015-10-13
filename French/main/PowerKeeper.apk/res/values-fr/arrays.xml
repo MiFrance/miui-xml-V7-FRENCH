@@ -28,6 +28,10 @@
         <item>Première notification</item>
         <item>Notifications sur écran de verrouillage</item>
     </string-array>
+    <string-array name="hmode_app_groups">
+        <item>personnalisés</item>
+        <item>suggérés</item>
+    </string-array>
     <string-array name="action_param_translate">
         <item>Aucune opération</item>
         <item>Standard</item>

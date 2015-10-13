@@ -24,6 +24,8 @@
   <string name="traffic_saving_button_mng">Gérer les paramètres d\'économie de données</string>
   <string name="traffic_saving_need_optimize">Peut être optimisé</string>
   <string name="traffic_saving_notification_button_start">Activer</string>
+  <string name="traffic_saving_notify_no_apps_saving">Aucune application n\'utilise l\'économiseur de données</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Appuyez pour activer l\'économiseur de données.</string>
   <string name="traffic_saving_one_key_optimize">Optimiser pour économiser les données</string>
   <string name="traffic_saving_optimized">Déjà optimisé</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
