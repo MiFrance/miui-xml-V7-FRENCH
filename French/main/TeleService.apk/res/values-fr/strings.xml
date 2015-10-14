@@ -356,6 +356,7 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="manage_fdn_list">Liste FDN</string>
   <string name="fdn_activation">Activation des numéros autorisés</string>
   <string name="fdn_enabled">FDN activé</string>
+  <string name="fdn_full">"Le FDN n'a pas été mis à jour car la liste est pleine."</string>
   <string name="fdn_disabled">Numérotation fixe désactivée</string>
   <string name="enable_fdn">Activer numéros autorisés</string>
   <string name="disable_fdn">Désactiver numéros autorisés</string>

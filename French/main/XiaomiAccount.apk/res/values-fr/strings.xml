@@ -3,8 +3,6 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-  <string name="email_or_id_hint_text">E-mail ou ID compte Mi</string>
-  <string name="login_with_email_or_id"><u>Se connecter avec un autre compte</u></string>
   <string name="account_learn_more_title">Créer un compte Mi</string>
   <string name="account_dspt_provision2">En savoir plus</string>
   <string name="cloud_service_dspt">Synchronisez vos photos, contacts, notes, applis et plus sur tous vos appareils.</string>
@@ -22,29 +20,16 @@
   <string name="account">Compte</string>
   <string name="account_hint_text">E-mail ou numéro de téléphone</string>
   <string name="phone_num_hint_text">Numéro de téléphone</string>
-  <string name="login">Se connecter</string>
-  <string name="verify">Vérifier</string>
-  <string name="register">Créer un compte</string>
-  <string name="register_by_email"><u>Utiliser un e-mail</u></string>
-  <string name="next">Suivant</string>
-  <string name="prev">Précédent</string>
-  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
   <string name="foreign_login"><u>Pays/Indicatif</u></string>
   <string name="seperator_forget_and_foreign">" | "</string>
-  <string name="password">Saisir le mot de passe</string>
   <string name="captcha">Saisir le code</string>
-  <string name="vcode">Code de vérification</string>
-  <string name="bad_authentication">Identifiant ou mot de passe incorrect</string>
   <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez saisir votre code de pays, par exemple +33xxxxxxxxx</string>
   <string name="micloud_welcome_skip_login"><u>Passer l\'inscription</u></string>
   <string name="micloud_account_name">Mi Cloud</string>
-  <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_error_empty_username">Saisissez le nom d\'utilisateur</string>
-  <string name="micloud_error_empty_pwd">Saisissez le mot de passe</string>
   <string name="micloud_error_invalid_phone_num">Numéro de téléphone incorrect</string>
   <string name="micloud_error_empty_phone_num">Saisissez votre numéro</string>
   <string name="micloud_error_illegal_pwd">Mot de passe incorrect</string>
-  <string name="micloud_error_empty_captcha_code">Saisissez le code captcha</string>
   <string name="micloud_error_empty_vcode">Saisissez le code de vérification</string>
   <string name="micloud_email">Adresse e-mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone</string>
@@ -73,46 +58,22 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_click_email_to_valid">\n\nPour activer votre compte, suivez le /n lien d\'activation envoyé sur votre boîte e-mail.</string>
   <string name="micloud_resend_active_email">Renvoyer le e-mail d\'activation</string>
-  <string name="micloud_delete_account">Supprimer le compte</string>
   <string name="micloud_active_email_sent_1">"E-mail d'activation envoyé à : "</string>
   <string name="micloud_click_email">\n\nPour activer votre compte, /n suivez le lien dans le e-mail d\'activation.</string>
   <string name="completed">Terminé</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
-  <string name="title_reg">Créer un compte Mi</string>
   <string name="micloud_account_label">Compte : %1$s</string>
   <string name="email_already_be_used">Cette adresse e-mail est déjà associée avec un autre compte</string>
-  <string name="error_no_sms_service">"Impossible d'envoyer un SMS, réseau mobile indisponible"</string>
   <string name="reg_by_email_failure">"Échec de l'inscription : %1$s"</string>
   <string name="unactivated_user">Le compte n\'a pas été activé</string>
-  <string name="reg_failed">"Échec de l'inscription"</string>
-  <string name="login_instead_reg">Utiliser ce numéro de téléphone</string>
-  <string name="login_instead_reg_with_email">Utiliser cet e-mail</string>
-  <string name="get_back_pwd">Récupérer le mot de passe du compte</string>
-  <string name="login_failed">"Échec de connexion"</string>
-  <string name="verification_failed">Échec de l\'authentification</string>
-  <string name="error_network">"Erreur réseau"</string>
-  <string name="error_device_id">"Impossible d'obtenir l'IMEI"</string>
   <string name="error_dup_phone">Ce numéro de téléphone est déjà associé avec un autre compte</string>
   <string name="error_phone_error">Numéro de téléphone incorrect</string>
-  <string name="error_server">Erreur du serveur</string>
   <string name="error_sim_not_ready">"Carte SIM non prête"</string>
-  <string name="error_unknown">"Erreur inconnue"</string>
-  <string name="error_invalid_dev_id">Identité de l\'appareil non valide</string>
-  <string name="error_user_name">Nom d\'utilisateur non valide</string>
   <string name="exceed_binded_phone_times_notice">Ce numéro est déjà associé à un autre compte Mi.</string>
   <string name="error_verify_code">Le code que vous avez saisi est incorrect</string>
   <string name="error_dup_email">Cette e-mail est déjà associer avec un autre compte</string>
   <string name="error_login">Impossible de se connecter</string>
   <string name="relogin_notice">Veuillez vous reconnecter</string>
-  <string name="quick_login_title">Saisir le mot de passe</string>
-  <string name="quick_login_step2_title">Vérification en 2 étapes</string>
-  <string name="account_name">Compte : %1$s</string>
-  <string name="quick_login_dialog_title">Mot de passe</string>
-  <string name="quick_login_dialog_step2_title">Vérification en 2 étapes</string>
-  <string name="input_password_hint">Saisir le mot de passe</string>
-  <string name="input_captcha_hint">Saisir le code</string>
-  <string name="input_vcode_hint">Saisir le code de vérification</string>
-  <string name="confirm">Confirmer</string>
   <string name="alert_title_remove_account">"Supprimer les données synchronisée ?"</string>
   <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appels et des notes de votre appareil déjà synchronisés avec votre compte Mi ?</string>
   <string name="data_keep_in_device">Garder sur l\'appareil</string>
@@ -120,8 +81,6 @@ Vous pouvez faire autre chose…"</string>
   <string name="login_notice">Connexion…</string>
   <string name="i_know">OK</string>
   <string name="failed_to_send_activate_email">"Impossible d'envoyer un e-mail d'activation"</string>
-  <string name="access_denied">Impossible d\'accéder à votre application e-mail</string>
-  <string name="reging">Création du compte…</string>
   <string name="reg_success">Inscription réussie</string>
   <string name="reg_success_summary">%1$s a été associé à votre compte. Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
   <string name="email_reg_success_summary">"%1$s a été associé à votre compte.
@@ -133,29 +92,15 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="activating">Activation…</string>
   <string name="check_phone_error_title">"Impossible d'activer le service de synchronisation"</string>
   <string name="check_phone_io_error">Erreur réseau</string>
-  <string name="micloud_area_code_title">Indicatifs téléphoniques</string>
   <string name="micloud_area_code_hot">Fréquemments utilisés</string>
-  <string name="user_agreement_p1">"En vous connectant, vous acceptez les
- "</string>
-  <string name="user_agreement_p2">Conditions d\'utilisation</string>
-  <string name="user_agreement_p3">" et "</string>
-  <string name="user_agreement_p4">Règles de confidentialité</string>
-  <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les
- "</string>
-  <string name="user_agreement_p6">"Accepter les
- "</string>
   <string name="skip_setup_account_title">Ignorer la configuration du compte</string>
   <string name="skip_setup_account_msg">Vous pouvez configurer votre compte Mi plus tard dans les paramètres.</string>
   <string name="account_dspt">Un compte pour tout l\'univers Xiaomi</string>
   <string name="remove_unactivated_account_notice">"Votre compte Mi n'as pas été activé."</string>
   <string name="remove_confirm">Supprimer</string>
-  <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour réinitialiser votre mot de passe</string>
-  <string name="relogin">Se connecter</string>
   <string name="skip_login">Ignorer la connexion</string>
   <string name="skip_login_u"><u>Ignorer la connexion</u></string>
   <string name="removing_account">Suppression du compte…</string>
-  <string name="checking_account">Vérification du mot de passe…</string>
-  <string name="button_cancel">Annuler</string>
   <string name="mili_center">Mi Credit</string>
   <string name="mipay_center">Centre de paiement Mi</string>
   <string name="sina_weibo">Sina Weibo</string>
@@ -173,13 +118,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le réassocier</string>
   <string name="access_token_invalid_warning">Compte Weibo est non valide.</string>
   <string name="service_error">Impossible de se connecter à Weibo</string>
-  <string name="wrong_captcha">Code captcha incorrect</string>
-  <string name="wrong_vcode">Code de vérification incorrect</string>
   <string name="input_vcode_prompt">Veuillez saisir le code de vérification</string>
-  <string name="trust_device">Appareil de confiance</string>
-  <string name="vcode_prompt_long">Veuillez saisir le code de vérification</string>
-  <string name="vcode_notification_title">La vérification de votre compte est incomplète.</string>
-  <string name="checking_input">Vérification de la saisie…</string>
   <string name="wipe_data_dialog_title">"Certains éléments n'ont pas été synchronisés."</string>
   <string name="wipe_data_dialog_msg">%s éléments n\'ont pas été synchronisés (ces données seront perdues si vous continuez).</string>
   <string name="dirty_contacts_count">contacts : %d</string>
@@ -207,7 +146,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="account_bind_devices">Appareils</string>
   <string name="account_dspt_provision">Utilisez un seul compte pour tous nos produits.</string>
   <string name="find_device_dspt">Verrouiller ou effacer cet appareil à distance.</string>
-  <string name="login_title">Connectez-vous à votre compte Mi</string>
   <string name="login_step2_title">Vérification en 2 étapes</string>
   <string name="micloud_user_space_title">Espace de stockage</string>
   <string name="micloud_welcome_skip_login_provision">Ignorer</string>
@@ -219,9 +157,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="please_input_phone_number">Saisir le numéro de téléphone</string>
   <string name="please_input_verify_code">Saisir le code de vérification</string>
   <string name="wrong_phone_number_format">Le numéro de téléphone saisi n\'est pas valide</string>
-  <string name="btn_return">Retour</string>
-  <string name="re_register">Créer un compte Mi</string>
-  <string name="skip_register">S\'inscrire plus tard</string>
   <string name="account_not_activated">"Votre compte n'a pas été vérifié !"</string>
   <string name="change_account">Changer de compte</string>
   <string name="register_account_verified_confirm">Déjà activé</string>
@@ -233,10 +168,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="micloud_sync_info">%d éléments non synchronisés</string>
   <string name="micloud_sync_info_synced">Synchronisation effectuée</string>
   <string name="micloud_space_info">%s disponibles</string>
-  <string name="loading">Chargement…</string>
-  <string name="privacy_policy">Politique de confidentialité</string>
   <string name="provision_skip_login">&lt;u&gt;Ignorer cette étape&lt;/u&gt;</string>
-  <string name="user_agreement">Conditions d\'utilisation</string>
   <string name="reg_type_other_ways"><u>Utiliser une autre méthode de création de compte</u></string>
   <string name="reg_type_other_ways_title">Utiliser une autre méthode de création de compte</string>
   <string name="reg_using_phone_number_prompt">S\'inscrire avec un numéro de téléphone</string>
@@ -244,11 +176,9 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="reg_using_other_phone">Inscription avec un autre numéro</string>
   <string name="reg_via_sms_alert">Le SMS d\'activation peut être assujetti à des frais supplémentaires</string>
   <string name="scan_barcode_title">Connectez-vous à votre compte Mi en scannant le code QR</string>
-  <string name="license_host_unreachable">Impossible d\'accéder à internet. Pour afficher ces informations, accédez à %s</string>
   <string name="mibi_balance">%s MiCredits</string>
   <string name="sim_index_info">Carte SIM %1$d - %2$s</string>
   <string name="facebook">Facebook</string>
-  <string name="error_ssl_hand_shake">Erreur de connexion au serveur. Veuillez vérifier que l\'horloge de votre appareil soit correctement configurée.</string>
   <string name="bind_sns_description">Complétez votre profil en utilisant les infos personnelles via %s.</string>
   <string name="binded_description" formatted="false">"%s rattaché avec succès 
  Complétez votre profil en utilisant les infos personnelles via %s."</string>
@@ -272,10 +202,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="get_device_list_failed">Échec du chargement de la liste d\'appareils</string>
   <string name="logout_failed">Erreur, impossible de se déconnecter</string>
   <string name="mi_service">Support</string>
-  <string name="micloud_sync_state_need_wifi">Utiliser le Wi-Fi pour synchroniser</string>
-  <string name="micloud_sync_state_stop">Stoppé</string>
-  <string name="micloud_sync_state_synced">Synchronisé</string>
-  <string name="micloud_sync_state_syncing">Synchronisation...</string>
   <string name="my_device_title">Appareil actuel</string>
   <string name="no_network_btn">Actualiser</string>
   <string name="no_network_title">"Pas de connexion au réseau."</string>
@@ -295,7 +221,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_bad_authentication">Nom d\'utilisateur ou mot de passe invalides</string>
   <string name="passport_btn_return">Retour</string>
   <string name="passport_button_cancel">Annuler</string>
-  <string name="passport_captcha">Entrer le code</string>
   <string name="passport_change_account"><u>Changer de compte</u></string>
   <string name="passport_change_phone_number">Changer de numéro</string>
   <string name="passport_checking_account">Vérif. mot de passe…</string>
@@ -331,7 +256,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_error_phone_error">N° de téléphone invalide</string>
   <string name="passport_error_server">Erreur du serveur</string>
   <string name="passport_error_sim_not_ready">"Carte SIM non trouvée"</string>
-  <string name="passport_error_ssl_hand_shake">Erreur de connexion au serveur. Essayez de définir votre date système à la date courante.</string>
+  <string name="passport_error_ssl_hand_shake">Erreur de connexion au serveur.</string>
   <string name="passport_error_unknown">"Impossible de se connecter"</string>
   <string name="passport_error_user_name">Ce nom d\'utilisateur est invalide.</string>
   <string name="passport_error_verify_code">Le code saisi est incorrect</string>
@@ -348,7 +273,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_input_password_hint">Entrer le mot de passe</string>
   <string name="passport_input_phone_hint">Entrer le n° de téléphone</string>
   <string name="passport_input_vcode_hint">Entrer le code de vérification</string>
-  <string name="passport_input_verify_code_hint">Entrer le code de vérification</string>
   <string name="passport_license_host_unreachable">"Pas de connexion réseau. Vous pouvez voir cette page sur %s."</string>
   <string name="passport_loading">Chargement…</string>
   <string name="passport_login">Connexion</string>
@@ -361,7 +285,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_login_with_email_or_id"><u>Connectez-vous avec votre adresse e-mail ou votre ID de compte Mi</u></string>
   <string name="passport_next">Suivant</string>
   <string name="passport_notification_title">Erreur de connexion pour %1$s</string>
-  <string name="passport_password">Entrez votre mot de passe</string>
   <string name="passport_password_req_notice">Le mot de passe doit comprendre de 8 à 16 caractères, et inclure à la fois des chiffres et des lettres (sensible à la casse).</string>
   <string name="passport_phone_num_hint_text">N° de téléphone</string>
   <string name="passport_prev">Retour</string>
@@ -418,7 +341,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_user_agreement_p2">Conditions d\'utilisation</string>
   <string name="passport_user_agreement_p3">" et la "</string>
   <string name="passport_user_agreement_p4">Politique de confidentialité</string>
-  <string name="passport_vcode">Code de vérification</string>
   <string name="passport_vcode_notification_title">Votre code de vérification est incomplet</string>
   <string name="passport_vcode_prompt_long">Veuillez saisir le code de vérification</string>
   <string name="passport_verification_failed">Échec d\'authentification</string>
@@ -470,7 +392,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="user_avatar_update_title">Modifier la photo</string>
   <string name="user_avatar_uploading">Envoi…</string>
   <string name="mi_pass">Mi Pass</string>
-  <string name="micloud_sync_state_pending">En attente</string>
   <string name="account_bind_new_phone">Ajouter un nouveau numéro de téléphone</string>
   <string name="account_bind_phone_notice">Utilisez ce numéro pour vous connecter, réinitialiser votre mot de passe, ou changer vos paramètres de sécurité.</string>
   <string name="account_bind_secure_email_title">Ajouter une adresse mail de récupération</string>
@@ -511,5 +432,5 @@ Veuillez saisir le code de vérification contenu dans le message"</string>
   <string name="trying_read_verify_code_sms">Récupération du code de vérification…</string>
   <string name="update_recovery_info_dialog_message">Vous devez vérifier votre identité avant de mettre à jour %s.</string>
   <string name="update_recovery_info_dialog_title">Mise à jour de %s</string>
-  <string name="vip_level_value">LV%d</string>
+  <string name="vip_level_value">%d</string>
 </resources>
