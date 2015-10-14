@@ -729,11 +729,8 @@
   <string name="v5_edit_mode_title_empty">Aucune sélection</string>
   <string name="version_check_button_checking">Vérification</string>
   <string name="version_check_button_default">Recherche de mises à jour</string>
-  <string name="version_check_button_checking">Vérification…</string>
-  <string name="version_check_button_default">Vérifier les mises à jour</string>
   <string name="version_check_button_download_failed">Reprendre le téléchargement</string>
   <string name="version_check_button_downloading">Téléchargement</string>
-  <string name="version_check_button_downloading">Téléchargement…</string>
   <string name="version_check_button_install">Installer</string>
   <string name="version_check_button_newest">Pas de mises à jour disponibles</string>
   <string name="version_check_button_no_network">"Pas de connexion au réseau"</string>
