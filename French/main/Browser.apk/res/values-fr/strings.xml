@@ -739,6 +739,8 @@
   <string name="sub_sync_item_browser_title_bookmark_summary">Synchronise les favoris du navigateur</string>
   <string name="enter_incongnito_mode">Mode incognito</string>
   <string name="pref_volume_key_action">Défiler avec les boutons volume</string>
+  <string name="pref_weather_location_summary">"Utiliser le module météo du navigateur"</string>
+  <string name="pref_weather_location_title">Localisation météo</string>
   <string name="pref_other_title">Autres</string>
   <string name="pref_clear_data_title">Effacer les données</string>
   <string name="pref_clear_all_data_title">Tout effacer</string>
@@ -783,8 +785,9 @@
   <string name="block_ads_title">Contenu potentiellement publicitaire</string>
   <string name="pref_check_security_url_summary">"Envoi l\'adresse des sites web vers les serveurs de Xiaomi afin vérifier sa sécurité"</string>
   <string name="pref_check_security_url_title">Vérifier les liens</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Information</string>
   <string name="show_check_security_url_check_tip_dialog_description">"L'adresse de ce site sera envoyée vers les serveurs de Xiaomi afin vérifier sa sécurité. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
+  <string name="show_security_tip_dialog_title">Conditions d\'utilisation du Service</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Les services météo nécessitent vos informations de localisation afin de fournir une météo à jour dans votre navigateur. Vous pouvez désactiver cette fonction dans les paramètres.</string>   
   <string name="quicklink_bookmark_save">Emplacement du favori</string>
   <string name="voice_title">Énoncez votre commande…</string>
   <string name="voice_sub_title">"Vous ne savez pas quoi dire ? Essayez Ouvrir mi.com !"</string>

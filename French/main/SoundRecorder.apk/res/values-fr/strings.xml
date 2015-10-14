@@ -77,13 +77,18 @@
   <string name="record_list_cloud_fm">Enregistrements FM sur Mi Cloud</string>
   <string name="record_list_cloud_call">Appels enregistrés sur Mi Cloud</string>
   <string name="cloud_record">Enregistrements sur Mi Cloud (%d)</string>
+  <string name="cloud_record_open">Synchroniser les enregistrements</string>
+  <string name="cloud_record_tip">Synchroniser les enregistrements avec Mi Cloud.</string>
+  <string name="cloud_status_full_dialog_cancel">Pas maintenant</string>
+  <string name="cloud_status_full_dialog_msg">"Votre espace Cloud est saturé, impossible de synchroniser. Mettez à jour votre compte pour obtenir plus d'espace de stockage."</string>
+  <string name="cloud_status_full_dialog_ok">Mise à jour</string>
+  <string name="cloud_status_full_dialog_title">Stockage Mi Cloud saturé</string>
   <string name="status_bar_back">Toucher pour revenir en arrière</string>
   <string name="access_error">"Impossible d'enregistrer en mode invité"</string>
   <string name="record_download">Télécharger</string>
   <string name="record_download_msg">Veuillez attendre la fin du téléchargement pour lire l\'enregistrement.</string>
   <string name="record_download_msg_reload">Cet enregistrement n\'existe pas</string>
-  <string name="record_download_progress">%d%%</string>
-  <string name="record_download_activity">Télécharg. enregistrements</string>
+  <string name="record_download_complete">Téléchargé</string>
   <string name="retry">Réessayer</string>
   <string name="start">Reprendre</string>
   <string name="record_download_manager">Gestionnaire de téléchargement</string>
@@ -98,12 +103,10 @@
   <string name="button_start_now">Télécharger</string>
   <string name="notification_title_all_paused">En pause</string>
   <string name="notification_message_all_paused">Peut augmenter la consommation de données mobiles.</string>
-  <string name="toast_file_is_downloading">Ce fichier est en téléchargement, veuillez patienter</string>
   <string name="data_connection_button_text">OK</string>
   <string name="notification_recording_ticker">Mis en silencieux. Enregistrement…</string>
   <string name="error_sdcard_unmounted">Carte SD retirée, veuillez en insérer une</string>
   <string name="error_file_access">"Le fichier n'existe pas ou est corrompu"</string>
-  <string name="no_downloading_file">Aucun téléchargement de fichiers.</string>
   <string name="wifi_recommended_body" formatted="false">"Lancer le téléchargement de %s maintenant peut impacter le niveau de charge de votre batterie, et/ou entraîner une consommation excessive de vos données mobiles : ceci peut entraîner des frais supplémentaires selon votre forfait.
 
  Touchez %s pour lancer ce téléchargement lors de votre prochaine connexion à un réseau Wi-Fi."</string>

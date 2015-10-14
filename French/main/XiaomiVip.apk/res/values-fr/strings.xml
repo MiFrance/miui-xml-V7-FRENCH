@@ -46,6 +46,7 @@
   <string name="query_level_fail">"Ne peut récupérer l\'info"</string>
   <string name="query_user_tasks_fail">"Ne peut récupérer l\'info de l\'objectif"</string>
   <string name="seconds">%ds</string>
+   <string name="start_activity_error">"Impossible de démarrer l'appli : %s"</string>
   <string name="take_awarded_package">Rembourser</string>
   <string name="take_awarded_package_failed">"Echec de remboursement du cadeau. Attendez quelques minutes et essayez à nouveau."</string>
   <string name="task">Objectifs</string>

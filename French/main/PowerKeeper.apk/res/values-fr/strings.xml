@@ -15,14 +15,14 @@
   <string name="alter_message_open_hide_title">"Gérer la conso batterie des applications ?"</string>
   <string name="alter_message_switch_mode">Basculer les modes?</string>
   <string name="alter_message_switch_mode_message">Lorsque vous basculez les modes, vos anciens réglages ne s\'appliqueront plus à l\'application.</string>
-  <string name="app_frozen_app_list_summary">Paramètres de l\'application</string>
-  <string name="app_list_title">Sélectionnez les applications à restreindre</string>
+  <string name="app_frozen_app_list_summary">Applications en arrière-plan</string>
+  <string name="app_list_title">Sélectionnez les applications</string>
   <string name="app_name">Economiseur de batterie</string>
   <string name="background">L\'application s\'exécute en arrière-plan</string>
   <string name="config_custom_description">Configurez de manière précise les restrictions à appliquer</string>
   <string name="config_custom_title">Personnalisé</string>
   <string name="config_suggest_description">Utiliser la configuration suggérée par MIUI</string>
-  <string name="config_suggest_title">Suggestion de MIUI</string>
+  <string name="config_suggest_title">Suggestion</string>
   <string name="disabled">Désactivé</string>
   <string name="empty_title_apps_container_list">Pas d\'applications</string>
   <string name="error_filename_too_long">Le nom de fichier saisi est trop long.</string>

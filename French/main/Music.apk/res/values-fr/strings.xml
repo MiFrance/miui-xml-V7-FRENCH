@@ -190,7 +190,7 @@
   <string name="payment_success">Paiement effectué !</string>
   <string name="payment_fail">Paiement échoué !</string>
   <string name="music_quality">Qualité musique</string>
-  <string name="higher_quality_music">Audio de très haute qualité</string>
+  <string name="higher_quality_music">Audio haute qualité</string>
   <string name="higher_quality_music_summary">Écouter et télécharger la musique de haute qualité</string>
   <string name="home_tab_local">Ma musique</string>
   <string name="home_tab_online">Découvrir</string>

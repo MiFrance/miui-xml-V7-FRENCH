@@ -215,6 +215,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Impossible de d\'accéder au mode Recovery</string>
   <string name="recovery_failed_title">Impossible de d\'accéder au mode Recovery</string>
   <string name="recovery_power_not_enough_msg">Brancher le chargeur pour mettre à jour s\'il reste moins de 30% de batterie</string>
+  <string name="recovery_power_not_enough_msg_plugged">La batterie doit être chargée à plus de 15% pour mettre à jour l\'appareil</string>
   <string name="recovery_power_not_enough_title">Niveau de batterie faible</string>
   <string name="recovery_failed_button">OK</string>
   <string name="miui_BBS">" "<a href="http://mi.france.free.fr">Accéder au forum MIUI</a>" "</string>

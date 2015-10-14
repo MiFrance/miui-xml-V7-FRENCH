@@ -295,7 +295,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="pref_data_usage_ignore_settings_summary">"Ne pas prendre un compte les données utilisées par les applis sélectionnées"</string>
   <string name="input_used_max_hint">Saisir le montant (moins de %s)</string>
   <string name="datausage_purchase_order_failure">Échec de l\'achat</string>
-  <string name="datausage_purchase_order_failure_cause">Votre achat a échoué car…</string>
+  <string name="datausage_purchase_order_failure_cause">L\'achat a échoué…</string>
   <string name="main_primary_message_traffic_enough">Sous la limite de données</string>
   <string name="main_primary_message_traffic_warning">Proche de la limite de données</string>
   <string name="main_primary_message_traffic_overlimit">Dépassement de la limite de données</string>
