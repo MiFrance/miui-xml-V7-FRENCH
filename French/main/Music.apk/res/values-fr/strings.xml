@@ -60,7 +60,7 @@
   <string name="atmd_music">Ultimate</string>
   <string name="atmd_tel">Support : 0755-86699030</string>
   <string name="audio_picker_title">Sélectionner une chanson</string>
-  <string name="auto_payment">Renouveler automatiquement</string>
+  <string name="auto_payment">Renouvellement automatique</string>
   <string name="auto_payment_date">Prochain paiement : %s</string>
   <string name="avail_services">Services disponibles</string>
   <string name="dialog_button_create_playlist">Créer une playlist</string>
@@ -205,7 +205,7 @@
   <string name="vip_auto_renew_notification_message">Ajouter des crédits Mi pour renouveler votre abonnement.</string>
   <string name="vip_auto_renew_notification_title">Paiement de l\'abonnement</string>
   <string name="vip_auto_renew_title">Renouvellement de l\'abonnement</string>
-  <string name="vip_renew_message">"Vous ne pourrez plus profiter du son haute qualité, mais vous pourrez toujours écouter de la musique en qualité standard."</string>
+  <string name="vip_renew_message">"Vous ne pourrez plus écouter de contenu audio en haute qualité, mais certaines pistes seront toutefois disponibles en qualité standard."</string>
   <string name="vip_renew_notification_message">"Vous ne pourrez plus profiter du son haute qualité après expiration de votre abonnement."</string>
   <string name="vip_renew_notification_title">Votre abonnement expire demain</string>
   <string name="vip_renew_title">Abonnement expiré</string>
@@ -318,11 +318,11 @@
   <string name="empty_page_no_document">Aucun fichier audio</string>
   <string name="empty_page_no_track">Aucune piste</string>
   <string name="disable_auto_payment_fail">"Echec lors de la désactivation"</string>
-  <string name="disable_auto_payment_fail_message">"Impossible de désactiver le paiement et renouvellement automatiques."</string>
+  <string name="disable_auto_payment_fail_message">"Impossible de désactiver le renouvellement automatique"</string>
   <string name="disable_auto_payment_success">Désactivé</string>
   <string name="disable_auto_payment_success_message">Paiement et renouvellement automatiques désactivés. Votre abonnement ne sera pas renouvelé après votre prochain paiement.</string>  
   <string name="enable_auto_payment_fail">"Echec lors de l'activation"</string>
-  <string name="enable_auto_payment_fail_message">"Impossible d'activer le paiement et renouvellement automatiques."</string>
+  <string name="enable_auto_payment_fail_message">"Impossible d'activer le renouvellement automatique"</string>
   <string name="enable_auto_payment_success">Renouveler automatiquement</string>
   <string name="enable_auto_payment_success_message">Paiement et renouvellement automatiques activés. Le prochain paiement aura lieu le %s.</string>
   <string name="add_music">Ajouter des pistes</string>

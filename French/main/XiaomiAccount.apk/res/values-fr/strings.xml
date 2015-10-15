@@ -256,7 +256,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_error_phone_error">N° de téléphone invalide</string>
   <string name="passport_error_server">Erreur du serveur</string>
   <string name="passport_error_sim_not_ready">"Carte SIM non trouvée"</string>
-  <string name="passport_error_ssl_hand_shake">Erreur de connexion au serveur.</string>
+  <string name="passport_error_ssl_hand_shake">"Echec de connexion au serveur"</string>
   <string name="passport_error_unknown">"Impossible de se connecter"</string>
   <string name="passport_error_user_name">Ce nom d\'utilisateur est invalide.</string>
   <string name="passport_error_verify_code">Le code saisi est incorrect</string>
