@@ -2962,8 +2962,8 @@ et lancer le logiciel."</string>
   <string name="screen_paper_mode_apps_title">Utiliser le mode Lecture pour ces apps</string>
   <string name="screen_paper_mode_off_apps_title">Ne pas utiliser le mode Lecture pour ces apps</string>
   <string name="screen_paper_mode_title">Mode Lecture</string>
-  <string name="screen_paper_mode_turn_off">Off</string>
-  <string name="screen_paper_mode_turn_on">On</string>
+  <string name="screen_paper_mode_turn_off">Désactivé</string>
+  <string name="screen_paper_mode_turn_on">Activé</string>
   <string name="screen_paper_mode_adjust_level">Ajuster le niveau</string>
   <string name="screen_paper_mode_apps_loading">Chargement…</string>
   <string name="screen_paper_mode_global_summary">Utiliser le mode Lecture pour toutes les applications</string>
