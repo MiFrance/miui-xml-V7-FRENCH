@@ -1452,6 +1452,9 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="screen_on_proximity_sensor_summary">Désactive les fonctions d\'appel si l\'appareil est dans la poche (via le capteur de proximité).</string>
   <string name="screen_on_proximity_sensor_title">Éviter les erreurs de manipulation</string>
   <string name="screen_resolution_title">Résolution de l\'écran</string>
+  <string name="screen_resolution_confirm">Redémarrer</string>
+  <string name="screen_resolution_summary">"Diminuer la résolution de l\'affichage économisera la batterie et rendra le système plus rapide, cependant les images seront moins précises. Votre appareil devra redémarrer pour appliquer ce changement."</string>
+  <string name="screen_resolution_switch">Changer de résolution</string>
   <string name="screen_saturation">Saturation des couleurs</string>
   <string name="screen_timeout">Veille</string>
   <string name="screen_timeout_summary">Après %1$s d\'inactivité</string>
@@ -1640,6 +1643,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sound_category_system_title">Système</string>
   <string name="sound_effects_enable_title">Sons des touches</string>
   <string name="sound_settings">Son</string>
+  <string name="sound_vibrate_settings">Son &amp; vibration</string>
   <string name="spellchecker_language">Langue</string>
   <string name="spellchecker_quick_settings">Paramètres</string>
   <string name="spellchecker_security_warning">Ce correcteur orthographique peut recueillir l\'ensemble du texte saisi, y compris des données personnelles comme des mots de passe et des numéros de carte de paiement. Il provient de l\'application %1$s. Utiliser ce correcteur orthographique ?</string>

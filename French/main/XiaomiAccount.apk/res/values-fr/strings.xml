@@ -168,7 +168,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="micloud_sync_info">%d éléments non synchronisés</string>
   <string name="micloud_sync_info_synced">Synchronisation effectuée</string>
   <string name="micloud_space_info">%s disponibles</string>
-  <string name="provision_skip_login">&lt;u&gt;Ignorer cette étape&lt;/u&gt;</string>
+  <string name="provision_skip_login">Ignorer cette étape</string>
   <string name="reg_type_other_ways"><u>Utiliser une autre méthode de création de compte</u></string>
   <string name="reg_type_other_ways_title">Utiliser une autre méthode de création de compte</string>
   <string name="reg_using_phone_number_prompt">S\'inscrire avec un numéro de téléphone</string>
