@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+     <string name="dialog_delete_descript">Supprimer %s?</string>
+     <string name="dialog_hint_network_error">Échec de connexion au réseau</string>
+     <string name="dialog_remove_descript">Retirer %s?</string>
+     <string name="format_unsupported">"Ce format n'est pas supporté."</string>
+     <string name="impunity_declaration">Cette application requiert l\'accès à internet pour écouter de la musique en-ligne.</string>
+     <string name="my_music">Ma musique</string>
+     <string name="network_error">Échec de connexion au réseau</string>
+     <string name="not_vip">Désolé, vous n\'êtes pas VIP.</string>
+     <string name="online_music">Découvrir</string>
+</resources>

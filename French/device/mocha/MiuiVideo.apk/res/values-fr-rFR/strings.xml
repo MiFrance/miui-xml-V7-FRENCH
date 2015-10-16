@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+     <string name="download_progress">Téléchargement : %s</string>
+     <string name="episode_name_format">Ep. %1$s</string>
+     <string name="hot_spot_filter">Filtre</string>
+     <string name="hot_spot_history">Historique</string>
+     <string name="hot_spot_offline">Hors-ligne</string>
+     <string name="hot_spot_personal">my</string>
+     <string name="hot_spot_search">Recherche</string>
+     <string name="offline_download_fragment">Hors-ligne</string>
+     <string name="review_fragment">Commentaires</string>
+     <string name="search_result_empty_hint">Aucun résultat</string>
+     <string name="select_episode_fragment">Anthologie</string>
+     <string name="video_detail_score">Note</string>
+</resources>
