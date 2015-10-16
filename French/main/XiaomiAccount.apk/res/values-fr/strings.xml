@@ -398,7 +398,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="account_bind_secure_phone_title">Ajouter un numéro de récupération</string>
   <string name="account_binded_phone">Téléphone %d</string>
   <string name="account_none_binded_info">Aucun</string>
-  <string name="account_none_binded_secure_phone">Pas de numéro de récupération</string>
+  <string name="account_none_binded_secure_phone">Aucun numéro</string>
   <string name="account_user_base_info">Info Utilisateur</string>
   <string name="account_user_recovery_phone">Numéro de récupération</string>
   <string name="account_user_secure_info">Info de sécurité</string>
