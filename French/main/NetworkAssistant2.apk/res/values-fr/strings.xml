@@ -485,8 +485,8 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="traffic_warning_purchase_title">Avertissement d\'usage des données mobiles</string>
   <string name="notify_weekly_pkg_body">%s utilisés cette semaine. Appuyer pour définir la limite.</string>
   <string name="tc_sms_report_receive_content_null">"Aidez-nous à améliorer cette fonction!&lt;br/>Voici comment:&lt;br/>1. Allez dans \"Vérifier le SMS de commande\" et \"Numéro du destinataire\"&lt;br/>2. Tapez \"Récupérer le modèle SMS\"&lt;br/>3. Attendez la réception du SMS par votre opérateur &lt;br/>4. Tapez \"Envoyer à MIUI\"​"</string>
-  <string name="lock_screen_traffic_guide_notification_summary">Données mobiles utilisées lorsque l\'écran était verrouillé.</string>
-  <string name="lock_screen_traffic_guide_notification_title">%s de données mobiles utilisées</string>
+  <string name="lock_screen_traffic_guide_notification_summary">%s utilisés lorsque l\'écran était verrouillé.</string>
+  <string name="lock_screen_traffic_guide_notification_title">Appuyer pour gérer l\'usage des données</string>
   <string name="lock_screen_traffic_purchase_textview">Acheter des données mobiles</string>
   <string name="arrearage_exception_summary">"Votre relevé opérateur indique que vous devriez mettre à niveau votre offre"</string>
   <string name="arrearage_exception_title">Votre solde est trop faible</string>

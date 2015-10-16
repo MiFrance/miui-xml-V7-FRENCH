@@ -200,7 +200,7 @@
   <string name="english_female">Artistes féminines (Etats-Unis/Europe)</string>
   <string name="english_group">Groupes (Etats-Unis/Europe)</string>
   <string name="english_male">Artistes masculins (Etats-Unis/Europe)</string>
-  <string name="valid_period">"Validité : "</string>
+  <string name="valid_period">"Validité : %s"</string>
   <string name="vip_auto_renew_message">Votre abonnement à Musique sera renouvelé automatiquement ce soir. Assurez-vous d\'avoir suffisament de crédits Mi sur votre compte pour effectuer le paiement.</string>
   <string name="vip_auto_renew_notification_message">Ajouter des crédits Mi pour renouveler votre abonnement.</string>
   <string name="vip_auto_renew_notification_title">Paiement de l\'abonnement</string>

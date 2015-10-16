@@ -46,9 +46,9 @@
     <string name="cache_title_system_cache">Cache système</string>
     <string name="cancel">Annuler</string>
     <string name="clean_content_all">Tout</string>
-    <string name="clean_content_one">%s</string>
-    <string name="clean_content_three">Ignorer %s</string>
-    <string name="clean_content_two">%1$s et %2$s</string>
+    <string name="clean_content_one">1 élément</string>
+    <string name="clean_content_three">3 éléments</string>
+    <string name="clean_content_two">2 éléments</string>
     <string name="clean_content_zero">"Ne rien nettoyer"</string>
     <string name="confirm_auto_cleaner">OK</string>
     <string name="deepclean_app_content">Désinstaller les applis non utilisées depuis 30 jours</string>

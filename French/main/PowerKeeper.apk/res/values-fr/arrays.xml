@@ -24,9 +24,10 @@
         <item>Mode Ecran</item>
         <item>Utilisation CPU</item>
         <item>Données actives</item>
-        <item>Emplacement</item>
+        <item>Localisation</item>
         <item>Première notification</item>
         <item>Notifications sur écran de verrouillage</item>
+        <item>Restreindre les données en arrière-plan</item>
     </string-array>
     <string-array name="hmode_app_groups">
         <item>personnalisés</item>
@@ -42,5 +43,9 @@
         <item>Performance</item>
         <item>Activer</item>
         <item>Désactiver</item>
+        <item>Immédiatement</item>
+        <item>Après 10 min</item>
+        <item>Après 30 min</item>
+        <item>Quand l\'écran est éteint</item>
     </string-array>
 </resources>
