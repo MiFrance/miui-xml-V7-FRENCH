@@ -1171,7 +1171,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="pause_prompt_no">Non</string>
   <string name="pause_prompt_str">Envoi des tonalités\n</string>
   <string name="pause_prompt_yes">Oui</string>
-  <string name="pin2_attempts">"Tentatives restantes : "</string>
+  <string name="pin2_attempts">\n"Il vous reste %d tentatives."</string>
   <string name="pin2_or_fdn_invalid">Le numéro autorisé n\'a pas été mis à jour. Soit le code PIN2 est incorrect, soit le numéro de téléphone a été rejeté.</string>
   <string name="pin2_unblocked">Code PIN2 débloqué</string>
   <string name="pin_length_indicate">(4-8 chiffres)</string>
@@ -1417,7 +1417,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="phone_accounts_make_calls_with">Passer des appels avec</string>
   <string name="phone_accounts_make_sip_calls_with">Passer les appels SIP avec</string>
   <string name="phone_accounts_selection_header">Comptes d\'appel</string>
-  <string name="sim_description_default">Carte SIM sur le port :</string>
+  <string name="sim_description_default">Carte SIM sur le port : %s</string>
   <string name="sim_description_emergency_calls">Appels d\'urgence uniquement</string>
   <string name="sim_label_emergency_calls">Appels d\'urgence</string>
   <string name="wifi_calling_call_assistant">Assistant d\'appel</string>
@@ -1493,4 +1493,6 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="can_not_use_for_not_data_sim">"(Non utilisée: doit être définie comme SIM par défaut pour les données)"</string>
   <string name="livetalk_user_config_title">Vérifier le numéro de téléphone</string>
   <string name="livetalk_white_list_number_title">Composer des appels sans la recharge</string>
+  <string name="call_settings_primary_user_only">Seul l\'utilisateur principal peut modifier les paramètres d\'appel.</string>
+  <string name="call_settings_with_label">Paramètres d\'appel %s</string>
 </resources>

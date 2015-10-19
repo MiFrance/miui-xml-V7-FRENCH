@@ -771,4 +771,12 @@
        <item>En semaine</item>
        <item>Personnaliser</item>
     </string-array>
+    <string-array name="wifi_ssid_type_entries">
+       <item>Connexion automatique</item>
+       <item>Connexion manuelle</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+       <item>30 derniers jours</item>
+       <item>Définir cycle conso...</item>
+    </string-array>
 </resources>
