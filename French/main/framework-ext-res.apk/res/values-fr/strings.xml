@@ -45,6 +45,7 @@
   <string name="call_record_or">" ou "</string>
   <string name="call_record_sample_prefix_miui">Appel</string>
   <string name="caller_info_name_delimiter">" ou "</string>
+  <string name="cancel_action">Annuler</string>
   <string name="copy">Copier</string>
   <string name="cut">Couper</string>
   <string name="fc_dialog_body">Envoyer un rapport de bogue à Mi pour une analyse ? Ce rapport peut contenir des informations personnelles. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais divulgué dans un contexte commercial.</string>
@@ -91,6 +92,9 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
 
   <string name="select">Sélectionner</string>
   <string name="select_all">Sélectionner tout</string>
+  <string name="set_password_action">Définir le mot de passe</string>
+  <string name="set_password_message">Définir un nouveau mot de passe ?</string>
+  <string name="set_password_title">Définir le mot de passe</string>
   <string name="shutdown_confirm_title">Votre téléphone va s\'éteindre.</string>
   <string name="shutdown_progress">Extinction…</string>
   <string name="sim_added_reboot_confirm">Redémarrage</string>

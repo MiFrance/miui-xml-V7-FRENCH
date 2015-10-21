@@ -109,9 +109,12 @@
   <string name="bigscreen_slide_exit">Quitter le diaporama</string>
   <string name="bigscreen_slide_fail_cause_loading">"Veuillez afficher le diaporama une fois que l'image ai été chargée."</string>
   <string name="browse_category">Parcourir les photos</string>
+  <string name="buy_member_tip">Devenir membre</string>
   <string name="by_email">E-mail</string>
   <string name="by_sms">SMS</string>
   <string name="by_others">Autres</string>
+  <string name="calculated_pictures_time_tip">Photos triées du %1$s jusqu\'à maintenant. Les photos restantes seront triées progressivement. Pour accélerer ce traitement, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_vip">Photos triées du %1$s jusqu\'à maintenant. Les photos restantes seront bientôt triées.</string>
   <string name="camera_connected">Appareil photo connecté.</string>
   <string name="camera_disconnected">Appareil photo déconnecté.</string>
   <string name="camera_folder_display_name">Appareil photo</string>
@@ -739,6 +742,7 @@
   <string name="square">Carré</string>
   <string name="uc">UC</string>
   <string name="view_face_album">Afficher l\'album</string>
+  <string name="view_queuing_status">Voir l\'état</string>
   <string name="wandoujia">SnapPea</string>
   <string name="wechat">WeChat</string>
   <string name="weibo">Weibo</string>

@@ -779,4 +779,8 @@
        <item>30 derniers jours</item>
        <item>Définir cycle conso...</item>
     </string-array>
+    <string-array name="common_password_business_names">
+        <item>Verrou</item>
+        <item>Mode Enfant</item>
+    </string-array>
 </resources>

@@ -18,4 +18,11 @@
  -->
 <resources>
   <string name="app_label">Visionneuse HTML</string>
+  <string name="app_name_which_call">Application: %s</string>
+  <string name="app_version_which_call">Version de l\'app: %s</string>
+  <string name="license_host_unreachable">"Echec de connexion au réseau. Pour consulter cette information maintenant,
+rendez-vous sur %s"</string>
+  <string name="loading">Chargement…</string>
+  <string name="mibi_license">Conditions d\'utilisation de Mi Credit</string>
+  <string name="policy_name">Politique: %s</string>
 </resources>

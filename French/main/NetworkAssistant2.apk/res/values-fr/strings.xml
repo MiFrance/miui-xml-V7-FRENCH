@@ -5,6 +5,7 @@
 <resources>
   <string name="main_toolbar_saving">Compression</string>
   <string name="traffic_saving_tecsupport">Propulsé par Opera Max</string>
+  <string name="traffic_saving_tecsupport_international">Propulsé par Opera Max</string>
   <string name="traffic_saving_notify_start_title">Compression des données</string>
   <string name="traffic_saving_notify_start_content">%s économisés ce mois-ci</string>
   <string name="traffic_saving_toast_start_mobile">Compression des données activée</string>
@@ -17,10 +18,12 @@
   <string name="traffic_saving_button_sorted">Détails</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sélectionner la SIM</string>
   <string name="traffic_saving_can_optimized">Optimiser</string>
+  <string name="traffic_saving_detail">Détails</string>
   <string name="traffic_saving_msg_today">Économisé aujourd\'hui :</string>
   <string name="traffic_saving_msg_month">Économisé ce mois :</string>
   <string name="traffic_saving_history_title">Historique</string>
   <string name="traffic_saving_history_total_traffic">Données</string>
+  <string name="traffic_saving_mobile_usage">Utilisation mobile</string>
   <string name="traffic_saving_button_mng">Gérer les paramètres d\'économie de données</string>
   <string name="traffic_saving_need_optimize">Peut être optimisé</string>
   <string name="traffic_saving_notification_button_start">Activer</string>
@@ -257,8 +260,6 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">Économisé ce mois-ci :</string>
   <string name="traffic_saving_history_total_month_default">Moyenne des économies mensuelles :</string>
-  <string name="traffic_saving_history_total_month_value">"Écoute de &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> chansons / &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> heures de chat / Lecture de &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> articles"</string>
-  <string name="traffic_saving_history_total_month_value_default">"Écoute de &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> chansons / &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font>h de chat / Lecture de &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> articles"</string>
   <string name="traffic_saving_history_total_rate">Taux</string>
   <string name="traffic_saving_whitelist_btn_add">Ajouter</string>
   <string name="traffic_saving_whitelist_btn_add_app">Ajouter</string>
@@ -267,6 +268,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="traffic_saving_whitelist_btn_removed">Supprimé de la liste</string>
   <string name="traffic_saving_whitelist_count">L\'utilisation des données de %d applis ne sera pas restreint</string>
   <string name="traffic_saving_whitelist_no_app">Aucune application</string>
+  <string name="traffic_saving_wifi_usage">Utilisation Wi-Fi</string>
   <string name="checkout_traffic_saving_history">Historique</string>
   <string name="traffic_saving_msg_not_started">Inactif</string>
   <string name="online_songs">Musique</string>
@@ -595,16 +597,9 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="roaming_limit_warning_notification_body">Touchez pour voir l\'utilisation des données.</string>
   <string name="sim_state_exception_summary">Le contrôle SIM indique qu\'il y a un problème avec votre carte SIM.</string>
   <string name="usbsharenet_pc_exception_summary">"Ne peut se connecter à Internet en utilisant une connexion partagée. Vérifiez la connexion à Internet de votre ordinateur."</string>
-
-  <string name="miuishare_title_more">Plus</string>
-  <string name="miuishare_title_share">Partager</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_connected_exception_title">Test du réseau</string>
-  <string name="network_not_available">"Pas de connexion réseau"</string>
   <string name="networkchanged_exception_summary">La connexion réseau a été modifiée. Essayez à nouveau.</string>
   <string name="networkchanged_exception_title">Connexion modifiée</string>
-  <string name="no_network_btn">Essayez à nouveau</string>
   <string name="permission_exception_summary">"Certaines applis n'ont pas l'autorisation de se connecter à Internet"</string>
   <string name="permission_exception_title">Voir les permissions réseau</string>
   <string name="gateway_exception_summary2">"Échec de connexion au serveur"</string>

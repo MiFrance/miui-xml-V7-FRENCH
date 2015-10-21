@@ -94,6 +94,19 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="add_account_label">Ajouter un compte</string>
   <string name="add_device_admin">Activer</string>
   <string name="add_device_admin_msg">Activer l\'administrateur de l\'appareil ?</string>
+  <string name="add_fingerprint_done_msg">Vous pouvez dorénavant déverrouiller votre appareil avec votre empreinte digitale.</string>
+  <string name="add_fingerprint_done_title">Effectué!</string>
+  <string name="add_fingerprint_finished_button_text">Effectué</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Pour enregistrer votre empreinte, placez votre doigt sur le capteur.
+Assurez-vous que votre doigt recouvre le contour intérieur du capteur"</string>
+  <string name="add_fingerprint_instruction_msg">Déverrouilez votre appareil ou validez un paiement avec votre empreinte</string>
+  <string name="add_fingerprint_instruction_title">Placez votre doigt sur l\'analyseur d\'empreinte</string>
+  <string name="add_fingerprint_move_finger_title">Retirez votre doigt</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Effectuez une pression sur le capteur, retirez votre doigt, puis recommencez.</string>
+  <string name="add_fingerprint_put_finger_msg">Effectuez une pression sur le capteur, retirez votre doigt, puis recommencez.</string>
+  <string name="add_fingerprint_put_finger_title">Placez votre doigt</string>
+  <string name="add_fingerprint_text">Ajouter une empreinte</string>
+  <string name="add_fingerprint_toast_text">Placez maintenant votre doigt sur le capteur</string>
   <string name="additional_system_update_settings_list_item_title">Mises à jour supplémentaires du système</string>
   <string name="advanced_settings">Paramètres avancés</string>
   <string name="advanced_settings_summary">Activer d\'autres paramètres</string>
@@ -176,6 +189,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="applications_settings">Applications installées</string>
   <string name="applications_settings_header">Paramètres de l\'application</string>
   <string name="applications_settings_summary">Gérer les applications, configurer des raccourcis de lancement rapide</string>
+  <string name="apply_fingerprint_to_category_title">Utiliser l\'empreinte pour…</string>
   <string name="ask_compatibility">Demander au moment du lancement</string>
   <string name="assisted_gps">Utiliser le GPS assisté</string>
   <string name="assisted_gps_disabled">Utiliser le serveur pour assister le GPS (désactiver pour améliorer les performances du GPS)</string>
@@ -665,6 +679,10 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="default_input_method">Choisissez le clavier par défaut</string>
   <string name="default_usb_mode">Type de connexion USB par défaut</string>
   <string name="delete">Supprimer</string>
+  <string name="delete_fingerprint_confirm_msg">Supprimer l\'empreinte ?</string>
+  <string name="delete_fingerprint_text">Supprimer une empreinte</string>
+  <string name="delete_legacy_fingerprint">Supprimer</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Supprimer les données de l\'empreinte ?</string>
   <string name="deny">Refuser</string>
   <string name="deny_sms_message">"Ne pas laisser les applications installées à envoyer des SMS"</string>
   <string name="deny_sms_title">Bloquer les SMS</string>
@@ -855,6 +873,11 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="filter_apps_running">En cours</string>
   <string name="filter_apps_third_party">Téléchargées</string>
   <string name="filter_dlg_title">Sélectionner les options du filtre</string>
+  <string name="fingerprint_and_password_entrance_title">Mot de passe &amp; Empreinte</string>
+  <string name="fingerprint_identificating_msg">Analyse de l\'empreinte…</string>
+  <string name="fingerprint_identify_input_password_msg">Entrez le mot de passe</string>
+  <string name="fingerprint_identify_try_again_msg">"Echec de l\'analyse, essayez à nouveau"</string>
+  <string name="fingerprint_list_title">Empreinte digitale</string>
   <string name="finish_application">Terminer</string>
   <string name="finish_button_label">Terminer</string>
   <string name="firmware_version">Version Android</string>
@@ -927,6 +950,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="ims_reg_required_off">Désactivation de l\'enregistrement IMS requise</string>
   <string name="ims_reg_required_on">Activation de l\'enregistrement IMS requise</string>
   <string name="incoming_call_volume_title">Sonnerie</string>
+  <string name="information_dialog_button_text">J\'ai compris</string>
   <string name="input_method">Clavier</string>
   <string name="input_method_selector">Sélection du mode de saisie</string>
   <string name="input_method_selector_always_hide_title">Toujours masquer</string>
@@ -965,6 +989,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="join_many_items_last">%1$s et %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s et %2$s</string>
+  <string name="keep_legacy_fingerprint">Conserver</string>
   <string name="keep_screen_on">Rester éveillé</string>
   <string name="keep_screen_on_summary">L\'écran ne se met jamais en veille lors du chargement</string>
   <string name="kernel_version">Version du noyau</string>
@@ -1119,6 +1144,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="master_clear_personal_data_sdcard">Êtes-vous sûr de vouloir effacer vos données personnelles et de formater la carte SD ? Cette opération ne peut pas être annulée</string>
   <string name="master_clear_summary">Effacer toutes les données de l\'appareil</string>
   <string name="master_clear_title">Restaurer valeurs d\'usine</string>
+  <string name="max_fingerprint_number_reached">"Impossible d'ajouter plus de 5 empreintes. Pour ajouter une nouvelle empreinte, veuillez en supprimer une existante au préalable."</string>
   <string name="media_button">Bouton multimédia</string>
   <string name="media_feedback_enable_title">Vibrer avec le rythme</string>
   <string name="media_format_button_text">Effacer la mémoire USB</string>
@@ -1502,6 +1528,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="search_privacy">confidentialité vie privée</string>
   <string name="search_storage">stockage</string>
   <string name="search_wifi_display">affichage sans fil</string>
+  <string name="secure_keyguard_business_title">Mot de passe du verrouillage</string>
   <string name="search_fluency_mode">Optimiser optimisation performances système puissance</string>
   <string name="search_about">À propos</string>
   <string name="search_accelerometer">Accéléromètre rotation</string>
@@ -1784,6 +1811,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="turn_off_radio">Éteindre la radio</string>
   <string name="turn_off_security_lock">Désactiver le verrouillage</string>
   <string name="turn_on_radio">Allumer la radio</string>
+  <string name="turn_on_security_lock">Ajouter un mot de passe de sécurité</string>
   <string name="under_keyguard">Sur l\'écran de verrouillage</string>
   <string name="uninstall_all_users_text">Désinstaller pour tous les utilisateurs</string>
   <string name="uninstall_text">Désinstaller</string>
@@ -2599,6 +2627,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="tts_status_ok">Les paramètres régionaux %1$s sont compatibles.</string>
   <string name="tts_status_requires_network">Les paramètres régionaux %1$s nécessitent une connexion réseau.</string>
   <string name="tts_status_title">État de la langue par défaut</string>
+  <string name="turn_off_common_password_confirm_msg">Le mot de passe sera également désactivé.</string>
   <string name="usage_type_data_wifi_recv">Données Wi‑Fi reçues</string>
   <string name="usage_type_data_wifi_send">Données Wi‑Fi envoyées</string>
   <string name="user_dict_settings_title">Dictionnaire personnel</string>
@@ -2611,6 +2640,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="welcome">Bienvenue</string>
   <string name="account_add">Ajouter</string>
   <string name="apply_now_button_text">Mettre à jour</string>
+  <string name="apply_password_to_category_title">Utiliser le mot de passe pour…</string>
   <string name="account_list">Autres comptes</string>
   <string name="dialog_no">Non</string>
   <string name="dialog_yes">Oui</string>
@@ -2819,6 +2849,7 @@ et lancer le logiciel."</string>
   <string name="toast_lockscreen_glogin_empty_password">Saisir le mot de passe</string>
   <string name="lockscreen_glogin_checking_password">Vérification…</string>
   <string name="passwordIncorrect">Le mot de passe saisi est incorrect</string>
+  <string name="password_entrance_title">Mot de passe</string>
   <string name="app_backup">Sauvegarde</string>
   <string name="google_backup_section_title">Sauvegarde &amp; restauration Google</string>
   <string name="system_backup_section_title">Sauvegarde</string>
