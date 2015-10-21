@@ -581,6 +581,7 @@
   <string name="miui_content_select">Sélectionner</string>
   <string name="miui_content_select_all">Tout sélectionner</string>
   <string name="miui_content_cut">Couper</string>
+  <string name="miui_content_extent_select">Sél. étendue</string>
   <string name="miui_content_copy">Copier</string>
   <string name="miui_content_paste">Coller</string>
   <string name="miui_content_web_search">Rechercher</string>

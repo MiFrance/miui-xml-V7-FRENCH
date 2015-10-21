@@ -15,6 +15,11 @@
         <item>Fréquence d\'utilisation</item>
         <item>Taille</item>
     </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Tous les 7 jours</item>
+        <item>Tous les 15 jours</item>
+        <item>Tous les 30 jours</item>
+    </string-array>
     <string-array name="auto_clean_time">
         <item>Tous les jours</item>
         <item>Tous les 3 jours</item>
