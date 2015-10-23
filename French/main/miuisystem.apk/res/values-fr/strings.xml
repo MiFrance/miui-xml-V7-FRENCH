@@ -20,4 +20,8 @@
   <string name="yellow_page_sms_send_failed">Échec de l\'envoi du SMS !</string>
   <string name="yellow_page_sms_sending">Envoi en cours…</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer des messages en mode invité</string>
+ <!-- à vérifier cloud_state_* longueur -->
+  <string name="cloud_state_disabled">Synchronisation avec Mi Cloud désactivée</string>
+  <string name="cloud_state_finished">Synchronisé avec Mi Cloud</string>
+  <string name="cloud_state_syncing">Synchronisation avec Mi Cloud</string>
 </resources>

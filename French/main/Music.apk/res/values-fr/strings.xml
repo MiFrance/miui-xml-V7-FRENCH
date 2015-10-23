@@ -482,4 +482,5 @@
   <string name="preset_music_playlist">Playlist Mi Musique</string>
   <string name="set_id3_not_have_read_or_write_permission">Vous n\'avez pas les droits requis pour éditer ce fichier</string>
   <string name="set_id3_not_support_format">Impossible d\'éditer ce format de fichier</string>
+  <string name="page_local_setting">Paramètres</string>
 </resources>

@@ -152,4 +152,18 @@
     <item quantity="other">" "<Data> Supprimer %1$d vidéos de %2$d album(s) ?</Data>" "</item>
     <item quantity="one">" "<Data> Supprimer %1$d vidéo de %2$d album(s) ?</Data>" "</item>
   </plurals>
+     <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d jours</item>
+        <item quantity="one">%1$d jour</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other"><Data>Supprimer %s éléments de cet album ?</Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Supprimer %s éléments ?</item>
+     </plurals>
+     <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other"><Data>Supprimer %1$d images de %2$d albums ?</Data></item>
+        <item quantity="one"><Data>Supprimer %1$d image de %2$d albums ?</Data></item>
+     </plurals>
 </resources>

@@ -111,4 +111,7 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="permdesc_bindJobService">Cette permission permet au système Android de lancer l\'application en arrière-plan à la demande.</string>
   <string name="permlab_manageLocationPolicy">Gérer la politique de localisation</string>
   <string name="permlab_bindJobService">"lance le service en arrière-plan de l\'application"</string>
+  <string name="apply_password_action">Définir le mot de passe</string>
+  <string name="apply_password_confirm_dlg_msg">Mot de passe requis pour %s​ ?</string>
+  <string name="apply_password_confirm_dlg_title">Ce mot de passe sera utilisé pour %s</string>
 </resources>

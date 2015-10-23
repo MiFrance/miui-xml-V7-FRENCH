@@ -243,4 +243,11 @@ Accélérez les téléchargements sur tous vos appareils."</string>
   <string name="recommend_show_other_downloads">Afficher les populaires</string>
   <string name="mi_money">Mi Money</string>
   <string name="display_expire_netiv1">Propriétaire du mois</string>
+  <string name="DOWNLOAD_UNIT_BIT">o</string>
+  <string name="DOWNLOAD_UNIT_GB">Go</string>
+  <string name="DOWNLOAD_UNIT_KB">Ko</string>
+  <string name="DOWNLOAD_UNIT_MB">Mo</string>
+  <string name="DOWNLOAD_UNIT_TB">To</string>
+  <string name="confirm">OK</string>
+  <string name="download">Téléchargements</string>
 </resources>

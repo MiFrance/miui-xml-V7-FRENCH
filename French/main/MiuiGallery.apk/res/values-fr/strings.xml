@@ -818,4 +818,7 @@
   <string name="invite_tip">"Partagez les photos de votre bébé"</string>
   <string name="invited_tip">Invité</string>
   <string name="is">Oui</string>
+  <string name="app_name_edit_picture">Modifier l\'image</string>
+  <string name="byteShort">o</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Photos triées du %1$s jusqu\'à maintenant. Les photos restantes seront triés progressivement.</string>
 </resources>

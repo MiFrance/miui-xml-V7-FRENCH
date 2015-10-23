@@ -894,4 +894,26 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="sub_sync_item_browser_title_video">Synchroniser l\'historique des vidéos</string>
   <string name="sub_sync_item_browser_title_video_summary">"Synchronise entre vos divers appareils la liste des vidéos vues récemment</string>
   <string name="video_buffering_percent_string">Mise en mémoire tampon</string>
+  <string name="abc_action_bar_home_description">Revenir à l\'accueil</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+  <string name="abc_action_menu_overflow_description">Plus d\'options</string>
+  <string name="abc_action_mode_done">Ok</string>
+  <string name="action_menu_text_bookmark_added">Favori ajouté</string>
+  <string name="action_menu_text_create_qr_code">Code QR</string>
+  <string name="miui_startpage">Page de démarrage</string>
+  <string name="secure_download_in_xiaomi_market">Télécharger sur le Mi market</string>
+  <string name="skip_button_label">Ignorer</string>
+  <string name="skip_current_version">Ignorer cette version</string>
+  <string name="start_save_page_capture">Sauvegarde de la capture…</string>
+  <string name="suggest_open_app_failed">Impossible d\'ouvrir cette application</string>
+  <string name="update_no_network_toast">Impossible de se connecter au réseau</string>
+  <string name="version_check_button_resume_download">Reprendre le téléchargement</string>
+  <string name="version_check_button_update">Mettre à jour</string>
+  <string name="version_check_failed">Impossible de vérifier la présence de mises à jour</string>
+  <string name="version_dialog_buttion_ok">OK</string>
+  <string name="version_dialog_buttion_update">Mise à jour</string>
+  <string name="version_update_file_download_toast">Téléchargement</string>
+  <string name="version_update_file_not_found">Aucune mise à jour</string>
+  <string name="video_collect_cancel">Supprimée des favoris</string>
+  <string name="video_collect_success">Ajoutée aux favoris</string>
 </resources>

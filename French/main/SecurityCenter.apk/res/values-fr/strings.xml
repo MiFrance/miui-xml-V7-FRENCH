@@ -792,4 +792,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="title_cmcc_app_check">"La vérification n'est pas complète"</string>
   <string name="toast_resolve_apk_error">Échec à la résolution de l\'APK</string>
   <string name="app_not_installed_toast">"L'appli n'est pas installée sur votre appareil."</string>
+  <string name="shutdown_time_day_tomorrow">Extinction : %1$s</string>
+  <string name="boot_time_day_tomorrow">Mise sous tension : %1$s</string>
 </resources>

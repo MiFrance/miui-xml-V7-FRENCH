@@ -604,4 +604,5 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="permission_exception_title">Voir les permissions réseau</string>
   <string name="gateway_exception_summary2">"Échec de connexion au serveur"</string>
   <string name="pref_title_diagnostics_show_float_notification">Notifications flottantes</string>
+  <string name="dialog_title_attention">Avertissement</string>
 </resources>

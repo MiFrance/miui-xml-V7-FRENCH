@@ -256,5 +256,6 @@
   <string name="recommend_apps_switch_summary">Afficher les applications recommandées en bas de l\'écran.</string>
   <string name="recommend_apps_switch_title">Applications recommandées</string>
   <string name="recommend_apps_tips">"Cette fonction requiert un accès à Internet pour fonctionner normalement. Pour la désactiver, touchez le nom de ce dossier."</string>
-
+  <string name="app_already_exist">Application déjà existante</string>
+  <string name="wallpaper_auto_change_title">Écran de verrouillage</string>
 </resources>

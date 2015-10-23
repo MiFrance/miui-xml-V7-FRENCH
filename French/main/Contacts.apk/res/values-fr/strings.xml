@@ -1124,4 +1124,5 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="deleting_sim_entry_miui_prepare">Préparation des contacts…</string>
   <string name="importing_sim_contacts_miui_prepare">Préparation des contacts…</string>
   <string name="loading_accounts">Chargement des infos SIM…</string>
+  <string name="more_call_logs">Accédez au journal d\'appels complet via i.mi.com</string>
 </resources>

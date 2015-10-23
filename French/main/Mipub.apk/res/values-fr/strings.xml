@@ -7,7 +7,7 @@
 * you may not use this file except in compliance with the License.
 * You may obtain a copy of the License at
 *
-*      http://www.apache.org/licenses/LICENSE-2.0
+*   http://www.apache.org/licenses/LICENSE-2.0
 *
 * Unless required by applicable law or agreed to in writing, software
 * distributed under the License is distributed on an "AS IS" BASIS,
@@ -607,4 +607,16 @@
   <string name="sms_report_failed">"Impossible d'envoyer le signalement"</string>
   <string name="sms_report_success">Signalement envoyé</string>
   <string name="pref_title_sms_validity_period">Durée de validité des SMS</string>
+  <string name="conversation_list_title">Mi Messages</string>
+  <string name="migrate_db_loading">Chargement...</string>
+  <string name="network_error">Erreur réseau</string>
+  <string name="permdesc_readHmsCommon">Permet à l\'application de lire les données de Mi Pub.</string>
+  <string name="permdesc_writeHmsCommon">Permet à l\'application d\'écrire des données de Mi Pub.</string>
+  <string name="service_unavailiable">Service indisponible</string>
+<!-- à traduire
+  <string name="already_followed">"You're already following this number"</string>
+  <string name="follow_finished">Following number</string>
+  <string name="follow_forbidden">"Can't follow this number"</string>
+  <string name="remind_follow">Follow this number?</string>
+  -->
 </resources>

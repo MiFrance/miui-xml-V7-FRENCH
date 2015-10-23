@@ -2,13 +2,6 @@
 <resources>
   <string name="Connect">Connecter</string>
   <string name="Disconnect">Déconnecter</string>
-  <string name="Register">S\'inscrire</string>
-  <string name="Start">Démarrer</string>
-  <string name="StartScan">DémarrerScan</string>
-  <string name="Stop">Stop</string>
-  <string name="TestReceiver">Test Récepteur</string>
-  <string name="TestSender">Test Emetteur</string>
-  <string name="Unregister">unregister</string>
   <string name="action_settings">Paramètres</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">Annuler</string>
@@ -17,7 +10,6 @@
   <string name="cancel_receive_stop">Continuer le téléchargement</string>
   <string name="cancel_stop">Continuer le transfert</string>
   <string name="file_not_support">"Ce type de fichier n\'est pas supporté"</string>
-  <string name="hello_world">Bonjour Monde!</string>
   <string name="help">Aide</string>
   <string name="i_know">Bien compris</string>
   <string name="intro_midrop">Mi Drop</string>
@@ -60,7 +52,7 @@
   <string name="receiver_reject">Refuser</string>
   <string name="receiver_succeed_ok">OK</string>
   <string name="receiver_succeed_view">Voir</string>
-  <string name="receiver_transfer_interrupt">"Transfert interrompup, ne coupez pas le hotspot Wi-Fi durant le transfert"</string>
+  <string name="receiver_transfer_interrupt">"Transfert interrompu, ne coupez pas le hotspot Wi-Fi durant le transfert"</string>
   <string name="receiver_video_file_current_multi">Réception de %2$d vidéos de la part de %1$s…</string>
   <string name="receiver_video_file_current_single">Réception d\'une vidéo de la part de %1$s…</string>
   <string name="receiver_video_file_num">%2$d vidéos venant de %1$s</string>
@@ -68,17 +60,17 @@
   <string name="send_file_time_format_s">s secondes</string>
   <string name="sender_cancel">"Ne pas envoyer"</string>
   <string name="sender_complete">Terminé</string>
-  <string name="sender_fail">"Echec de l\'envoi"</string>
+  <string name="sender_fail">"Échec de l\'envoi"</string>
   <string name="sender_file_num">Attente de %1$d fichier(s)</string>
   <string name="sender_finish">Envoyé</string>
   <string name="sender_in_progress_later">Essayer plus tard</string>
   <string name="sender_in_progress_now">Annuler</string>
   <string name="sender_in_progress_title">Annuler le transfert?</string>
   <string name="sender_interrupt_summary">"Ne pas désactiver le Wi-Fi lors de l\'envoi de fichiers"</string>
-  <string name="sender_interupt">Transfer interrupted</string>
+  <string name="sender_interupt">Transfert interrompu</string>
   <string name="sender_reject">"Ne pas accepter"</string>
   <string name="sender_return">Retour</string>
-  <string name="sender_scan_error">"Echec de l'analyse, envoyer à nouveau"</string>
+  <string name="sender_scan_error">"Échec de l'analyse, envoyer à nouveau"</string>
   <string name="sender_select_device">Sélectionner un appareil</string>
   <string name="sender_transfer_interrupt">"Transfert interrompu, ne désactivez pas le Wi-Fi lors d\'un transfert"</string>
   <string name="sender_wait">En attente</string>
@@ -86,4 +78,12 @@
   <string name="transfer_interrupt">Transfert interrompu</string>
   <string name="transmission_click_send">envoi</string>
   <string name="transmission_connect">"Le destinataire est introuvable"</string>
+  <string name="receiver_clean">Nettoyer de l\'espace</string>
+  <string name="receiver_insufficient_storage">Espace insuffisant</string>
+  <string name="receiver_insufficient_storage_cannot_send">"Envoi impossible : espace insuffisant"</string>
+  <string name="sender_reject_kick_off">Veuillez réessayer plus tard</string>
+  <string name="receiver_pic_file_current">Réception de %2$d image(s) depuis %1$s​…</string>
+  <string name="receiver_video_file_current">Réception de %2$d​ vidéo(s) depuis %1$s…</string>
+  <string name="receiver_file_current">Réception de %2$d fichier(s) depuis %1$s…</string>
+  <string name="receiver_apk_file_current">Réception de %2$d​ appli(s) depuis %1$s</string>
 </resources>

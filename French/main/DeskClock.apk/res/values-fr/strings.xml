@@ -145,4 +145,10 @@
   <string name="timer_message_10">%1$d minutes et %2$d secondes</string>
   <string name="menu_item_sort_by_gmt_offset">Trier par fuseau horaire</string>
   <string name="menu_item_sort_by_name">Trier par nom</string>
+  <string name="today">Aujourd\'hui</string>
+  <string name="tomorrow">Demain</string>
+<!-- à vérifier skip_alarm_once_hint -->
+  <string name="skip_alarm_once_hint">Désactiver une fois sur %s</string>
+  <string name="turn_off_a_repeat_alarm">Désactiver une alarme récurrente</string>
+  <string name="turn_off_this_repeat_alarm">Désactiver cette alarme récurrente</string>
 </resources>

@@ -433,4 +433,5 @@ Veuillez saisir le code de vérification contenu dans le message"</string>
   <string name="update_recovery_info_dialog_message">Vous devez vérifier votre identité avant de mettre à jour %s.</string>
   <string name="update_recovery_info_dialog_title">Mise à jour de %s</string>
   <string name="vip_level_value">%d</string>
+  <string name="account_limit_update_birthday">Désolé, nous ne pouvons pas traiter votre demande pour le moment.</string>
 </resources>
