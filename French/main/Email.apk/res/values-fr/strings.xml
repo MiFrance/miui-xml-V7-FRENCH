@@ -1013,4 +1013,5 @@ Taille du patch Delta : %2$s"</string>
   <string name="push_wps_confirm_message">Try using WPS Office to open this attachment.</string>
   <string name="push_wps_confirm_title">Try WPS Office</string>
   <string name="push_wps_no_response_app">No application found to handle this action</string>
+  -->
 </resources>
