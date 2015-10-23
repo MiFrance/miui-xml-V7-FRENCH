@@ -382,10 +382,11 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="network_speed_for_apps_others">Autres</string>
   <string name="network_speed_for_apps_title">Détails sur la vitesse de connexion</string>
   <string name="network_speed_for_apps_total">Vitesse de connexion</string>
-  <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string>
-  <string name="notify_daily_limit_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string>
-  <string name="notify_daily_limit_title">Limite de données quotidienne</string>
-  <string name="notify_month_traffic_body">%s utilisés ce mois-ci. Appuyer pour configurer</string>
+  
+  <!-- erreur <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string> -->
+  <!-- erreur <string name="notify_daily_limit_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string> -->
+  <!-- erreur <string name="notify_daily_limit_title">Limite de données quotidienne</string> -->
+  <!-- erreur <string name="notify_month_traffic_body">%s utilisés ce mois-ci. Appuyer pour configurer</string> -->
   <string name="notify_month_traffic_title">%s utilisés ce mois-ci</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s utilisés %2$s ce mois-ci</string>
   <string name="notify_weekly_traffic_body">Pour limiter l\'utilisation de données automatiquement, configurer votre forfait de données mensuelles.</string>
@@ -514,7 +515,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="restrictbackground_conflict_saving_msg">"Vous ne pouvez pas utiliser l'économiseur de données lorsque les données de fond sont restreintes. Désactiver les données et ajouter une limite d'utilisation de donnée ?</string>
   <string name="see_detail">Détails</string>
   <string name="unable_connect_internet">"Pas de connexion Internet"</string>
-  <string name="notify_daily_limit_title_for_slotnum">Entrez une limite quotidienne pour %s</string>
+<!-- erreur  <string name="notify_daily_limit_title_for_slotnum">Entrez une limite quotidienne pour %s</string> -->
   <string name="notify_setting_pkg_title_for_slotnum">Entrez une limite mensuelle pour %s</string>
   <string name="signal_exception_summary">"Pas de connexion réseau dans cette zone."</string>
   <string name="signal_exception_title">Test du signal réseau</string>
