@@ -154,8 +154,8 @@
   <string name="nb_clear_set">Nettoyer la ROM, voir la batterie et les infos de blocage dans les notifications</string>
   <string name="net_assistant_detail">%1$s utilisés, %2$s économisés</string>
   <string name="net_assistant_title">%s de données mobiles utilisées ce mois-ci</string>
-  <string name="network_not_available">"Echec de connexion au réseau"</string>
-  <string name="no_network">"Echec de connexion au réseau, essayez plus tard"</string>
+  <string name="network_not_available">"Échec de connexion au réseau"</string>
+  <string name="no_network">"Échec de connexion au réseau, essayez plus tard"</string>
   <string name="no_network_btn">Essayer à nouveau</string>
   <string name="notification_summary_after_auto_cleanup">%s nettoyées.</string>
   <string name="notification_summary_of_apps_cleanup">Des applis inutilisées occupent jusqu\'à %s de stockage</string>
@@ -262,7 +262,7 @@
   <string name="toast_select_white_need_remove">Sélectionnez les éléments à supprimer</string>
   <string name="toast_selecte_group_restore_succeed">Photos restaurées</string>
   <string name="toast_uninstall_success">Désinstallation terminée</string>
-  <string name="total_clean">Nettoyées: %s</string>
+  <string name="total_clean">Nettoyées : %s</string>
   <string name="traffic_top">Top 5 des applis les plus consommatrices</string>
   <string name="virus_scan">Recherche de virus</string>
   <string name="white_list_ad_header">Fichiers pub. : %d</string>

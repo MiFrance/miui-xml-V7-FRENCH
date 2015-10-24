@@ -71,7 +71,7 @@
   <string name="current_place">"Position actuelle : "</string>
   <string name="day">j</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_confirm">Supprimer l\'appareil?</string>
+  <string name="delete_confirm">Supprimer l\'appareil ?</string>
   <string name="delete_desc">"Vous ne pourrez plus contrôler “%s” avec la Mi Remote."</string>
   <string name="delete_device_frame">Confirmer la suppression de %1$s ?</string>
   <string name="device_brand">Marque</string>
@@ -112,7 +112,7 @@
   <string name="input_complete">OK</string>
   <string name="input_source">Source</string>
   <string name="input_speech_button">Maintenz &amp; et énoncez votre commande</string>
-  <string name="install_failed">"Echec d'installation de %s"</string>
+  <string name="install_failed">"Échec d'installation de %s"</string>
   <string name="install_succed">%s installé</string>
   <string name="installing">Installation…</string>
   <string name="ir_ac">Climatiseur</string>
@@ -142,7 +142,7 @@
   <string name="loading_ir_data">Veuillez patienter…</string>
   <string name="location_select">Pièce</string>
   <string name="login_done">Connecté</string>
-  <string name="login_failed">"Echec de connexion"</string>
+  <string name="login_failed">"Échec de connexion"</string>
   <string name="management_app_management">Apps</string>
   <string name="management_settings">Paramètres</string>
   <string name="management_video_favor">Historique et favoris</string>
@@ -261,7 +261,7 @@
   <string name="switch_place">" Sélectionner manuellement "</string>
   <string name="technical_support"/>
   <string name="temperature">Température</string>
-  <string name="title_nodata_feedback">"Echec de récupération des infos"</string>
+  <string name="title_nodata_feedback">"Échec de récupération des infos"</string>
   <string name="tv_mirror">Contrôles de l\'affichage</string>
   <string name="tv_mirror_intro">Afficher les contrôles en mode paysage</string>
   <string name="unknown">inconnue</string>
@@ -449,7 +449,7 @@
   <string name="external_video">Vidéo</string>
   <string name="downloading">Téléchargement</string>
   <string name="download_path_fail">Échec du téléchargement</string>
-  <string name="submit_fail_retry">Echec de l\'envoi, veuillez essayer à nouveau.</string>
+  <string name="submit_fail_retry">Échec de l\'envoi, veuillez essayer à nouveau.</string>
   <string name="gesture_pad_orietaion_tips">Glissez les contrôles en haut et en bas, puis cliquez sur OK</string>
   <string name="gesture_pad_vol_tips">Utilisez les touches de volume de votre appareil pour ajuster le volume en sortie</string>
   <string name="match_stb_intro_left">Set-top box Touche Gauche</string>

@@ -60,7 +60,7 @@
   <string name="get_update_error">"Impossible d\'obtenir des informations sur la mise à jour"</string>
   <string name="go_on_download">Continuer</string>
   <string name="install">Installer</string>
-  <string name="install_failed">Echec de la mise à jour</string>
+  <string name="install_failed">Échec de la mise à jour</string>
   <string name="install_file_explorer">Veuillez installer un explorateur de fichiers</string>
   <string name="install_qq">"Installer l\'application QQ"</string>
   <string name="internal_build">interne</string>
@@ -120,7 +120,7 @@
   <string name="sina_share_success">Envoyé</string>
   <string name="sina_token_expired_warning">Le compte Weibo a expiré, veuillez vous reconnecter</string>
   <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
-  <string name="sogou_uninstall_msg">Le clavier Sogou (Edition Mi) n\'est plus compatible avec MIUI 6. Changez de clavier ou installez une version plus récente de Sogou.</string>
+  <string name="sogou_uninstall_msg">Le clavier Sogou (édition Mi) n\'est plus compatible avec MIUI 6. Changez de clavier ou installez une version plus récente de Sogou.</string>
   <string name="sogou_uninstall_negative_button">Mettre à jour Sogou</string>
   <string name="sogou_uninstall_positive_button">Changer de clavier</string>
   <string name="sogou_uninstall_title">Compatibilité du clavier</string>
@@ -143,7 +143,7 @@
 Vous pourrez le faire lundi prochain"</string>
   <string name="update_feel">Comment vous sentez-vous ?</string>
   <string name="update_general">Indifférent</string>
-  <string name="update_happy">Satisfait!</string>
+  <string name="update_happy">Satisfait !</string>
   <string name="update_monthly_build_only">Mettre à jour vers la compilation mensuelle uniquement</string>
   <string name="update_sad">Déçu</string>
   <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>

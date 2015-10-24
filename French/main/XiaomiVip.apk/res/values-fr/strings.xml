@@ -8,7 +8,7 @@
   <string name="awarded_package_is_expired">Expiré</string>
   <string name="awarded_package_was_redeemed">Remboursé</string>
   <string name="browse">Consulter</string>
-  <string name="buff_enable">[ activé ]</string>
+  <string name="buff_enable">[ activer ]</string>
   <string name="cube_ptr_hours_ago"> heures</string>
   <string name="cube_ptr_last_update">dernière mise à jour: </string>
   <string name="cube_ptr_minutes_ago"> minutes</string>
@@ -22,7 +22,7 @@
   <string name="exp_buff">+%s%% points</string>
   <string name="experience">Pts</string>
   <string name="expired">Expiré</string>
-  <string name="fail_reach_server">"Echec de connexion au serveur"</string>
+  <string name="fail_reach_server">"Échec de connexion au serveur"</string>
   <string name="giveup">Abandonner</string>
   <string name="hello">Bonjour</string>
   <string name="hours">%dh</string>
@@ -38,7 +38,7 @@
   <string name="my_award">Mes prix</string>
   <string name="no_app">Installez d\'abord l\'application</string>
   <string name="no_award">Aucun prix</string>
-  <string name="no_network">"Echec de connexion au réseau"</string>
+  <string name="no_network">"Échec de connexion au réseau"</string>
   <string name="no_task">Tous les objectifs ont été atteints</string>
   <string name="passive_task">Objectifs d\'arrière-plan</string>
   <string name="privilege">Privilèges</string>
@@ -48,12 +48,12 @@
   <string name="seconds">%ds</string>
    <string name="start_activity_error">"Impossible de démarrer l'appli : %s"</string>
   <string name="take_awarded_package">Rembourser</string>
-  <string name="take_awarded_package_failed">"Echec de remboursement du cadeau. Attendez quelques minutes et essayez à nouveau."</string>
+  <string name="take_awarded_package_failed">"Échec de remboursement du cadeau. Attendez quelques minutes et essayez à nouveau."</string>
   <string name="task">Objectifs</string>
   <string name="task_begin">En cours…</string>
   <string name="task_completed">Terminée</string>
   <string name="task_done">Effectuée</string>
-  <string name="task_limit">Aucun objectif restant pour aujourd\'hui. A demain!</string>
+  <string name="task_limit">Aucun objectif restant pour aujourd\'hui. A demain !</string>
   <string name="task_not_completed">Non terminée</string>
   <string name="task_ongoing">En cours</string>
   <string name="task_score">%d points</string>
@@ -63,7 +63,7 @@
   <string name="today_task">"Objectifs du jour"</string>
   <string name="today_task_format" formatted="false">%d/%d</string>
   <string name="unlimited_task">Objectifs spéciaux</string>
-  <string name="upgraded">Compte mis à jour!</string>
+  <string name="upgraded">Compte mis à jour !</string>
   <string name="use">Utiliser</string>
   <string name="validity">Expire le %s</string>
   <string name="validity_unknown">Expiration inconnue</string>

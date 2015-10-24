@@ -18,7 +18,7 @@
   <string name="intro_page2_choose_files">Sélectionnez vos fichiers et appuyez sur \"Partager\"</string>
   <string name="intro_page2_click_to_send">Appuyez sur \"Partager\"</string>
   <string name="intro_page3_choose_midrop">Sélectionnez \"Mi Drop\"</string>
-  <string name="intro_page3_choose_midrop2">Vos fichiers sont envoyés instantanément!</string>
+  <string name="intro_page3_choose_midrop2">Vos fichiers sont envoyés instantanément !</string>
   <string name="newText">Nouveau Texte</string>
   <string name="notif_receive_cancel">%1$s fichiers non transférés</string>
   <string name="notif_receive_lockscreen">Touchez pour voir les détails</string>
@@ -65,7 +65,7 @@
   <string name="sender_finish">Envoyé</string>
   <string name="sender_in_progress_later">Essayer plus tard</string>
   <string name="sender_in_progress_now">Annuler</string>
-  <string name="sender_in_progress_title">Annuler le transfert?</string>
+  <string name="sender_in_progress_title">Annuler le transfert ?</string>
   <string name="sender_interrupt_summary">"Ne pas désactiver le Wi-Fi lors de l\'envoi de fichiers"</string>
   <string name="sender_interupt">Transfert interrompu</string>
   <string name="sender_reject">"Ne pas accepter"</string>

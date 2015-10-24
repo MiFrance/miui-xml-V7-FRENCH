@@ -36,9 +36,9 @@
   <string name="account">Compte</string>
   <string name="action">Se connecter</string>
   <string name="action_menu_text_add_bookmark">Ajouter un favori</string>
-  <string name="action_menu_text_bandwidth">Economiseur de données</string>
-  <string name="action_menu_text_bandwidth_off">Economiseur inactif</string>
-  <string name="action_menu_text_bandwidth_on">Economiseur actif</string>
+  <string name="action_menu_text_bandwidth">Économiseur de données</string>
+  <string name="action_menu_text_bandwidth_off">Économiseur inactif</string>
+  <string name="action_menu_text_bandwidth_on">Économiseur actif</string>
   <string name="action_menu_text_find_in_page">Rechercher dans la page</string>
   <string name="action_menu_text_refresh">Recharger</string>
   <string name="add_bookmark">"Ajouter un favori "</string>
@@ -214,7 +214,7 @@
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Supprimer</string>
   <string name="homepage_get_location">Détection de votre localisation</string>
-  <string name="homepage_get_location_failed">"Echec de récupération des infos, veuillez choisir une ville"</string>
+  <string name="homepage_get_location_failed">"Échec de récupération des infos, veuillez choisir une ville"</string>
   <string name="homepage_more_cards">Plus de services</string>
   <string name="homepage_more_sites">Plus de sites</string>
   <string name="homepage_search_hint">Rechercher</string>
@@ -633,7 +633,7 @@
   <string name="contextmenu_webpage_snapshot">Enregistrer cette page</string>
   <string name="copy_to_clipboard_failure_message">Impossible de copier dans le presse-papier</string>
   <string name="miuichromium_error_page_title">Impossible de trouver cette page</string>
-  <string name="miuichromium_error_page_reason_network">"Echec de connexion au réseau"</string>
+  <string name="miuichromium_error_page_reason_network">"Échec de connexion au réseau"</string>
   <string name="miuichromium_error_page_mobile">Réseaux mobiles</string>
   <string name="miuichromium_error_page_wlan">Paramètres Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activation requise</string>
@@ -644,7 +644,7 @@
   <string name="miuishare_account_need_activate">Votre compte Weibo doit être rattaché à votre compte Mi. Se connecter avec votre compte Mi ?</string>
   <string name="miuishare_account_need_login">Votre compte Weibo doit être rattaché à votre compte Mi actuel. Se connecter pour partager maintenant ?</string>
   <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">"Echec de connexion au réseau"</string>
+  <string name="miuishare_no_network">"Échec de connexion au réseau"</string>
   <string name="miuishare_publish">Envoyer</string>
   <string name="miuishare_share_done">Partagé</string>
   <string name="miuishare_share_editor_title">Partager</string>
@@ -654,7 +654,7 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="miuichromium_error_page_reason_server">Impossible de charger cette page</string>
   <string name="miuichromium_error_page_reload">Recharger</string>
-  <string name="miuichromium_error_page_url">Echec de connexion au réseau</string>
+  <string name="miuichromium_error_page_url">Échec de connexion au réseau</string>
   <string name="webapp_add_to_favorite_toast">Ajouté aux favoris</string>
   <string name="webapp_webapp_favortes_title">Mes favoris</string>
   <string name="webapp_menu_addtodesk">Ajouter à l\'accueil</string>

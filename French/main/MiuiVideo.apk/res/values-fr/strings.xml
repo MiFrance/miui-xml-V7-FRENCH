@@ -488,7 +488,7 @@
 	 <string name="download_progress_0p">0%</string>
 	 <string name="download_queue">Récupération d\'info...</string>
 	 <string name="download_running">En cours...</string>
-	 <string name="download_start_message">Télécharger et installer %1$s?</string>
+	 <string name="download_start_message">Télécharger et installer %1$s ?</string>
      <string name="download_url_waiting">Récupération des infos de l\'URL...</string>
      <string name="downloading_app_plugin">Téléchargement de %1$s…</string>
 	 <string name="empty_data">Erreur de chargement</string>

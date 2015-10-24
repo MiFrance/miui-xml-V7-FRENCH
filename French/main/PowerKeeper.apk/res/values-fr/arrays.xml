@@ -8,9 +8,9 @@
     </string-array>
     <string-array name="event_name_translate">
         <item>Application en avant-plan</item>
-        <item>Ecran allumé</item>
-        <item>Ecran éteint</item>
-        <item>Ecran éteint depuis 10 minutes</item>
+        <item>Écran allumé</item>
+        <item>Écran éteint</item>
+        <item>Écran éteint depuis 10 minutes</item>
         <item>Passer en plein écran</item>
         <item>Quitter le plein écran</item>
         <item>Application en arrière-plan</item>
@@ -21,7 +21,7 @@
     <string-array name="action_name_translate">
         <item>Luminosité max de l\'écran</item>
         <item>Fréquence max du CPU</item>
-        <item>Mode Ecran</item>
+        <item>Mode Écran</item>
         <item>Utilisation CPU</item>
         <item>Données actives</item>
         <item>Localisation</item>

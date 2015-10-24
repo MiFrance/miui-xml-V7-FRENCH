@@ -491,7 +491,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="importing_vcard_description">Importation de %s…</string>
   <string name="importing_vcard_finished_title">Carte de visite %s importée</string>
   <string name="in_call_show">Vidéo</string>
-  <string name="in_call_show_camera_open_error">"Echec d'ouverture de l'appareil photo"</string>
+  <string name="in_call_show_camera_open_error">"Échec d'ouverture de l'appareil photo"</string>
   <string name="in_call_show_delete_message">Supprimer votre vidéo ?</string>
   <string name="in_call_show_delete_title">Supprimer votre vidéo ?</string>
   <string name="in_call_show_demo_present">Aperçu</string>
@@ -511,7 +511,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="in_call_show_too_short">Trop court. Essayez d\'enregistrer une vidéo plus longue.</string>
   <string name="in_call_show_video_pick">Choisissez la vidéo</string>
   <string name="in_call_show_video_pick_filter">"La vidéo doit être inférieure à 3 Mo et inférieure à 20 secondes. "</string>
-  <string name="in_call_show_view_play_error">"Echec de lecture de la vidéo"</string>
+  <string name="in_call_show_view_play_error">"Échec de lecture de la vidéo"</string>
   <string name="insertContactDescription">Créer un contact</string>
   <string name="insertGroupDescription">Créer un groupe</string>
   <string name="invalidContactMessage">"Le contact n'existe pas."</string>

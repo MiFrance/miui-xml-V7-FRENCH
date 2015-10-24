@@ -56,7 +56,7 @@
   <string name="clean_trash_box">Vider la corbeille</string>
   <string name="cleaning">Nettoyage…</string>
   <string name="close">Fermer</string>
-  <string name="compress_fail">"Echec de la compression. Un fichier du même nom existe déjà."</string>
+  <string name="compress_fail">"Échec de la compression. Un fichier du même nom existe déjà."</string>
   <string name="compress_message">Compresser vers :</string>
   <string name="compress_title">Compresser</string>
   <string name="confirm">OK</string>

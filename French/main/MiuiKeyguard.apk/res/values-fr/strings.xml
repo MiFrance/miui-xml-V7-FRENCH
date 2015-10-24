@@ -34,7 +34,7 @@
   <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le Mode avion</string>
   <string name="fingerprint_not_identified_msg">Pour déverrouiller votre appareil, entrez votre mot de passe.</string>
-  <string name="fingerprint_not_identified_title">"Echec de lecture de l\'empreinte digitale"</string>
+  <string name="fingerprint_not_identified_title">"Échec de lecture de l\'empreinte digitale"</string>
   <string name="fingerprint_try_again_text">Réessayer</string>
   <string name="forget_password_string">MDP oublié ?</string>
   <string name="incorrect_pincode">Code PIN incorrect</string>

@@ -265,7 +265,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="wifi_display_unstable_suggestion">La connexion n\'est pas stable, essayez de vous rapprocher de votre dispositif d\'affichage.</string>
   <string name="wifi_display_sound_path_reminder">Le son multimédia de votre téléphone sera désactivé.</string>
   <string name="wifi_display_change_resolution_reminder">Après un changement de résolution, l\'affichage sans fil se reconnectera automatiquement.</string>
-  <string name="calibration_data">Pas de calibrage. Veuillez télécharger les données de calibrage! Sans quoi l\'appareil peut ne pas rester sur le réseau.[utilisateur interne MTK]</string>
+  <string name="calibration_data">Pas de calibrage. Veuillez télécharger les données de calibrage ! Sans quoi l\'appareil peut ne pas rester sur le réseau.[utilisateur interne MTK]</string>
   <string name="msensor_toast_text">Interférences sur la boussole. Dessinez un 8 avec le téléphone pour la re-calibrer.</string>
   <string name="recip_unsupport_operator">La vue destinataires n\'autorise pas les modifications de caractères, veuillez utiliser la barre d\'outil pour modifier les destinataires.</string>
   <string name="recip_unsupport_selection">Désolé, vous ne pouvez replacer le curseur au début si la vue contient déjà des destinataires.</string>

@@ -662,7 +662,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
   <string name="call_recording_notification_title">Appel enregistré</string>
   <string name="call_recording_notification_title_error">"Impossible d'enregistrer cet appel"</string>
-  <string name="call_self">"Impossible de s'appeler soi-même!"</string>
+  <string name="call_self">"Impossible de s'appeler soi-même !"</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="online_check_provider_info">Identifié par %s</string>
   <string name="callFailed_incoming_cb_enabled">Le groupe a interdit tous les appels entrants.</string>

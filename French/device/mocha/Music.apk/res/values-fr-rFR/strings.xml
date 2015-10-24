@@ -3,9 +3,9 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-     <string name="dialog_delete_descript">Supprimer %s?</string>
+     <string name="dialog_delete_descript">Supprimer %s ?</string>
      <string name="dialog_hint_network_error">Échec de connexion au réseau</string>
-     <string name="dialog_remove_descript">Retirer %s?</string>
+     <string name="dialog_remove_descript">Retirer %s ?</string>
      <string name="format_unsupported">"Ce format n'est pas supporté."</string>
      <string name="impunity_declaration">Cette application requiert l\'accès à internet pour écouter de la musique en-ligne.</string>
      <string name="my_music">Ma musique</string>

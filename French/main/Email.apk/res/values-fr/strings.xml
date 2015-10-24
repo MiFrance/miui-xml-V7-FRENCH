@@ -896,7 +896,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="mail_header_downloading_message_body">Téléchargement…</string>
   <string name="mail_header_message_body_auto_download_complete">Contenu du message téléchargé via Wi-Fi.</string>
   <string name="mail_header_message_body_auto_download_tip">Le contenu du message sera téléchargé via Wi-Fi.</string>
-  <string name="mail_header_message_body_download_failed">Echec au téléchargement du contenu du message.</string>
+  <string name="mail_header_message_body_download_failed">Échec au téléchargement du contenu du message.</string>
   <string name="mail_header_network_not_available">"Vous n\'avez pas de connexion réseau."</string>
   <string name="more_atts_remaining">%1$d restants</string>
   <string name="more_context">Plus</string>
@@ -970,7 +970,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="folder_list_display_all">Afficher tous les dossiers</string>
   <string name="folder_list_display_only_import">Afficher uniquement les dossiers importants</string>
   <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
-  <string name="outbox_alert_description_cannot_authenticate">Echec d\'authentification pour %s</string>
+  <string name="outbox_alert_description_cannot_authenticate">Échec d\'authentification pour %s</string>
   <string name="outbox_alert_description_email_size_error">La taille maximale des e-mail a été atteinte.</string>
   <string name="outbox_alert_description_fail_authentication">L\'identifiant ou le mot de passe est incorrect.</string>
   <string name="outbox_alert_description_reject_by_server">Rejeté par %s</string>

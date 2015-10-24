@@ -41,7 +41,7 @@
   <string name="alwaysUsePrompt">Mémoriser ce choix</string>
   <string name="auto_start_warning_allow">Autoriser</string>
   <string name="auto_start_warning_deny">Refuser</string>
-  <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement à l\'avenir?</string>
+  <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement à l\'avenir ?</string>
   <string name="call_record_or">" ou "</string>
   <string name="call_record_sample_prefix_miui">Appel</string>
   <string name="caller_info_name_delimiter">" ou "</string>

@@ -54,13 +54,13 @@
   <string name="mx_dspt_provision">"MIUI VoIP lets you call other MIUI users by free. Your carrier may charge for your network traffic. VoIP is supported by Weihui. View Weihui's Private Policy"</string>
   <string name="mx_dspt_provision_2">"MIUI VoIP vous permet d\'appeler d\'autres utilisateurs MIUI gratuitement. L\'utiliseur peut entraîner des frais opérateur. Un SMS peut être envoyé afin de vérifier votre numéro de téléphone. VoIP est supporté par Weihui. Voir la Politique de Confidentialité de Weihui"</string>
   <string name="mx_dspt_provision_3">"MIUI VoIP vous permet d\'appeler d\'autres utilisateurs MIUI gratuitement. L\'utiliseur peut entraîner des frais opérateur. Un SMS peut être envoyé afin de vérifier votre numéro de téléphone. VoIP est supporté par Weihui. Voir la Politique de Confidentialité de Weihui"</string>
-  <string name="net_connect_fails">"Echec de connexion au réseau, vérifiez vos paramètres réseau"</string>
+  <string name="net_connect_fails">"Échec de connexion au réseau, vérifiez vos paramètres réseau"</string>
   <string name="net_singal_tips">Signal réseau pour l\'appel VoIP %1$s</string>
-  <string name="network_unavailable">"Echec de connexion au réseau."</string>
+  <string name="network_unavailable">"Échec de connexion au réseau."</string>
   <string name="next">Etape suivante</string>
   <string name="no_sim_found">Pas de SIM disponible</string>
   <string name="note_list_none">La liste est vide</string>
-  <string name="notification_activate_failed">"Echec d'activation de VoIP, cliquez pour ouvrir"</string>
+  <string name="notification_activate_failed">"Échec d'activation de VoIP, cliquez pour ouvrir"</string>
   <string name="notification_dialing">Numérotation</string>
   <string name="notification_incoming_call">Appel entrant</string>
   <string name="notification_missedCallTicker">Appel manqué de %s</string>
@@ -81,8 +81,8 @@
   <string name="pref_key_only_voip_with_contacts_title">VoIP uniquement avec les contacts</string>
   <string name="pref_key_version_title">Version</string>
   <string name="pref_screen_voip_call_setting_title">Appel VoIP</string>
-  <string name="show_dev_on">Vous êtes dorénavant un développeur VoIP!</string>
-  <string name="show_nondev_on">Vous n\'êtes pas un développeur VoIP!</string>
+  <string name="show_dev_on">Vous êtes dorénavant un développeur VoIP !</string>
+  <string name="show_nondev_on">Vous n\'êtes pas un développeur VoIP !</string>
   <string name="sim_card_has_removed">"La carte SIM a été retirée, les appels VoIP ne seront pas disponibles"</string>
   <string name="st_antispam_black_adress_add">Ajouter des emplacements</string>
   <string name="st_antispam_bw_choose_modes">Ajouter à la liste</string>
@@ -117,7 +117,7 @@
   <string name="voip_call_failed_hang_up_title">Raccrocher</string>
   <string name="voip_call_failed_message">"Votre correspondant ne répond pas, il n'est peut-être pas en ligne ou sur un mauvais réseau.
 Vous pouvez basculer en appel GSM"</string>
-  <string name="voip_call_failed_title">Echec de l\'appel VoIP</string>
+  <string name="voip_call_failed_title">Échec de l\'appel VoIP</string>
   <string name="voip_call_incoming">Appel Facetime entrant</string>
   <string name="voip_call_intro_summary">Vous pouvez discuter avec vos amis gratuitement</string>
   <string name="voip_call_outgoing">Numérotation</string>
@@ -162,5 +162,5 @@ Vous pouvez basculer en appel GSM"</string>
 Taille: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Nouvelle version %1$s
 Taille de la mise à jour: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s mis à jour!</string>
+  <string name="xiaomi_update_dialog_title">%1$s mis à jour !</string>
 </resources>

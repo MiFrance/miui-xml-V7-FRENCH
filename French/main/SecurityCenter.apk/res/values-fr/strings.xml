@@ -9,7 +9,7 @@
   <string name="battery_stats_gps_on_label">GPS</string>
   <string name="battery_stats_on_battery">%1$s sur batterie</string>
   <string name="battery_stats_phone_signal_label">Signal du réseau mobile</string>
-  <string name="battery_stats_screen_on_label">Ecran activé</string>
+  <string name="battery_stats_screen_on_label">Écran activé</string>
   <string name="battery_stats_wake_lock_label">En activité</string>
   <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
   <string name="button_antivirus">OK</string>
@@ -256,7 +256,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="month_report_month_report_switch">Afficher le rapport mensuel</string>
   <string name="month_report_network_dialog_description">Permettre à cette application de se connecter à internet pour obtenir des rapports d\'information ?</string>
   <string name="month_report_network_dialog_positive">Autoriser</string>
-  <string name="month_report_network_dialog_title">"Echec de récupération des rapports"</string>
+  <string name="month_report_network_dialog_title">"Échec de récupération des rapports"</string>
   <string name="month_report_result_share">Partager</string>
   <string name="month_report_share_img_fail">"N'a pas pu partager"</string>
   <string name="month_report_share_loading">Un instant…</string>

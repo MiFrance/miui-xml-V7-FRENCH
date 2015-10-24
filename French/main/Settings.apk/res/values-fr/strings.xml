@@ -876,7 +876,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="fingerprint_and_password_entrance_title">Mot de passe &amp; Empreinte</string>
   <string name="fingerprint_identificating_msg">Analyse de l\'empreinte…</string>
   <string name="fingerprint_identify_input_password_msg">Entrez le mot de passe</string>
-  <string name="fingerprint_identify_try_again_msg">"Echec de l\'analyse, essayez à nouveau"</string>
+  <string name="fingerprint_identify_try_again_msg">"Échec de l\'analyse, essayez à nouveau"</string>
   <string name="fingerprint_list_title">Empreinte digitale</string>
   <string name="finish_application">Terminer</string>
   <string name="finish_button_label">Terminer</string>
@@ -2831,7 +2831,7 @@ et lancer le logiciel."</string>
   <string name="music_dirac_mode_off">Dirac inactif</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_basic">Mi Piston Basics</string>
-  <string name="music_dirac_mode_piston_color">Edition Couleur</string>
+  <string name="music_dirac_mode_piston_color">Édition Couleur</string>
   <string name="music_hifi_title">Audio Hi-Fi</string>
   <string name="bt_trace_log">Activer Trace log Bluetooth</string>
   <string name="bt_trace_log_summary">Active le journal de suivi Bluetooth</string>

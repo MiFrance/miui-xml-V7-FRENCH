@@ -92,10 +92,10 @@
   <string name="enable_encrypt_xiaomi_account">Cette sauvegarde a été créée par %1$s, supprimez le compte actuel et connectez-vous à %2$s afin de restaurer les données.</string>
   <string name="err_authentication_failed">L\'authentification a échoué</string>
   <string name="err_bakfile_broken">"Vous ne pouvez pas utiliser cette sauvegarde."</string>
-  <string name="err_filesystem_mount">"Echec d\'accès à l\'espace de stockage du routeur"</string>
+  <string name="err_filesystem_mount">"Échec d\'accès à l\'espace de stockage du routeur"</string>
   <string name="err_low_storage">Espace insuffisant</string>
   <string name="err_router_disconnected">"Vérifiez la connexion à votre routeur et essayez à nouveau."</string>
-  <string name="err_router_files_delete">"Echec de suppression des sauvegardes sur le routeur"</string>
+  <string name="err_router_files_delete">"Échec de suppression des sauvegardes sur le routeur"</string>
   <string name="err_unknown">Erreur inconnue</string>
   <string name="err_version_too_old">Le fichier de sauvegarde est trop ancien.</string>
   <string name="err_version_unsupported">"Cette version de sauvegarde, n\'est pas prise en charge."</string>

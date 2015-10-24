@@ -553,7 +553,7 @@
   <string name="send_message_dlg_title">Gestion de l\'appareil</string>
   <string name="send_message_dlg_mgs">Remarque CMCC: Nous devons enregistrement votre appareil sur la plate-forme de gestion pour fournir le service d\envoi gratuit (Plate-forme de CMCC pouvant gérer les terminaux mobiles.that can manage the terminal devices. Fournit un service de paramétrage et de mise à jour distants. ). Un message gratuit contenant les infos de l\'appareil sera envoyé pour l\'enregistrement. Ce message sera envoyé une seule fois et ne contiendra pas de données personnelles (Ne pas envoyer de Hong-Kong, Macao, Taiwan, ou en itinérance). Choisir “OK” pour accepter l\'enregistrement et utiliser le service. Choisir “Annuler” pour ne pas utiliser ce service.</string>
   <string name="confirm_dlg_title">Gestion de l\'appareil</string>
-  <string name="confirm_dlg__msg">Remarque CMCC: Le service d\'envoi gratuit CMCC ne sera pas fourni si vous annulez. Etes-vous sûr ?</string>
+  <string name="confirm_dlg__msg">Remarque CMCC: Le service d\'envoi gratuit CMCC ne sera pas fourni si vous annulez. Êtes-vous sûr ?</string>
   <string name="send_message_notification_tickerText">Demande d\'autorisation pour la gestion de l\'appareil</string>
   <string name="send_message_notification_title">Gestion de l\'appareil</string>
   <string name="send_message_notification_msg">Demande d\'autorisation pour l\'envoi d\'un message pour le service</string>

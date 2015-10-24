@@ -75,7 +75,7 @@
   <string name="menu_enter_edit_mode">Éditeur</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="missing_title">&lt;Inconnu&gt;</string>
-  <string name="network_error">"Echec de connexion au réseau"</string>
+  <string name="network_error">"Échec de connexion au réseau"</string>
   <string name="new_add">Nouveau téléchargement</string>
   <string name="new_add_bt">Ajouter un torrent</string>
   <string name="no_downloads">Aucun téléchargement</string>
@@ -140,7 +140,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="third_web_title">Save</string>
   <string name="title_tips">Attention</string>
   <string name="title_unbind_xunlei">Retirer votre compte Xunlei</string>
-  <string name="torrent_file_error">"Echec d\'analyse du fichier torrent"</string>
+  <string name="torrent_file_error">"Échec d\'analyse du fichier torrent"</string>
   <string name="torrent_no_subfile">Pas de sous-fichiers dans ce torrent</string>
   <string name="xunlei_brand">Propulsé par Xunlei</string>
   <string name="xunlei_switch">Accélérateur de téléchargement Xunlei</string>
