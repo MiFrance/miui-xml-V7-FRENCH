@@ -373,7 +373,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="lock_screen_traffic_notify_body">%1$s : verrouillé pendant %2$s, %3$s utilisés</string>
   <string name="lock_screen_warning_category">Notifications de l\'écran de verrouillage</string>
   <string name="lock_screen_warning_switch_summary">Afficher un avertissement sur l\'écran de verrouillage lorsque la consommation de données dépasse un certain seuil</string>
-  <string name="lock_screen_warning_switch_title">Affichers les avertissements sur l\'écran de verrouillage</string>
+  <string name="lock_screen_warning_switch_title">Afficher les avertissements sur l\'écran de verrouillage</string>
   <string name="lock_screen_warning_value">Seuil d\'avertissement de la consommation de données</string>
   <string name="main_alert_message_month_limit_error">Limite de données incorrecte</string>
   <string name="network_speed_for_apps_close">Forcer l\'arrêt</string>

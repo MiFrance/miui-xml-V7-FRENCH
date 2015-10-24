@@ -1488,7 +1488,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="change_default_data">Modifier</string>
   <string name="incall_error_sim_deactive">Carte SIM inactive</string>
   <string name="config_default_data_sim">Paramètres</string>
-  <string name="cdma_alert_message">"Si vous sélectionnez une autre carte par défaurt pour les données mobiles, vous ne pourrez utiliser votre carte UIM China Telecom (hormis en itinérance)."</string> 
+  <string name="cdma_alert_message">"Si vous sélectionnez une autre carte par défaut pour les données mobiles, vous ne pourrez utiliser votre carte UIM China Telecom (hormis en itinérance)."</string> 
   <string name="cdma_alert_title">La carte UIM doit être celle par défaut</string>
   <string name="can_not_use_for_not_data_sim">"(Non utilisée: doit être définie comme SIM par défaut pour les données)"</string>
   <string name="livetalk_user_config_title">Vérifier le numéro de téléphone</string>

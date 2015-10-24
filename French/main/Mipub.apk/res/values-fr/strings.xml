@@ -104,9 +104,9 @@
   <string name="class_0_message_activity">Message de catégorie 0</string>
   <string name="close">Fermer</string>
   <string name="cloud_recommend_msg">Appuyez sur pour synchroniser les messages avec Mi Cloud.</string>
-  <string name="cloud_state_disabled">La synchronisation avec Mi Cloud est désactivée</string>
-  <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
-  <string name="cloud_state_syncing">Synchroniser avec Mi Cloud…</string>
+  <string name="cloud_state_disabled">Synchronisation avec Mi Cloud désactivée</string>
+  <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
+  <string name="cloud_state_syncing">Synchronisation avec Mi Cloud…</string>
   <string name="compressing">Image trop grande. Compression en cours…</string>
   <string name="confirm">Confirmer</string>
   <string name="confirm_add_blacklist_dialog_dspt">Ajouter le numéro à la liste noire ?</string>

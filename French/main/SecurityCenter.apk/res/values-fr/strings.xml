@@ -610,7 +610,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="antivirus_privacy_dialog_cloudscan">Envoyer le nom des applications et les détails</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser le nom des applications et les détails en utilisant les définitions de virus en ligne.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">"Cette fonctionn encrypte et transmet l\'identifiant de votre appareil aux serveurs AVL et Tencent (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">"Cette fonction chiffre et transmet l\'identifiant de votre appareil aux serveurs AVL et Tencent (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">voir la Politique de Confidentialité</string>
   <string name="antivirus_privacy_dialog_title">Politique de Confidentialité</string>
   <string name="antivirus_update_db">%s</string>

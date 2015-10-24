@@ -229,7 +229,7 @@
   <string name="tips_of_network_speed_set">Afficher la bande-passante réseau dans la barre d\'état</string>
   <string name="tips_of_operators_set">Ajuster la bande-passante automatiquement</string>
   <string name="tips_of_package_set">Définir votre plan de données et contrôler votre consommation</string>
-  <string name="tips_of_traffic_notification">Afficher les statitisques sur les données mobiles dans les notifications</string>
+  <string name="tips_of_traffic_notification">Afficher les statistiques sur les données mobiles dans les notifications</string>
   <string name="tips_of_traffic_pack_threshold">"Achetez des données supplémentaires lorsque vous atteignez vos quota de données"</string>
   <string name="tips_of_virus_scan">Recherchez des virus régulièrement sur votre appareil pour le maintenir sécurisé</string>
   <string name="title_auto_cleaner">Nettoyer automatiquement ?</string>
@@ -290,8 +290,8 @@
   <string name="button_text_unselect_all">Désélectionner</string>
   <string name="button_text_unselect_pic">Désélectionner</string>
   <string name="deepclean_similar_ignore">Ignorer</string>
-  <string name="deepclean_title_large_file">Supprimer les fichier volumineux</string>
-  <string name="default_cache_type">Data Files</string>
+  <string name="deepclean_title_large_file">Supprimer les fichiers volumineux</string>
+  <string name="default_cache_type">Fichiers de données</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Supprimer les photos du Mi Cloud également</string>
   <string name="dialog_content_delete_image_confirm">Supprimer %d photos ?</string>
   <string name="dialog_content_select_all_confirm">Garder une copie de cette photo ?</string>

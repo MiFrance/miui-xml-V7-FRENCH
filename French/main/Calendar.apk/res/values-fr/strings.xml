@@ -338,7 +338,7 @@
   <string name="travel_item_hotel">Hôtel</string>
   <string name="travel_item_reminder">Rappel</string>
   <string name="travel_item_reminder_overdue">Attention</string>
-  <string name="travel_item_trafic">Traffic</string>
+  <string name="travel_item_trafic">Trafic</string>
   <string name="travel_item_virtual_sim">Mi SIM Virtuel</string>
   <string name="travel_item_weather_forecast">Fournisseurs de prévisions</string>
   <string name="travel_item_weather_now">Prévisions météorologiques</string>

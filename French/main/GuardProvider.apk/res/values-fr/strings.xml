@@ -3,7 +3,7 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-  <string name="avl_dialog_header">"Cette fonction encrypte et transmet l\'identifiant de votre appareil aux serveurs AVL (%s)."</string>
+  <string name="avl_dialog_header">"Cette fonction chiffre et transmet l\'identifiant de votre appareil aux serveurs AVL (%s)."</string>
   <string name="avl_dialog_policy">consulter la Politique de Confidentialité</string>
   <string name="avl_dialog_title">"Politique de Confidentialité d\'AVL"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
@@ -12,7 +12,7 @@
   <string name="menu_settings">Paramètres</string>
   <string name="tencent_dialog_cloudscan">Envoyer et analyser les noms d\'applications en utilisant les définitions de virus en ligne.</string>
   <string name="tencent_dialog_dbupdate">Mettre à jour les définitions de virus automatiquement</string>
-  <string name="tencent_dialog_header">"Cette fonction encrypte et transmet l\'identifiant de votre appareil aux serveurs Tencent (%s)."</string>
+  <string name="tencent_dialog_header">"Cette fonction chiffre et transmet l\'identifiant de votre appareil aux serveurs Tencent (%s)."</string>
   <string name="tencent_dialog_policy">consulter la Politique de Confidentialité</string>
   <string name="tencent_dialog_title">Politique de Confidentialité de Tencent</string>
   <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>

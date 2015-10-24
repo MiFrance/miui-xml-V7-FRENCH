@@ -261,7 +261,7 @@ sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="micloud_web_discription_international">Allez sur www.mi.com/micloud</string>
   <string name="mx_dspt_provision_privacy">"Cette fonction nécessite votre numéro de téléphone. Votre opérateur peut potentiellement vous facturer un SMS pour son activation.
 
-Cette fonction encrypte et transmet l\'ID de votre appareil sur les serveurs Mi."</string>
+Cette fonction chiffre et transmet l\'ID de votre appareil sur les serveurs Mi."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"Cette fonction peut nécessiter votre numéro de téléphone. Votre opérateur peut vous facturer deux SMS pour activer cette fonctionnalité.
 
 Cette fonctionnalité crypte et transfère l'ID de votre appareil sur les serveurs Mi."</string>
