@@ -3572,6 +3572,7 @@ l'assistant  e-mail"</string>
   <string name="work_sim_title">Carte SIM professionnelle</string>
   <string name="write_tag">Modifier</string>
   <string name="yes_all_caps">OUI</string>
+  <string name="zen_mode_alarm_use">Sons</string>
   <string name="zen_mode_alarm_info">Les alarmes sont toujours des interruptions prioritaires.</string>
   <string name="zen_mode_automation_category">Automatisation</string>
   <string name="zen_mode_default_option">"Jusqu'à désactivation"</string>
