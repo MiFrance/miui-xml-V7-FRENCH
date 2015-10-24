@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+     <string-array name="preferences_skip_reminders_labels">
+        <item>Seulement si décliné</item>
+        <item>Si décliné ou non répondu</item>
+     </string-array>
+     <string-array name="recurrence_freq">
+        <item>RÉPÉTER QUOTIDIENNEMENT</item>
+        <item>RÉPÉTER HEBDOMADAIREMENT</item>
+        <item>RÉPÉTER MENSUELLEMENT</item>
+        <item>RÉPÉTER ANNUELLEMENT</item>
+     </string-array>
+     <string-array name="REPETER_by_nth_fri">
+        <item>chaque premier vendredi</item>
+        <item>chaque second vendredi</item>
+        <item>chaque troisième vendredi</item>
+        <item>chaque quatrième vendredi</item>
+        <item>chaque dernier vendredi</item>
+     </string-array>
+     <string-array name="REPETER_by_nth_mon">
+        <item>chaque premier lundi</item>
+        <item>chaque second lundi</item>
+        <item>chaque troisième lundi</item>
+        <item>chaque quatrième lundi</item>
+        <item>chaque dernier lundi</item>
+     </string-array>
+     <string-array name="REPETER_by_nth_sat">
+        <item>chaque premier samedi</item>
+        <item>chaque second samedi</item>
+        <item>chaque troisième samedi</item>
+        <item>chaque quatrième samedi</item>
+        <item>chaque dernier samedi</item>
+     </string-array>
+     <string-array name="REPETER_by_nth_sun">
+        <item>chaque premier dimanche</item>
+        <item>chaque second dimanche</item>
+        <item>chaque troisième dimanche</item>
+        <item>chaque quatrième dimanche</item>
+        <item>chaque dernier dimanche</item>
+     </string-array>
+     <string-array name="REPETER_by_nth_thurs">
+        <item>chaque premier jeudi</item>
+        <item>chaque second jeudi</item>
+        <item>chaque troisième jeudi</item>
+        <item>chaque quatrième jeudi</item>
+        <item>chaque dernier jeudi</item>
+     </string-array>
+     <string-array name="REPETER_by_nth_tues">
+        <item>chaque premier mardi</item>
+        <item>chaque second mardi</item>
+        <item>chaque troisième mardi</item>
+        <item>chaque quatrième mardi</item>
+        <item>chaque dernier mardi</item>
+     </string-array>
+     <string-array name="REPETER_by_nth_wed">
+        <item>chaque premier mercredi</item>
+        <item>chaque second mercredi</item>
+        <item>chaque troisième mercredi</item>
+        <item>chaque quatrième mercredi</item>
+        <item>chaque dernier mercredi</item>
+     </string-array>
+</resources>

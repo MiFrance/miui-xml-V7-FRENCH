@@ -106,7 +106,8 @@
   <string name="readmode_settings_themetitle">Arrière-plan</string>
   <string name="unsecurity_url_toast">"Ce site n'est pas fiable"</string>
   <string name="video_history">Vidéos</string>
-  
+  <string name="miui_edit_mode_title_empty">Sélectionnez des éléments</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Vérifier la fiabilité des liens</string>
   
   <!-- spécial mitab, sans variable dans le text, voir cancro -->
   <string name="geolocation_permissions_prompt_message">souhaite connaître votre position géographique.</string>

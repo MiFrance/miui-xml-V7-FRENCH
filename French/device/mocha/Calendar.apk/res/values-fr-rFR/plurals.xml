@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+     <plurals name="daily">
+        <item quantity="other">Tous les %d jours</item>
+        <item quantity="one">Quotidiennement</item>
+     </plurals>
+     <plurals name="endByCount">
+        <item quantity="other">; %d fois</item>
+        <item quantity="one">; une fois</item>
+     </plurals>
+     <plurals name="recurrence_end_count">
+        <item quantity="other">Pour %d événements</item>
+        <item quantity="one">Pour %d événement</item>
+     </plurals>
+     <plurals name="recurrence_interval_daily">
+        <item quantity="other">Tous les %d jours</item>
+        <item quantity="one">Tous les jours</item>
+     </plurals>
+     <plurals name="recurrence_interval_moisly">
+        <item quantity="other">Tous les %d mois</item>
+        <item quantity="one">Tous les mois</item>
+     </plurals>
+     <plurals name="recurrence_interval_semainely">
+        <item quantity="other">Toutes les %d semaines</item>
+        <item quantity="one">Toutes les semaines</item>
+     </plurals>
+     <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Tous les %d ans</item>
+        <item quantity="one">Tous les ans</item>
+     </plurals>
+     <plurals name="semainely">
+        <item quantity="other">Toutes les %1$d semaines le %2$s</item>
+        <item quantity="one">Toutes les semaines le %2$s</item>
+     </plurals>
+</resources>

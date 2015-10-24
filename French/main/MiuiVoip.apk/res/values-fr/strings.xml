@@ -5,8 +5,8 @@
   <string name="address_choose_hint">%1$s, %2$s, et %3$d autres emplacements</string>
   <string name="all_address_choose_hint">Tous les numéros dans cette région</string>
   <string name="app_name">Appels gratuits</string>
-  <string name="bl_no_blacklist">Pas de numéros bloqués.</string>
-  <string name="bl_no_block_call">Pas d\'appels bloqués.</string>
+  <string name="bl_no_blacklist">Aucun numéro bloqué.</string>
+  <string name="bl_no_block_call">Aucun appel bloqué.</string>
   <string name="blacklist_prefix_add_hint">Bloquer tous les numéros commençant par ce préfixe</string>
   <string name="call_with_contact_list">Appel avec liste de contacts</string>
   <string name="call_with_voip">Appel VoIP gratuit</string>

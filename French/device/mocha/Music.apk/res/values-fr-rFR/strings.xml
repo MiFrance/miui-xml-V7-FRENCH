@@ -12,4 +12,5 @@
      <string name="network_error">Échec de connexion au réseau</string>
      <string name="not_vip">Désolé, vous n\'êtes pas VIP.</string>
      <string name="online_music">Découvrir</string>
+     <string name="quit_warining">Le lecteur s\'arrêtera dans %d minutes</string>
 </resources>

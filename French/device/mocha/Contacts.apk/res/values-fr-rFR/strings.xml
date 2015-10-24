@@ -32,4 +32,8 @@
   <string name="dirty_contacts_notification_description">%d modifications n\'ont pas été synchronisées avec votre compte Mi.</string>
   <string name="check_unsynchronized_accounts">Rappel de synchronisation des comptes</string>
   <string name="dirty_contacts_notification_message">Vous pouvez désactiver ce rappel dans les Paramètres.</string>
+  <string name="login_before_recharging">Veuillez vous connecter avant de recharger.</string>
+  <string name="photo_package_activity_title">Parcourir les dossiers</string>
+  <string name="select_new_photo_from_photo_package">Parcourir les dossiers</string>
+  <string name="select_photo_from_photo_package">Sélectionnez une photo parmi l\'album</string>
 </resources>
