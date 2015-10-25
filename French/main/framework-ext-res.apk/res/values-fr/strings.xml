@@ -71,9 +71,9 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="location_usage_restricted_body">Toucher pour enlever la restriction.</string>
   <string name="location_usage_restricted_title">Accès restreint à la localisation en arrière-plan</string>
   <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
-  <string name="lockscreen_access_pattern_cleared">Motif désactivé</string>
-  <string name="lockscreen_access_pattern_detected">Motif terminé</string>
-  <string name="lockscreen_access_pattern_start">Motif démarré</string>
+  <string name="lockscreen_access_pattern_cleared">Schéma désactivé</string>
+  <string name="lockscreen_access_pattern_detected">Schéma terminé</string>
+  <string name="lockscreen_access_pattern_start">Schéma démarré</string>
   <string name="memory_clear_nothing_result">Aucune mémoire à libérer</string>
   <string name="memory_clear_result">%1$sB libérés | %2$sB disponibles</string>
   <string name="paste">Coller</string>

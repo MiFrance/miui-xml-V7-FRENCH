@@ -203,7 +203,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_launch_label">Lancer par défaut</string>
   <string name="auto_launch_label_generic">Paramètres par défaut</string>
   <string name="auto_punctuate">Ponctuation automatique</string>
-  <string name="auto_punctuate_summary">Appuyez deux fois sur la touche Espace pour insérer "."</string>
+  <string name="auto_punctuate_summary">Appuyez deux fois sur la touche Espace pour insérer \".\"</string>
   <string name="auto_replace">Remplacement auto</string>
   <string name="auto_replace_summary">Corriger les mots mal saisis</string>
   <string name="auto_restore_summary">Lors de la réinstallation d\'une application restaurer les paramètres et les données sauvegardées</string>
@@ -283,7 +283,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="battery_info_status_charging_ac">(secteur)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
   <string name="battery_info_status_charging_wireless">(sans fil)</string>
-  <string name="battery_info_status_discharging">N\'est pas en charge</string>
+  <string name="battery_info_status_discharging">Pas en charge</string>
   <string name="battery_info_status_full">Chargée</string>
   <string name="battery_info_status_label">État de la batterie :</string>
   <string name="battery_info_status_not_charging">Débranchée</string>
@@ -378,7 +378,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_dock_settings_headset">Comme appareil à haut-parleur</string>
   <string name="bluetooth_dock_settings_remember">Mémoriser ces paramètres</string>
   <string name="bluetooth_dock_settings_title">Utiliser station d\'accueil pour l\'audio</string>
-  <string name="bluetooth_empty_list_bluetooth_off">Activez le Bluetooth pour voir les appareils.</string>
+  <string name="bluetooth_empty_list_bluetooth_off">L\'activation du Bluetooth permet à votre appareil de communiquer avec les appareils Bluetooth à proximité.</string>
   <string name="bluetooth_enable">Activer le Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
   <string name="bluetooth_enter_passkey_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisir la clé d'accès requise de l'appareil : "</string>
@@ -507,7 +507,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="clear_activities">Effacer les actions par défaut</string>
   <string name="clear_activities_summary">Activer ce programme pour certaines opérations par défaut</string>
   <string name="clear_cache_btn_text">Vider le cache</string>
-  <string name="clear_data_dlg_text">"Toutes les données de cette application vont être définitivement supprimées, y compris tous les fichiers, les paramètres, les comptes, les bases de données, etc."</string>
+  <string name="clear_data_dlg_text">"Les données de cette application (fichiers, paramètres, comptes, bases de données, etc.) vont être définitivement supprimées."</string>
   <string name="clear_data_dlg_title">Supprimer les données de l\'application ?</string>
   <string name="clear_data_failed">"Impossible d'effacer les données de l'application."</string>
   <string name="clear_failed_dlg_text">"Impossible de supprimer les données de l'application."</string>
@@ -586,7 +586,7 @@ Pour continuer d\'utiliser votre appareil, vous devez rétablir la configuration
 Vous trouverez des options plus adaptées en matière de contrôle de la consommation des données dans les paramètres de l\'application."</string>
   <string name="data_usage_app_restrict_dialog_title">Limiter les données en arrière-plan ?</string>
   <string name="data_usage_app_restricted">limitée</string>
-  <string name="data_usage_app_settings">Afficher paramètres application</string>
+  <string name="data_usage_app_settings">"Paramètres de l\'application"</string>
   <string name="data_usage_auto_sync_off_dialog">"Cela limite la consommation des données et l'utilisation de la batterie, mais vous devrez synchroniser manuellement chaque compte pour recueillir les informations récentes. Par ailleurs, vous ne recevrez pas de notifications en cas de mise à jour."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Désactiver synchro auto données ?</string>
   <string name="data_usage_auto_sync_on_dialog">"Les modifications que vous apportez à vos comptes sur le Web sont automatiquement copiées sur votre appareil.
@@ -714,7 +714,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="device_name_input_error">Impossible d\'enregistrer le nom de l\'appareil, veuillez le saisir à nouveau</string>
   <string name="device_name_input_hint">Entrez le nom du périphérique</string>
   <string name="device_name_usage_point">Les périphériques à proximité pourront voir le nom de votre appareil.</string>
-  <string name="device_picker">Sélectionner un appareil Bluetooth</string>
+  <string name="device_picker">Sélectionner un appareil</string>
   <string name="device_sd_memory">Carte SD</string>
   <string name="device_status">État</string>
   <string name="device_status_activity_title">État</string>
@@ -826,7 +826,6 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="emergency_tone_summary">Définir le comportement en cas d\'appel d\'urgence</string>
   <string name="emergency_tone_title">Sonnerie d\'urgence</string>
   <string name="empty_list_msg">"Aucune application tierce n'est installée."</string>
-  <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">Débogage USB</string>
   <string name="enable_adb_summary">Mode débogage lorsqu\'un câble USB est connecté</string>
   <string name="enable_compatibility">Mettre l\'application à l\'échelle</string>
@@ -990,7 +989,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s et %2$s</string>
   <string name="keep_legacy_fingerprint">Conserver</string>
-  <string name="keep_screen_on">Rester éveillé</string>
+  <string name="keep_screen_on">Rester activé</string>
   <string name="keep_screen_on_summary">L\'écran ne se met jamais en veille lors du chargement</string>
   <string name="kernel_version">Version du noyau</string>
   <string name="key_settings">Paramètres des boutons</string>
@@ -1159,7 +1158,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="media_volume_title">Multimédia</string>
   <string name="medium_font">Moyenne</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Applis (données, multimédia)</string>
+  <string name="memory_apps_usage">Applications et données associées</string>
   <string name="memory_available">Disponible</string>
   <string name="memory_available_read_only">Disponible (en lecture seule)</string>
   <string name="memory_calculating_size">Calcul en cours…</string>
@@ -1168,9 +1167,9 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_dcim_usage">Images, vidéos</string>
   <string name="memory_downloads_usage">Téléchargements</string>
   <string name="memory_media_cache_usage">Données mises en cache</string>
-  <string name="memory_media_misc_usage">Divers</string>
+  <string name="memory_media_misc_usage">"Autres fichiers"</string>
   <string name="memory_media_usage">Support</string>
-  <string name="memory_music_usage">Audio (musique, sonneries, etc.)</string>
+  <string name="memory_music_usage">"Audio (musique, sonneries, podcasts, etc.)"</string>
   <string name="memory_size">Espace total</string>
   <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
   <string name="menu_cancel">Annuler</string>
@@ -1257,8 +1256,8 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
   <string name="other_relative">Autres autorisations</string>
   <string name="overlay_display_devices_title">Simuler affichage secondaire</string>
-  <string name="owner_info_settings_edit_text_hint">Saisissez le texte à afficher sur l\'écran de verrouillage</string>
-  <string name="owner_info_settings_title">Informations du propriétaire</string>
+  <string name="owner_info_settings_edit_text_hint">"Exemple : l\'Android de Jean"</string>
+  <string name="owner_info_settings_title">"Message sur écran verrouillé"</string>
   <string name="packages_subtitle">Modules inclus</string>
   <string name="password_guard">Sécurité</string>
   <string name="percentage">%d%%</string>
@@ -1279,7 +1278,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="pico_voice_summary_male">Homme</string>
   <string name="picture_source">Source photo</string>
   <string name="ping_test_label">Effectuer un test de ping</string>
-  <string name="please_select_phase2">Authentification phase 2</string>
+  <string name="please_select_phase2">Authentification étape 2</string>
   <string name="please_type_passphrase">Entrez le mot de passe Wi-Fi</string>
   <string name="pointer_location">Emplacement du curseur</string>
   <string name="pointer_location_summary">Afficher les interactions tactiles à l\'écran</string>
@@ -1416,7 +1415,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="recognizer_settings_title">Recherche vocale</string>
   <string name="recognizer_title">Saisie vocale</string>
   <string name="recompute_size">Calcul de la taille…</string>
-  <string name="regulatory_information">Infos réglementaires</string>
+  <string name="regulatory_information">"Réglementations"</string>
   <string name="remove_account_failed">"Ce compte est requis par certaines applications. Vous ne pouvez le supprimer qu'en rétablissant la configuration d'usine de l\'appareil (ce qui supprime toutes vos données personnelles) dans Paramètres > Sauvegarde et réinitialisation."</string>
   <string name="remove_account_label">Supprimer le compte</string>
   <string name="remove_device_admin">Désactiver</string>
@@ -1572,7 +1571,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="security_settings_summary">Définir les paramètres de l\'option Ma position et de verrouillage</string>
   <string name="security_settings_title">Sécurité</string>
   <string name="select_all">Tout sélectionner</string>
-  <string name="select_application">Sélectionner une application</string>
+  <string name="select_application">Sélectionner une appli</string>
   <string name="select_device_admin_msg">Administrateurs de l\'appareil</string>
   <string name="selinux_status">État SELinux</string>
   <string name="selinux_status_disabled">Désactivé</string>
@@ -1844,7 +1843,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_off_title">Aucun</string>
   <string name="unlock_set_unlock_password_summary">Entrer 4 caractères ou plus pour déverrouiller l\'appareil</string>
   <string name="unlock_set_unlock_password_title">Mot de passe</string>
-  <string name="unlock_set_unlock_pattern_summary">Tracer un motif simple pour déverrouiller l\'appareil</string>
+  <string name="unlock_set_unlock_pattern_summary">Tracer un schéma simple pour déverrouiller l\'appareil</string>
   <string name="unlock_set_unlock_pattern_title">Schéma</string>
   <string name="unlock_set_unlock_pin_summary">Entrer 4 caractères ou plus pour déverrouiller l\'appareil</string>
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
@@ -1858,8 +1857,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="usage_stats_label">Données statistiques</string>
   <string name="usage_time_label">Temps d\'utilisation</string>
   <string name="usage_type_audio">Audio</string>
-  <string name="usage_type_cpu">UC - Durée totale</string>
-  <string name="usage_type_cpu_foreground">UC - Premier plan</string>
+  <string name="usage_type_cpu">Processeur - Durée totale</string>
+  <string name="usage_type_cpu_foreground">Processeur - Premier plan</string>
   <string name="usage_type_data_recv">Données reçues</string>
   <string name="usage_type_data_send">Données envoyées</string>
   <string name="usage_type_gps">GPS</string>
@@ -1882,7 +1881,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="usb_ptp_summary">"Permet de transférer des photos à l'aide du logiciel photo et de transférer des fichiers sur les ordinateurs non compatibles avec le protocole MTP."</string>
   <string name="usb_ptp_title">Appareil photo (PTP)</string>
   <string name="usb_tethering_active_subtext">Partage de connexion en cours</string>
-  <string name="usb_tethering_available_subtext">Connexion USB établie, cochez l\'option adéquate pour partager la connexion.</string>
+  <string name="usb_tethering_available_subtext">Câble USB connecté : activez le partage de connexion.</string>
   <string name="usb_tethering_button_text">Via USB</string>
   <string name="usb_tethering_errored_subtext">Erreur liée au partage de connexion via USB</string>
   <string name="usb_tethering_storage_active_subtext">"Impossible de partager la connexion lorsqu'une mémoire de stockage USB est utilisée."</string>
@@ -2196,7 +2195,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
 Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes…</string>
   <string name="wifi_setup_detail">Infos réseau</string>
-  <string name="wifi_setup_eap_not_supported">"Vous ne pouvez pas configurer de connexion Wi-Fi EAP lors de l'installation. Une fois celle-ci effectuée, vous pourrez le faire dans Paramètres &gt; Sans fil et réseaux."</string>
+  <string name="wifi_setup_eap_not_supported">"Impossible de paramétrer de connexion Wi-Fi EAP lors de la configuration. Une fois celle-ci effectuée, vous pourrez le faire via Paramètres > Sans fil et réseaux."</string>
   <string name="wifi_setup_forget">Supprimer</string>
   <string name="wifi_setup_next">Suivant</string>
   <string name="wifi_setup_not_connected">Non connecté</string>
@@ -2217,7 +2216,7 @@ Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</
   <string name="wifi_setup_title_connected_network">Connecté au réseau Wi-Fi %s</string>
   <string name="wifi_setup_title_connecting_network">Connexion au réseau Wi-Fi %s…</string>
   <string name="wifi_setup_title_editing_network">Se connecter au réseau Wi-Fi %s</string>
-  <string name="wifi_setup_wizard_title">Sélectionner le Wi-Fi</string>
+  <string name="wifi_setup_wizard_title">"Sélectionner un réseau Wi‑Fi"</string>
   <string name="wifi_setup_wps">Configuration auto (WPS)</string>
   <string name="wifi_share">Partager le Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Désactiver le partage Wi-Fi</string>
@@ -2257,7 +2256,7 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
 
 La configuration de l\'appareil peut générer une forte activité sur le réseau."</string>
   <string name="wifi_speed">Vitesse de connexion</string>
-  <string name="wifi_ssid">SSID du réseau</string>
+  <string name="wifi_ssid">Nom du réseau</string>
   <string name="wifi_starting">Activation du Wi-Fi…</string>
   <string name="wifi_state_disabled">Désactivé</string>
   <string name="wifi_state_disabling">Désactivation</string>
@@ -2388,7 +2387,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="notification_listener_security_warning_summary">%1$s pourra lire toutes les notifications publiées par le système ou toute application installée. Ces notifications peuvent comporter des informations personnelles, telles que des noms de contacts et le texte de messages qui vous ont été envoyés. L\'application pourra également masquer ces notifications ou sélectionner les boutons d\'action qu\'elles contiennent.</string>
   <string name="wifi_scan_always_available">Recherche toujours disponible</string>
   <string name="wifi_scan_always_available_summary">Autoriser le service de localisation de Google et les autres applications à rechercher des réseaux, même si le Wi-Fi est désactivé</string>
-  <string name="wifi_install_credentials">Installer les certificats</string>
+  <string name="wifi_install_credentials">Installer des certificats</string>
   <string name="wifi_scan_notify_text_location_on">Pour améliorer la précision et à d\'autres fins, le service de localisation de Google et d\'autres applications peuvent rechercher des réseaux Wi-Fi à proximité, même lorsque le Wi-Fi est désactivé. Vous pouvez modifier ce paramètre dans Options avancées &gt; Recherche toujours disponible.</string>
   <string name="wifi_scan_notify_text_location_off">Les applications peuvent rechercher des réseaux à proximité, même lorsque le Wi-Fi est désactivé. Vous pouvez modifier ce paramètre dans Avancé &gt; Recherche toujours disponible.</string>
   <string name="wifi_scan_notify_remember_choice">Ne plus afficher</string>
@@ -2438,14 +2437,14 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="manage_mobile_plan_title">Gérer le forfait mobile</string>
   <string name="mobile_unknown_sim_operator">Opérateur SIM inconnu</string>
   <string name="mobile_no_provisioning_url">Aucun site Web de configuration connu pour %1$s</string>
-  <string name="mobile_insert_sim_card">Veuillez insérer une carte SIM, puis redémarrer.</string>
+  <string name="mobile_insert_sim_card">"Insérez la carte SIM, puis redémarrez."</string>
   <string name="mobile_connect_to_internet">Connectez-vous à internet.</string>
   <string name="enable_service_title">Utiliser %1$s ?</string>
   <string name="capabilities_list_title">%1$s doit pouvoir :</string>
   <string name="capability_title_receiveAccessibilityEvents">Observer vos actions</string>
   <string name="capability_desc_receiveAccessibilityEvents">Recevoir des notifications lorsque vous interagissez avec une application.</string>
   <string name="disable_service_title">Arrêter %1$s ?</string>
-  <string name="disable_service_message">Si vous appuyez sur \"OK\", cela interrompt %1$s.</string>
+  <string name="disable_service_message">Si vous appuyez sur \"OK\", %1$s sera interrompu..</string>
   <string name="user_restrictions_title">Limitations accès applis et contenu</string>
   <string name="user_rename">RENOMMER</string>
   <string name="app_restrictions_custom_label">Définir des restrictions d\'applis</string>
@@ -2820,9 +2819,9 @@ et lancer le logiciel."</string>
   <string name="music_mi_effect_summary">"Toujours utiliser lors l'utilisation d'écouteurs"</string>
   <string name="preferred_sms_title">Application SMS par défaut</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
-  <string name="high_performance_title">Benchmark détecté. Mode Performances recommandé</string>
-  <string name="high_performance_notif_title">Mode performance actif</string>
-  <string name="high_performance_notif_summary">"Le mode performance désactive les contrôles de température ainsi que les limitations de consommation de batterie, votre appareil étant alors à sa puissance maximale. Cela peut faire chauffer votre appareil et réduire son autonomie."</string>
+  <string name="high_performance_title">Benchmark détecté. Mode performances recommandé</string>
+  <string name="high_performance_notif_title">Mode performances actif</string>
+  <string name="high_performance_notif_summary">"Le mode performances désactive les contrôles de température ainsi que les limitations de consommation de batterie, votre appareil étant alors à sa puissance maximale. Cela peut faire chauffer votre appareil et réduire son autonomie."</string>
   <string name="dirac_mode_general_earbuds">Écouteurs standards</string>
   <string name="dirac_mode_general_inear">Intra-aur. standards</string>
   <string name="dirac_mode_piston_1">Mi Piston-1</string>
@@ -3161,7 +3160,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
   <string name="battery_desc_flashlight">Batterie utilisée par la lampe de poche</string>
   <string name="battery_desc_overcounted">Consommation surestimée</string>
   <string name="battery_desc_unaccounted">Autres utilisations de la batterie</string>
-  <string name="battery_msg_unaccounted">"L'utilisation de la batterie est une approximation de la consommation d'énergie et n'inclut pas toutes les sources de déchargement de la batterie. La catégorie \"Autres utilisations\" représente la différence entre le calcul approximatif de la consommation d'énergie et le niveau de déchargement réel de la batterie."</string>
+  <string name="battery_msg_unaccounted">"L\'utilisation de la batterie est une approximation de la consommation d\'énergie et n\'inclut pas toutes les sources de décharge de la batterie. La catégorie \"Autres utilisations\" représente la différence entre le calcul approximatif de la consommation d\'énergie et le niveau de décharge réel de la batterie."</string>
   <string name="battery_saver">Économiseur de batterie</string>
   <string name="battery_saver_turn_on_automatically_never">Jamais</string>
   <string name="battery_saver_turn_on_automatically_pct">à %1$d%% de batterie</string>
@@ -3174,7 +3173,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
 Des signaux Bluetooth basse consommation sont utilisés à cet effet."</string>
   <string name="bluetooth_empty_list_user_restricted">"Vous n'êtes pas autorisé à modifier les paramètres Bluetooth."</string>
   <string name="bluetooth_is_disconnect_question">"Déconnecter l'appareil \"%1$s\" ?"</string>
-  <string name="bluetooth_is_visible_message">\"%1$s\" est visible par les appareils à proximité avec le Bluetooth activé.</string>
+  <string name="bluetooth_is_visible_message">\"%1$s\" est visible par les appareils à proximité dont le Bluetooth a été activé.</string>
   <string name="bluetooth_pairing_accept_all_caps">ASSOCIER</string>
   <string name="bluetooth_pairing_dialog_contants_request">"\"%1$s\" requiert l'accès à vos contacts et à l'historique de vos appels."</string>
   <string name="bluetooth_pairing_dialog_paring_request">"\"%1$s\" requiert l'association avec le Bluetooth. Il aura alors accès aux contacts et à l'hist. des appels."</string>
@@ -3239,7 +3238,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
   <string name="data_usage_menu_allow_background">Autor. données arrière-plan</string>
   <string name="data_usage_menu_cellular_networks">Réseaux mobiles</string>
   <string name="data_usage_menu_hide_ethernet">Masquer conso Ethernet</string>
-  <string name="data_usage_menu_hide_wifi">Masquer conso données  e-mail</string>
+  <string name="data_usage_menu_hide_wifi">Masquer conso données Wi-Fi</string>
   <string name="data_usage_menu_sim_cards">Cartes SIM</string>
   <string name="date_time_24hour_title">Format 24 heures</string>
   <string name="date_time_date_format_title">Format de la date</string>
@@ -3250,7 +3249,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
   <string name="default_sound">Son par défaut</string>
   <string name="device_feedback">Envoyer commentaires sur appareil</string>
   <string name="device_reset_title">"Réinitialiser l'appareil"</string>
-  <string name="dial_pad_tones_title">Tonalités du clavier</string>
+  <string name="dial_pad_tones_title">"Tonalités du numéroteur"</string>
   <string name="disabled_because_no_backup_security">"Pour continuer, vous devez tout d'abord verrouiller l'écran."</string>
   <string name="display_auto_rotate_rotate">"Faire pivoter le contenu affiché à l'écran"</string>
   <string name="display_auto_rotate_stay_in_current">"Conserver l'orientation actuelle"</string>
@@ -3261,7 +3260,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
   <string name="dock_audio_media_enabled">Audio des contenus multimédias seulement</string>
   <string name="dock_audio_media_title">Sons haut-parleurs sta. accueil</string>
   <string name="docking_sounds_title">"Sons de la station d'accueil"</string>
-  <string name="doze_summary">"Activer l'écran si l'appareil est déplacé ou si une notification arrive"</string>
+  <string name="doze_summary">"Activer l\'écran lors de la prise en main de l\'appareil ou de la réception de notifications"</string>
   <string name="doze_title">Affichage en mode Veille</string>
   <string name="emergency_tone_alert">Alerte</string>
   <string name="emergency_tone_silent">Mode silencieux</string>
@@ -3269,26 +3268,26 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
   <string name="enable_quick_setting">Afficher dans la fenêtre de configuration rapide</string>
   <string name="enable_service_encryption_warning">"Si vous activez %1$s, votre appareil n'utilisera pas le verrouillage de l'écran pour améliorer le chiffrement des données."</string>
   <string name="enable_service_password_reason">"Vous devez confirmer le mot de passe, car l'activation du service %1$s influe sur le chiffrement des données."</string>
-  <string name="enable_service_pattern_reason">"Vous devez confirmer le motif, car l'activation du service %1$s influe sur le chiffrement des données."</string>
+  <string name="enable_service_pattern_reason">"Vous devez confirmer le schéma, car l'activation du service %1$s influe sur le chiffrement des données."</string>
   <string name="enable_service_pin_reason">"Vous devez confirmer le code PIN, car l'activation du service %1$s influe sur le chiffrement des données."</string>
   <string name="encrypt_dont_require_password">Non, merci</string>
   <string name="encrypt_dont_require_pattern">Non, merci</string>
   <string name="encrypt_dont_require_pin">Non, merci</string>
   <string name="encrypt_require_password">"Exiger un mot de passe pour démarrer l'appareil"</string>
-  <string name="encrypt_require_pattern">"Exiger un motif pour démarrer l'appareil"</string>
+  <string name="encrypt_require_pattern">"Exiger un schéma pour démarrer l'appareil"</string>
   <string name="encrypt_require_pin">"Exiger un code PIN pour démarrer l'appareil"</string>
   <string name="encrypt_talkback_dialog_message_password">"Lorsque vous saisissez votre mot de passe pour démarrer cet appareil, les services d'accessibilité comme %1$s ne sont pas disponibles."</string>
-  <string name="encrypt_talkback_dialog_message_pattern">"Lorsque vous dessinez votre motif pour démarrer cet appareil, les services d'accessibilité comme %1$s ne sont pas disponibles."</string>
+  <string name="encrypt_talkback_dialog_message_pattern">"Lorsque vous dessinez votre schéma pour démarrer cet appareil, les services d\'accessibilité comme %1$s ne sont pas disponibles."</string>
   <string name="encrypt_talkback_dialog_message_pin">"Lorsque vous saisissez votre code PIN pour démarrer cet appareil, les services d'accessibilité comme %1$s ne sont pas disponibles."</string>
   <string name="encrypt_talkback_dialog_require_password">Exiger le mot de passe ?</string>
-  <string name="encrypt_talkback_dialog_require_pattern">Exiger le motif ?</string>
+  <string name="encrypt_talkback_dialog_require_pattern">Exiger le schéma ?</string>
   <string name="encrypt_talkback_dialog_require_pin">Exiger le code PIN ?</string>
   <string name="encryption_continue_button">Continuer</string>
   <string name="encryption_interstitial_header">Chiffrement</string>
   <string name="encryption_interstitial_message_password">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du mot de passe avant le démarrage. L'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré. 
 
 Cette fonctionnalité permet de protéger les données en cas de perte ou de vol de l'appareil."</string>
-  <string name="encryption_interstitial_message_pattern">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du motif avant le démarrage. L'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré. 
+  <string name="encryption_interstitial_message_pattern">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du schéma avant le démarrage. L'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré. 
 
 Cette fonctionnalité permet de protéger les données en cas de perte ou de vol de l'appareil."</string>
   <string name="encryption_interstitial_message_pin">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du code PIN avant le démarrage. Dans ce cas, l'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré. 
@@ -3296,7 +3295,7 @@ Cette fonctionnalité permet de protéger les données en cas de perte ou de vol
 Cette fonctionnalité permet de protéger les données en cas de perte ou de vol de l'appareil."</string>
   <string name="enhanced_4g_lte_mode_summary">Utiliser les données LTE pour améliorer les appels et les communications (recommandé)</string>
   <string name="enhanced_4g_lte_mode_title">Mode LTE 4G avancé</string>
-  <string name="enter_pattern">Pour lancer Android, dessinez votre motif.</string>
+  <string name="enter_pattern">Pour lancer Android, dessinez votre schéma.</string>
   <string name="enter_pin">Pour lancer Android, saisissez votre code PIN.</string>
   <string name="experimental_preference">(Expérimental)</string>
   <string name="extreme_threats_summary">Recevoir alertes pour menaces extrêmes à la vie et aux biens</string>
@@ -3312,15 +3311,15 @@ Cette fonctionnalité permet de protéger les données en cas de perte ou de vol
   <string name="install_unknown_applications_title">"Vous permet d'installer applis de sources autres que Google Play."</string>
   <string name="keywords_accounts">compte</string>
   <string name="keywords_app">RAM</string>
-  <string name="keywords_battery">alimentation</string>
+  <string name="keywords_battery">"consommation batterie charge"</string>
   <string name="keywords_date_and_time">horloge</string>
   <string name="keywords_display">écran écran tactile</string>
   <string name="keywords_display_auto_brightness">réduire la luminosité écran écran tactile</string>
   <string name="keywords_display_brightness_level">réduire la luminosité écran écran tactile</string>
-  <string name="keywords_display_cast_screen">projet</string>
+  <string name="keywords_display_cast_screen">"projeter caster"</string>
   <string name="keywords_display_font_size">taille du texte</string>
   <string name="keywords_display_wallpaper">arrière-plan</string>
-  <string name="keywords_factory_data_reset">effacer supprimer</string>
+  <string name="keywords_factory_data_reset">"réinitialiser supprimer restaurer effacer"</string>
   <string name="keywords_home">"lanceur d'applications"</string>
   <string name="keywords_keyboard_and_ime">texte correction corriger son vibreur auto langue geste suggérer suggestion thème terme choquant type emoji</string>
   <string name="keywords_location">à proximité historique des positions mise à jour de la position</string>
@@ -3333,7 +3332,7 @@ Cette fonctionnalité permet de protéger les données en cas de perte ou de vol
   <string name="keywords_sounds_and_notifications_interruptions">ne pas déranger interrompre interruption pause</string>
   <string name="keywords_spell_checker">orthographe</string>
   <string name="keywords_storage">espace disque disque dur</string>
-  <string name="keywords_text_to_speech_output">débit langue par défaut parler parole</string>
+  <string name="keywords_text_to_speech_output">"débit langue valeur par défaut parler discuter tts accessibilité lecteur aveugle"</string>
   <string name="keywords_users">limitation limiter limité</string>
   <string name="keywords_voice_input">détecteur saisie voix parler langue mains libres main libre reconnaissance terme choquant historique audio casque bluetooth</string>
   <string name="keywords_wifi">wifi wi-fi réseau connexion</string>
@@ -3375,7 +3374,7 @@ Cette fonctionnalité permet de protéger les données en cas de perte ou de vol
   <string name="mem_use_zram_type">Échange ZRam</string>
   <string name="network_operators_settings">Opérateurs de réseaux</string>
   <string name="network_scorer_change_active_dialog_text">Utiliser %1$s au lieu de %2$s pour gérer vos connexions réseau ?</string>
-  <string name="network_scorer_change_active_dialog_title">"Changer d'assistant  e-mail ?"</string>
+  <string name="network_scorer_change_active_dialog_title">"Changer d'assistant Wi-Fi ?"</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Utiliser %s pour gérer vos connexions réseau ?</string>
   <string name="nfc_more_title">Plus...</string>
   <string name="nfc_payment_favor_foreground">"Privilégier l'application au premier plan"</string>
@@ -3409,7 +3408,7 @@ Cette fonctionnalité permet de protéger les données en cas de perte ou de vol
   <string name="preferred_network_offload_footer">"La désactivation de la diffusion du nom du réseau empêche les tiers d'accéder aux infos sur le réseau."</string>
   <string name="preferred_network_offload_header">Désactiver diffusion nom réseau</string>
   <string name="preferred_network_offload_popup">La désactivation de la diffusion du nom du réseau bloque la connexion automatique aux réseaux masqués.</string>
-  <string name="preferred_network_offload_title">Déchargement réseau préféré</string>
+  <string name="preferred_network_offload_title">"Délestage réseau préféré"</string>
   <string name="preferred_network_type_summary">LTE (recommandé)</string>
   <string name="preferred_network_type_title">Type de réseau préféré</string>
   <string name="profile_owner_add_title">Activer le gestionnaire de profil ?</string>
@@ -3423,7 +3422,7 @@ Cette fonctionnalité permet de protéger les données en cas de perte ou de vol
   <string name="ring_volume_option_title">Volume de la sonnerie</string>
   <string name="running_processes_header_apps_prefix">Applications</string>
   <string name="running_processes_header_cached_prefix">En cache</string>
-  <string name="running_processes_header_footer">Utilisation de la mémoire RAM par les applications</string>
+  <string name="running_processes_header_footer">Utilisation de la RAM par les applications</string>
   <string name="running_processes_header_free_prefix">Disponible</string>
   <string name="running_processes_header_ram">%1$s de mémoire RAM</string>
   <string name="running_processes_header_system_prefix">Système</string>
@@ -3524,7 +3523,7 @@ Procédez comme suit :
   <string name="vibrate_on_touch_title">Vibrer au toucher</string>
   <string name="voice_input_settings">Paramètres de saisie vocale</string>
   <string name="voice_input_settings_title">Saisie vocale</string>
-  <string name="voice_interaction_security_warning">"Ce service de saisie vocale pourra contrôler en permanence les fonctionnalités vocales et utiliser en votre nom les applications commandées par la voix. Il provient de l'application %s. Autoriser l'utilisation de ce service ?"</string>
+  <string name="voice_interaction_security_warning">"Ce service de saisie vocale pourra effectuer une écoute vocale permanente et utiliser en votre nom les applications commandées par la voix. Il provient de l'application %s. Autoriser l'utilisation de ce service ?"</string>
   <string name="voice_interactor_preference_summary">Détection de mot clé et interaction totales</string>
   <string name="voice_recognizer_preference_summary">Reconnaissance vocale uniquement</string>
   <string name="voice_service_preference_section_title">Services de saisie vocale</string>
@@ -3536,26 +3535,26 @@ Procédez comme suit :
   <string name="wifi_aggressive_handover_summary">Si cette option est activée, le passage du Wi-Fi aux données mobiles est forcé lorsque le signal Wi-Fi est faible.</string>
   <string name="wifi_allow_scan_with_traffic">Toujours autoriser la détection de réseaux Wi-Fi en itinérance</string>
   <string name="wifi_allow_scan_with_traffic_summary">"Autoriser ou non la détection de réseaux Wi-Fi en itinérance en fonction de l'importance du trafic de données dans l'interface"</string>
-  <string name="wifi_assistant_card_message">"Connectez-vous automatiquement aux réseaux disponibles à l'aide d'un assistant  e-mail."</string>
+  <string name="wifi_assistant_card_message">"Connectez-vous automatiquement aux réseaux disponibles à l'aide d'un assistant Wi-Fi."</string>
   <string name="wifi_assistant_intro_setup">"Découvrez
-l'assistant  e-mail"</string>
+l'assistant Wi-Fi"</string>
   <string name="wifi_assistant_no_thanks">NON, MERCI</string>
   <string name="wifi_assistant_open_app">"OUVRIR L'APPLICATION"</string>
   <string name="wifi_assistant_setup">CONFIGURER</string>
-  <string name="wifi_assistant_title">Assistant  e-mail</string>
+  <string name="wifi_assistant_title">Assistant Wi-Fi</string>
   <string name="wifi_assistant_title_message">%1$s vous connecte automatiquement au meilleur réseau Wi-Fi disponible</string>
   <string name="wifi_automatically_manage_summary">"Laisser l'assistant %1$s gérer votre connexion Wi-Fi"</string>
-  <string name="wifi_automatically_manage_title">Gérer automatiquement le  e-mail</string>
+  <string name="wifi_automatically_manage_title">Gérer automatiquement le Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">"N'utiliser que réseaux dotés d'une connexion Internet stable"</string>
   <string name="wifi_frequency">Fréquence</string>
-  <string name="wifi_hotspot_checkbox_text">"Point d'accès  e-mail"</string>
-  <string name="wifi_hotspot_checkbox_text_summary">Utiliser connexion mob. pour fournir réseau  e-mail</string>
-  <string name="wifi_hotspot_configure_ap_text">Configuration point accès  e-mail</string>
+  <string name="wifi_hotspot_checkbox_text">"Point d'accès Wi-Fi"</string>
+  <string name="wifi_hotspot_checkbox_text_summary">Utiliser connexion mob. pour fournir réseau Wi-Fi</string>
+  <string name="wifi_hotspot_configure_ap_text">Configuration point accès Wi-Fi</string>
   <string name="wifi_hotspot_configure_ap_text_summary">"Point d'acc. Wi-Fi port. AndroidAP WPA2 PSK"</string>
   <string name="wifi_hotspot_connect">CONNECTER</string>
   <string name="wifi_hotspot_message">\"%1$s\" requiert une connexion en ligne pour autoriser la connexion au réseau.</string>
   <string name="wifi_hotspot_title">"Se connecter au point d'accès pour la connexion ?"</string>
-  <string name="wifi_limit_optimizations_summary">Limiter batterie util. par  e-mail</string>
+  <string name="wifi_limit_optimizations_summary">Limiter batterie util. par Wi-Fi</string>
   <string name="wifi_menu_write_to_nfc">Modifier le tag NFC</string>
   <string name="wifi_saved_access_points_label">Réseaux enregistrés</string>
   <string name="wifi_saved_access_points_titlebar">Réseaux enregistrés</string>

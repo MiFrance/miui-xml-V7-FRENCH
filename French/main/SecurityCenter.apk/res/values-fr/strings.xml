@@ -205,8 +205,8 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="power_cell">Veille GSM</string>
   <string name="power_phone">Appels vocaux</string>
   <string name="power_idle">Appareil inactif</string>
-  <string name="usage_type_cpu">UC - Durée totale</string>
-  <string name="usage_type_cpu_foreground">UC - Premier plan</string>
+  <string name="usage_type_cpu">Processeur - Durée totale</string>
+  <string name="usage_type_cpu_foreground">Processeur - Premier plan</string>
   <string name="usage_type_wake_lock">Maintenir activé</string>
   <string name="usage_type_wifi_running">Wi-Fi actif</string>
   <string name="usage_type_phone">Téléphone</string>
