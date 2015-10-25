@@ -621,11 +621,11 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Carte SIM inutilisable.</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">Votre carte SIM a été définitivement désactivée.
  Veuillez contacter votre opérateur de téléphonie mobile pour en obtenir une autre.</string>
-  <string name="lockscreen_transport_prev_description">Bouton du titre précédent</string>
-  <string name="lockscreen_transport_next_description">Bouton du titre suivant</string>
-  <string name="lockscreen_transport_pause_description">Bouton de pause</string>
-  <string name="lockscreen_transport_play_description">Bouton de lecture</string>
-  <string name="lockscreen_transport_stop_description">Bouton d\'arrêt</string>
+  <string name="lockscreen_transport_prev_description">"Piste précédente"</string>
+  <string name="lockscreen_transport_next_description">"Piste suivante"</string>
+  <string name="lockscreen_transport_pause_description">"Pause"</string>
+  <string name="lockscreen_transport_play_description">"Lire"</string>
+  <string name="lockscreen_transport_stop_description">"Arrêter"</string>
   <string name="emergency_calls_only">Urgences uniquement</string>
   <string name="lockscreen_network_locked_message">Réseau verrouillé</string>
   <string name="lockscreen_sim_puk_locked_message">La carte SIM est verrouillée par clé PUK.</string>
@@ -864,7 +864,7 @@ Voulez-vous la fermer ?</string>
   <string name="sms_control_yes">Autoriser</string>
   <string name="sms_control_no">Refuser</string>
   <string name="sim_removed_title">Carte SIM retirée</string>
-  <string name="sim_removed_message">Le réseau mobile ne sera pas disponible avant le redémarrage avec une carte SIM valide insérée.</string>
+  <string name="sim_removed_message">"Le réseau mobile ne sera pas disponible tant que vous n\'aurez pas redémarré l\'appareil avec une carte SIM valide."</string>
   <string name="sim_done_button">OK</string>
   <string name="sim_added_title">Carte SIM ajoutée.</string>
   <string name="sim_added_message">Redémarrez votre appareil pour accéder au réseau mobile.</string>
@@ -1091,7 +1091,7 @@ pour le compte \"%s"</string>
   <string name="default_audio_route_name_dock_speakers">Haut-parleurs de la station d\'accueil</string>
   <string name="default_audio_route_category_name">Système</string>
   <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
-  <string name="enablePin">Échec. Activer SIM / RUIM LOCK</string>
+  <string name="enablePin">"Échec de l\'opération. Veuillez activer le verrouillage de la carte SIM/RUIM."</string>
   <string name="accessibility_enabled">"L'accessibilité a bien été activée."</string>
   <string name="activitychooserview_choose_application_error">"Impossible de lancer l'application %s."</string>
   <string name="app_no_restricted_accounts">Les comptes des profils en accès limité ne sont pas compatibles avec cette application.</string>
@@ -1537,7 +1537,7 @@ Pour annuler l'épinglage, appuyez de manière prolongée sur \"Vue d'ensemble\"
   <string name="lock_to_app_title">"Utiliser l'épinglage d'écran ?"</string>
   <string name="lock_to_app_toast">"Pour annuler l'épinglage, appuyez de manière prolongée et simultanée sur \"Retour\" et \"Vue d'ensemble\"."</string>
   <string name="lock_to_app_toast_accessible">"Pour annuler l'épinglage, appuyez de manière prolongée sur \"Vue d'ensemble\"."</string>
-  <string name="lock_to_app_toast_locked">"L'écran est épinglé. L'annulation de l'épinglage n'est pas autorisée par votre organisation."</string>
+  <string name="lock_to_app_toast_locked">"L\'application est épinglée. L\'annulation de l\'épinglage n\'est pas autorisée sur cet appareil."</string>
   <string name="lock_to_app_unlock_password">"Demander le mot de passe avant d'annuler l'épinglage"</string>
   <string name="lock_to_app_unlock_pattern">"Demander le schéma de déverrouillage avant d'annuler l'épinglage"</string>
   <string name="lock_to_app_unlock_pin">"Demander le code PIN avant d'annuler l'épinglage"</string>
@@ -1623,8 +1623,8 @@ Pour annuler l'épinglage, appuyez de manière prolongée sur \"Vue d'ensemble\"
   <string name="select_year">Sélectionner une année</string>
   <string name="show_ime">Afficher mode de saisie</string>
   <string name="use_a_different_app">Utiliser une autre application</string>
-  <string name="user_owner_label">Applications personnelles</string>
-  <string name="user_switching_message">Passage à (%1$s) en cours…</string>
+  <string name="user_owner_label">"Personnel"</string>
+  <string name="user_switching_message">"Chargement du profil de %1$s..."</string>
   <string name="whichApplicationNamed">"Terminer l'action avec %1$s"</string>
   <string name="whichEditApplication">Modifier avec</string>
   <string name="whichEditApplicationNamed">Modifier avec %1$s</string>
@@ -1634,9 +1634,9 @@ Pour annuler l'épinglage, appuyez de manière prolongée sur \"Vue d'ensemble\"
   <string name="whichViewApplication">Ouvrir avec</string>
   <string name="whichViewApplicationNamed">Ouvrir avec %1$s</string>
   <string name="year_picker_description">Liste des années</string>
-  <string name="zen_mode_forever">Indéfiniment</string>
+  <string name="zen_mode_forever">"Jusqu\'à la désactivation"</string>
   <string name="usb_choose_notification_title">Appuyer pour modifier les options USB</string>
-  <string name="android_upgrading_fstrim">Optimisation de l\'espace de stockage.</string>
+  <string name="android_upgrading_fstrim">Optimisation de l\'espace de stockage...</string>
   <string name="media_info_audio_not_supported">"Échec de la lecture audio."</string>
   <string name="media_info_video_not_supported">"Cette vidéo n'est pas prise en charge."</string>
   <string name="global_action_reboot_summary">Fermez toutes les applications et redémarrer le téléphone</string>
