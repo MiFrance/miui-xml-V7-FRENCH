@@ -114,9 +114,9 @@
   <string name="title_system_app">Applis MIUI</string>
   <string name="toast_feedback_network_unavailable">"Pas de connexion réseau"</string>
   <string name="toast_network_unavailable">"Échec de l'envoi. Pas de connexion réseau."</string>
-  <string name="wifi_problem1">"Impossible de se connecter automatiquement à un WLAN sécurisé"</string>
-  <string name="wifi_problem2">Le signal du WLAN est faible</string>
-  <string name="wifi_problem3">Déconnecté du WLAN</string>
+  <string name="wifi_problem1">"Impossible de se connecter automatiquement à un Wi-Fi sécurisé"</string>
+  <string name="wifi_problem2">Le signal du Wi-Fi est faible</string>
+  <string name="wifi_problem3">Déconnecté du Wi-Fi</string>
   <string name="wifi_problem4">"Pas de connexion au réseau"</string>
   <string name="loading_problem_list">Chargement…</string>
   <string name="plus_one_submit_dialog_content">"Vos commentaires seront envoyés aux serveurs Mi avec les journaux d'erreurs."</string>
