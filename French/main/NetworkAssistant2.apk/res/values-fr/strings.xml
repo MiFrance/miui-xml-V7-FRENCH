@@ -383,10 +383,10 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="network_speed_for_apps_title">Détails sur la vitesse de connexion</string>
   <string name="network_speed_for_apps_total">Vitesse de connexion</string>
   
-  <!-- erreur <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string> -->
-  <!-- erreur <string name="notify_daily_limit_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string> -->
-  <!-- erreur <string name="notify_daily_limit_title">Limite de données quotidienne</string> -->
-  <!-- erreur <string name="notify_month_traffic_body">%s utilisés ce mois-ci. Appuyer pour configurer</string> -->
+  <!-- erreur1 <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string> -->
+  <!-- erreur2 <string name="notify_daily_limit_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string> -->
+  <!-- erreur3 <string name="notify_daily_limit_title">Limite de données quotidienne</string> -->
+  <!-- erreur4 <string name="notify_month_traffic_body">%s utilisés ce mois-ci. Appuyer pour configurer</string> -->
   <string name="notify_month_traffic_title">%s utilisés ce mois-ci</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s utilisés %2$s ce mois-ci</string>
   <string name="notify_weekly_traffic_body">Pour limiter l\'utilisation de données automatiquement, configurer votre forfait de données mensuelles.</string>
