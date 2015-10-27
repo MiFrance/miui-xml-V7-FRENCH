@@ -135,7 +135,7 @@
   <string name="context_menu_contact">Contact : %1$s</string>
   <string name="context_menu_add_calendar">Afficher dans le calendrier</string>
   <string name="context_menu_copy">Copier</string>
-  <string name="context_menu_copy_notice">Sélection copiée dans le presse papier</string>
+  <string name="context_menu_copy_notice">Sélection copiée dans le presse-papier</string>
   <string name="context_menu_new_contact">Nouveau contact</string>
   <string name="context_menu_send_mail">Envoyer un e-mail</string>
   <string name="context_menu_send_sms">Envoyer le message</string>

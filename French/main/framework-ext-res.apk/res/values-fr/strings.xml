@@ -54,11 +54,11 @@
 
 Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Boutons"</string>
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
-  <string name="force_exit_message">Forcer l\'arrêt de %1$s</string>
+  <string name="force_exit_message">L\'application \"%1$s\" a été fermée</string>
   <string name="force_exit_skip_message">"Ne peut fermer %1$s car requis par le système."</string>
   <string name="global_actions_airplane_mode">Mode avion</string>
   <string name="global_actions_reboot">Redémarrer</string>
-  <string name="global_actions_shutdown">Eteindre</string>
+  <string name="global_actions_shutdown">Éteindre</string>
   <string name="global_actions_silent_mode">Mode silencieux</string>
   <string name="handy_mode_enter_dlg_msg">Entrez dans le mode à une main ?</string>
   <string name="handy_mode_enter_dlg_title">Entrez dans le mode à une main</string>
@@ -79,7 +79,7 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="paste">Coller</string>
   <string name="reboot_confirm_title">Votre téléphone va redémarrer.</string>
   <string name="reboot_info_auto_boot">Votre téléphone va s\'allumer à %s selon votre plan d\'allumage automatique</string>
-  <string name="reboot_info_shutdown_alarm">Votré téléphone va s\'allumer et sonner à %s</string>
+  <string name="reboot_info_shutdown_alarm">Votre téléphone va s\'allumer et sonner à %s</string>
   <string name="reboot_progress">Redémarrer…</string>
   <string name="replace">Remplacer</string>
 
@@ -104,11 +104,10 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="unknown_caller">Numéro inconnu</string>
   <string name="handy_mode_summary">Pour fermer, touchez la zone assombrie</string>
   <string name="handy_mode_title">Mode à une main</string>
-
   <string name="perm_send_push_dspt">Autoriser les messages push Mi</string>
   <string name="perm_send_push_lab">Envoyer un message push</string>
-  <string name="permdesc_manageLocationPolicy">Autorise l\'appli à gérer les politiques de localisation et définir des règles spécifiques à chaque application.</string>
-  <string name="permdesc_bindJobService">Cette permission permet au système Android de lancer l\'application en arrière-plan à la demande.</string>
+  <string name="permdesc_manageLocationPolicy">Permet à l\'application de gérer les politiques de localisation et définir des règles spécifiques à chaque application.</string>
+  <string name="permdesc_bindJobService">Permet au système Android de lancer l\'application en arrière-plan à la demande.</string>
   <string name="permlab_manageLocationPolicy">Gérer la politique de localisation</string>
   <string name="permlab_bindJobService">"lance le service en arrière-plan de l\'application"</string>
   <string name="apply_password_action">Définir le mot de passe</string>

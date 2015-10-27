@@ -410,7 +410,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="confirm_email_address_dialog_message">Un code de vérification va être envoyé à: %s.</string>
   <string name="confirm_email_address_dialog_title">Confirmation de l\'adresse mail</string>
   <string name="confirm_phone_number_dialog_message">Un code de vérification va être envoyé à: %s.</string>
-  <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
+  <string name="confirm_phone_number_dialog_title">Confirmation du numéro de téléphone</string>
   <string name="continue_action">Continuer</string>
   <string name="delete_action">Supprimer</string>
   <string name="email_send_verify_code_prompt">"Envoyer un e-mail à %s

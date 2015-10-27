@@ -22,8 +22,8 @@
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
 
-  <string name="save_power_summary">Economie de batterie dans le temps spécifié</string>
-  <string name="save_power_title">Economiser la batterie</string>
+  <string name="save_power_summary">Économie de batterie dans le temps spécifié</string>
+  <string name="save_power_title">Économiser la batterie</string>
   <string name="reduce_the_receiving_frequencye_summary">Diminuer la fréquence de consultation en mode NPD</string>
   <string name="reduce_the_receiving_frequencye_title">Diminuer la fréquence de consultation</string>
   <string name="loading_from_remote">Recherche…</string>
@@ -858,7 +858,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="message_body_download_failed">Expiration lors du téléchargement du message</string>
   <string name="network_not_available">Connexion réseau indisponible</string>
   <string name="outbox_alert_description_auth_error">Cause : Erreur d\'authentification du serveur pendant la synchronisation de la boîte d\'envoi</string>
-  <string name="outbox_alert_description_http_error">Cause : Erreur HTTP error du serveur pendant la synchronisation de la boîte d\'envoi</string>
+  <string name="outbox_alert_description_http_error">Cause : Erreur HTTP du serveur pendant la synchronisation de la boîte d\'envoi</string>
   <string name="outbox_alert_description_provision_error">Cause : Erreur de provision du serveur pendant la synchronisation de la boîte d\'envoi</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Échec de validation du certificat serveur
 \u0009 (Vérifiez que le réglage est 'Synchro temps auto')"</string>

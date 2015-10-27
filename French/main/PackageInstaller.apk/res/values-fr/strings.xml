@@ -131,6 +131,6 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="button_text_next_step">Suivant</string>
   <string name="button_text_next_step_timer">Suivant (%d)</string>
   <string name="package_delete_confirm_step_1">Supprimer %s ?</string>
-  <string name="package_delete_confirm_step_2">Supprimer cette aplication peut rendre votre système instable.</string>
+  <string name="package_delete_confirm_step_2">Supprimer cette application peut rendre votre système instable.</string>
   <string name="package_delete_confirm_step_3">"Vous ne pourrez plus ouvrir cette application après l'avoir supprimée."</string>   
 </resources>

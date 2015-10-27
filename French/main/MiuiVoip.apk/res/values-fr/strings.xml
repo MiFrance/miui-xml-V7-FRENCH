@@ -50,8 +50,10 @@
   <string name="mx_activate_dlg_title">Activer Mi Voice</string>
   <string name="mx_activate_user_agreement_p1">"En utilisant ce service, vous acceptez les conditions de MIUI VoIP "</string>
   <string name="mx_btn_enable_now">Activer</string>
-  <string name="mx_choose_sim_dlg_title">Please choose phone number to activate Mi Voice</string>
+  <string name="mx_choose_sim_dlg_title">Veuillez choisir un numéro de téléphone pour activer Mi Voice</string>
+  <!-- à traduire 
   <string name="mx_dspt_provision">"MIUI VoIP lets you call other MIUI users by free. Your carrier may charge for your network traffic. VoIP is supported by Weihui. View Weihui's Private Policy"</string>
+  -->
   <string name="mx_dspt_provision_2">"MIUI VoIP vous permet d\'appeler d\'autres utilisateurs MIUI gratuitement. L\'utiliseur peut entraîner des frais opérateur. Un SMS peut être envoyé afin de vérifier votre numéro de téléphone. VoIP est supporté par Weihui. Voir la Politique de Confidentialité de Weihui"</string>
   <string name="mx_dspt_provision_3">"MIUI VoIP vous permet d\'appeler d\'autres utilisateurs MIUI gratuitement. L\'utiliseur peut entraîner des frais opérateur. Un SMS peut être envoyé afin de vérifier votre numéro de téléphone. VoIP est supporté par Weihui. Voir la Politique de Confidentialité de Weihui"</string>
   <string name="net_connect_fails">"Échec de connexion au réseau, vérifiez vos paramètres réseau"</string>
@@ -127,7 +129,7 @@ Vous pouvez basculer en appel GSM"</string>
   <string name="voip_call_switch_call_message">Passage en appel GSM, veuillez choisir un numéro de téléphone</string>
   <string name="voip_call_switch_call_title">Passage en appel GSM</string>
   <string name="voip_callee_offline">Votre correspondant est déconnecté</string>
-  <string name="voip_calling_too_much">Appels trop fréquents, veuillez essayez plus tard</string>
+  <string name="voip_calling_too_much">Appels trop fréquents, veuillez réessayer plus tard</string>
   <string name="voip_communication_break">Rupture de communication</string>
   <string name="voip_connecting_break">Rupture de connexion</string>
   <string name="voip_disabled">VoIP désactivé, veuillez l\'activer</string>

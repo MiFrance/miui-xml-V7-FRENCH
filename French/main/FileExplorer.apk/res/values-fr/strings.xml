@@ -241,8 +241,8 @@
   <string name="pan_settting">Paramètres KuaiPan</string>
   <string name="paused">En pause</string>
   <string name="port_range">Le port doit être compris dans l\'intervalle 1024–65535</string>
-  <string name="pull_to_signin">Glissez vers le bas pour vous connecter</string>
-  <string name="release_to_signin">Libérez pour vos connecter</string>
+  <string name="pull_to_signin">Tirer pour se connecter</string>
+  <string name="release_to_signin">Relâcher pour se connecter</string>
   <string name="rename_alert">"Si vous changez l'extension de ce fichier, vous ne serez peut-être plus en mesure de l'ouvrir."</string>
   <string name="rename_description">Changement de nom, veuillez patienter…</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>

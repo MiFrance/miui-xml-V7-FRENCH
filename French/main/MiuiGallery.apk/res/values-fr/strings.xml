@@ -451,8 +451,8 @@
   <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>
   <string name="set_lockscreen">Application du fond d\'écran…</string>
   <string name="set_recent_album">Définir en tant qu\'album récent</string>
-  <string name="set_screensaver_path_message">Les photos de cet album seront affichées sur l\'économiseur d\'écran.</string>
-  <string name="set_screensaver_path_message_if_only_charging">Les photos de cet album seront affichées sur l\'économisuer d\'écran lorsque votre appareil est en charge.</string>
+  <string name="set_screensaver_path_message">Les photos de cet album seront affichées sur l\'écran de veille.</string>
+  <string name="set_screensaver_path_message_if_only_charging">Les photos de cet album seront affichées sur l\'écran de veille lorsque votre appareil est en charge.</string>
   <string name="set_screensaver_path_title">Diaporama d\'écran de veille</string>
   <string name="set_wallpaper">Application du fond d\'écran…</string>
   <string name="settings">Paramètres</string>
@@ -722,7 +722,7 @@
   <string name="hybrid_network_access_denied">Accès réseau refusé</string>
   <string name="hybrid_network_unavaliable">"Échec de connexion au réseau"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Tirer pour rafraîchir…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Un instant…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Chargement…</string>
   <string name="hybrid_pull_to_refresh_release_label">Relâcher pour rafraîchir…</string>
   <string name="hybrid_service_unavailiable">Service indisponible</string>
   <string name="hybrid_try_again">Réessayer</string>

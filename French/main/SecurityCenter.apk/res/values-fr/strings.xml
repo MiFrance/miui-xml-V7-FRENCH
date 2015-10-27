@@ -16,7 +16,7 @@
   <string name="button_optimizer">OK</string>
   <string name="button_text_ignore">Ignorer</string>
   <string name="button_text_ignore_alert_title">Ignorer cette alerte ?</string>
-  <string name="empty_title_manual_item_white_list">Aucune exceptions</string>
+  <string name="empty_title_manual_item_white_list">Aucune exception</string>
   <string name="hints_scanning_text">Analyse…</string>
   <string name="hints_storage_free_size">%s disponibles</string>
   <string name="manual_item_white_list_title">Exceptions</string>
@@ -262,7 +262,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="month_report_share_loading">Un instant…</string>
   <string name="month_report_warning_dialog_description">"Pour consulter le rapport mensuel, activer cette fonction dans les préférences de l'app sécurité."</string>
   <string name="month_report_warning_dialog_positive">Activer le</string>
-  <string name="month_report_warning_dialog_title">Rapport de sécurité mensuel.</string>
+  <string name="month_report_warning_dialog_title">Rapport de sécurité mensuel</string>
   <string name="handle_text_system">Système</string>
   <string name="handle_text_memory">Mémoire</string>
   <string name="handle_text_cache">Cache</string>
@@ -667,7 +667,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="auto_clean_switch_on">Activé</string>
   <string name="auto_cleaner_open">Activer</string>
   <string name="boot_day_shutdown_day">L\'appareil s\'allumera le %1$dd à %2$s et s\'éteindra le %3$dd à %4$s</string>
-  <string name="boot_reminder">L\'appareil s\'allumera à l\'heure planifié</string>
+  <string name="boot_reminder">L\'appareil s\'allumera à l\'heure planifiée</string>
   <string name="boot_reminder_day">L\'appareil s\'allumera dans %1$dd %2$dh %3$dm</string>
   <string name="boot_reminder_day_hour">L\'appareil s\'allumera dans %1$dd %2$dh</string>
   <string name="boot_reminder_hour">L\'appareil s\'allumera dans %1$dh %2$dm</string>

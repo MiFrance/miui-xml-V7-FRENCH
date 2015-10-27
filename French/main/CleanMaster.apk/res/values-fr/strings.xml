@@ -230,7 +230,7 @@
   <string name="tips_of_operators_set">Ajuster la bande-passante automatiquement</string>
   <string name="tips_of_package_set">Définir votre plan de données et contrôler votre consommation</string>
   <string name="tips_of_traffic_notification">Afficher les statistiques sur les données mobiles dans les notifications</string>
-  <string name="tips_of_traffic_pack_threshold">"Achetez des données supplémentaires lorsque vous atteignez vos quota de données"</string>
+  <string name="tips_of_traffic_pack_threshold">"Achetez des données supplémentaires lorsque vous atteignez votre quota de données"</string>
   <string name="tips_of_virus_scan">Recherchez des virus régulièrement sur votre appareil pour le maintenir sécurisé</string>
   <string name="title_auto_cleaner">Nettoyer automatiquement ?</string>
   <string name="title_delete_cache">Supprimer les données du cache ?</string>
