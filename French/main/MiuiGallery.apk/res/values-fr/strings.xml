@@ -65,6 +65,7 @@
   <string name="androidesk_wallpapers">Fond d\'écran Android</string>
   <string name="aperture">"Ouverture "</string>
   <string name="app_name">Galerie</string>
+  <string name="app_name_edit_picture">Modifier l\'image</string>
   <string name="app_name_view_picture">Voir l\'image</string>
   <string name="apply">Appliquer</string>
   <string name="appwidget_empty_text">Aucune photo</string>
@@ -114,6 +115,7 @@
   <string name="by_sms">SMS</string>
   <string name="by_others">Autres</string>
   <string name="calculated_pictures_time_tip">Photos triées du %1$s jusqu\'à maintenant. Les photos restantes seront triées progressivement. Pour accélerer ce traitement, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Photos triées du %1$s jusqu\'à maintenant. Les photos restantes seront triés progressivement.</string>
   <string name="calculated_pictures_time_tip_for_vip">Photos triées du %1$s jusqu\'à maintenant. Les photos restantes seront bientôt triées.</string>
   <string name="camera_connected">Appareil photo connecté.</string>
   <string name="camera_disconnected">Appareil photo déconnecté.</string>
@@ -777,7 +779,7 @@
   <string name="network_connected_rescan">Échec de connexion au réseau</string>
   <string name="no_secret_photo">Aucune photo masquée</string>
   <string name="paint_brush">Dessiner</string>
-  <string name="paint_highlight">Surligner</string>
+  <string name="paint_highlight">Gribouiller</string>
   <string name="project_available_tip">Écran détecté</string>
   <string name="quotation">\"%s\"</string>
   <string name="return_to_top">Appuyer sur \"Photo\" pour revenir en haut</string>
@@ -791,7 +793,7 @@
   <string name="videos">" vidéos"</string>
   <string name="view_baby_album">Voir l\'album de bébé</string>
   <string name="view_baby_info">Modifier les informations du bébé</string>
-  <string name="paint_highlight_cancel_context">Enregistrer l\'image surlignée ?</string>
+  <string name="paint_highlight_cancel_context">Enregistrer l\'image gribouillée ?</string>
   <string name="paint_highlight_cancel_title">Abandonner les modifications</string>
   <string name="add_event">Ajouter un évènement</string>
   <string name="add_event_hint">Saisissez un libellé</string>
@@ -818,7 +820,5 @@
   <string name="invite_tip">"Partagez les photos de votre bébé"</string>
   <string name="invited_tip">Invité</string>
   <string name="is">Oui</string>
-  <string name="app_name_edit_picture">Modifier l\'image</string>
   <string name="byteShort">o</string>
-  <string name="calculated_pictures_time_tip_for_no_vip">Photos triées du %1$s jusqu\'à maintenant. Les photos restantes seront triés progressivement.</string>
 </resources>

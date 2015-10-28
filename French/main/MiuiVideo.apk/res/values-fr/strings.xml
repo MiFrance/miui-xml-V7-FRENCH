@@ -493,6 +493,7 @@
      <string name="downloading_app_plugin">Téléchargement de %1$s…</string>
 	 <string name="empty_data">Erreur de chargement</string>
 	 <string name="hint_apk_download">Installer cette application</string>
+     <string name="hint_apk_download_format">Installer l\'application \"%1$s\"</string>
 	 <string name="hint_apk_install">Installer cette application</string>
 	 <string name="hint_apk_text_update">Installer la mise à jour pour %1$s ?</string>
 	 <string name="hint_apk_title_update">Mise à jour disponible pour %1$s</string>
@@ -574,5 +575,4 @@
   <string name="empty_tv_exiting">Sortie…</string>
   <string name="download">Télécharger</string>
   <string name="episode_name_format">Ep. %1$s</string>
-  <string name="hint_apk_download_format">Installer l\'application \"%1$s\"</string>
 </resources>

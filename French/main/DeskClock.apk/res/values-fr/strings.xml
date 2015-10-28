@@ -98,6 +98,7 @@
   <string name="shutdown_alarm_enable_summary">Activer l\'arrêt d\'alarme</string>
   <string name="shutdown_alarm_title">Extinction d\'alarme</string>
   <string name="silent_alarm_summary">Silencieuse</string>
+  <string name="skip_alarm_once_hint">Couper une seule fois pour %s</string>
   <string name="snooze_confirm_cancel">Annuler le rappel</string>
   <string name="snooze_duration_title">Intervalle de rappel</string>
   <string name="start">Départ</string>
@@ -116,6 +117,10 @@
   <string name="timer_start_alarm">Minuteur</string>
   <string name="timer_title">Minuteur</string>
   <string name="timezone_exist_error_message">Échec de l\'opération, le fuseau horaire semble déjà exister.</string>
+  <string name="today">Aujourd\'hui</string>
+  <string name="tomorrow">Demain</string>
+  <string name="turn_off_a_repeat_alarm">Désactiver une alarme récurrente</string>
+  <string name="turn_off_this_repeat_alarm">Désactiver cette alarme récurrente</string>
   <string name="volume_button_setting_summary">Définir les actions de ces boutons lorsqu\'ils sont utilisés pendant une alarme</string>
   <string name="volume_button_setting_title">Boutons de volume</string>
   <string name="workday_alarm_clock">Alarme pour les jours de travail</string>

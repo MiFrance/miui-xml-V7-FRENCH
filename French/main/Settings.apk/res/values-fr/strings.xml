@@ -176,7 +176,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="app_install_location_title">Emplacement d\'installation souhaité</string>
   <string name="app_name_label">Application</string>
   <string name="app_not_found_dlg_text">"L'application ne figure pas dans la liste des applications installées."</string>
-  <string name="app_notifications_switch_label">Afficher notifications</string>
+  <string name="app_notifications_switch_label">Notifications</string>
   <string name="app_process_limit_title">Limite processus arrière-plan</string>
   <string name="app_special_disable_dlg_text">Si vous désactivez une application intégrée, d\'autres applications peuvent avoir un comportement défaillant. Vos données seront également supprimées.</string>
   <string name="app_special_disable_dlg_title">Supprimer les données et désactiver l\'application ?</string>
