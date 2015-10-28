@@ -33,6 +33,8 @@
   <string name="bind_account_summary">Liez votre compte KuaiPan existant avec votre compte Mi</string>
   <string name="binded_accout_title">Compte KuaiPan</string>
   <string name="cancel">Annuler</string>
+  <string name="cancel_error">Suppression impossible, veuillez réessayer</string>
+  <string name="cancel_success">Suppression effectuée, tous les fichiers ont été déplacés dans /sdcard/fileexplorer/decryption</string>
   <string name="category_all">Tout</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -85,6 +87,9 @@
   <string name="decompress_title">Extraire</string>
   <string name="decompress_to">Extraire les fichiers vers…</string>
   <string name="decompress_to_here">Extraire ici</string>
+  <string name="decrypt">Retirer du dossier privé</string>
+  <string name="decrypt_error">"Echec du décodage"</string>
+  <string name="decrypting">Décodage…</string>
   <string name="delete_failed">Suppression échouée</string>
   <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
   <string name="delete_file_error">"Impossible de supprimer le fichier"</string>
@@ -98,6 +103,7 @@
   <string name="dialog_type_image">Images</string>
   <string name="dialog_type_text">Docs</string>
   <string name="dialog_type_video">Vidéos</string>
+  <string name="dir_not_support">"Ce dossier ne peut être rendu privé."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Dossier vide</string>
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
@@ -106,6 +112,9 @@
   <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de KuaiPan. Appuyez sur le lien ci-dessous pour plus de détails :</string>
   <string name="downloading">Téléchargement…</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
+  <string name="encrypt_error">"Echec de privatisation des fichiers, veuillez réessayer"</string>
+  <string name="encrypt_success">Tous les fichiers ont été rendus privés</string>
+  <string name="encrypting">Encodage…</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
   <string name="error_open_file_failed_no_app_found">Aucune application ne peut ouvrir ce fichier</string>
@@ -157,9 +166,11 @@
   <string name="loading">Chargement en cours…</string>
   <string name="local_image">Photos</string>
   <string name="local_music">Musique</string>
+  <string name="local_sticker_str">Téléchargé</string>
   <string name="local_video">Vidéo</string>
   <string name="login_reg_content">KuaiPan vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
   <string name="login_reg_content0">KuaiPan, votre cloud personnel</string>
+  <string name="make_private">Rendre privé</string>
   <string name="menu_item_cleanup">Nettoyage de fichiers</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Rechercher</string>
@@ -171,17 +182,30 @@
   <string name="migrate_announcement_msg">Si vous avez un compte vous pouvez y accéder dans les paramètres et préférences d\'accès</string>
   <string name="move_failed">Déplacement impossible</string>
   <string name="move_to">Déplacer vers…</string>
+  <string name="msg_set_password">Définir un mot de passe</string>
   <string name="multi_select_title">%1$s élément(s) sélectionné(s)</string>
   <string name="name_empty">Vous devez saisir un nom.</string>
   <string name="net_lose_connected">Réseau non disponible, impossible d\'obtenir la taille</string>
   <string name="networkView_notConnected">Aucun réseau disponible</string>
   <string name="new_folder_name">Nouveau dossier</string>
+  <string name="new_function">A propos des dossiers privés</string>
+  <string name="new_function_info">"Le dossier privé est une nouvelle fonctionnalité de MIUI.
+Vous pouvez encoder vos fichiers
+et les stockger dans un dossier sécurisé.
+
+Consultez la page d\'accueil pour en savoir plus."</string>
+  <string name="new_function_str">"Les étiquettes WeChat peuvent dorénavant être collectées automatiquement.
+Téléchargez-les quand vous le souhaitez
+et ne ratez plus les nouveautés!"</string>
+  <string name="new_function_title_str">A propos des étiquettes WeChat</string>
   <string name="no">Non</string>
   <string name="no_app_tags">Vide</string>
   <string name="no_enough_storage_indication">Pas assez d\'espace de stockage disponible, le collage a échoué. Veuillez supprimer les fichiers inutiles et essayer à nouveau, ou utilisez le Nettoyage de fichiers pour libérer de l\'espace.</string>
   <string name="no_enough_storage_title">Pas assez d\'espace de stockage disponible</string>
   <string name="no_file">Aucun fichier</string>
+  <string name="no_local_sticker_tip">"Impossible de trouver les étiquettes téléchargées. Consultez les étiquettes partagées par les fans de MIUI."</string>
   <string name="no_more_space">Pas d\'espace libre</string>
+  <string name="no_network_str">"Echec de connexion réseau. Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
   <string name="no_recent_files">Pas de fichiers récents</string>
   <string name="no_tasks">Aucune tâche</string>
   <string name="no_wifi">Aucun réseau Wi-Fi</string>
@@ -239,13 +263,25 @@
   <string name="operation_show_sys">Afficher les éléments cachés</string>
   <string name="operation_unfavorite">Supprimer des favoris</string>
   <string name="pan_settting">Paramètres KuaiPan</string>
+  <string name="partial_cancel_successful">"Echec de retrait de certains fichiers. Les autres fichiers ont été déplacés dans /sdcard/fileexplorer/decryption"</string>
+  <string name="partial_delete_failure">"Echec de retrait de certains fichiers, veuillez réessayer"</string>
+  <string name="partial_encrypt_success">"Echec de privatisation de certains fichiers, veuillez réessayer"</string>
+  <string name="partial_repair_done">Restauration des fichiers terminée</string>
   <string name="paused">En pause</string>
   <string name="port_range">Le port doit être compris dans l\'intervalle 1024–65535</string>
+  <string name="private_files">Privé</string>
+  <string name="private_folder">Dossier privé</string>
+  <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller l\'appareil ou pour désactiver le mode Enfant</string>   
   <string name="pull_to_signin">Tirer pour se connecter</string>
   <string name="release_to_signin">Relâcher pour se connecter</string>
   <string name="rename_alert">"Si vous changez l'extension de ce fichier, vous ne serez peut-être plus en mesure de l'ouvrir."</string>
   <string name="rename_description">Changement de nom, veuillez patienter…</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
+  <string name="repair_done">Restauré</string>
+  <string name="repair_error">"Echec de restauration"</string>
+  <string name="repair_file">Restaurer les fichiers encodés</string>
+  <string name="reset_password">Réinitialiser le mot de passe</string>
+  <string name="restoring">Restauration…</string>
   <string name="rlv_last_refreshing_time">Dernière mise à jour %1$s</string>
   <string name="rlv_loading_more">Un instant…</string>
   <string name="rlv_pull_to_refresh">Tirez pour rafraîchir</string>
@@ -298,6 +334,14 @@
   <string name="server_control_charset">Codage de transfert</string>
   <string name="server_control_settings">Paramètres</string>
   <string name="share_link_failed">"Échec de génération du lien."</string>
+  <string name="shared_sticker_network_permission_tip">"Echec de connexion réseau. Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
+  <string name="shared_sticker_page_no_file">"Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
+  <string name="shared_sticker_str">Partagés par les fans Mi</string>
+  <string name="shared_sticker_suffix">Etiquette sur %s</string>
+  <string name="shared_sticker_use_tip">"Vous pouvez envoyer des étiquettes enregistrées dans les dialogues WeChat de la même façon que les images.
+(les GIF animés peuvent également être ajoutés)."</string>
+  <string name="shared_sticker_use_tip_title">Comment utiliser les étiquettes</string>
+  <string name="shared_str">Partagé par %s</string>
   <string name="show_message">Le fichier ne peut pas être ouvert tant que le téléchargement n\'est pas terminé</string>
   <string name="sign_description">Connexion…</string>
   <string name="signin_error">Réseau actuellement indisponible, veuillez réessayer</string>
@@ -323,6 +367,8 @@
   <string name="tab_category">Parcourir</string>
   <string name="toast_file_not_can_read">Le fichier est illisible ou corrompu.</string>
   <string name="trans_task">Transfert par réseau</string>
+  <string name="transfer_done">Les fichiers ont été déplacés.</string>
+  <string name="transfer_private_data">Déplacement des fichiers privés à partir de la carte SD…</string>
   <string name="transing">Transfert</string>
   <string name="trash_box_capacity">Espace libre de la corbeille : %1$s</string>
   <string name="trash_box_link">Visitez <b>pan.xiaomi.com</b> pour vider la corbeille</string>
@@ -345,6 +391,7 @@
   <string name="user_guide_kuaipan_copy">Utilisez KuaiPan pour accéder à vos fichiers depuis plusieurs appareils</string>
   <string name="user_guide_other_version">Disponible sous Windows, Linux, Mac, iOS, Android et plus.</string>
   <string name="user_guide_upload_to_kuaipan">Copier et coller des fichiers sur KuaiPan</string>
+  <string name="user_not_login">Veuillez vous identifier</string>
   <string name="utf8_summary">Codage par défaut</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">En attente du réseau…</string>
@@ -353,6 +400,7 @@
   <string name="waiting">En attente…</string>
   <string name="wangpan_root_path">Mon disque</string>
   <string name="wechat_video">Vidéo au %s</string>
+  <string name="weixin_sticker_tag_str">Etiquettes WeChat</string>
   <string name="wifi_state">État du Wi-Fi</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
@@ -395,6 +443,7 @@
   <string name="share_box_receive">Reçu</string>
   <string name="file_not_exist">ficher non existant</string>
   <string name="open_file_failed">erreur lors de l\'ouverture</string>
+  <string name="open_private_folder">Création d\'un dossier privé…</string>
   <string name="menu_list_name">Menu</string>
   <string name="tools">OUTILS</string>
   <string name="category_type_meida">Multimédia</string>
@@ -436,10 +485,13 @@
   <string name="copy_file_to_kuaipan">Copier vers KuaiPan</string>
   <string name="file_already_downlaoded">Fichier enregistré dans \"%1$s\"</string>
   <string name="network_connect_confirm_des">KuaiPan requiert l\'accès à internet pour fonctionner correctement.</string>
+  <string name="network_spent_reminding">Ouvrir cette page utilisera consommera une partie de vos données mobiles.</string>
+  <string name="network_spent_reminding_title">Notification d\'utilisation de données</string>
   <string name="connect_network_setting_des">Me le rappeler lors d\'accès au réseau</string>
   <string name="connection_error">"Échec de connexion"</string>
   <string name="operate_confirm_in_3g">Utiliser le réseau mobile pour télécharger ce fichier volumineux ?</string>
   <string name="delete_dialog_button">Supprimer</string>
+  <string name="delete_error">"Echec de suppression des fichiers, veuillez réessayer"</string>
   <string name="mi_router_label">Routeur</string>
   <string name="usb_label">USB</string>
   <string name="no_display_file">"Impossible d'afficher %1$s"</string>
@@ -451,7 +503,6 @@
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments"</string>
   <string name="kuaipan_delete_guide_des">Supprimer le guide ?</string>
   <string name="yesterday">hier</string>
-  <string name="cancel_error">Suppression impossible, veuillez réessayer</string>
   
 <!--- à traduire 
   <string name="cancel_success">Removed successfully, all files moved to sdcard/fileexplorer/decryption</string>

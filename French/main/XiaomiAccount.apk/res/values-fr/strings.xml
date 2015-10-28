@@ -4,6 +4,7 @@
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
   <string name="account_learn_more_title">Créer un compte Mi</string>
+  <string name="account_limit_update_birthday">Désolé, nous ne pouvons pas prendre en compte votre requête actuellement.</string>
   <string name="account_dspt_provision2">En savoir plus</string>
   <string name="cloud_service_dspt">Synchronisez vos photos, contacts, notes, applis et plus sur tous vos appareils.</string>
   <string name="mi_account_dspt_provision">Connectez-vous à Mi Cloud et aux autres services Mi avec un seul compte.</string>
@@ -433,5 +434,4 @@ Veuillez saisir le code de vérification contenu dans le message"</string>
   <string name="update_recovery_info_dialog_message">Vous devez vérifier votre identité avant de mettre à jour %s.</string>
   <string name="update_recovery_info_dialog_title">Mise à jour de %s</string>
   <string name="vip_level_value">%d</string>
-  <string name="account_limit_update_birthday">Désolé, nous ne pouvons pas traiter votre demande pour le moment.</string>
 </resources>

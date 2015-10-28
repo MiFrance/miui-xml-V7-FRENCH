@@ -18,12 +18,14 @@
   <string name="sim_card_detection_info">Une carte SIM est requise pour créer un compte Mi.</string>
   <string name="sim_card_detecting">Détection de la carte SIM…</string>
   <string name="next">Suivant</string>
+  <string name="next_fingerprint">Suivant</string>
   <string name="sim_dectection_next">Continuer</string>
   <string name="shut_down">Éteindre</string>
   <string name="sim_redetection">Réessayer</string>
   <string name="logo_congratulation">Terminé !</string>
   <string name="congratulation_label">Et maintenant, profitez de MIUI7 :)</string>
   <string name="congratulation_next">Commencer à utiliser MIUI</string>
+  <string name="desc_fingerprint">Utilisez votre empreinte digitale pour déverrouiller votre appareil, valider vos achats avec Mi Pay, ou encore vous identifier dans les applications et services.</string>  
   <string name="summary_not_set">Non défini</string>
   <string name="summary_sim_card">SIM %1$d</string>
   <string name="summary_sim_card_with_operator">SIM %1$d : %2$s</string>
@@ -54,6 +56,7 @@
   <string name="provision_finish">OK</string>
   <string name="provision_finish_restart">Redémarrer</string>
   <string name="title_congratulation">"Tout est fin prêt !"</string>
+  <string name="title_fingerprint">Ajouter votre empreinte</string>
   <string name="sim_card_detecting_title">Détection de la carte SIM</string>
   <string name="skip_underline"><u>Passer cette étape</u></string> 
 </resources>

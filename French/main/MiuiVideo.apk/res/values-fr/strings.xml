@@ -103,6 +103,7 @@
   <string name="xiaomi_user">Utilisateur</string>
   <string name="comment">Commentaires</string>
   <string name="sdcard_storage">Carte SD</string>
+  <string name="score_douban">Score Douban %1$s</string>
   <string name="disk_volume">Stockage amovible</string>
   <string name="unknown_source">Source inconnue</string>
   <string name="authenticating"><CDATA>Authentification… </CDATA></string>
@@ -387,6 +388,7 @@
      <string name="delete_with">Effacer (%d)</string>
      <string name="detail_comment_empty">Vide</string>
      <string name="douban_score">Score</string>
+     <string name="download">Télécharger</string>
      <string name="download_task_with">%d tâches</string>
      <string name="download_with">Téléchargement %1$s/%2$s</string>
      <string name="error_empty_filter_title">Aucun résultat</string>
@@ -573,6 +575,5 @@
   <string name="router_update">Mettez à jour le routeur Mi maintenant.</string>
   <string name="vp_video_invalid_cp_info">Fournisseur de vidéo incorrect, veuillez redémarrer l\'application</string>
   <string name="empty_tv_exiting">Sortie…</string>
-  <string name="download">Télécharger</string>
   <string name="episode_name_format">Ep. %1$s</string>
 </resources>

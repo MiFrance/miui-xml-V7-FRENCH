@@ -61,6 +61,11 @@
   <string name="start_micloud">Activer</string>
   <string name="micloud_proceed">Continuer</string>
   <string name="master_alert_notif_title">Dernière synchronisation il y a %s jours</string>
+  <string name="micloud_all_sub_1_intl_sms">"Un SMS international va être envoyé pour activer votre carte SIM. Il sera facturé par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
+  <string name="micloud_all_sub_1_sms">"Un SMS va être envoyé pour activer votre carte SIM. Il sera facturé par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">"Deux SMS (standard et international) seront envoyés pour activer votre carte SIM. Ils seront facturés par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
+  <string name="micloud_all_sub_2_intl_sms">"Deux SMS internationaux vont être envoyés pour activer votre carte SIM. Ils seront facturés par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
+  <string name="micloud_all_sub_2_sms">"Deux SMS vont être envoyés pour activer votre carte SIM. Ils seront facturés par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
   <string name="sub_alert_notif_title">Synchronisation inactive</string>
   <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre appareil</string>
   <string name="noRemind">Ne pas rappeler</string>
@@ -188,9 +193,7 @@ Vous pouvez désactiver cette fonction à tout moment via les paramètres.
 Vous pouvez activer/désactiver cette fonction à tout moment via les paramètres."</string>
   <string name="sync_dspt_provision">"Mi Cloud synchronise vos photos, SMS, notes, et plus entre tous vos appareils Mi. Vous pouvez aussi y accéder depuis un navigateur via "</string>
   <string name="sync_dspt_provision_header">Synchronisation</string>
-  <string name="find_device_send_sms_alert">"
-  
-Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service."</string>
+  <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service.</string>
   <string name="cloud_space_upgrade_message">Appuyer pour obtenir %s Go d\'espace gratuit mensuel</string>
   <string name="cloud_space_upgrade_no_quota_info">Données non valides, veuillez réessayer plus tard</string>
   <string name="loading_hint">Chargement</string>

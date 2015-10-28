@@ -60,7 +60,7 @@
   <string name="clear_safe_notify">Barre de notification de sécurité</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Connexion réseau de sécurité</string>
-  <string name="connecting">Connexion</string>
+  <string name="connecting">Connexion…</string>
   <string name="deepclean_app_content">Désinstaller les applis non utilisées depuis 30 jours</string>
   <string name="deepclean_cache_content">Supprimer les données générées par les applis</string>
   <string name="deepclean_cache_header_left">Fichiers cache : %d</string>
@@ -205,7 +205,7 @@
   <string name="privacy_clipboard_type">Presse-papier</string>
   <string name="privacy_search_desc">Recherche dans l\'historique</string>
   <string name="privacy_search_type">Recherche Google</string>
-  <string name="promotion">mentionner</string>
+  <string name="promotion">"Choix de l'éditeur"</string>
   <string name="recommended">Recommandé</string>
   <string name="safety_check_detail">%1$d fois, %2$d points gagnés</string>
   <string name="safety_rank">Devant %d%% utilisateurs MIUI en termes de sécurité</string>

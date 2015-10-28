@@ -1121,7 +1121,7 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="remove_blacklist_dialog_title">Retirer de la liste noire</string>
   <string name="preference_contacts_recovery_introduction">Restaurer les contacts</string>
   <string name="group_sms_error_message">Les SMS ne peuvent contenir plus de %s destinataires</string>
-  <string name="export_sim_contact_finish_msg">%1$d transférés | %2$d ignorés | %3$d restants</string>
+  <string name="export_sim_contact_finish_msg">%1$d transférés | %2$d doublons | %3$d restants</string>
   <string name="deleting_sim_entry_miui_prepare">Préparation des contacts…</string>
   <string name="importing_sim_contacts_miui_prepare">Préparation des contacts…</string>
   <string name="loading_accounts">Chargement des infos SIM…</string>
