@@ -998,23 +998,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="outbox_alert_description_insufficient_storage_error">Espace insuffisant sur le serveur de messagerie</string>
   <string name="contact_edit_set_black_list_receive">Supprimer le message avec ce destinataire</string>
   <string name="contact_edit_set_black_list_receive_summary">Supprimer les messages incluant ce destinataire, dans les champs A ou Cc</string>
-  <string name="disturb_switch">Ne pas déranger</string>
   <string name="account_setup_deleting_account_msg">Suppression du compte…</string>
   <string name="contact_edit_set_black_list_from">Supprimer tous les mails de cet expéditeur</string>
   <string name="outbox_alert_description_fail_network">Erreur réseau.</string>
-<!-- à traduire 
-  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
-  <string name="gmail_login_failed_non_proxy_title">Access Gmail server failed</string>
-  <string name="gmail_server_authorization_deleted">Fetch the access authorization failed,please re-cert.</string>
-  <string name="push_wps_better_confirm_download">Download</string>
-  <string name="push_wps_better_confirm_exit">Not now</string>
-  <string name="push_wps_better_confirm_message">Try using WPS Office to open this attachment.</string>
-  <string name="push_wps_better_confirm_noshow_hint">"Don't show again"</string>
-  <string name="push_wps_better_confirm_title">Try WPS Office</string>
-  <string name="push_wps_confirm_cancel">Not now</string>
-  <string name="push_wps_confirm_download">Download</string>
-  <string name="push_wps_confirm_message">Try using WPS Office to open this attachment.</string>
-  <string name="push_wps_confirm_title">Try WPS Office</string>
-  <string name="push_wps_no_response_app">No application found to handle this action</string>
-  -->
 </resources>

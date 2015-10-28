@@ -98,7 +98,7 @@
   <string name="shutdown_alarm_enable_summary">Activer l\'arrêt d\'alarme</string>
   <string name="shutdown_alarm_title">Extinction d\'alarme</string>
   <string name="silent_alarm_summary">Silencieuse</string>
-  <string name="skip_alarm_once_hint">Couper une seule fois pour %s</string>
+  <string name="skip_alarm_once_hint">Désactiver une fois pour %s</string>
   <string name="snooze_confirm_cancel">Annuler le rappel</string>
   <string name="snooze_duration_title">Intervalle de rappel</string>
   <string name="start">Départ</string>
@@ -134,7 +134,6 @@
   <string name="delete_timer_item_title">Supprimer la minuterie</string>
   <string name="delete_selected_timer_item">Supprimer la minuterie sélectionnée ?</string>
   <string name="vibrate_when_ringing">Activer le vibreur</string>
- <!-- à vérifier timer_item_picker_hour -->
   <string name="timer_item_picker_hour">h</string>
   <string name="timer_item_picker_minute">min</string>
   <string name="timer_item_picker_second">sec</string>
@@ -150,10 +149,4 @@
   <string name="timer_message_10">%1$d minutes et %2$d secondes</string>
   <string name="menu_item_sort_by_gmt_offset">Trier par fuseau horaire</string>
   <string name="menu_item_sort_by_name">Trier par nom</string>
-  <string name="today">Aujourd\'hui</string>
-  <string name="tomorrow">Demain</string>
-<!-- à vérifier skip_alarm_once_hint -->
-  <string name="skip_alarm_once_hint">Désactiver une fois sur %s</string>
-  <string name="turn_off_a_repeat_alarm">Désactiver une alarme récurrente</string>
-  <string name="turn_off_this_repeat_alarm">Désactiver cette alarme récurrente</string>
 </resources>
