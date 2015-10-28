@@ -188,7 +188,6 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
 Vous pouvez désactiver cette fonction à tout moment via les paramètres.
 "</string>
   <string name="micloud_main_suggest_sync">Certains éléments n\'ont pas été synchronisés avec Mi Cloud</string>
-Touchez le bouton des Réglages de Synchronisation pour voir plus d\'options."</string>
   <string name="mx_dspt_provision">"Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI sans utiliser de SMS.
 
 Vous pouvez activer/désactiver cette fonction à tout moment via les paramètres."</string>
