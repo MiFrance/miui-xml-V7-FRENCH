@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Extension du service de sécurité</string>
+  <string name="cancel_button">Annuler</string>
+  <string name="empty">" "</string>
+  <string name="main_toolbar_purchase">Recharger</string>
+  <string name="miuishare_title_more">Plus</string>
+  <string name="miuishare_title_share">Partager</string>
+  <string name="miuishare_wechat_timeline_title">Instants WeChat</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="network_not_available">"Pas de connexion au réseau"</string>
+  <string name="no_network_btn">Réessayer</string>
+  <string name="ok_button">OK</string>
+  <string name="open_browser">Ouvrir dans le navigateur</string>
+  <string name="privacy_declare_dialog_title">Conditions d\'utilisation du service</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Votre numéro de téléphone et vos réglages opérateur vont être encryptés et envoyés sur les serveurs Mi, afin de vous proposer des options de recharges supplémentaires."</string>
+  <string name="share">Partager</string>
+  <string name="title_share_link">Partager une URL</string>
+  <string name="usage_sorted_loading_text">Un instant…</string>
+</resources>
