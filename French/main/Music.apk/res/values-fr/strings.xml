@@ -142,7 +142,7 @@
   <string name="title_online_billboard">Classements</string>
   <string name="title_online_fm">Radio</string>
   <string name="title_online_recommend">Playlists à l\'affiche</string>
-  <string name="title_online_release">Nouveau</string>
+  <string name="title_online_release">Nouveaux albums</string>
   <string name="title_online_song">Chansons populaires</string>
   <string name="title_online_suggest">Vous pourriez aimer</string>
   <string name="title_search_history">Rechercher dans l\'historique</string>
@@ -211,10 +211,10 @@
   <string name="vip_renew_title">Abonnement expiré</string>
   <string name="vip_required">Désolé, VIP est requis</string>
   <string name="fragment_title_recommend">Recommandé</string>
-  <string name="fragment_title_bill">Playlist</string>
-  <string name="fragment_title_channel">FM</string>
-  <string name="fragment_title_artist">Artiste</string>
-  <string name="fragment_title_artist_album">Album</string>
+  <string name="fragment_title_bill">Playlists</string>
+  <string name="fragment_title_channel">Radio</string>
+  <string name="fragment_title_artist">Artistes</string>
+  <string name="fragment_title_artist_album">Albums</string>
   <string name="group_artist">Groupes</string>
   <string name="handle_later">Pas maintenant</string>
   <string name="local_music">Fichiers locaux</string>

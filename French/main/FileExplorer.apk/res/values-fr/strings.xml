@@ -87,7 +87,7 @@
   <string name="decompress_title">Extraire</string>
   <string name="decompress_to">Extraire les fichiers vers…</string>
   <string name="decompress_to_here">Extraire ici</string>
-  <string name="decrypt">Retirer du dossier privé</string>
+  <string name="decrypt">Retirer</string>
   <string name="decrypt_error">"Echec du décodage"</string>
   <string name="decrypting">Décodage…</string>
   <string name="delete_failed">Suppression échouée</string>
@@ -113,6 +113,7 @@
   <string name="downloading">Téléchargement…</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
   <string name="encrypt_error">"Echec de privatisation des fichiers, veuillez réessayer"</string>
+  <string name="encrypt_prefix">PRIVÉ</string>
   <string name="encrypt_success">Tous les fichiers ont été rendus privés</string>
   <string name="encrypting">Encodage…</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
@@ -191,7 +192,7 @@
   <string name="new_function">A propos des dossiers privés</string>
   <string name="new_function_info">"Le dossier privé est une nouvelle fonctionnalité de MIUI.
 Vous pouvez encoder vos fichiers
-et les stockger dans un dossier sécurisé.
+et les stocker dans un dossier sécurisé.
 
 Consultez la page d\'accueil pour en savoir plus."</string>
   <string name="new_function_str">"Les étiquettes WeChat peuvent dorénavant être collectées automatiquement.

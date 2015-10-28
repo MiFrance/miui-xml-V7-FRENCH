@@ -170,7 +170,7 @@ connexion au réseau de données mobiles"</string>
   <string name="pref_connect_settings_enable_background_hint">"Permettre aux applications d\'utiliser les données en arrière-plan lorsque vous ne les utilisez pas"</string>
   <string name="pref_title_network_diagnostics">Diagnostic réseau</string>
   <string name="pref_check_network_diagnostics">Vérifiez si votre connexion de données fonctionne normalement</string>
-  <string name="pref_title_update_notification">Aff. la consom. dans le menu déroulant</string>
+  <string name="pref_title_update_notification">Notifications pour la consommation de données</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Activer les exceptions intelligentes</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Activer automatiquement l\'économiseur de données pour les nouvelles applis, pour lesquelles la consommation peut être réduite significativement</string>
   <string name="pref_traffic_saving_compressed">Compressé</string>
@@ -214,6 +214,7 @@ connexion au réseau de données mobiles"</string>
   <string name="power_save_on_time_end_time_summary">à</string>
   <string name="manual_input_traffic">Définir l\'usage de données</string>
   <string name="manual_input_free_traffic">Définir le creux d\'usage des données</string>
+  <string name="megabyte_per_second">Mio/s</string>
   <string name="declaration_dialog_msg">Cette fonctionnalité peut vous aider à suivre votre consommation, il n\'est pas garanti d\'éviter des frais supplémentaires. Pour de meilleurs résultats, fixer une limite.</string>
   <string name="input_used_hint">Saisir le montant</string>
   <string name="settings">Paramètres d\'usage des données</string>
@@ -540,6 +541,8 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="firewall_network_restrict_notify_message">Appuyer pour modifier les paramètres.</string>
   <string name="firewall_network_restrict_notify_mobile">Données mobiles</string>
   <string name="firewall_network_restrict_notify_title">"%1$s ne peut utiliser %2$s"</string>
+  <string name="firewall_restrict_android_dialog_content">"Si vous n'autorisez pas Android à se connecter à Internet, certaines fonctions clés, comme le hotspot Wi-Fi, peuvent être affectées."</string>
+  <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="traffic_correction_success_notify_message">Appuyer pour afficher les détails.</string>
   <string name="hints_install_apps_new">Jamais utilisé</string>
   <string name="hints_install_apps_today">Utilisé aujourd\'hui</string>
@@ -555,6 +558,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   
   <string name="hints_input_roaming_daily_limit">Entrer la limite d\'utilisation des données</string>
   <string name="ip_address_exception_summary">"Impossible d\'obtenir une adresse IP. Si jamais vous rencontrez à nouveau cette erreur, essayez d\'utiliser une adresse IP statique."</string>
+  <string name="kilobyte_per_second">Kio/s</string>
   <string name="local_ip_exception_summary">"Impossible de récupérer l\'adresse IP locale. Pour notifier cette erreur à MIUI, utilisez l\'appli Rapports et transmettez un rapport à partir de votre appareil."</string>
   <string name="network_mobile_exception_detail">"Votre appareil ne peut se connecter à internet :
 

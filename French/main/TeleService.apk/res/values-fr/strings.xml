@@ -15,6 +15,8 @@
   <string name="china_mobile">China Mobile</string>
   <string name="china_telecom">China Telecom</string>
   <string name="china_unicom">China Unicom</string>
+  <string name="chose_product_summary">Appels bons marchés</string>
+  <string name="chose_product_title">Recharge téléphonique</string>
   <string name="default_area_code_setting">Code pays par défaut</string>
   <string name="default_areacode">Code pays par défaut</string>
   <string name="dialog_activate_livetalk">Vérifier</string>
@@ -48,6 +50,7 @@
   <string name="left_minutes">" min"</string>
   <string name="load_rates_failed">"Échec du chargement"</string>
   <string name="loading">Un instant…</string>
+  <string name="loading_product">Un instant</string>
   <string name="loading_recent_failed">"Échec du chargement"</string>
   <string name="no_data">Pas de données</string>
   <string name="no_more">Plus rien</string>
@@ -75,6 +78,11 @@
   <string name="provision_title">Connexion Internet</string>
   <string name="purchase">Acheter</string>
   <string name="purchase_confirm">Acheter</string>
+  <string name="purchase_description_summary">"- Opérateurs illimités, zones illimitées;
+- Pas de conflits entre les services opérateurs;
+- Disponible immédiatement après recharge, pas d\'expiration;
+- Simple, utilisation directe."</string>
+  <string name="purchase_description_title">Description</string>
   <string name="purchase_limit">Vous avez atteint la limite d\'achat</string>
   <string name="purchase_list">Historique des achats</string>
   <string name="purchase_notification">"Les prix ci-dessus sont pour les appels nationaux. Pour les appels internationaux, consultez les "</string>
@@ -97,12 +105,13 @@
   <string name="time_statistic">%1$d minutes de connexion réseau économisées</string>
   <string name="title_country">Région</string>
   <string name="title_duration">Durée</string>
-  <string name="title_purchase">Recharge</string>
+  <string name="title_purchase">Recharge téléphonique</string>
   <string name="title_rates">Tarifs</string>
   <string name="title_user_config">Activer la carte SIM</string>
   <string name="unable_dial_livetalk">"L'appel a échoué"</string>
   <string name="use_history">Activité</string>
   <string name="use_history_duration_min">%1$s mins</string>
+  <string name="use_range">Utiliser Range</string>
   <string name="phoneAppLabel">Téléphone</string>
   <string name="emergencyDialerIconLabel">Appels d\'urgence</string>
   <string name="phoneIconLabel">Téléphone</string>
@@ -763,6 +772,10 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="reject_via_sms">Rejet par SMS</string>
   <string name="reject_via_sms_summary">Définissez le SMS à envoyer à l\'appelant si l\'appel est rejeté</string>
   <string name="reject_via_sms_title">Paramètres du rejet par SMS</string>
+  <string name="remain_mins_divider">Ou</string>
+  <string name="remain_mins_domestic">Solde national</string>
+  <string name="remain_mins_international">Solde international</string>
+  <string name="remain_mins_unit">Min</string>
   <string name="missed_call_notify_times_title">Rappel des appels manqués</string>
   <string name="missed_call_notify_times_summary">Par défaut, répéter toutes les 5 minutes pour les appels manqués</string>
   <string name="missed_call_notify_none">Jamais</string>

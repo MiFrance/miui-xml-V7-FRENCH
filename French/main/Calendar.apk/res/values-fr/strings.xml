@@ -211,6 +211,7 @@
   <string name="timezone_label">Fuseau horaire</string>
   <string name="today">Aujourd\'hui</string>
   <string name="today_at_time_fmt">Aujourd\'hui %s</string>
+  <string name="today_flight_event">Vol</string>
   <string name="tomorrow">Demain</string>
   <string name="tomorrow_at_time_fmt">Demain à %s</string>
   <string name="topic_dialog_title">Abonnement / Désabonnement</string>
@@ -239,6 +240,7 @@
   <string name="event_info_where">"Endroit : "</string>
   <string name="event_show_more">Plus d\'options…</string>
   <string name="today_no_events">Aucun événement</string>
+  <string name="today_train_event">Train</string>
   <string name="lunar_date">Date lunaire</string>
   <string name="time_zone">Fuseau horaire</string>
   <string name="widget_events">Événements à venir</string>
@@ -314,8 +316,6 @@
   <string name="sync_notice_ok_toast_message">Le calendrier local va être synchronisé avec Mi Clound</string>
   <string name="sync_notice_title">Synchronisation du calendrier</string>
   <string name="action_label">Entrée</string>
-  
-  <!-- utilisé seulement si telephone en chinois -->
   <string name="birthday_notice_message">Détails de l\'anniversaire, besoin de se connecter au réseau avant le visionnement. Êtes-vous d\'accord ?</string>
   <string name="anniversary_term">anniversary</string>
   <string name="setting_wifi_mode">仅WLAN下同步大图</string>
@@ -373,6 +373,7 @@
   <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
   <string name="delete_topic_success">退订\"%s\"成功</string>
   <string name="deleting_calendar">退订中</string>
+  <string name="departure">Départ</string>
   <string name="enter_calendar">进入日历</string>
   <string name="exist_calendar">已订阅</string>
   <string name="huangli_bad_type">忌</string>
@@ -383,7 +384,7 @@
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="online_calendar_activity_label">订阅日历</string>
-  <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
+  <string name="online_notice_message">"En utilisant ce produit, vous acceptez nos %1$s et %2$s. Cette application requiert un accès à Internet pour fonctionner normalement."</string>
   <string name="online_reminder_change_text">修改提醒</string>
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>

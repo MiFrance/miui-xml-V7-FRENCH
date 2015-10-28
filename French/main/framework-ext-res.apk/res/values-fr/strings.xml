@@ -93,7 +93,7 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonctionnalité, appuyez simultanément sur les boutons Retour et Volume Haut.</string>
   <string name="screen_on_proximity_sensor_summary">"Ne pas couvrir la zone orange de votre écran"</string>
   <string name="screen_on_proximity_sensor_title">Empêcher les appels dans la poche</string>
-  <string name="screen_paper_mode_enter_toast">Le mode lecture est actif. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Paramètres additionnels &gt; Mode lecture.</string>
+  <string name="screen_paper_mode_enter_toast">Le mode lecture est actif. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Affichage &gt; Mode lecture.</string>
 
   <string name="select">Sélectionner</string>
   <string name="select_all">Sélectionner tout</string>
