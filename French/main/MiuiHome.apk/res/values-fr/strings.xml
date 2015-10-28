@@ -98,6 +98,7 @@
   <string name="failed_to_delete_temporary">Suppression échouée, veuillez réessayer</string>
   <string name="confirm_btn_label">OK</string>
   <string name="cancel_btn_label">Annuler</string>
+  <string name="cant_edit_lock_screen">"Impossible de modifier le style de l\'écran de verrouillage."</string>
   <string name="default_folder_title_tools">Outils</string>
   <string name="default_folder_title_recommend">Autres</string>
   <string name="default_folder_title_game">Jeux</string>

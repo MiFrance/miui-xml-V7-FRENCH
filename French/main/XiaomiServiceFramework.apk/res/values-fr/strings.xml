@@ -5,6 +5,9 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Activer</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS envoyé pour activer \"Rechercher un appareil\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS envoyé via la carte SIM %s pour activer \"Rechercher un appareil\"</string>
+  <string name="activate_auto_sms_notification_title">Activation de la carte SIM</string>
   <string name="error_device_id_message">"Identifiant de l\'appareil non valide : %s
  L'ID de l'appareil doit être une adresse IMEI ou MAC valide. Sans cet identifiant certaines fonctions du compte et du cloud ne seront pas disponibles"</string>
   <string name="error_device_id_title">Impossible de récupérer le numéro IMEI"</string>

@@ -250,6 +250,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="operation_move">Couper</string>
   <string name="operation_moving">Déplacement…</string>
   <string name="operation_moving_detail">Déplacement de fichiers (%1$d/%2$d)</string>
+  <string name="operation_other_apps">Ouvrir avec une autre application</string>
   <string name="operation_paste">Coller</string>
   <string name="operation_pasting">Copie…</string>
   <string name="operation_pause">Pause</string>
@@ -297,6 +298,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="search_app">Source</string>
   <string name="search_app_more">Plus</string>
   <string name="search_category">Type</string>
+  <string name="search_description">Rechercher sur tout l\'appareil</string>
   <string name="search_empty_view_hint">Pas de résultats</string>
   <string name="search_error_hint">Entrez un mot-clé à rechercher</string>
   <string name="search_file_type_apk">Apk</string>
@@ -450,6 +452,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="category_type_document">Documents</string>
   <string name="category_type_other">Autres</string>
   <string name="phone">Stockage</string>
+  <string name="pick_folder">Sélectionnez un dossier</string>
   <string name="category">Catégories</string>
   <string name="tab_expand">En ligne</string>
   <string name="byteShort">" octet"</string>

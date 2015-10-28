@@ -380,7 +380,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="network_speed_for_apps_close_app_dlg_msg">Forcer l\'arrêt de cette application ?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Impossible de forcer l'arrêt des applications système."</string>
   <string name="network_speed_for_apps_others">Autres</string>
-  <string name="network_speed_for_apps_title">Détails sur la vitesse de connexion</string>
+  <string name="network_speed_for_apps_title">Etat de la connexion</string>
   <string name="network_speed_for_apps_total">Vitesse de connexion</string>
   
   <!-- erreur1 <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Appuyer pour configurer</string> -->

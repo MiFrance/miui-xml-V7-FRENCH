@@ -630,7 +630,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="miprofile_request_clear_alertdialog_title">Effacer l\'historique</string>
   <string name="miprofile_request_deleted">Fiche supprimée</string>
   <string name="miprofile_request_empty_request">Aucune demande d\'échange</string>
-  <string name="miprofile_request_exchange_title">Demande de fiche de contact</string>
+  <string name="miprofile_request_exchange_title">Recherche de fiche de contact</string>
   <string name="miprofile_request_menu_clear_request">Effacer l\'historique</string>
   <string name="miprofile_request_message">%1$s personnes veulent échanger des fiches de contact</string>
   <string name="miprofile_request_notification_message">Accepter pour consulter la photo du profil et plus d\'info</string>

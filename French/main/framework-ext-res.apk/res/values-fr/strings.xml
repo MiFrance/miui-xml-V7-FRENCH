@@ -3,8 +3,8 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-  <string name="all_call_livetalk_enable">Utiliser les recharges prépayées pour les appels locaux et internationaux</string>
-  <string name="all_call_livetalk_remain_mins">Minutes restantes: (%1$s locales) | %2$s (%3$s)</string>
+  <string name="all_call_livetalk_enable">Utiliser une recharge prépayée pour les appels nationaux et internationaux</string>
+  <string name="all_call_livetalk_remain_mins">Minutes restantes: %1$s nationales | %2$s internationales</string>
   <string name="apply_password_action">Définir le mot de passe</string>
   <string name="apply_password_confirm_dlg_msg">Confirmation du mot de passe pour %s ?</string>
   <string name="apply_password_confirm_dlg_title">Ce mot de passe sera utilisé pour %s</string>
@@ -51,6 +51,7 @@
   <string name="cancel_action">Annuler</string>
   <string name="copy">Copier</string>
   <string name="cut">Couper</string>
+  <string name="enable_livetalk">Activer la recharge téléphonique</string>
   <string name="fc_dialog_body">Envoyer un rapport de bogue à Mi pour une analyse ? Ce rapport peut contenir des informations personnelles. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais divulgué dans un contexte commercial.</string>
   <string name="fc_dialog_jump_to_preview">Afficher le résumé</string>
   <string name="first_back_long_press_message">"Maintenez appuyé le bouton Retour pour tuer le processus courant et ses services en arrière-plan.
@@ -65,12 +66,13 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="global_actions_silent_mode">Mode silencieux</string>
   <string name="handy_mode_enter_dlg_msg">Entrez dans le mode à une main ?</string>
   <string name="handy_mode_enter_dlg_title">Entrez dans le mode à une main</string>
-  <string name="internal_livetalk_enable">Utiliser les recharges prépayées pour les appels nationaux</string>
-  <string name="internal_remain_mins">%1$s minutes restantes (appels nationaux)</string>
-  <string name="international_livetalk_enable">Utiliser les recharges prépayées pour les appels internationaux</string>
-  <string name="international_remain_mins">%1$s minutes restantes (%2$s appels)</string>
+  <string name="internal_livetalk_enable">Utiliser une recharge prépayée pour les appels nationaux</string>
+  <string name="internal_remain_mins">%1$s minutes restantes (national)</string>
+  <string name="international_livetalk_enable">Utiliser une recharge prépayée pour les appels internationaux</string>
+  <string name="international_remain_mins">%1$s minutes restantes ( %2$s )</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Espace</string>
+  <string name="livetalk_not_enable">Recharge téléphonique désactivée</string>
   <string name="location_usage_restricted_body">Toucher pour enlever la restriction.</string>
   <string name="location_usage_restricted_title">Accès restreint à la localisation en arrière-plan</string>
   <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>

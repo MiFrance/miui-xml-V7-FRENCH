@@ -290,6 +290,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="activity_title_power_manager">Batterie</string>
   <string name="activity_title_system">Système</string>
   <string name="activity_title_memory">Mémoire vive</string>
+  <string name="activity_title_network_speed_detail">Connexion</string>
   <string name="activity_title_trash">Cache</string>
   <string name="system_check_content">risques : %1$d </string>
   <string name="memeory_check_content">applis : %1$d, mémoire : %2$s</string>
@@ -304,6 +305,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="btn_text_virus_scan">Analyser</string>
   <string name="btn_text_stop">Stop</string>
   <string name="btn_text_cleanup_all">Nettoyer</string>
+  <string name="btn_text_network_speed_detail">Connexion</string>
   <string name="hints_last_virus_scan_none">Jamais analysé</string>
   <string name="hints_last_virus_scan_today_safe">Analysé aujourd\'hui : sûr</string>
   <string name="hints_last_virus_scan_today_risk">Analysé aujourd\'hui: risqué</string>

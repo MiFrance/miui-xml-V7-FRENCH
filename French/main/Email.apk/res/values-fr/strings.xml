@@ -232,6 +232,13 @@
   <string name="bcc_heading">"Cci : "</string>
   <string name="body_hint">Composez un message</string>
   <string name="bytes">%s octets</string>
+  <string name="calendar_remind_dialog_title">Rappel</string>
+  <string name="calendar_remind_gridview_month_later">Dans un mois</string>
+  <string name="calendar_remind_gridview_nextweek">La semaine prochaine</string>
+  <string name="calendar_remind_gridview_pick_date">Choisir une date</string>
+  <string name="calendar_remind_gridview_tomorrow">Demain</string>
+  <string name="calendar_remind_gridview_tonight">Ce soir</string>
+  <string name="calendar_remind_gridview_weekend">Week-end</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_action">Annuler</string>
   <string name="cancel_attachment">Annuler</string>
@@ -252,7 +259,7 @@
   <string name="clear_display_images_whitelist_title">Supprimer les autorisations liées aux images</string>
   <string name="collapse_recipient_details">Réduire les coordonnées du destinataire</string>
   <string name="compose">Nouveau message</string>
-  <string name="compose_attachment_number_limit">Vous ne pouvez ajouter plus de 10 pièces jointes !</string>
+  <string name="compose_attachment_number_limit">"Vous ne pouvez ajouter plus de 10 pièces jointes"</string>
   <string name="compose_picturesexceedlimits">"Impossible de joindre plus de 5 images dans le corps du message"</string>
   <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi de la réponse en cours…</string>
@@ -508,6 +515,7 @@
   <string name="remove_folder">Supprimer de %1$s</string>
   <string name="remove_star">Désactiver le suivi</string>
   <string name="reply">Répondre</string>
+  <string name="reply_add_bodycontent">Ajouter la réponse rapide au corps du message ?</string>
   <string name="reply_all">Répondre à tous</string>
   <string name="reply_attribution" formatted="false">Le %s, %s a écrit :</string>
   <string name="replyto_heading">"Répondre à : "</string>
@@ -521,6 +529,8 @@
   <string name="save_action">Enregistrer</string>
   <string name="save_attachment">Enregistrer</string>
   <string name="save_draft">Enregistrer le brouillon</string>
+  <string name="save_power_summary">Planifier des périodes pour réduire la consommation de batterie</string>
+  <string name="save_power_title">Economiseur de batterie</string>
   <string name="saved">Enregistrée, %s</string>
   <string name="saving">Enregistrement…</string>
   <string name="search_hint">Rechercher l\'e-mail</string>
@@ -774,6 +784,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayer manuellement.</string>
   <string name="att_download_failed_title">Avertissement</string>
   <string name="att_download_failed_content">Le téléchargement de la pièce jointe a échoué</string>
+  <string name="att_download_failed_network_slow">Le réseau est saturé, veuillez télécharger ultérieurement</string>
   <string name="outbox_alert_button_resend">Renvoyer</string>
   <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
   <string name="outbox_alert_mailbox_not_found">Adresse e-mail introuvable</string>
@@ -905,7 +916,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found_title">Ouvrir cette pièce-jointe.</string>
   <string name="no_content_in_body">[Aucun contenu]</string>
-  <string name="outbox_alert_duplicate_click">Synchronise…</string>
+  <string name="outbox_alert_duplicate_click">Envoi en cours…</string>
   <string name="outbox_alert_edit_resend">Éditer et envoyer à nouveau</string>
   <string name="outbox_alert_failed_edit_resend">"Erreur lors de l\'envoi. Modifiez et essayez à nouveau."</string>
   <string name="outbox_alert_select_operation">Choisissez une action</string>
@@ -950,7 +961,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="gmail_acceleration">Utiliser un serveur proxy pour le compte Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Utiliser un serveur proxy pour accéder à votre compte Gmail ?</string>
   <string name="gmail_login_failed_non_proxy_title">Echec d\'accès au serveur Gmail</string>
-  <string name="gmail_server_authorization_deleted">Echec de récupération de l\'autorisation d\'accès, veuillez recommencer.</string>
+  <string name="gmail_server_authorization_deleted">Echec d\'authentification du compte. Essayez d\'ajouter à nouveau ce compte.</string>
   <string name="gmail_login_verify">Ajouter un compte Gmail</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Se connecter à Gmail</string>
@@ -976,7 +987,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="outbox_alert_description_cannot_authenticate">Échec d\'authentification pour %s</string>
   <string name="outbox_alert_description_email_size_error">La taille maximale des e-mail a été atteinte.</string>
   <string name="outbox_alert_description_fail_authentication">L\'identifiant ou le mot de passe est incorrect.</string>
-  <string name="outbox_alert_description_fail_network">Anomalie réseau.</string>
+  <string name="outbox_alert_description_fail_network">"Pas de connexion réseau."</string>
   <string name="outbox_alert_description_reject_by_server">Rejeté par %s</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="re_download_message_button">Appuyer pour retélécharger</string>
@@ -1000,5 +1011,4 @@ Taille du patch Delta : %2$s"</string>
   <string name="contact_edit_set_black_list_receive_summary">Supprimer les messages incluant ce destinataire, dans les champs A ou Cc</string>
   <string name="account_setup_deleting_account_msg">Suppression du compte…</string>
   <string name="contact_edit_set_black_list_from">Supprimer tous les mails de cet expéditeur</string>
-  <string name="outbox_alert_description_fail_network">Erreur réseau.</string>
 </resources>

@@ -47,7 +47,7 @@
   <string name="setting_locale">Application des paramètres de localisation...</string>
   <string name="terms_of_use_label">Veuillez consulter et accepter le contrat d\'utilisateur et la politique de confidentialité avant d\'utiliser MIUI.</string>
   <string name="ime_privacy_policy_no_network">"Aucune connexion réseau. Consultez la politique de confidentialité pour ce clavier sur %s."</string>
-  <string name="network_access_warning">Une connexion réseau est requise pour activer cet appareil</string>
+  <string name="network_access_warning">Une connexion réseau est requise pour activer les services Mi et rechercher un appareil.</string>
   <string name="miui_privacy_policy_no_network">Aucune connexion réseau. Consultez la politique de confidentialité sur %s</string>
   <string name="miui_terms_no_network">Aucune connexion réseau. Consultez les conditions d\'utilisation sur %s</string>
   <string name="install_preinstall_app">Chargement…</string>

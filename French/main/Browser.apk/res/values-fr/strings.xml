@@ -174,6 +174,7 @@
   <string name="empty_history_hint">Vide</string>
   <string name="empty_snapshot_hint">Vide</string>
   <string name="empty_snapshots_folder">Aucune page enregistrée</string>
+  <string name="enable_geolocation_confirm_message">Désactiver cette fonction peut entraîner des dysfonctionnements sur certains sites.</string>
   <string name="error_console_eval_button_text">Évaluer</string>
   <string name="error_console_eval_text_hint">Évaluer le JavaScript</string>
   <string name="error_console_header_text_maximized">Console JavaScript</string>
@@ -270,6 +271,7 @@
   <string name="password">Mot de passe</string>
   <string name="permission_preload_label">Précharger les résultats</string>
   <string name="popup_window_attempt">Autoriser ce site à ouvrir une fenêtre pop-up ?</string>
+  <string name="positive_confirm_message">Désactiver quand même</string>
   <string name="pref_accessibility_title">Accessibilité</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Lors de la saisie dans la barre d\'adresse, les combinaisons de lettres ordinaires peuvent être saisies en seule touche</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Saisie rapide d\'URL</string>
@@ -438,6 +440,7 @@
   <string name="readmode_recommend_message">"Vous avez lu toutes les sections de ce livre. Veuillez en choisir un autre."</string>
   <string name="readmode_refresh">Actualiser</string>
   <string name="readmodelist_bookmarks_to_show">Liste de lecture</string>
+  <string name="remember_passwords_confirm_message">Désactiver cette fonction peut entraîner des dysfonctionnements du navigateur.</string>
   <string name="recover">Récupérer</string>
   <string name="reload">Actualiser</string>
   <string name="remove">Supprimer</string>
@@ -456,6 +459,7 @@
   <string name="save_dialog_title">Sauvegarder</string>
   <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
   <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
+  <string name="save_form_data_confirm_message">Désactiver cette fonction peut entraîner des dysfonctionnements du navigateur.</string>
   <string name="save_to_bookmarks">Ajouter aux favoris</string>
   <string name="saving_snapshot">Enregistrement en cours…</string>
   <string name="search">&#62;</string>
@@ -465,6 +469,7 @@
   <string name="search_settings_description">Favoris et historique de navigation</string>
   <string name="search_sm">SM</string>
   <string name="security_warning">Avertissement de sécurité</string>
+  <string name="security_warnings_confirm_message">Désactiver cette fonction peut entraîner des failles de sécurité.</string>
   <string name="select_dot">Sélectionner le texte</string>
   <string name="send_bookmark_to_home_screen">Ajouter à l\'écran d\'accueil</string>
   <string name="send_to_popular">+ liens rapides</string>
@@ -791,6 +796,7 @@
   <string name="show_weather_location_getter_tip_dialog_description">Les services météo nécessitent vos informations de localisation afin de fournir une météo à jour dans votre navigateur. Vous pouvez désactiver cette fonction dans les paramètres.</string>   
   <string name="quicklink_bookmark_save">Emplacement du favori</string>
   <string name="voice_title">Énoncez votre commande…</string>
+  <string name="weather_location_confirm_message">Désactiver cette fonction peut entraîner des dysfonctionnements du navigateur.</string>
   <string name="voice_sub_title">"Vous ne savez pas quoi dire ? Essayez Ouvrir mi.com !"</string>
   <string name="voice_title_please">Commencez à parler…</string>
   <string name="voice_title_distinguish">Traitement…</string>
@@ -898,10 +904,12 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
   <string name="abc_action_menu_overflow_description">Plus d\'options</string>
   <string name="abc_action_mode_done">Ok</string>
+  <string name="accept_cookies_confirm_message">Désactiver cette fonction peut entraîner des dysfonctionnements sur certains sites.</string>
   <string name="action_menu_text_bookmark_added">Favori ajouté</string>
   <string name="action_menu_text_create_qr_code">Code QR</string>
   <string name="miui_startpage">Page de démarrage</string>
   <string name="secure_download_in_xiaomi_market">Télécharger sur le Mi market</string>
+  <string name="security_url_confirm_message">Désactiver cette fonction peut entraîner des failles de sécurité.</string>
   <string name="skip_button_label">Ignorer</string>
   <string name="skip_current_version">Ignorer cette version</string>
   <string name="start_save_page_capture">Sauvegarde de la capture…</string>
