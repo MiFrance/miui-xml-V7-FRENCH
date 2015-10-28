@@ -188,7 +188,6 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
 Vous pouvez désactiver cette fonction à tout moment via les paramètres.
 "</string>
   <string name="micloud_main_suggest_sync">Certains éléments n\'ont pas été synchronisés avec Mi Cloud</string>
-  <string name="micloud_main_suggest_setting">"Attente d\'une connexion Wi-Fi pour synchroniser.
 Touchez le bouton des Réglages de Synchronisation pour voir plus d\'options."</string>
   <string name="mx_dspt_provision">"Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI sans utiliser de SMS.
 
@@ -342,7 +341,7 @@ Dernière sauvegarde le %2$s"</string>
   <string name="voip_choose_sim">Choisissez un numéro de téléphone pour activer Mi Voice</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="deskclock_backup">Sauvegarde des horloges</string>
-  <string name="micloud_main_suggest_setting">"En attente de connexion au Wi-Fi pour synchroniser
+  <string name="micloud_main_suggest_setting">"En attente d\'une connexion Wi-Fi pour synchroniser.
   Touchez le bouton Paramètres pour voir plus d'options"</string>
   <string name="micloud_main_sync_setting">Paramètres de synchronisation</string>
   <string name="micloud_main_title_sync_fail">Synchronisation impossible</string>
