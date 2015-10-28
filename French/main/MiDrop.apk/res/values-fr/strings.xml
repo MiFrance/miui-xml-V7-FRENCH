@@ -51,7 +51,7 @@
   <string name="receiver_pic_file_num">%2$d image(s) de la part de %1$s</string>
   <string name="receiver_reject">Refuser</string>
   <string name="receiver_succeed_ok">OK</string>
-  <string name="receiver_succeed_view">Voir</string>
+  <string name="receiver_succeed_view">Voir le fichier</string>
   <string name="receiver_transfer_interrupt">"Transfert interrompu, ne coupez pas le hotspot Wi-Fi durant le transfert"</string>
   <string name="receiver_video_file_current">Réception de %2$d vidéo(s) de la part de %1$s…</string>
   <string name="receiver_video_file_num">%2$d vidéo(s) de la part de %1$s</string>

@@ -539,7 +539,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="saving_conflict_restrictbackground_msg">"Vous ne pouvez pas utiliser l'économiseur de données lorsque les données de fond sont restreintes. Autorisez les données de fond et activez l'économiseur de données ?"</string>
   <string name="firewall_network_restrict_notify_message">Appuyer pour modifier les paramètres.</string>
   <string name="firewall_network_restrict_notify_mobile">Données mobiles</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s ne peut utiliser %2$s."</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s ne peut utiliser %2$s"</string>
   <string name="traffic_correction_success_notify_message">Appuyer pour afficher les détails.</string>
   <string name="hints_install_apps_new">Jamais utilisé</string>
   <string name="hints_install_apps_today">Utilisé aujourd\'hui</string>

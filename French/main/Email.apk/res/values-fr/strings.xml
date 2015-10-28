@@ -21,9 +21,6 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-
-  <string name="save_power_summary">Économie de batterie dans le temps spécifié</string>
-  <string name="save_power_title">Économie de batterie</string>
   <string name="reduce_the_receiving_frequencye_summary">Diminuer la fréquence de consultation en mode NPD</string>
   <string name="reduce_the_receiving_frequencye_title">Diminuer la fréquence de consultation</string>
   <string name="loading_from_remote">Recherche…</string>

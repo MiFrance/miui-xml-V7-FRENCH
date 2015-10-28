@@ -33,6 +33,7 @@
   <string name="activate_popup_desc_failed_receive_sms">Veuillez vérifier le numéro saisi ainsi que votre carte SIM soit en service.".</string>
   <string name="activate_popup_desc_failed_send_sms">"Impossible d'envoyer le SMS d'activation. Veuillez vous assurer que votre carte SIM soit en service."</string>
   <string name="activate_popup_desc_failed_server">Erreur serveur. Veuillez vérifier votre connexion réseau.</string>
+  <string name="activate_popup_desc_find_device_postfix">Un SMS international peut être requis après l\'échange de vos cartes SIM.</string>
   <string name="activate_popup_desc_intl_sim_card">"Un SMS international va être envoyé afin d\'activer votre carte SIM pour permettre l\'usage de fonctions tel que la %s"</string>
   <string name="activate_popup_desc_mixed_sim_cards">"2 SMS dont 1 international vont être envoyés afin d\'activer vos carte SIM pour permettre l\'usage de fonctions tel que la %s"</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">"Nouvelles carte SIM détectées. 2 SMS internationaux vont être envoyés afin d'activer vos cartes SIM pour permettre l'usage de fonctions tel que la %s"</string>
@@ -51,7 +52,7 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Ne peut envoyer le message d\'activation. Assurez-vous que votre carte SIM a bien été activée.
 Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réactiver %s"</string>
 <string name="activate_popup_desc_voip_privacy">Politique de confidentialité</string>
-  <string name="activate_popup_desc_voip_privacy_prefix">". VoIP est fourni par Weihui, consultez "</string>   
+  <string name="activate_popup_desc_voip_privacy_prefix">"Le service VoIP est fourni par Weihui, consultez "</string>   
   <string name="activate_popup_title_failed_phone_error">"Numéro de téléphone non valide"</string>
   <string name="activate_popup_title_failed_query_info">"Impossible de trouver le numéro"</string>
   <string name="activate_popup_title_failed_receive_sms">"Pas de réponse du serveur"</string>

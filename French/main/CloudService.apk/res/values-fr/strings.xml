@@ -157,7 +157,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="wifi_sync">En attente de Wi-Fi</string>
   <string name="system_sync_off">Synchro système désactivée</string>
   <string name="micloud_main_sync_now">Synchroniser</string>
-  <string name="micloud_main_sync_on_wifi">Utiliser le Wi-Fi</string>
+  <string name="micloud_main_sync_on_wifi">Attente du Wi-Fi</string>
   <string name="micloud_main_data_unsynced">%d éléments non synchronisés</string>
   <string name="success_upgraded_space">%s ajoutés</string>
   <string name="total_space_upgraded_to">Espace total : %s</string>
@@ -188,6 +188,8 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
 Vous pouvez désactiver cette fonction à tout moment via les paramètres.
 "</string>
   <string name="micloud_main_suggest_sync">Certains éléments n\'ont pas été synchronisés avec Mi Cloud</string>
+  <string name="micloud_main_suggest_setting">"Attente d\'une connexion Wi-Fi pour synchroniser.
+Touchez le bouton des Réglages de Synchronisation pour voir plus d\'options."</string>
   <string name="mx_dspt_provision">"Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI sans utiliser de SMS.
 
 Vous pouvez activer/désactiver cette fonction à tout moment via les paramètres."</string>
@@ -316,9 +318,9 @@ Pour obtenir plus d'espace de stockage, visitez mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 jours</string>
   <string name="cloud_back_up_interval_short">1 jour</string>
   <string name="cloud_back_up_network_unavailable">"Suppression impossible, connectez-vous à un réseau Wi-Fi et réessayez."</string>
-  <string name="cloud_back_up_open_info">"Sauvegarde la disposition du bureau et applications tous les %1$s, lorsque connecté en Wi-Fi
-Dernière sauvegarde : %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Sauvegarde la disposition du bureau et applications tous les %1$s, lorsque connecté en Wi-Fi</string>
+  <string name="cloud_back_up_open_info">"Sauvegarder par le biais d\'une connexion Wi-Fi tous les %1$s
+Dernière sauvegarde le %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Sauvegarder par le biais d\'une connexion Wi-Fi tous les %1$s</string>
   <string name="cloud_back_up_remove_success">Sauvegarde supprimée</string>
   <string name="cloud_back_up_title">Sauvegarder la disposition du bureau</string>
   <string name="cloud_backup_dialog_title">Sauvegarder avec Mi Cloud</string>

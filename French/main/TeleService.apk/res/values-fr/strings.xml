@@ -1493,6 +1493,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="can_not_use_for_not_data_sim">"(Non utilisée: doit être définie comme SIM par défaut pour les données)"</string>
   <string name="livetalk_user_config_title">Vérifier le numéro de téléphone</string>
   <string name="livetalk_white_list_number_title">Composer des appels sans la recharge</string>
+  <string name="livetalk_provider">Fourni par %1$s</string>
   <string name="call_settings_primary_user_only">Seul l\'utilisateur principal peut modifier les paramètres d\'appel.</string>
   <string name="call_settings_with_label">Paramètres d\'appel %s</string>
 </resources>

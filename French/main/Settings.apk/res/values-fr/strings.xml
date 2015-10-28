@@ -1553,6 +1553,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="search_sync">Synchro micloud mi cloud</string>
   <string name="search_tether">Tether partage</string>
   <string name="search_unlock_set">Déverrouillage verrouillage écran</string>
+  <string name="search_virtual_sim">SIM virtuelle</string>
   <string name="search_vpn">VPN</string>
   <string name="search_wallpaper">Fond d\'écran</string>
   <string name="search_wifi">Wi-Fi wifi</string>
@@ -3732,7 +3733,10 @@ l'assistant Wi-Fi"</string>
   <string name="cell_broadcast_settings_summary">Sélectionnez les types d\'alertes d\'urgence à afficher</string>
   <string name="status_bar_settings_manage_notification">Gérer les notifications</string>
   <string name="music_dirac_mode_piston_standard">Édition standard</string>
-  <string name="virtual_sim_category_title">SIM Virtuel</string>
+  <string name="virtual_sim_category_title">SIM virtuelle</string>
+  <string name="virtual_sim_description">Service d\'itinérance à l\'international</string>
+  <string name="virtual_sim_search_title">SIM virtuelle</string>
+  <string name="virtual_sim_title">Itinérance des données</string>
   <string name="performance_category">Performance</string>
   <string name="processor_info">Infos processeur</string>
   <string name="close_dialog">OK</string>
@@ -3760,8 +3764,4 @@ l'assistant Wi-Fi"</string>
   <string name="edge_mode_photo_summary">Dans l\'Appareil-photo, appuyer sur le bord de votre téléphone pour déclencher l\'obturateur, et appuyer une seconde fois pour prendre une photo</string>
   <string name="edge_mode_screenshot">Capture d\'écran</string>
   <string name="edge_mode_screenshot_summary">Double appui sur les 2 bords pour prendre une capture</string>
-<!-- à traduire
-  <string name="virtual_sim_description">Reliable international roaming service</string>
-  <string name="virtual_sim_title">Roaming data network</string>
--->
 </resources>

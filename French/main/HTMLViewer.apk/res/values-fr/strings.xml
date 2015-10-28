@@ -24,5 +24,8 @@
 rendez-vous sur %s"</string>
   <string name="loading">Chargement…</string>
   <string name="mibi_license">Conditions d\'utilisation de Mi Credit</string>
+  <string name="open_wifi_connect_summary">Touchez pour voir les détails.</string>
+  <string name="open_wifi_connect_title">Connecté à %1$s</string>
+  <string name="permdesc_accessDrm">Autorise les applications à accéder à du contenu légalement protégé par DRM.</string>
   <string name="policy_name">Politique: %s</string>
 </resources>
