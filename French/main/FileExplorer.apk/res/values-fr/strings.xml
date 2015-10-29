@@ -195,16 +195,16 @@ Vous pouvez encoder vos fichiers
 et les stocker dans un dossier sécurisé.
 
 Consultez la page d\'accueil pour en savoir plus."</string>
-  <string name="new_function_str">"Les étiquettes WeChat peuvent dorénavant être collectées automatiquement.
+  <string name="new_function_str">"Les stickers WeChat peuvent dorénavant être collectés automatiquement.
 Téléchargez-les quand vous le souhaitez
 et ne ratez plus les nouveautés!"</string>
-  <string name="new_function_title_str">A propos des étiquettes WeChat</string>
+  <string name="new_function_title_str">A propos des stickers WeChat</string>
   <string name="no">Non</string>
   <string name="no_app_tags">Vide</string>
   <string name="no_enough_storage_indication">Pas assez d\'espace de stockage disponible, le collage a échoué. Veuillez supprimer les fichiers inutiles et essayer à nouveau, ou utilisez le Nettoyage de fichiers pour libérer de l\'espace.</string>
   <string name="no_enough_storage_title">Pas assez d\'espace de stockage disponible</string>
   <string name="no_file">Aucun fichier</string>
-  <string name="no_local_sticker_tip">"Impossible de trouver les étiquettes téléchargées. Consultez les étiquettes partagées par les fans de MIUI."</string>
+  <string name="no_local_sticker_tip">"Impossible de trouver les stickers téléchargés. Découvrez les stickers partagés par les fans de MIUI."</string>
   <string name="no_more_space">Pas d\'espace libre</string>
   <string name="no_network_str">"Echec de connexion réseau. Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
   <string name="no_recent_files">Pas de fichiers récents</string>
@@ -340,10 +340,10 @@ et ne ratez plus les nouveautés!"</string>
   <string name="shared_sticker_network_permission_tip">"Echec de connexion réseau. Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
   <string name="shared_sticker_page_no_file">"Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
   <string name="shared_sticker_str">Partagés par les fans Mi</string>
-  <string name="shared_sticker_suffix">Etiquette sur %s</string>
-  <string name="shared_sticker_use_tip">"Vous pouvez envoyer des étiquettes enregistrées dans les dialogues WeChat de la même façon que les images.
+  <string name="shared_sticker_suffix">Sticker sur %s</string>
+  <string name="shared_sticker_use_tip">"Vous pouvez envoyer des stickers contenus dans les dialogues WeChat de la même façon que les images.
 (les GIF animés peuvent également être ajoutés)."</string>
-  <string name="shared_sticker_use_tip_title">Comment utiliser les étiquettes</string>
+  <string name="shared_sticker_use_tip_title">Comment utiliser les stickers</string>
   <string name="shared_str">Partagé par %s</string>
   <string name="show_message">Le fichier ne peut pas être ouvert tant que le téléchargement n\'est pas terminé</string>
   <string name="sign_description">Connexion…</string>
@@ -403,7 +403,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="waiting">En attente…</string>
   <string name="wangpan_root_path">Mon disque</string>
   <string name="wechat_video">Vidéo au %s</string>
-  <string name="weixin_sticker_tag_str">Etiquettes WeChat</string>
+  <string name="weixin_sticker_tag_str">Stickers WeChat</string>
   <string name="wifi_state">État du Wi-Fi</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
