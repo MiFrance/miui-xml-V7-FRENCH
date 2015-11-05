@@ -5,7 +5,7 @@
   <string name="declaration">"En utilisant ce produit, vous acceptez notre ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Contrat Utilisateur&lt;/a&gt; et notre &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politique de confidentialité&lt;/a&gt;. Cette application requiert un accès à Internet pour fonctionner correctement."</string>
   <string name="declaration_title">Conditions d\'utilisation</string>
   <string name="lockscreen_magazine_subscribe">%1$s followers</string>
-  <string name="lockscreen_magazine_summary">Obtenez tous les jours un nouveau fond d'\écran de verrouillage.</string>
+  <string name="lockscreen_magazine_summary">Obtenez tous les jours un nouveau fond d\'écran de verrouillage.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s fonds d\'écran</string>
   <string name="lockscreen_magazine_system_title">Défaut</string>
   <string name="lockscreen_magazine_title">Écrans de verrouillage quotidiens</string>
