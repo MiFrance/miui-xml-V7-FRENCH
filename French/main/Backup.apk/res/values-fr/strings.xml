@@ -54,6 +54,7 @@
   <string name="cancel">Annuler</string>
   <string name="cancel_backup">Annuler</string>
   <string name="cancel_restore">Annuler</string>
+  <string name="click_to_view">Touchez pour voir</string>
   <string name="cloud_backup_hint">Connectez-vous pour stocker en toute sécurité et restaurer vos sauvegardes</string>
   <string name="cloud_backup_login">Ouvrir une session avec votre compte Mi</string>
   <string name="cloud_backup_window_title">Sauvegarder dans le cloud</string>
@@ -105,6 +106,7 @@
   <string name="feature_title_call_log">Journal d\'appels</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Ajout en cours…</string>
+  <string name="files_backup_info">Tous les fichiers sur la carte SD (incluant les photos, chansons, vidéos, données d\'applications, etc.)</string>  
   <string name="findlost_contact">Récupérer les contacts supprimés</string>
   <string name="findlost_contact_online">Restaurer les contacts supprimés à partir du cloud</string>
   <string name="guarded_mode_dialog_message">Impossible de sauvegarder/restaurer en mode invité</string>
@@ -123,6 +125,7 @@
   <string name="local_no_backup">Aucune sauvegarde locale</string>
   <string name="local_restore_window_title">Restauration locale</string>
   <string name="local_select_account_contact">Comptes / Contacts</string>
+  <string name="local_select_files">Carte SD</string>
   <string name="local_select_sysdata">Système</string>
   <string name="local_select_userapp">Applications</string>
   <string name="menu_patch_delete">Supprimer sauvegarde(s)</string>
@@ -148,6 +151,7 @@
   <string name="prompt_writing">Enregistrement…</string>
   <string name="read_encrypt_fail">Le chiffrement de lecture a échoué</string>
   <string name="refresh">Actualiser</string>
+  <string name="remote_receive">Recevoir</string>
   <string name="restore">Restaurer</string>
   <string name="restore_backup">Restaurer</string>
   <string name="restore_contact">Restaurer les contacts</string>
@@ -225,6 +229,44 @@
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d au total</string>
+  <string name="trans_backingup">Sauvegarde…</string>
+  <string name="trans_backingup_no_items">Synchronisation…</string>
+  <string name="trans_cancel_confirm">Transfert en cours, annuler maintenant ?</string>
+  <string name="trans_cancelling">Annulation</string>
+  <string name="trans_connect_failed_toast">"Echec de la connexion"</string>
+  <string name="trans_connecting_toast">Connexion…</string>
+  <string name="trans_detail_category_account">Comptes et contacts</string>
+  <string name="trans_detail_category_files">Fichiers</string>
+  <string name="trans_detail_category_sysdata">Données système</string>
+  <string name="trans_detail_category_userdata">Applicationss</string>
+  <string name="trans_device_disconnected">Appareil déconnecté</string>
+  <string name="trans_main_tutor">Transférez contacts, journal d\'appels, messages, disposition du bureau, applications, paramètres, etc. vers un nouvel appareil</string>
+  <string name="trans_my_device">Mon appareil</string>
+  <string name="trans_one_key_migrate">Transférer</string>
+  <string name="trans_progress_subdescript_br_receiver">Réception de %s</string>
+  <string name="trans_progress_subdescript_br_sender">Sauvegarde de %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">Réception de %s</string>
+  <string name="trans_progress_subdescript_transing_sender">Envoi de %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Réception de fichiers…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Envoi de fichiers…</string>
+  <string name="trans_progress_subdescript_waiting">En attente de réception de %s</string>
+  <string name="trans_receiver">"Je suis un destinataire"</string>
+  <string name="trans_receiving_completed">Données reçues</string>
+  <string name="trans_restoring">Restauration…</string>
+  <string name="trans_restoring_no_items">Synchronisation des éléments</string>
+  <string name="trans_select_device_receive">Sélectionnez un appareil pour la réception des données.</string>
+  <string name="trans_select_device_send">Sélectionnez un appareil pour l\'envoi des données.</string>
+  <string name="trans_sender">"Je suis un expéditeur"</string>
+  <string name="trans_sender_connectting">Confirmez sur le nouvel appareil</string>
+  <string name="trans_sender_searching">Recherche de nouveaux appareils</string>
+  <string name="trans_sender_searching_ensurance">"Assurez-vous que l\'ancien appareil soit bien allumé
+Attente de connexion de l\'ancien appareil…"</string>
+  <string name="trans_sending_completed">Données envoyées</string>
+  <string name="trans_time_format_second">moins d\'une minute</string>
+  <string name="trans_time_remained">, prêt dans</string>
+  <string name="trans_waiting_ensurance">"Assurez-vous que l\'ancien appareil soit bien allumé
+et que Transfert soit activé"</string>
+  <string name="trans_waiting_for_sender">Attente de connexion de l\'ancien appareil…</string>
   <string name="unit_byte">"o"</string>
   <string name="unit_piece">" éléments"</string>
   <string name="unknown_hint">Inconnu</string>

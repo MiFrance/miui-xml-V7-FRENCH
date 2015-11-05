@@ -1253,6 +1253,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="oldman_mode_confirm_title">confirmation mode sénior</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">activer le monde sénior ?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">désactiver le monde sénior ?</string>
+  <string name="onekey_migrate">Transfert</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
   <string name="other_relative">Autres autorisations</string>
   <string name="overlay_display_devices_title">Simuler affichage secondaire</string>
@@ -2692,6 +2693,8 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_settings_notification_bar">Menu déroulant</string>
   <string name="status_bar_settings_show_carrier">Afficher le nom de l\'opérateur</string>
   <string name="status_bar_settings_show_carrier_summary">Uniquement sur l\'écran de verrouillage</string>
+  <string name="status_bar_settings_show_floating_notification">Notifications flottantes</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Les notifications flottantes disparaissent automatiquement après leur affichage en haut de l\'écran"</string>
   <string name="status_bar_settings_show_flow_info">Afficher infos. du trafic</string>
   <string name="status_bar_settings_show_network_speed">Afficher la vitesse de transfert</string>
   <string name="status_bar_settings_show_notificationBar_notification">Afficher les notifications</string>
@@ -3118,7 +3121,7 @@ et lancer le logiciel."</string>
   <string name="status_bar_settings_notification_priority_summary">Afficher les notifications en tête de liste</string>
   <string name="status_bar_settings_notification_sound_vibrate">Son &amp; Vibration</string>
   <string name="status_bar_settings_show_home_message">Badge sur l\'icône de l\'app</string>
-  <string name="status_bar_settings_show_keyguard_notification">Flottantes et verrouillage</string>
+  <string name="status_bar_settings_show_keyguard_notification">Ecran de verrouillage</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">"Les notifications flottantes disparaitront automatiquement après leur affichage en haut de l'écran"</string>
   <string name="Accounts_settings_title">Comptes</string>
   <string name="access_point_names">"Noms des points d'accès"</string>
@@ -3709,7 +3712,10 @@ l'assistant Wi-Fi"</string>
   <string name="music_dolby_volume_leveler">Normalisation du volume</string>
   <string name="music_dolby_dialogue_enhancer">Amélioration des voix</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
-  <string name="status_bar_app_disable_notification">Désactivé</string>
+  <string name="status_bar_app_disable_notification">Notifications masquées</string>
+  <string name="status_bar_app_enable_floating">Notifications flottantes</string>
+  <string name="status_bar_app_enable_keyguard">Ecran de verrouillage</string>
+  <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Écran de verrouillage, menu déroulant</string>
   <string name="status_bar_app_enable_on_notificationBar">Menu déroulant</string>
   <string name="title_font2">Police</string>

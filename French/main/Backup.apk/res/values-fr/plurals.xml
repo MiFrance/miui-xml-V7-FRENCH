@@ -7,4 +7,12 @@
         <item quantity="other">%1$d éléments sélectionnés</item>
         <item quantity="one">%1$d élément sélectionné</item>
     </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
 </resources>

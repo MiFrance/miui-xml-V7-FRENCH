@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Extension du service de sécurité</string>
+  <string name="app_not_installed_toast">"L\'application n\'est pas installée sur votre appareil."</string>
   <string name="cancel_button">Annuler</string>
   <string name="empty">" "</string>
   <string name="main_toolbar_purchase">Recharger</string>
@@ -8,6 +9,23 @@
   <string name="miuishare_title_share">Partager</string>
   <string name="miuishare_wechat_timeline_title">Instants WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="month_report_activity_label">Rapport mensuel</string>
+  <string name="month_report_click_reconnect_network">Réessayez</string>
+  <string name="month_report_disconnect_tip">"Echec de connexion au réseau"</string>
+  <string name="month_report_follow_service_negative">Non merci</string>
+  <string name="month_report_follow_service_positive">Suivre</string>
+  <string name="month_report_follow_service_summary">"Restez informés sur les nouvelles de sécurité en suivant le compte officiel de l\'appli MIUI Sécurité."</string>
+  <string name="month_report_follow_service_title">Mises à jour de sécurité</string>
+  <string name="month_report_history_activity_label">Historique d\'activité</string>
+  <string name="month_report_network_dialog_description">Autoriser cette application à se connecter à Internet pour récupérer les nouveaux rapports ?</string>
+  <string name="month_report_network_dialog_positive">Autoriser</string>
+  <string name="month_report_network_dialog_title">"Echec de récupération des rapports"</string>
+  <string name="month_report_result_share">Partager</string>
+  <string name="month_report_share_img_fail">"Impossible de partager"</string>
+  <string name="month_report_share_loading">Un instant…</string>
+  <string name="month_report_warning_dialog_description">"Pour consulter le rapport mensuel, activez cette fonction dans les paramètres de l\'application Sécurité."</string>
+  <string name="month_report_warning_dialog_positive">Activé</string>
+  <string name="month_report_warning_dialog_title">Rapport mensuel de sécurité</string>
   <string name="network_not_available">"Pas de connexion au réseau"</string>
   <string name="no_network_btn">Réessayer</string>
   <string name="ok_button">OK</string>

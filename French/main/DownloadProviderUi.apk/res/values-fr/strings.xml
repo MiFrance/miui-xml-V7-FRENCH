@@ -62,6 +62,7 @@
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
   <string name="engine_open">Ouvrir</string>
+  <string name="enter_search">Rechercher</string>
   <string name="expire_notification_msg">Votre abonnement à Xunlei va bientôt expirer.</string>
   <string name="expire_today_notification_msg">Votre abonnement à Xunlei expire aujourd\'hui.</string>
   <string name="extract_file">Décompression du fichier…</string>
@@ -109,6 +110,15 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="revert_default">Réinitialiser</string>
   <string name="revert_download_path">Utiliser le dossier de téléchargement par défaut ?</string>
   <string name="save_path">"Enregistrer les téléchargements dans : "</string>
+  <string name="search_clear_history_btn">Effacer l\'historique des recherches</string>
+  <string name="search_clear_history_toast">Historique effacé</string>
+  <string name="search_history">Rechercher dans l\'historique</string>
+  <string name="search_hotwords">Mots-clés</string>
+  <string name="search_hotwords_switch">Echanger</string>
+  <string name="search_input_empty_toast">Rechercher ou saisir une URL</string>
+  <string name="search_input_hint">Rechercher ou saisir une URL</string>
+  <string name="search_nonetwork_prompt">Vérifiez votre connexion réseau et essayez à nouveau</string>
+  <string name="search_nonetwork_refresh">Actualiser</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_operation_items">Sélectionner les éléments</string>
   <string name="select_sub_file_download">Séléctionnez un fichier à télécharger</string>
@@ -118,6 +128,27 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="setting_debug_fail">"Impossible d'activer le mode Débogage"</string>
   <string name="setting_open_debug">Mode Débogage activé. Tapez 6 fois ici pour le désactiver.</string>
   <string name="show_more">Afficher %s de plus</string>
+  <string name="sniff_bt_text">Fichier torrent</string>
+  <string name="sniff_btn_text">Recherche d\'une source</string>
+  <string name="sniff_connect_error_page_tips">"Echec d\'ouverture de l\'URL"</string>
+  <string name="sniff_connect_error_refresh">Recharger</string>
+  <string name="sniff_download_task_already_exist">Ce téléchargement existe déjà</string>
+  <string name="sniff_download_task_create_success">Téléchargement ajouté</string>
+  <string name="sniff_find_some_prefix">Trouvé(s)</string>
+  <string name="sniff_find_some_suffix">élément(s)</string>
+  <string name="sniff_finding_resource_prompt">Recherche d\'une source…</string>
+  <string name="sniff_no_network_tip">Vérifiez votre connexion réseau et essayez à nouveau</string>
+  <string name="sniff_result_empty_prompt">"Impossible de trouver une source"</string>
+  <string name="sniff_result_num_prefix">Trouvé(s)</string>
+  <string name="sniff_result_num_video_suffix">élément(s)</string>
+  <string name="sniff_result_num_website_suffix">site(s) web</string>
+  <string name="sniff_result_website_intro">共&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; élément(s) | Source: %2$s</string>
+  <string name="sniff_sniffing_btn_text">Recherche d\'une source…</string>
+  <string name="sniff_terms_agree">Accepter</string>
+  <string name="sniff_terms_msg">Vous devez accepter les \"Conditions d\'utilisation\" afin de pouvoir utiliser un moteur de recherche tiers.</string>
+  <string name="sniff_terms_reject">Refuser</string>
+  <string name="sniff_terms_title">Attention</string>
+  <string name="sniff_text_sniff_next_page">Continuer &gt;</string>
   <string name="start_analysis">Vérifier</string>
   <string name="start_download">Télécharger</string>
   <string name="start_xunlei_speedup_info">Identifiez-vous pour accélérer vos téléchargements.</string>
@@ -211,6 +242,8 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="vip_expire_today_show_info">"Votre abonnement à Xunlei a expiré.</string>
   <string name="vip_show_info">"5 millions d\'abonnés.
 Accélérez les téléchargements sur tous vos appareils."</string>
+  <string name="web_dialog_cancel">Annuler</string>
+  <string name="web_dialog_confirm">OK</string>
   <string name="xiaomi_account_not_exist_message">"Ce compte Mi n'existe pas"</string>
   <string name="xunlei_account_has_unbind_message">Compte Xunlei retiré</string>
   <string name="high_speed_channel">Accélérateur Xunlei (payant): </string>

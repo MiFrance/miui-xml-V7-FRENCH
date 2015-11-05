@@ -230,7 +230,7 @@
   <string name="body_hint">Composez un message</string>
   <string name="bytes">%s octets</string>
   <string name="calendar_remind_dialog_title">Rappel</string>
-  <string name="calendar_remind_gridview_month_later">Dans un mois</string>
+  <string name="calendar_remind_gridview_month_later">Le mois prochain</string>
   <string name="calendar_remind_gridview_nextweek">La semaine prochaine</string>
   <string name="calendar_remind_gridview_pick_date">Choisir une date</string>
   <string name="calendar_remind_gridview_tomorrow">Demain</string>
@@ -526,7 +526,7 @@
   <string name="save_action">Enregistrer</string>
   <string name="save_attachment">Enregistrer</string>
   <string name="save_draft">Enregistrer le brouillon</string>
-  <string name="save_power_summary">Planifier des périodes pour réduire la consommation de batterie</string>
+  <string name="save_power_summary">Définir des périodes d\'économie d\'énergie</string>
   <string name="save_power_title">Economiseur de batterie</string>
   <string name="saved">Enregistrée, %s</string>
   <string name="saving">Enregistrement…</string>
@@ -781,7 +781,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayer manuellement.</string>
   <string name="att_download_failed_title">Avertissement</string>
   <string name="att_download_failed_content">Le téléchargement de la pièce jointe a échoué</string>
-  <string name="att_download_failed_network_slow">Le réseau est saturé, veuillez télécharger ultérieurement</string>
+  <string name="att_download_failed_network_slow">Votre connexion est trop lente, veuillez réessayer plus tard</string>
   <string name="outbox_alert_button_resend">Renvoyer</string>
   <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
   <string name="outbox_alert_mailbox_not_found">Adresse e-mail introuvable</string>
@@ -957,7 +957,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="you_are_in_mobile_network">Vous êtes actuellement connecté à un réseau mobile, continuer l\'envoi du fichier (taille : nKo) ?</string>
   <string name="gmail_acceleration">Utiliser un serveur proxy pour le compte Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Utiliser un serveur proxy pour accéder à votre compte Gmail ?</string>
-  <string name="gmail_login_failed_non_proxy_title">Echec d\'accès au serveur Gmail</string>
+  <string name="gmail_login_failed_non_proxy_title">"Echec d\'accès au serveur Gmail"</string>
   <string name="gmail_server_authorization_deleted">Echec d\'authentification du compte. Essayez d\'ajouter à nouveau ce compte.</string>
   <string name="gmail_login_verify">Ajouter un compte Gmail</string>
   <string name="gmail_web_login_go">OK</string>

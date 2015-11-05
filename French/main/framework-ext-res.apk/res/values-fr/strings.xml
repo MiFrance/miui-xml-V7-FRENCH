@@ -38,6 +38,7 @@
   <string name="status_bar_toggle_sync_manual">Synchro manuelle</string>
   <string name="status_bar_toggle_syncing">Synchroniser</string>
   <string name="status_bar_toggle_paper_mode">Mode lecture</string>
+  <string name="subinfo_default_name">SIM %d</string>
   <string name="screen_rotation_freeze_message">Rotation automatique désactivée</string>
   <string name="screen_button_disabled_message">Touches de navigation désactivées. Vous pouvez les réactiver en appuyant sur Accueil et Marche/Arrêt simultanément</string>
   <string name="screen_button_enabled_message">Touches de navigation activées</string>
