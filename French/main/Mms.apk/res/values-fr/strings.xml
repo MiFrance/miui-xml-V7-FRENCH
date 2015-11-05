@@ -311,7 +311,7 @@
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="play">Lire</string>
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
-  <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
+  <string name="pref_edit_smsc_address">Numéro du serveur SMS</string>
   <string name="pref_forward_title">Transférer</string>
   <string name="pref_mms_settings_title">Messages multimédias (MMS)</string>
   <string name="pref_notification_settings_title">Notifications</string>
@@ -348,7 +348,7 @@
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
   <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
   <string name="pref_title_notification_body_enabled">Afficher un aperçu</string>
-  <string name="pref_title_ringtone_repeat">Nombre de rappels</string>
+  <string name="pref_title_ringtone_repeat">Sons de notification</string>
   <string name="pref_title_show_recent_contacts">Afficher les contacts récents</string>
   <string name="pref_title_system_mms_priority">Priorité de réception des MMS</string>
   <string name="pref_title_vcard">Envoyer via vCard</string>
@@ -591,7 +591,7 @@
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
   <string name="warning_show">Envoyer dans %ds</string>
-  <string name="pref_title_ringtone_repeat_summary">"Nombre de notifications lorsque le SMS est reçu alors que l\'écran est éteint : "</string>
+  <string name="pref_title_ringtone_repeat_summary">"Lors de la réception d'un message avec l'écran éteint, jouer un son de notification "</string>
   <string name="block_messaging_entry_title">SMS bloqué</string>
   <string name="open_url_with_web">Ouvrir le lien dans le navigateur ?</string>
   <string name="pref_title_mms_validity_period">Durée de validité des MMS</string>

@@ -298,6 +298,12 @@
         <item>mois</item>
         <item>année</item>
      </string-array>
+     <string-array name="repeat_frequency_spinner_plural">
+        <item>jours</item>
+        <item>semaines</item>
+        <item>mois</item>
+        <item>années</item>
+     </string-array>
      <string-array name="repeat_choose_end">
         <item>Jamais</item>
         <item>Date</item>

@@ -5,6 +5,7 @@
 <resources>
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
+  <string name="already_liked">"Vous aimez déjà cet élément"</string>
   <string name="already_signin_description">Vous êtes déjà connecté</string>
   <string name="app_name">Explorateur</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -34,7 +35,9 @@
   <string name="binded_accout_title">Compte KuaiPan</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_error">Suppression impossible, veuillez réessayer</string>
+  <string name="cancel_operation">Annuler l\'opération</string>
   <string name="cancel_success">Suppression effectuée, tous les fichiers ont été déplacés dans /sdcard/fileexplorer/decryption</string>
+  <string name="cancelled_by_user">Opération annulée</string>
   <string name="category_all">Tout</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -110,6 +113,7 @@
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de KuaiPan. Appuyez sur le lien ci-dessous pour plus de détails :</string>
+  <string name="downloaded_sticker_str">Téléchargé</string>
   <string name="downloading">Téléchargement…</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
   <string name="encrypt_error">"Echec de privatisation des fichiers, veuillez réessayer"</string>
@@ -176,6 +180,7 @@
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Rechercher</string>
   <string name="menu_item_sort">Trier par</string>
+  <string name="menu_item_sort_add_time">"Créé "</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
@@ -213,14 +218,17 @@ et ne ratez plus les nouveautés!"</string>
   <string name="no_wifi_hint">Aucune connexion Wi-Fi trouvée</string>
   <string name="notif_server_starting">Le serveur FTP a démarré</string>
   <string name="notif_title">Serveur FTP</string>
-  <string name="notification_content_hint">Touchez pour voir</string>
+  <string name="notification_content_hint">Visionnez les vidéos WeChat sur le point d\'expirer.</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Notifier et organiser automatiquement lorsque des fichiers sont ajoutés ou modifiés dans %1$s.</string>
   <string name="notification_dialog_title">Notifications</string>
   <string name="notification_setting">Notifications</string>
   <string name="notification_summary">"%1$s ne supporte pas encore cette fonction"</string>
   <string name="notification_title">Notifier lorsque de nouveaux fichiers sont ajoutés à %1$s</string>
-  <string name="notification_wechat_title">Me notifier lorsqu\'une vidéo WeChat est sur le point d\'expirer</string>
+  <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces fichiers vidéo.</string>
+  <string name="notification_wechat_title">Notifications vidéo de WeChat</string>
+  <string name="notify_private_folder_msg">Touchez pour en savoir plus sur les dossiers privés.</string>
+  <string name="notify_private_folder_title">Protégez vos données personnelles</string>
   <string name="online_not_support">"Impossible de consulter ce fichier en ligne pour le moment."</string>
   <string name="open_changed_file_message">"Le fichier que vous essayez d\'ouvrir a été modifié, vous pouvez : 
 1. Le télécharger (mettre à jour le fichier local) 
@@ -248,6 +256,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="operation_favorite">Ajouter aux favoris</string>
   <string name="operation_hide_sys">Masquer les éléments cachés</string>
   <string name="operation_info">Détails</string>
+  <string name="operation_like">Aimer</string>
   <string name="operation_move">Couper</string>
   <string name="operation_moving">Déplacement…</string>
   <string name="operation_moving_detail">Déplacement de fichiers (%1$d/%2$d)</string>
@@ -275,6 +284,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="private_folder">Dossier privé</string>
   <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller l\'appareil ou pour désactiver le mode Enfant</string>   
   <string name="pull_to_signin">Tirer pour se connecter</string>
+  <string name="qq_not_installed">"QQ n'est pas installé"</string>
   <string name="release_to_signin">Relâcher pour se connecter</string>
   <string name="rename_alert">"Si vous changez l'extension de ce fichier, vous ne serez peut-être plus en mesure de l'ouvrir."</string>
   <string name="rename_description">Changement de nom, veuillez patienter…</string>
@@ -289,6 +299,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="rlv_pull_to_refresh">Tirez pour rafraîchir</string>
   <string name="rlv_refreshing">Analyse des fichiers…</string>
   <string name="rlv_release_to_refresh">Relâcher pour rafraîchir</string>
+  <string name="save_to_local">Télécharger</string>
   <string name="sd_card_available">Disponible : %1$s</string>
   <string name="sd_card_size">Total : %1$s</string>
   <string name="sd_full">La carte SD est pleine</string>
@@ -315,7 +326,8 @@ et ne ratez plus les nouveautés!"</string>
   <string name="search_keyword_im">Chat</string>
   <string name="search_keyword_messge">Express</string>
   <string name="search_keyword_news">Actualités</string>
-  <string name="search_keyword_wallet"></string>
+  <string name="search_keyword_wallet">Porte-monnaie</string>
+  <string name="search_result">Résultas</string>
   <string name="search_result_hint1">Liés</string>
   <string name="search_result_hint2">Tout</string>
   <string name="search_result_hint3">" "</string>
@@ -333,6 +345,8 @@ et ne ratez plus les nouveautés!"</string>
   <string name="select_video">Choisir des vidéos</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">L\'envoi à KuaiPan a échoué. Le contenu n\'est pas pris en charge</string>
+  <string name="send_to_qq">Envoyer vers QQ</string>
+  <string name="send_to_weixin">Envoyer vers WeChat</string>
   <string name="server_control_advanced_settings">Paramètres avancés</string>
   <string name="server_control_charset">Codage de transfert</string>
   <string name="server_control_settings">Paramètres</string>
@@ -377,11 +391,13 @@ et ne ratez plus les nouveautés!"</string>
   <string name="trash_box_link">Visitez <b>pan.xiaomi.com</b> pour vider la corbeille</string>
   <string name="trash_box_message1">Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace</string>
   <string name="trash_box_message2">Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace</string>
+  <string name="type_not_support">"Ce format de fichier n'est pas supporté. Décompressez ce fichier et essayez à nouveau."</string>  
   <string name="ui_filechange_btn_download">Télécharger les fichiers</string>
   <string name="ui_filechange_btn_upload">Envoyer des fichiers</string>
   <string name="ui_main_menu_option_sign_in">Se connecter</string>
   <string name="ui_main_menu_option_task_manage">Gestion de transfert</string>
   <string name="ui_main_progress_txt_open_file">Téléchargement…</string>
+  <string name="ui_main_toast_favorite_added">Favori ajouté</string>
   <string name="ui_main_toast_favorite_removed">Les favoris ont été supprimés</string>
   <string name="ui_main_toast_operation_failed">Échec de la suppression de %1$s des favoris.</string>
   <string name="unmount_inform_text">Le stockage USB va être démonté.</string>
@@ -403,6 +419,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="waiting">En attente…</string>
   <string name="wangpan_root_path">Mon disque</string>
   <string name="wechat_video">Vidéo au %s</string>
+  <string name="weixin_not_installed">"WeChat n'est pas installé"</string>
   <string name="weixin_sticker_tag_str">Stickers WeChat</string>
   <string name="wifi_state">État du Wi-Fi</string>
   <string name="xiaomi_account">Compte Mi</string>
@@ -466,6 +483,8 @@ et ne ratez plus les nouveautés!"</string>
   <string name="group_title_extra_backup">Sauvegardes</string>
   <string name="group_title_extra_expire">Va bientôt expirer</string>
   <string name="group_title_extra_new">Nouvelle</string>
+  <string name="if_cancel">Annuler cette opération ?</string>
+  <string name="image_loading_error">"Echec au chargement de l'image"</string>
   <string name="tab_local">Local</string>
   <string name="tab_more">Plus</string>
   <string name="tab_path">DOSSIERS</string>
@@ -499,8 +518,10 @@ et ne ratez plus les nouveautés!"</string>
   <string name="mi_router_label">Routeur</string>
   <string name="usb_label">USB</string>
   <string name="no_display_file">"Impossible d'afficher %1$s"</string>
+  <string name="no_downloaded_sticker_tip">"Stickers téléchargés non trouvés. Consultez les stickers partagés par les fans Mi."</string> 
   <string name="action_mode_deselect_all">Tout désélectionner</string>
   <string name="action_mode_select_all">Tout sélectionner</string>
+  <string name="add_private_files">Ajouter des fichiers</string>
   <string name="delete_selected_tasks">Supprimer la sélection ?</string>
   <string name="files">Fichiers</string>
   <string name="get_cloud_space">Ajouter 500Go</string>

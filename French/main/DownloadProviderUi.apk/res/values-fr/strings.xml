@@ -142,7 +142,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="sniff_result_num_prefix">Trouvé(s)</string>
   <string name="sniff_result_num_video_suffix">élément(s)</string>
   <string name="sniff_result_num_website_suffix">site(s) web</string>
-  <string name="sniff_result_website_intro">共&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; élément(s) | Source: %2$s</string>
+  <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; élément(s) | Source: %2$s</string>
   <string name="sniff_sniffing_btn_text">Recherche d\'une source…</string>
   <string name="sniff_terms_agree">Accepter</string>
   <string name="sniff_terms_msg">Vous devez accepter les \"Conditions d\'utilisation\" afin de pouvoir utiliser un moteur de recherche tiers.</string>

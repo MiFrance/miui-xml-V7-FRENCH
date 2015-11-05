@@ -140,6 +140,7 @@
   <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
   <string name="login_immediately">Connexion</string>
   <string name="mainbtn_text_quick_cleanup">Nettoyer %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">Nettoyer</string>
   <string name="memeory_check_content">%1$d applis, mémoire %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">Recherche de mises à jour...</string>
@@ -214,7 +215,7 @@
   <string name="seton_immediately">Activer</string>
   <string name="share">Partager</string>
   <string name="similar_image_desc">Supprimer les photos similaires</string>
-  <string name="start_install">Démarrer l\'installation</string>
+  <string name="start_install">Installer maintenant</string>
   <string name="summary_auto_cleaner">Nettoyer votre système automatiquement tous les 3 jours ?</string>
   <string name="summary_delete_cache">Certaines applis ont besoin du cache pour fonctionner normalement.</string>
   <string name="summary_delete_large_file">"Certains fichiers volumineux peuvent être utiles quand vous n'êtes pas connectés à internet (par ex. Cartes, Plannings, etc). Assurez-vous que ce fichier ne vous sert pas."</string>

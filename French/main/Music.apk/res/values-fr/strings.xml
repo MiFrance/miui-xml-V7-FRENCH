@@ -236,7 +236,7 @@
   <string name="network_request_error">"Échec de connexion réseau"</string>
   <string name="network_settings_error">"Échec de connexion réseau"</string>
   <string name="all_tracks_short">Toutes les pistes</string>
-  <string name="already_download">Téléchargement, veuillez patienter...</string>
+  <string name="already_download">Téléchargement…</string>
   <string name="create_playlist">Créer une playlist</string>
   <string name="create_playlist_failure">"Échec de création d'une liste de lecture"</string>
   <string name="current_services">En cours</string>
@@ -301,7 +301,7 @@
   <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">Pas de réseau disponible</string>
   <string name="miuishare_publish">Envoyer</string>
-  <string name="miuishare_share_done">Le contenu partagé a été envoyé.</string>
+  <string name="miuishare_share_done">Partagé avec succès.</string>
   <string name="miuishare_share_editor_title">Partager</string>
   <string name="miuishare_title_more">Plus</string>
   <string name="miuishare_title_share">Partager</string>
@@ -371,10 +371,10 @@
   <string name="device_not_connected">Déconnecté</string>
   <string name="download_auto_when_free_network_summary">Réglages additionnels pour vos chansons favorites</string>
   <string name="download_complete">Téléchargement terminé</string>
-  <string name="download_complete_start_install">Téléchargement terminé, début de l\'installation...</string>
+  <string name="download_complete_start_install">Installation…</string>
   <string name="download_quality">Qualité de téléchargement</string>
   <string name="download_quality_summary">Réglages additionnels pour vos chansons téléchargées</string>
-  <string name="download_start">Début du téléchargement...</string>
+  <string name="download_start">Début du téléchargement…</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

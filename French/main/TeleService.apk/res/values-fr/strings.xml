@@ -50,7 +50,7 @@
   <string name="left_minutes">" min"</string>
   <string name="load_rates_failed">"Échec du chargement"</string>
   <string name="loading">Un instant…</string>
-  <string name="loading_product">Un instant</string>
+  <string name="loading_product">Un instant…</string>
   <string name="loading_recent_failed">"Échec du chargement"</string>
   <string name="no_data">Pas de données</string>
   <string name="no_more">Plus rien</string>
