@@ -107,7 +107,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="gps_notification_found_text">Position définie par GPS</string>
   <string name="gps_notification_searching_text">Acquisition du signal GPS…</string>
   <string name="headset_custom">Configurer</string>
-  <string name="headset_info">Appuyer pour configurer</string>
+  <string name="headset_info">Appuyer pour voir les paramètres.</string>
   <string name="headset_settings">Casque détecté</string>
   <string name="invalid_charger">"Chargement USB non disponible.
 Vous devez utiliser le chargeur fourni."</string>

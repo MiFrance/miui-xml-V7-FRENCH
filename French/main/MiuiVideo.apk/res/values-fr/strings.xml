@@ -473,12 +473,14 @@
 	 <string name="alert_dialog_download_error">Erreur de téléchargement</string>
      <string name="alertdialog_downapp_btn_back">Retour</string>
 	 <string name="all_episode">Tous les épisodes</string>
+     <string name="app_charging_wifi_mode">Mise à jour sur secteur</string>
+     <string name="app_charging_wifi_mode_summary">Mettre à jour l\'application automatiquement en cas de connexion à un réseau Wi-Fi et sur secteur</string>
 	 <string name="check_app_version">Recherche de mises à jour...</string>
 	 <string name="app_latest_version">Pas de mises à jour</string>
 	 <string name="app_upgrade_version">Mise à jour disponible</string>
 	 <string name="app_version">Version</string>
      <string name="app_wifi_mode">Mise à jour automatique</string>
-     <string name="app_wifi_mode_summary">Mettre à jour automatiquement lorsque le Wi-Fi est activé</string>
+     <string name="app_wifi_mode_summary">Mettre à jour automatiquement lorsque l\'application est lancée avec le Wi-Fi activé</string>
 	 <string name="data_buffering">Mise en mémoire tampon...</string>
 	 <string name="debug_mode">Mode débogage</string>
 	 <string name="debug_mode_desc">Active le débogage et affiche l\'id de la vidéo dans le coin en haut à gauche</string>

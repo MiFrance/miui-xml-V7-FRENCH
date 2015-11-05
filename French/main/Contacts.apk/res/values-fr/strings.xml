@@ -473,8 +473,8 @@ Les fiches de contact sont désactivés"</string>
   <string name="import_to_xiaomi_account_confirm">Importer</string>
   <string name="import_to_xiaomi_account_progress_finish">Importation terminée</string>
   <string name="import_to_xiaomi_account_progress_message">Importation en cours…</string>
-  <string name="import_to_xiaomi_account_progress_title">Importer les contacts sur le compte Mi</string>
-  <string name="import_to_xiaomi_account_title">Voulez-vous importer ces contacts dans votre compte Mi ?</string>
+  <string name="import_to_xiaomi_account_progress_title">Importer les contacts dans le compte Mi</string>
+  <string name="import_to_xiaomi_account_title">Import dans le compte Mi</string>
   <string name="import_vcard_description">Importer des contacts à partir d\'un fichier</string>
   <string name="import_weibo_dialog_title">Importer des contacts Sina Weibo</string>
   <string name="import_weibo_error_no_matched_contacts">Mise à jour des contacts terminée : aucun contact assorti</string>
@@ -798,8 +798,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pref_key_sim_manage2">Gestion SIM 2</string>
   <string name="pref_key_sim_manage1">Gestion SIM 1</string>
   <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Mi</string>
-  <string name="pref_title_account_import">Importer depuis le compte</string>
-  <string name="pref_title_import_from_account">Importer vers le compte Mi</string>
+  <string name="pref_title_account_import">Importer les contacts</string>
+  <string name="pref_title_import_from_account">Importer dans le compte Mi</string>
   <string name="preference_auto_ip_summary_disable">Désactivé</string>
   <string name="preference_auto_ip_summary_on">"Préfixe IP du transporteur :%s"</string>
   <string name="preference_auto_ip_title">IP automatique</string>

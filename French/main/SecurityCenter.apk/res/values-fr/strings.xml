@@ -249,6 +249,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="menu_text_garbage_cleanup">Nettoyage</string>
   <string name="menu_text_power_manager">Gestion de l\'énergie</string>
   <string name="menu_text_power_percent">%s</string>
+  <string name="menu_text_power_percent_title">Batterie %s</string>
   <string name="month_report_activity_label">Rapport mensuel</string>
   <string name="month_report_click_reconnect_network">Réessayer</string>
   <string name="month_report_disconnect_tip">"Impossible de se connecter au réseau"</string>
@@ -355,7 +356,9 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="summary_virus_update">Récupérez automatiquement les dernières définitions de virus</string>
   <string name="title_install_virus_no">Moniteur d\'installations inactif</string>
   <string name="title_install_virus_yes">Moniteur d\'installations actif</string>
+  <string name="title_live_talk_purchase">Recharger maintenant</string>
   <string name="summary_install_virus">Vérifier les applis avant l\'installation</string>
+  <string name="summary_live_talk_purchase">Juste 0.05¥ par minute pour les appels nationaux.</string>
   <string name="title_miui_update_no">MàJ MIUI trouvée : %s</string>
   <string name="title_miui_update_yes">MIUI est à jour</string>
   <string name="title_app_update_no">Mises à jour disponibles pour %d applis</string>
@@ -499,6 +502,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="hints_installed_apps_header_left">Applications installées : %d</string>
   <string name="deepclean_cache_header_left">Fichiers cache : %d</string>
   <string name="hints_loading_text">Chargement…</string>
+  <string name="hints_need_quick_clean">Trouver et supprimer les fichiers dangereux</string>
   <string name="dialog_msg_check_all">%1$s contient %2$d éléments</string>
   <string name="dialog_title_check_all">Tout sélectionner</string>
   <string name="button_text_add_to_white_list">Exception</string>

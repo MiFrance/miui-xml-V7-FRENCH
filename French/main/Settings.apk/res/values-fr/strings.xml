@@ -1529,7 +1529,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="search_storage">stockage</string>
   <string name="search_wifi_display">affichage sans fil</string>
   <string name="secure_keyguard_business_title">Mot de passe du verrouillage</string>
-  <string name="search_fluency_mode">Optimiser optimisation performances système puissance</string>
+  <string name="search_fluency_mode">Animations système</string>
   <string name="search_about">À propos</string>
   <string name="search_accelerometer">Accéléromètre rotation</string>
   <string name="search_access_control">Contrôle accès</string>
@@ -2825,7 +2825,7 @@ et lancer le logiciel."</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
   <string name="high_performance_title">Benchmark détecté. Mode performances recommandé</string>
   <string name="high_performance_notif_title">Mode performances actif</string>
-  <string name="high_performance_notif_summary">"Le mode performances désactive les contrôles de température ainsi que les limitations de consommation de batterie, votre appareil étant alors à sa puissance maximale. Cela peut faire chauffer votre appareil et réduire son autonomie."</string>
+  <string name="high_performance_notif_summary">"L\'appareil peut chauffer lors d'un usage intensif."</string>
   <string name="dirac_mode_general_earbuds">Écouteurs standards</string>
   <string name="dirac_mode_general_inear">Intra-aur. standards</string>
   <string name="dirac_mode_piston_1">Mi Piston-1</string>

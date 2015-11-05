@@ -34,8 +34,8 @@
   <string name="traffic_saving_pic_compress_orig">Original</string>
   <string name="traffic_saving_ratio">Données réduites de %.2f%%</string>
   <string name="traffic_saving_ratio_low">"Ne peut réduire significativement la consommation de données"</string>
-  <string name="traffic_saving_recommanded_close">Désactiver cet élément</string>
-  <string name="traffic_saving_recommanded_open">Activer cet élément</string>
+  <string name="traffic_saving_recommanded_close">Désactiver</string>
+  <string name="traffic_saving_recommanded_open">Activer</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activer automatiquement l\'économiseur de données pour réduire la consommation de données mobiles dans les applications.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Si vous avez un quota de données mensuel, n\'oubliez pas de désactiver ce service pour les applications tierces, afin de ne pas encourir de frais supplémentaires de votre opérateur.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activer</string>
   <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>

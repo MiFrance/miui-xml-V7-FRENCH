@@ -29,6 +29,7 @@
   <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
+  <string name="data_error_show">Une erreur est survenue</string>
   <string name="locating_fail">Échec de localisation, veuillez vérifier vos paramètres de localisation ou réessayer</string>
   <string name="no_more_result">Aucun autre résultat</string>
   <string name="downloading">Téléchargement…</string>

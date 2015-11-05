@@ -32,6 +32,22 @@
     <item quantity="other">%1$d éléments sélectionnés</item>
     <item quantity="one">%1$d élément sélectionné</item>
   </plurals>
+  <plurals name="video_download_clear_prompt">
+    <item quantity="other">Retirer %1$d vidéos ?</item>
+    <item quantity="one">Retirer %1$d vidéo ?</item>
+  </plurals>
+  <plurals name="video_download_clear_info">
+    <item quantity="other">%1$d vidéos supprimées avec succès.</item>
+    <item quantity="one">%1$d vidéo supprimée avec succès.</item>
+  </plurals>
+  <plurals name="video_history_clear_prompt">
+    <item quantity="other">Supprimer %1$d éléments de l\'historique ?</item>
+    <item quantity="one">Supprimer %1$d élément de l\'historique ?</item>
+  </plurals>
+  <plurals name="video_history_clear_info">
+    <item quantity="other">%1$d éléments supprimés de l\'historique.</item>
+    <item quantity="one">%1$d élément supprimé de l\'historique.</item>
+  </plurals>
   <plurals name="adblock_rules_number_text">
     <item quantity="other">%d éléments bloqués</item>
     <item quantity="one">%d élément bloqué</item>
