@@ -152,9 +152,7 @@
   <string name="no_title_label">(Sans titre)</string>
   <string name="not_synced">non synchronisé</string>
   <string name="notice_button_exit">Quitter</string>
-  <string name="notice_button_ok">OK</string>
   <string name="notice_declaration_ignore">"Ne plus afficher"</string>
-  <string name="notice_title_agreement">Connexion à Internet</string>
   <string name="notice_button_ok">Accepter</string>
   <string name="notice_button_ok_and_go_on">Accepter et continuer</string>
   <string name="notice_title_agreement">Conditions générales de vente</string>

@@ -260,7 +260,6 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_main_detail">Détails</string>
   <string name="micloud_main_network_abnormal">"Impossible de se connecter au réseau"</string>
   <string name="micloud_main_set_internet">Paramètres</string>
-  <string name="micloud_main_space_full">Espace saturé</string>
   <string name="micloud_main_space_risk">Il y a %d de données à synchroniser. Merci d\'ajuster l\'espace de stockage.</string>
   <string name="micloud_main_space_low">Espace quasiment saturé…</string>
   <string name="micloud_main_sync_pause">Synchronisation suspendue</string>
