@@ -30,6 +30,7 @@
   <string name="no_network_btn">Réessayer</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Ouvrir dans le navigateur</string>
+  <string name="pm_lable_name">A propos des accès root</string>
   <string name="privacy_declare_dialog_title">Conditions d\'utilisation du service</string>
   <string name="privacy_prompt_traffic_purchase_message">"Votre numéro de téléphone et vos réglages opérateur vont être encryptés et envoyés sur les serveurs Mi, afin de vous proposer des options de recharges supplémentaires."</string>
   <string name="share">Partager</string>

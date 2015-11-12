@@ -30,6 +30,7 @@
   <string name="buffering">Mise en mémoire tampon…</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="buffering_video_netplay_label_v5">Mise en mémoire tampon…</string>
+  <string name="buy_vip">Achat VIP</string>
   <string name="loading_video_netplay_label">Chargement, veuillez patienter…</string>
   <string name="loading_video_netplay_label_v5">Chargement du flux, veuillez patienter…</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
@@ -144,6 +145,9 @@
   <string name="done">OK</string>
   <string name="fullscreen">Plein écran</string>
   <string name="no_longer_tips">Ne pas rappeler</string>
+  <string name="no_pay_record">Enregistrement non payant</string>
+  <string name="not_buy_vip">Pas de VIP</string>
+  <string name="not_exist_openid">Récupération des infos du compte, veuillez patienter...</string>
   <string name="addon_all">Tous</string>
   <string name="addon_installed_empty_hint">Vide</string>
   <string name="addon_list_empty_hint">Vide</string>
@@ -192,6 +196,9 @@
   <string name="share_device">Périphériques partagés</string>
   <string name="not_login">Non connecté</string>
   <string name="click_to_login">Appuyer pour se connecter</string>
+  <string name="clubber">Clubber</string>
+  <string name="clubber_center">Centre Clubber</string>
+  <string name="clubber_info">Informations sur Clubber</string>
   <string name="count_ge_device">%d</string>
   <string name="play_his_empty_hint">Vide</string>
   <string name="yesterday">Hier</string>
@@ -234,6 +241,7 @@
   <string name="clarity_high">Haute</string>
   <string name="clarity_standard">Standard</string>
   <string name="vp_device_list">Périphériques</string>
+  <string name="vp_download_apk_from_video_ad">Installer l\'application</string>
   <string name="vp_select_function">Paramètres</string>
   <string name="vp_media_info">Afficher les détails</string>
   <string name="vp_media_type_unsported">Ce type de fichier n\'est pas supporté</string>
@@ -244,6 +252,7 @@
   <string name="vp_full_screen">Plein écran</string>
   <string name="vp_adapt_width">Adapter la largeur</string>
   <string name="vp_adapt_height">Adapter la hauteur</string>
+  <string name="vp_app_download">Téléchargement de l\'application</string>
   <string name="vp_using_16_9">Forcer 16:9</string>
   <string name="vp_using_4_3">Forcer 4:3</string>
   <string name="select_tv">Sélectionner la chaine</string>
@@ -293,6 +302,7 @@
   <string name="download_percent_hint">Téléchargement de %d%%</string>
   <string name="waiting_to_download">En attente</string>
   <string name="pause">Pause</string>
+  <string name="pay_record">Enregistrement payant</string>
   <string name="init">Init</string>
   <string name="file_error">Erreur de fichier</string>
   <string name="connect_error">Erreur de connexion</string>
@@ -393,6 +403,7 @@
      <string name="download_with">Téléchargement %1$s/%2$s</string>
      <string name="error_empty_filter_title">Aucun résultat</string>
      <string name="error_empty_title">Il y a eu une erreur.</string>
+     <string name="expire_time">Heure d\'expiration</string>
      <string name="file_not_exist">Le fichier n\'existe pas</string>
      <string name="film">Films</string>
      <string name="gong_count_bu">%d vues totales</string>
@@ -516,6 +527,7 @@
 	 <string name="online_video_oneweek_ago">Il y a une semaine</string>
 	 <string name="operator_test">Réglages opérateur</string>
 	 <string name="operator_test_summary">Basculer en mode opérateur</string>
+     <string name="original_price">Prix initial</string>
      <string name="other_info">Autre</string>
 	 <string name="play_fail">Lecture impossible</string>
 	 <string name="play_source_fetching">Connexion...</string>
@@ -538,6 +550,7 @@
 	 <string name="video_plugin">Plug-in vidéo</string>
 	 <string name="video_plugin_downloading">Téléchargement (%1$s)</string>
 	 <string name="video_plugin_prepare">Un instant...</string>
+     <string name="vip_package">Package VIP</string>
 	 <string name="vp_video_bad_network_condition">Mauvaise connexion réseau, essayez plus tard</string>
 	 <string name="vp_video_plugin_installation">Installation du plug-in %1$s...</string>
 	 <string name="empty_keyword_hint">Le mot-clé ne peut être vide</string>

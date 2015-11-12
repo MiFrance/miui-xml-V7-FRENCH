@@ -176,11 +176,11 @@
   <string name="menu_picktheme">Sélectionner un thème</string>
   <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>
   <string name="select_all">Tout sélectionner</string>
-  <string name="status_pending">en attente</string>
+  <string name="status_pending">En attente</string>
   <string name="status_downloading">Téléchargement…</string>
-  <string name="status_paused">en pause</string>
-  <string name="status_downloaded">téléchargé</string>
-  <string name="status_installing">installation</string>
+  <string name="status_paused">En pause</string>
+  <string name="status_downloaded">Téléchargé</string>
+  <string name="status_installing">Installation</string>
   <string name="bad_wallpaper_source_prompt">Impossible de charger le fond d\'écran</string>
   <string name="current_wallpaper">Actuel</string>
   <string name="editing_mode_title_empty">Sélectionnez des éléments</string>
@@ -210,6 +210,7 @@
   <string name="apply_as_lock_screen">Écran de verrouill.</string>
   <string name="apply_as_wallpaper">Écran d\'accueil</string>
   <string name="apply_both">Les deux</string>
+  <string name="apply_negative_action">"Ne pas appliquer"</string>
   <string name="choose_wallpaper">Sélectionner un fond d\'écran</string>
   <string name="current_preview">Aperçu</string>
   <string name="default_shortcut_title_10086">10086.cn</string>

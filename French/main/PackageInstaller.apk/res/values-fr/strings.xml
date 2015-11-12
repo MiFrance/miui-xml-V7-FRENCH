@@ -36,6 +36,12 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</
   <string name="app_store_missing_title">L\'App Store n\'est pas installé</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
   Autoriser le démarrage automatique ?"</string>
+  <string name="btn_text_install_new_version">Dernière version</string>
+  <string name="btn_text_install_origin">Version initiale</string>
+  <string name="btn_text_install_security_version_in_appstore">Remplacer par une version sûre</string>
+  <string name="btn_text_scaning">Analyse…</string>
+  <string name="btn_text_security_install">Remplacer par une version sûre</string>
+  <string name="btn_text_security_scan">Analyse de sécurité</string>
   <string name="caller_app">Source : %1$s</string>
   <string name="cancel">Annuler</string>
   <string name="dlg_app_replacement_statement">"L\'application que vous installez en remplacera une autre.
@@ -63,12 +69,18 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="install_failed_system_incompatible">Cette appli n\'est pas compatible avec MIUI.</string>
   <string name="install_failed_verify_failed">Impossible d\'installer le package, car il ne répond pas aux critères de validation.</string>
   <string name="install_failed_verify_timeout">Expiration du délai lors de la tentative de validation de ce package. Veuillez le réinstaller ultérieurement.</string>
+  <string name="install_from_appstore_hint">Nous vous recommandons d\'installer cette application à partir de &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Installation…</string>
   <string name="launch">Ouvrir</string>
   <string name="lift_ban">Lever l\'interdiction</string>
   <string name="low_risk_perms">Autorisations à faible risque</string>
   <string name="manage_applications">Gérer les applications</string>
   <string name="manage_device_administrators">Gérer les administrateurs de l\'appareil</string>
+  <string name="message_apk_checking">Vérification de l\'Apk…</string>
+  <string name="message_appstore_verify_has_new_version">Une nouvelle version de cette application est disponible sur l\'App Store. Voulez-vous l\'installer ?</string>
+  <string name="message_appstore_verify_inconsistent">"La signature de cette application est différente de celle de l\'App Store, il serait plus sûr d\'installer l\'application à partir de celui-ci."</string>
+  <string name="message_appstore_verify_ok">La version de cette application sur l\'App Store a passé nos tests de sécurité, nous vous recommandons de l\'installer à partir de celui-ci.</string>
+  <string name="message_security_scaning">Scanning…</string>
   <string name="ok">OK</string>
   <string name="other_relative">Autres autorisations</string>
   <string name="out_of_space_dlg_text">Impossible d\'installer %1$s. Veuillez libérer de l\'espace, puis réessayer.</string>
@@ -132,5 +144,6 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="button_text_next_step_timer">Suivant (%d)</string>
   <string name="package_delete_confirm_step_1">Supprimer %s ?</string>
   <string name="package_delete_confirm_step_2">Supprimer cette application peut rendre votre système instable.</string>
-  <string name="package_delete_confirm_step_3">"Vous ne pourrez plus ouvrir cette application après l'avoir supprimée."</string>   
+  <string name="package_delete_confirm_step_3">"Vous ne pourrez plus ouvrir cette application après l'avoir supprimée."</string>
+  <string name="waiting_tip">Cela peut prendre du temps, mais cela en vaut la peine</string>
 </resources>

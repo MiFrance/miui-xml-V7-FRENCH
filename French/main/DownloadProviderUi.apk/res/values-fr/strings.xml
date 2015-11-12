@@ -16,6 +16,7 @@
   <string name="cancel_running_download">Annuler</string>
   <string name="confirm_delete_downloads_message">%d téléchargements vont être supprimés</string>
   <string name="confirm_delete_the_download_item_message">Supprimer ces téléchargements ?</string>
+  <string name="creat_task_success">Ajouté à la file de téléchargements</string>
   <string name="create_task">Créer une tâche</string>
   <string name="delete">Supprimer</string>
   <string name="delete_download">Supprimer</string>
@@ -143,9 +144,12 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="sniff_result_num_video_suffix">élément(s)</string>
   <string name="sniff_result_num_website_suffix">site(s) web</string>
   <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; élément(s) | Source: %2$s</string>
+  <string name="sniff_search_assoicate_sizeinfo">Taille : %1$s</string>
+  <string name="sniff_search_install">Installer</string>
   <string name="sniff_sniffing_btn_text">Recherche d\'une source…</string>
   <string name="sniff_terms_agree">Accepter</string>
   <string name="sniff_terms_msg">Vous devez accepter les \"Conditions d\'utilisation\" afin de pouvoir utiliser un moteur de recherche tiers.</string>
+  <string name="sniff_terms_msg_bold">Conditions d\'utilisation</string>
   <string name="sniff_terms_reject">Refuser</string>
   <string name="sniff_terms_title">Attention</string>
   <string name="sniff_text_sniff_next_page">Continuer &gt;</string>
@@ -168,7 +172,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="third_web_filename_hint">Name</string>
   <string name="third_web_filesize">Size</string>
   <string name="third_web_savepath">Location</string>
-  <string name="third_web_title">Save</string>
+  <string name="third_web_title">Télécharger</string>
   <string name="title_tips">Attention</string>
   <string name="title_unbind_xunlei">Retirer votre compte Xunlei</string>
   <string name="torrent_file_error">"Échec d\'analyse du fichier torrent"</string>

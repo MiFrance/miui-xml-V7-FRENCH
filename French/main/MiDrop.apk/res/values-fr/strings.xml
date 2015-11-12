@@ -15,8 +15,8 @@
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Partager vos fichiers avec les appareils à proximité ?</string>
   <string name="intro_page1_text2">"Plus facile que jamais !"</string>
-  <string name="intro_page2_choose_files">Sélectionnez vos fichiers et appuyez sur \"Partager\"</string>
-  <string name="intro_page2_click_to_send">Appuyez sur \"Partager\"</string>
+  <string name="intro_page2_choose_files">Sélectionnez vos fichiers et appuyez sur \"Envoyer\"</string>
+  <string name="intro_page2_click_to_send">Appuyez sur \"Envoyer\"</string>
   <string name="intro_page3_choose_midrop">Sélectionnez \"Mi Drop\"</string>
   <string name="intro_page3_choose_midrop2">Vos fichiers sont envoyés instantanément !</string>
   <string name="newText">Nouveau Texte</string>

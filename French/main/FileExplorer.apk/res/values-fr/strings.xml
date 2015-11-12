@@ -36,7 +36,7 @@
   <string name="cancel">Annuler</string>
   <string name="cancel_error">Suppression impossible, veuillez réessayer</string>
   <string name="cancel_operation">Annuler l\'opération</string>
-  <string name="cancel_success">Suppression effectuée, tous les fichiers ont été déplacés dans /sdcard/fileexplorer/decryption</string>
+  <string name="cancel_success">Suppression effectuée, tous les fichiers ont été déplacés dans %s</string>
   <string name="cancelled_by_user">Opération annulée</string>
   <string name="category_all">Tout</string>
   <string name="category_apk">APKs</string>
@@ -106,7 +106,7 @@
   <string name="dialog_type_image">Images</string>
   <string name="dialog_type_text">Docs</string>
   <string name="dialog_type_video">Vidéos</string>
-  <string name="dir_not_support">"Ce dossier ne peut être rendu privé."</string>
+  <string name="dir_not_support">"Ce dossier ne peut être caché."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Dossier vide</string>
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
@@ -116,9 +116,9 @@
   <string name="downloaded_sticker_str">Téléchargé</string>
   <string name="downloading">Téléchargement…</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
-  <string name="encrypt_error">"Echec de privatisation des fichiers, veuillez réessayer"</string>
-  <string name="encrypt_prefix">PRIVÉ</string>
-  <string name="encrypt_success">Tous les fichiers ont été rendus privés</string>
+  <string name="encrypt_error">"Impossible de cacher les fichiers, veuillez réessayer"</string>
+  <string name="encrypt_prefix">CACHÉ</string>
+  <string name="encrypt_success">Tous les fichiers sont cachés</string>
   <string name="encrypting">Encodage…</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
@@ -175,7 +175,7 @@
   <string name="local_video">Vidéo</string>
   <string name="login_reg_content">KuaiPan vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
   <string name="login_reg_content0">KuaiPan, votre cloud personnel</string>
-  <string name="make_private">Rendre privé</string>
+  <string name="make_private">Cacher</string>
   <string name="menu_item_cleanup">Nettoyage de fichiers</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Rechercher</string>
@@ -194,12 +194,8 @@
   <string name="net_lose_connected">Réseau non disponible, impossible d\'obtenir la taille</string>
   <string name="networkView_notConnected">Aucun réseau disponible</string>
   <string name="new_folder_name">Nouveau dossier</string>
-  <string name="new_function">A propos des dossiers privés</string>
-  <string name="new_function_info">"Le dossier privé est une nouvelle fonctionnalité de MIUI.
-Vous pouvez encoder vos fichiers
-et les stocker dans un dossier sécurisé.
-
-Consultez la page d\'accueil pour en savoir plus."</string>
+  <string name="new_function">A propos des dossiers cachés</string>
+  <string name="new_function_info">"Pour créer un dossier caché, glisser vers le bas de votre écran à partir de la première rangée d\'icônes sur la page de démarrage."</string>
   <string name="new_function_str">"Les stickers WeChat peuvent dorénavant être collectés automatiquement.
 Téléchargez-les quand vous le souhaitez
 et ne ratez plus les nouveautés!"</string>
@@ -227,7 +223,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="notification_title">Notifier lorsque de nouveaux fichiers sont ajoutés à %1$s</string>
   <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces fichiers vidéo.</string>
   <string name="notification_wechat_title">Notifications vidéo de WeChat</string>
-  <string name="notify_private_folder_msg">Touchez pour en savoir plus sur les dossiers privés.</string>
+  <string name="notify_private_folder_msg">Touchez pour en savoir plus sur les dossiers cachés.</string>
   <string name="notify_private_folder_title">Protégez vos données personnelles</string>
   <string name="online_not_support">"Impossible de consulter ce fichier en ligne pour le moment."</string>
   <string name="open_changed_file_message">"Le fichier que vous essayez d\'ouvrir a été modifié, vous pouvez : 
@@ -274,14 +270,14 @@ et ne ratez plus les nouveautés!"</string>
   <string name="operation_show_sys">Afficher les éléments cachés</string>
   <string name="operation_unfavorite">Supprimer des favoris</string>
   <string name="pan_settting">Paramètres KuaiPan</string>
-  <string name="partial_cancel_successful">"Echec de retrait de certains fichiers. Les autres fichiers ont été déplacés dans /sdcard/fileexplorer/decryption"</string>
+  <string name="partial_cancel_successful">"Echec de retrait de certains fichiers. Les autres fichiers ont été déplacés dans %s"</string>
   <string name="partial_delete_failure">"Echec de retrait de certains fichiers, veuillez réessayer"</string>
-  <string name="partial_encrypt_success">"Echec de privatisation de certains fichiers, veuillez réessayer"</string>
+  <string name="partial_encrypt_success">"Certains fichiers n'ont pu être cachés, veuillez réessayer"</string>
   <string name="partial_repair_done">Restauration des fichiers terminée</string>
   <string name="paused">En pause</string>
   <string name="port_range">Le port doit être compris dans l\'intervalle 1024–65535</string>
-  <string name="private_files">Privé</string>
-  <string name="private_folder">Dossier privé</string>
+  <string name="private_files">Caché</string>
+  <string name="private_folder">Dossier caché</string>
   <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller l\'appareil ou pour désactiver le mode Enfant</string>   
   <string name="pull_to_signin">Tirer pour se connecter</string>
   <string name="qq_not_installed">"QQ n'est pas installé"</string>
@@ -340,6 +336,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Rechercher</string>
   <string name="search_title_hint">Rechercher</string>
+  <string name="select_dest_folder">Choissisez un dossier</string>
   <string name="select_image">Choisir des photos</string>
   <string name="select_music">Choisir des chansons</string>
   <string name="select_video">Choisir des vidéos</string>
@@ -385,7 +382,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="toast_file_not_can_read">Le fichier est illisible ou corrompu.</string>
   <string name="trans_task">Transfert par réseau</string>
   <string name="transfer_done">Les fichiers ont été déplacés.</string>
-  <string name="transfer_private_data">Déplacement des fichiers privés à partir de la carte SD…</string>
+  <string name="transfer_private_data">Déplacement des fichiers cachés à partir de la carte SD…</string>
   <string name="transing">Transfert</string>
   <string name="trash_box_capacity">Espace libre de la corbeille : %1$s</string>
   <string name="trash_box_link">Visitez <b>pan.xiaomi.com</b> pour vider la corbeille</string>
@@ -463,7 +460,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="share_box_receive">Reçu</string>
   <string name="file_not_exist">ficher non existant</string>
   <string name="open_file_failed">erreur lors de l\'ouverture</string>
-  <string name="open_private_folder">Création d\'un dossier privé…</string>
+  <string name="open_private_folder">Création d\'un dossier caché…</string>
   <string name="menu_list_name">Menu</string>
   <string name="tools">OUTILS</string>
   <string name="category_type_meida">Multimédia</string>
@@ -527,5 +524,5 @@ et ne ratez plus les nouveautés!"</string>
   <string name="get_cloud_space">Ajouter 500Go</string>
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments"</string>
   <string name="kuaipan_delete_guide_des">Supprimer le guide ?</string>
-  <string name="yesterday">hier</string>
+  <string name="yesterday">Hier</string>
 </resources>

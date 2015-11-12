@@ -495,6 +495,15 @@ Les fiches de contact sont désactivés"</string>
   <string name="in_call_show_delete_message">Supprimer votre vidéo ?</string>
   <string name="in_call_show_delete_title">Supprimer votre vidéo ?</string>
   <string name="in_call_show_demo_present">Aperçu</string>
+  <string name="in_call_show_filter_brannan">Aube</string>
+  <string name="in_call_show_filter_earlybird">Automne</string>
+  <string name="in_call_show_filter_jstyle">Japonais</string>
+  <string name="in_call_show_filter_mono">Mono</string>
+  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_none">Normal</string>
+  <string name="in_call_show_filter_process_error">Une erreur est survenue, veuillez réessayer.</string>
+  <string name="in_call_show_filter_processing">Traitement…</string>
+  <string name="in_call_show_filter_vivid">Vivid</string>
   <string name="in_call_show_guide_intro">"Enregistrer un profil vidéo
  qui se lira sur les appareils des autres utilisateurs MIUI quand vous les appellerez"</string>
   <string name="in_call_show_guide_start_recording">Enregistrer maintenant</string>

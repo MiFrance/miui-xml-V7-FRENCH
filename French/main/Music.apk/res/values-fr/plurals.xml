@@ -11,6 +11,12 @@
       <item quantity="one">1 piste sera téléchargée</item>
       <item quantity="other">%d pistes seront téléchargées</item>
   </plurals>
+  <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+      <item quantity="other">"Vous ne pouvez télécharger que %d pistes Premium ce mois-ci. Mettez à jour votre pack Premium pour en télécharger davantage. "</item>
+  </plurals>
+  <plurals name="Nalert_msg_vip_songs_for_download_limited">
+      <item quantity="other">"Vous ne pouvez télécharger que %d pistes Premium ce mois-ci. Télécharger malgré tout les pistes sélectionnées ?"</item>
+  </plurals>
   <plurals name="Nexpired_remind">
       <item quantity="other">%d jours restants</item>
       <item quantity="one">%d jour restant</item>

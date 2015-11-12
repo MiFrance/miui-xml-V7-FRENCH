@@ -51,6 +51,15 @@
   <string name="action_item_send">Envoyer</string>
   <string name="action_item_share">Partager</string>
   <string name="album_search_title">Album</string>
+  <string name="alert_msg_vip_song_for_download">Achetez un Pack Premium pour télécharger cette piste.</string>
+  <string name="alert_msg_vip_song_for_download_upgrade">Vous avez utilisé votre quota de téléchargement pour ce mois. Mettez à jour votre Pack Premium pour en télécharger davantage.</string>
+  <string name="alert_msg_vip_song_for_stream">Achetez un Pack Premium pour écouter cette piste.</string>
+  <string name="alert_msg_vip_songs_for_download">Achetez un Pack Premium pour télécharger toutes les pistes.</string>
+  <string name="alert_msg_vip_songs_for_download_upgrade">Vous avez utilisé votre quota de téléchargement pour ce mois. Mettez à jour votre Pack Premium pour en télécharger davantage.</string>
+  <string name="alert_msg_vip_songs_for_stream">Some songs can only be streamed with Premium Song Pack.</string>
+  <string name="alert_title_vip_song">Pistes Premium</string>
+  <string name="alert_title_vip_songs">Pack Premium</string>
+  <string name="alert_title_vip_songs_upgrade">Mettre à jour votre Pack Premium</string>
   <string name="all_artist">Tous les artistes</string>
   <string name="all_music">Toutes les chansons</string>
   <string name="artist">Artistes</string>
@@ -92,6 +101,7 @@
   <string name="online_music_enabled_summary">Ecoutez et téléchargez vos chansons favorites. Accédez aux hits et aux meilleures playlists à tout moment!</string>
   <string name="online_music_enabled_title">Ecoute en ligne gratuite</string>
   <string name="one_month">1 mois</string>
+  <string name="online_list_delete_message">Toutes les pistes téléchargées contenues dans cette liste seront supprimées de votre espace de stockage interne.</string>
   <string name="send_to_title">Envoyer à (%1$s)</string>
   <string name="track_list_control_download">Télécharger</string>
   <string name="track_list_control_edit_add_tracks">Ajouter des chansons</string>
@@ -105,6 +115,7 @@
   <string name="trigger_to_scan_media_library_start">Actualisation…</string>
   <string name="function_error">Cette fonction n\'est pas encore disponible</string>
   <string name="button_add">Ajouter</string>
+  <string name="buy_vip">Obtenez un Pack Premium</string>
   <string name="favorite_canceled">Favori supprimé</string>
   <string name="favorite_succeed">Ajouté aux favoris</string>
   <string name="playlist_deleted_message">Playlist supprimée</string>
@@ -123,6 +134,7 @@
   <string name="online_playlist_is_empty">Désolé, la playlist en-ligne est vide !</string>
   <string name="favourite_music_left_half">Pour ajouter des pistes à la playlist, appuyez sur</string>
   <string name="favourite_music_right_half">l\'icône \"favori\" à droite du titre de la piste</string>
+  <string name="download_while_playing_no_vip_summary">Télécharger automatiquement les pistes que vous écoutez en ligne (à l\'exception du contenu payant)</string> 
   <string name="download_while_playing_title">Télécharger les pistes écoutées</string>
   <string name="download_while_playing_summary">Télécharge automatiquement la musique écoutée en-ligne</string>
   <string name="error_forbidden">Il y a un problème avec votre compte. Synchronisation désactivée.</string>
@@ -148,6 +160,16 @@
   <string name="title_search_history">Rechercher dans l\'historique</string>
   <string name="title_search_hot">Populaires</string>
   <string name="to_mi_pay">Mi Credits</string>
+  <string name="toast_cancel_download">Téléchargement annulé</string>
+  <string name="toast_download_error_by_count_limit">Vous avez atteint votre quota pour ce mois-ci.</string>
+  <string name="toast_download_error_by_vip_required">Obtenez un Pack Premium pour télécharger cette piste.</string>
+  <string name="toast_normal_songs_for_download">Qualité pour le téléchargement : Standard</string>
+  <string name="toast_normal_songs_for_stream">Qualité pour l\'écoute : Standard</string>
+  <string name="toast_stream_normal">La lecture est maintenant en qualité Standard. Obtenez un Pack Premium pour profiter de l\'écoute en haute qualité.</string>
+  <string name="toast_uhd_songs_for_download">Qualité pour le téléchargement : Haute</string>
+  <string name="toast_uhd_songs_for_stream">Qualité pour l\'écoute : Haute</string>
+  <string name="toast_vip_download_one_limit">" Vous avez atteint votre quota de téléchargement pour ce mois-ci. Vous pourrez télécharger plus de pistes en achetant un nouveau Pack Premium."</string>
+  <string name="toast_vip_download_some_limit">" Vous avez atteint votre quota de téléchargement pour ce mois-ci. Vous pourrez télécharger plus de pistes en achetant un nouveau Pack Premium. "</string>
   <string name="too_freq">Trop de requêtes soumises avec cet appareil.</string>
   <string name="tos">Conditions du service</string>
   <string name="equalizer">Égaliseur</string>
@@ -209,7 +231,8 @@
   <string name="vip_renew_notification_message">"Vous ne pourrez plus profiter du son haute qualité après expiration de votre abonnement."</string>
   <string name="vip_renew_notification_title">Votre abonnement expire demain</string>
   <string name="vip_renew_title">Abonnement expiré</string>
-  <string name="vip_required">Désolé, VIP est requis</string>
+  <string name="vip_required">Obtenez un Pack Premium pour lire cette piste. Cette piste a été ignorée automatiquement.</string>
+  <string name="vip_required_with_song">Obtenez un Pack Premium pour lire “%s”. Cette piste a été ignorée automatiquement.</string>
   <string name="fragment_title_recommend">Recommandé</string>
   <string name="fragment_title_bill">Playlists</string>
   <string name="fragment_title_channel">Radio</string>
@@ -237,6 +260,7 @@
   <string name="network_settings_error">"Échec de connexion réseau"</string>
   <string name="all_tracks_short">Toutes les pistes</string>
   <string name="already_download">Téléchargement…</string>
+  <string name="already_favorited">Déjà mis en favoris</string>
   <string name="create_playlist">Créer une playlist</string>
   <string name="create_playlist_failure">"Échec de création d'une liste de lecture"</string>
   <string name="current_services">En cours</string>
@@ -256,6 +280,7 @@
   <string name="avoid_to_use_traffic_summary">Affiche une alerte d\'usage des données mobiles</string>
   <string name="avoid_to_use_traffic_title">Streamer uniquement via Wi-Fi</string>
   <string name="download_method">Téléchargement</string>
+  <string name="download_auto_after_favorite_no_vip_summary">Télécharger automatiquement vos pistes favorites (à l\'exception du contenu payant)</string>
   <string name="download_auto_after_favorite_summary">Télécharge automatiquement les pistes ajoutées aux favoris</string>
   <string name="download_auto_after_favorite_title">Télécharger les favoris</string>
   <string name="download_auto_settings">Paramètres de téléchargement</string>
@@ -268,11 +293,15 @@
   <string name="download_auto_quality_alert_sub_title_for_login">Pour activer cette option, veuillez vous connecter à votre compte Mi.</string>
   <string name="download_auto_cancel">Téléchargement des favoris désactivé</string>
   <string name="download_auto_message">"Les pistes favorites seront téléchargées automatiquement lorsque vous serez connecté à un réseau WI-Fi. Vous pouvez modifier cette option via les paramètres. "</string>
+  <string name="download_cloud_error_not_auth">Vous devez vous connecter à votre compte Xiaomi, puis réessayer.</string>
+  <string name="download_cloud_error_retryable">Erreur du serveur de Cloud Xiaomi, veuillez réessayer plus tard.</string>
+  <string name="download_cloud_error_unknow">Erreur de téléchargement à partir du Cloud Xiaomi.</string>
   <string name="i_know">OK</string>
   <string name="sleep_mode">Mise en veille programmable</string>
   <string name="close_music_time">"Minutes : "</string>
   <string name="cloud_enable">Synchroniser la musique avec Mi Cloud</string>
   <string name="cloud_settings">Paramètres de synchro</string>
+  <string name="confirm_download">Télécharger</string>
   <string name="confirm_to_renew">Renouveler</string>
   <string name="cp_info_first">Le service de diffusion est fourni par Ultimate Inc.</string>
   <string name="sleep_mode_title">Arrêter le lecteur après un temps défini</string>
@@ -309,6 +338,7 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="no_results_return">Aucun résultat</string>
   <string name="list_item_play_FM_radio">Appuyer pour écouter la radio FM</string>
+  <string name="back_confirm">Appuyez à nouveau pour passer en arrière-plan</string>
   <string name="baidu_music">Baidu Music</string>
   <string name="being_disable_auto_payment">Désactivation…</string>
   <string name="being_enable_auto_payment">Activation…</string>
@@ -327,6 +357,7 @@
   <string name="enable_auto_payment_success">Renouveler automatiquement</string>
   <string name="enable_auto_payment_success_message">Paiement et renouvellement automatiques activés. Le prochain paiement aura lieu le %s.</string>
   <string name="add_music">Ajouter des pistes</string>
+  <string name="alaka_required">"Cette piste n'est pas disponible."</string>
   <string name="set_as_ring">Définir comme sonnerie</string>
   <string name="sleep_mode_canceled">Mise en veille programmée désactivée</string>
   <string name="set_ringtones_successful">%s définie comme sonnerie</string>
@@ -347,12 +378,14 @@
   <string name="priority_storage_summary">Télécharge en priorité sur la carte SD externe (si disponible)</string>
   <string name="please_download_first">Veuillez télécharger la chanson afin de pouvoir la définir comme sonnerie</string>
   <string name="song_not_find">"Ce morceau n\'est pas disponible"</string>
+  <string name="song_offline">Désolé, mais cette piste n\'est plus disponible en ligne.</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">"Votre période d'essai ou abonnement a expiré. Veuillez sélectionner une autre qualité de téléchargement."</string>
   <string name="order_pending">En attente de confirmation</string>
   <string name="order_process_fail">"Erreur d\'authentification. Veuillez patienter quelques minutes et réessayer."</string>
   <string name="pay">Payer :</string>
   <string name="pay_now">Paiement</string>
   <string name="action_item_hide">Masquer</string>
+  <string name="action_item_hifi">Ecouteurs &amp; Effets audio</string>
   <string name="album_name">Album</string>
   <string name="artist_name">Artiste</string>
   <string name="bill_list_fragment_title">Classements</string>
@@ -439,6 +472,7 @@
   <string name="similar_songs">Chansons similaires</string>
   <string name="song_name">Titre</string>
   <string name="start_to_play">Lecture</string>
+  <string name="stream_normal">Lire en qualité Standard</string>
   <string name="stream_quality">Qualité du flux</string>
   <string name="no_album_info">Aucune information sur l\'album</string>
   <string name="no_artist_info">Aucune information sur l\'artiste</string>
@@ -482,6 +516,7 @@
   <string name="upgrade_services">Mises à jour</string>
   <string name="upgrade_suggest">"Nous interrompons notre service de streaming pendant que nous résolvons des problèmes de copyright. Mettez à jour vers la dernière version de l'application Musique pour écouter de la musique de haute qualité."</string>
   <string name="upgrade_to">Mettre à jour vers</string>
+  <string name="upgrade_vip">Mettre à jour le Pack Premium</string>
   <string name="upgrade_waringing">"Vous serez uniquement en mesure d'écouter de la musique stockée hors ligne."</string>
   <string name="preset_music_playlist">Playlist Mi Musique</string>
   <string name="set_id3_not_have_read_or_write_permission">Vous n\'avez pas les droits requis pour éditer ce fichier</string>

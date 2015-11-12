@@ -66,6 +66,10 @@ Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="notif_title_multiple_downloading">Téléchargement de %1$d fichiers</string>
   <string name="notif_title_single_downloading">Téléch. de %1$s</string>
   <string name="dialog_not_show_again">Ne plus afficher</string>
+  <string name="download_apk_desktop_installing">Installation</string>
+  <string name="download_apk_desktop_pause">En pause</string>
+  <string name="download_apk_desktop_pending">En attente</string>
+  <string name="download_apk_desktop_running">Téléchargement</string>
   <string name="warning_tip_cancel">Télécharger</string>
   <string name="warning_tip_content">"Vous n'êtes plus connecté au Wi-Fi. Vos données mobiles seront utilisées pour terminer ce téléchargement. En cas de dépassement de votre quota, votre opérateur peut vous facturer des frais supplémentaires."</string>
   <string name="warning_tip_ok">Pause</string>

@@ -45,12 +45,18 @@
   <string name="find_device_disabling">Désactivation…</string>
   <string name="enable_find_device_error">Impossible d\'activer la localisation de l\'appareil. %1$s</string>
   <string name="disable_find_device_error">Impossible de désactiver la localisation de l\'appareil. %1$s</string>
+  <string name="disable_find_device_success">La recherche d\'appareils est désactivée.</string>
+  <string name="enable_find_device_success">La rercherche d\'appareils est activée.</string>
   <string name="find_device_error_network">Réseau indisponible, veuillez vérifier vos paramètres</string>
+  <string name="find_device_error_password_changed">Le mot de passe du compte a été changé récemment.</string>
   <string name="find_device_error_server">Erreur de serveur</string>
+  <string name="find_device_error_unknown">Erreur inconnue</string>
   <string name="find_device_success_title">Localisation de l\'appareil</string>
   <string name="find_device_notice_p1">Rendez-vous sur</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">pour localiser, verrouiller ou restaurer votre appareil.</string>
+  <string name="find_device_reading_status">Chargement de l\'état…</string>
+  <string name="find_device_reading_status_failure">"Echec de chargement de l\'état"</string>
   <string name="i_know">OK</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivée</string>
   <string name="find_device_disabled_notice">Vous pouvez l\'activée via Paramètres &gt; Mi Cloud</string>
@@ -66,6 +72,7 @@
   <string name="micloud_all_sub_1_sms_1_intl_sms">"Deux SMS (standard et international) seront envoyés pour activer votre carte SIM. Ils seront facturés par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
   <string name="micloud_all_sub_2_intl_sms">"Deux SMS internationaux vont être envoyés pour activer votre carte SIM. Ils seront facturés par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
   <string name="micloud_all_sub_2_sms">"Deux SMS vont être envoyés pour activer votre carte SIM. Ils seront facturés par votre opérateur. En activant la recherche d\'appareil, un nouvel SMS d\'activation peut être envoyé après le changement des cartes SIM."</string>
+  <string name="micloud_all_sub_resend_sms">"En cas d\'activation de la 'Recherche de l\'appareil', un SMS d\'activation peut être émis après l\'échange de cartes SIM."</string>
   <string name="sub_alert_notif_title">Synchronisation inactive</string>
   <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre appareil</string>
   <string name="noRemind">Ne pas rappeler</string>
