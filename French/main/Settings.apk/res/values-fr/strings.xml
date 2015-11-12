@@ -504,7 +504,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="change_security_lock">Type de déverrouillage</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="checkbox_notification_same_as_incoming_call">Utiliser le volume des appels entrants pour les notifications</string>
-  <string name="checking_find_device_status">Vérification de l'état de la recherche d\'appareil…</string>
+  <string name="checking_find_device_status">Vérification de l\'état de la recherche d\'appareil…</string>
   <string name="choose_timezone">Fuseaux horaires</string>
   <string name="clear_activities">Effacer les actions par défaut</string>
   <string name="clear_activities_summary">Activer ce programme pour certaines opérations par défaut</string>
