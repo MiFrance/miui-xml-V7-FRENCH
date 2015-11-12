@@ -418,6 +418,8 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="button_text_clear">Nettoyer</string>
   <string name="activity_title_virus_detail">Informations sur le virus</string>
   <string name="activity_title_risk_detail">Informations sur la menace</string>
+  <string name="activity_title_root_acquired">Donner les autorisations root</string>
+  <string name="activity_title_root_note">A propos des autorisations root</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_risk_name_title">Menace :</string>
@@ -709,6 +711,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="notification_summary_after_auto_cleanup">%s nettoyées.</string>
   <string name="permission_with_SMS_and_MMS">Permissions liées aux SMS et MMS</string>
   <string name="permission_with_call_and_contact">Permissions liées aux appels, contacts et journal d\'appels.</string>
+  <string name="pm_root_success_notification_title">Autorisations root obtenues</string>
   <string name="positive_confirm">OK</string>
   <string name="power_20s_shutdown">L\'appareil va s\'éteindre dans 20 secondes</string>
   <string name="power_center_auto_shutdown_summary_default">Allumer ou éteindre votre appareil à des périodes prédéfinies</string>

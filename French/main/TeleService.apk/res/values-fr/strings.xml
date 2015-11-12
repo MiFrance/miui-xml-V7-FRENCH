@@ -108,6 +108,7 @@
   <string name="title_purchase">Recharge téléphonique</string>
   <string name="title_rates">Tarifs</string>
   <string name="title_user_config">Activer la carte SIM</string>
+  <string name="top_up_first">Recharge téléphonique prioritaire</string>
   <string name="unable_dial_livetalk">"L'appel a échoué"</string>
   <string name="use_history">Activité</string>
   <string name="use_history_duration_min">%1$s mins</string>
@@ -246,6 +247,9 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="roaming_reenable_message">"Vous avez été déconnecté, car vous avez quitté le réseau domestique et l'itinérance des données est désactivée."</string>
   <string name="roaming_warning">Autoriser l\'itinérance des données ? Des frais d\'itinérance importants peuvent s\'appliquer !</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="verified">Vérifié</string>
+  <string name="verify_fialed">Échec</string>
+  <string name="verifying">Vérification</string>
   <string name="always_enable_mms">Toujours recevoir les MMS</string>
   <string name="always_enable_mms_summary">Toujours recevoir les MMS même lorsque les données sont désactivées</string>
   <string name="networks_title">Opérateurs réseau</string>

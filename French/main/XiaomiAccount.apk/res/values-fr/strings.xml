@@ -277,7 +277,10 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_license_host_unreachable">"Pas de connexion réseau. Vous pouvez voir cette page sur %s."</string>
   <string name="passport_loading">Chargement…</string>
   <string name="passport_login">Connexion</string>
+  <string name="passport_login_check_find_device">Vérification de l\'état de la recherche d\'appareil…</string>
+  <string name="passport_login_check_find_device_failed">"Impossible de vérifier l\'état de la recherche d\'appareil. Vérifiez votre connexion Internet."</string>  
   <string name="passport_login_failed">"Échec à la connexion"</string>
+  <string name="passport_login_find_device_bind">Cet appareil est associé à un identifiant de compte Mi existant (%s). Veuillez vous authentifier pour activer cet appareil.</string>
   <string name="passport_login_instead_reg">Utiliser ce numéro</string>
   <string name="passport_login_instead_reg_with_email">Utiliser cet e-mail</string>
   <string name="passport_login_notice">Connexion…</string>
@@ -351,7 +354,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_wrong_password">Le mot de passe est incorrect</string>
   <string name="passport_wrong_phone_number_format">Le format du n° de téléphone saisi est invalide</string>
   <string name="passport_wrong_vcode">Le code saisi est incorrect</string>
-  <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes et aux autres services Mi, d\'où que vous soyez.</string>
+  <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes ainsi qu\'aux autres services Mi, d\'où que vous soyez.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">L\'accès au compte Mi nécessite une connexion Internet. De plus, les accès à la localisation, Mi Cloud, et Mi VIP seront activés automatiquement.</string>
   <string name="phone_activated">%s activé</string>

@@ -502,7 +502,9 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="cell_broadcast_settings">Diffusions cellulaires</string>
   <string name="change_password">Changer le mot de passe</string>
   <string name="change_security_lock">Type de déverrouillage</string>
+  <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="checkbox_notification_same_as_incoming_call">Utiliser le volume des appels entrants pour les notifications</string>
+  <string name="checking_find_device_status">Vérification de l'état de la recherche d\'appareil…</string>
   <string name="choose_timezone">Fuseaux horaires</string>
   <string name="clear_activities">Effacer les actions par défaut</string>
   <string name="clear_activities_summary">Activer ce programme pour certaines opérations par défaut</string>
@@ -863,7 +865,11 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="external_code_size_label">Application sur USB</string>
   <string name="external_data_size_label">Données sur USB</string>
   <string name="factory_reset_summary">Vous pouvez effacer vos données personnelles en réinitialisant votre appareil ou choisissez Effacer les applications installées et formater la carte SD pour restaurer les réglages d\'usine</string>
+  <string name="failed_to_check_find_device_status_content">Échec de récupération de l\'état pour la recherche d\'appareil, veuillez attendre un peu puis réessayer.</string>
+  <string name="failed_to_check_find_device_status_title">Échec de récupération de l\'état pour la recherche d\'appareil</string>
   <string name="failed_to_open_app_settings_toast">Échec de l\'ouverture des paramètres de l\'application %1$s.</string>
+  <string name="failed_to_shut_down_find_device_content">"Impossible de désactiver la recherche d\'appareil. Veuillez patienter un peu puis réessayer."</string>
+  <string name="failed_to_shut_down_find_device_title">"Impossible de désactiver la recherche d\'appareil"</string>
   <string name="fcc_equipment_id">ID de l\'équipement</string>
   <string name="filter">Filtrer</string>
   <string name="filter_apps_all">Toutes</string>
@@ -1624,6 +1630,10 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="show_touches">Afficher interactions tactiles</string>
   <string name="show_touches_summary">Afficher un repère visuel pour les interactions tactiles</string>
   <string name="show_user_info_on_lockscreen_label">Afficher infos utilisateur sur écran verrouillage</string>
+  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_network_failure_content">"Impossible de désactiver la recherche d\'appareil. Assurez-vous que votre appareil soit bien connecté à Internet."</string>
+  <string name="shut_down_find_device_network_failure_title">"Échec de connexion au réseau"</string>
+  <string name="shuting_down_find_device">Désactivation de la recherche d\'appareil…</string>
   <string name="silent_mode_title">Silencieux</string>
   <string name="sim_bad_pin">Veuillez saisir un code avec 4 à 8 numéros</string>
   <string name="sim_change_failed">"Impossible de modifier le code PIN.
@@ -1970,7 +1980,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
   <string name="virus_scanner_date_formater">dd MMM yyyy</string>
   <string name="virus_scanner_lib_already_latest">La base de données antivirus est à jour</string>
-  <string name="virus_scanner_lib_update_failed">Échec de la mise à jour de la base de données antivirus !</string>
+  <string name="virus_scanner_lib_update_failed">Échec de la mise à jour</string>
   <string name="virus_scanner_lib_updating">Mise à jour de la base de données en cours…</string>
   <string name="virus_scanner_manual_update">Mise à jour %s</string>
   <string name="virus_scanner_provider">Sécurité assurée par %s</string>
@@ -2641,7 +2651,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="welcome">Bienvenue</string>
   <string name="account_add">Ajouter</string>
   <string name="apply_now_button_text">Mettre à jour</string>
-  <string name="apply_password_to_category_title">Utiliser le mot de passe pour…</string>
+  <string name="apply_password_to_category_title">Mot de passe requis</string>
   <string name="account_list">Autres comptes</string>
   <string name="dialog_no">Non</string>
   <string name="dialog_yes">Oui</string>
@@ -3121,7 +3131,7 @@ et lancer le logiciel."</string>
   <string name="status_bar_settings_notification_priority_summary">Afficher les notifications en tête de liste</string>
   <string name="status_bar_settings_notification_sound_vibrate">Son &amp; Vibration</string>
   <string name="status_bar_settings_show_home_message">Badge sur l\'icône de l\'app</string>
-  <string name="status_bar_settings_show_keyguard_notification">Ecran de verrouillage</string>
+  <string name="status_bar_settings_show_keyguard_notification">Notifications sur l\'écran de verrouillage</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">"Les notifications flottantes disparaitront automatiquement après leur affichage en haut de l'écran"</string>
   <string name="Accounts_settings_title">Comptes</string>
   <string name="access_point_names">"Noms des points d'accès"</string>
