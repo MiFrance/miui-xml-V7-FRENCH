@@ -226,7 +226,6 @@ Vous pourrez le faire lundi prochain"</string>
   <string name="download_again">Retélécharger</string>
   <string name="download_diff">Télécharger le diff</string>
   <string name="download_error">Erreur de téléchargement. Attendez une minute ou deux et essayez à nouveau.</string>
-  <string name="download_failed">"Échec du téléchargement"</string>
   <string name="get_current">Récupérer la version actuelle</string>
   <string name="recovery_failed_msg">"Votre appareil de dispose pas d\'assez de mémoire pour accéder au mode Recovery. Vous pouvez utiliser Mi PC Suite : 
 http://zhushou.xiaomi.com"</string>
