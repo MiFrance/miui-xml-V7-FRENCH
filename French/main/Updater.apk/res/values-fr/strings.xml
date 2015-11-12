@@ -43,7 +43,7 @@
   <string name="dialog_yes">Oui</string>
   <string name="download_cancel">Annuler</string>
   <string name="download_current_rom">Télécharger la ROM complète</string>
-  <string name="download_failed">Echec du téléchargement</string>
+  <string name="download_failed">Échec du téléchargement</string>
   <string name="download_full">Téléchargement complet</string>
   <string name="download_title">Téléchargement (%s)</string>
   <string name="downloading_description">Téléchargement…</string>
