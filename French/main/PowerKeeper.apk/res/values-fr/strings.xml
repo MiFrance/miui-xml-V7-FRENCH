@@ -17,6 +17,7 @@
   <string name="alter_message_switch_mode_message">Lorsque vous basculez les modes, vos anciens réglages ne s\'appliqueront plus à l\'application.</string>
   <string name="app_frozen_app_list_summary">Applications en arrière-plan</string>
   <string name="app_list_title">Sélectionnez les applications</string>
+  <string name="app_list_total">%d applis</string>
   <string name="app_name">Économiseur de batterie</string>
   <string name="background">L\'application s\'exécute en arrière-plan</string>
   <string name="config_custom_description">Si les configurations suggérées ne vous conviennent pas, vous pouvez les personnaliser</string>

@@ -394,6 +394,7 @@
   <string name="saved_ringtone">Sonnerie enregistrée</string>
   <string name="saved_ringtone_fail">Impossible d\'enregistrer la sonnerie</string>
   <string name="saved_to_sim">Enregistré sur la SIM !</string>
+  <string name="scan_result">Résultat de l\'analyse</string>
   <string name="search">Messages</string>
   <string name="search_empty">Aucune correspondance.</string>
   <string name="search_hint">Rechercher dans les messages</string>
@@ -565,6 +566,7 @@
   <string name="guild_msim_switcher">Touchez pour basculer les cartes SIM</string>
   <string name="hms_uri_param_err">"L'URL ne peut être vide"</string>
   <string name="left_cancel">Glisser à gauche pour annuler</string>
+  <string name="low_memory">Mémoire faible !</string>
   <string name="menu_send_as_common">Envoyé un SMS</string>
   <string name="message_sent">Envoyé</string>
   <string name="mx2_type_description">[%s]</string>

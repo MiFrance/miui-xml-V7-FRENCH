@@ -260,7 +260,7 @@
   <string name="network_settings_error">"Échec de connexion réseau"</string>
   <string name="all_tracks_short">Toutes les pistes</string>
   <string name="already_download">Téléchargement…</string>
-  <string name="already_favorited">Déjà mis en favoris</string>
+  <string name="already_favorited">Déjà dans les favoris</string>
   <string name="create_playlist">Créer une playlist</string>
   <string name="create_playlist_failure">"Échec de création d'une liste de lecture"</string>
   <string name="current_services">En cours</string>
@@ -338,7 +338,7 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="no_results_return">Aucun résultat</string>
   <string name="list_item_play_FM_radio">Appuyer pour écouter la radio FM</string>
-  <string name="back_confirm">Appuyez à nouveau pour passer en arrière-plan</string>
+  <string name="back_confirm">Appuyez à nouveau pour quitter</string>
   <string name="baidu_music">Baidu Music</string>
   <string name="being_disable_auto_payment">Désactivation…</string>
   <string name="being_enable_auto_payment">Activation…</string>

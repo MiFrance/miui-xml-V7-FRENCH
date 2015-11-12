@@ -272,6 +272,9 @@ sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="mx_dspt_provision_privacy">"Cette fonction nécessite votre numéro de téléphone. Votre opérateur peut potentiellement vous facturer un SMS pour son activation.
 
 Cette fonction chiffre et transmet l\'ID de votre appareil sur les serveurs Mi."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Cette fonction nécessite votre numéro de téléphone. Votre opérateur peut vous facturer un SMS utilisé pour son activation, lorsqu\'une carte SIM est détectée.
+
+Cette fonction encrypte et envoie votre ID d\'appareil sur les serveurs Mi."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"Cette fonction peut nécessiter votre numéro de téléphone. Votre opérateur peut vous facturer deux SMS pour activer cette fonctionnalité.
 
 Cette fonctionnalité crypte et transfère l'ID de votre appareil sur les serveurs Mi."</string>

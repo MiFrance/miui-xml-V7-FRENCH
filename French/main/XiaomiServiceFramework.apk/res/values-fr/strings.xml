@@ -17,8 +17,14 @@
   <string name="activate_feature_mms_sync">Synchronisation des SMS</string>
   <string name="activate_feature_mx">Mi Message</string>
   <string name="activate_feature_mx_and_voip">Mi Message et Voix</string>
+  <string name="activate_feature_register_xiaomi_account">Paramétrage du compte Mi</string>
+  <string name="activate_feature_verify_mx_token">Vérification du compte Mi</string>
+  <string name="activate_phone_cancel_notif_title">Annulation de l\'activation de la carte SIM</string>
+  <string name="activate_phone_cancel_notif_title_msim">Activation de la carte SIM %s annulée</string>
   <string name="activate_phone_failed_notif_title">"Échec de l'activation du service Mi Cloud"</string>
   <string name="activate_phone_failed_notif_title_msim">"Impossible de démarrer Mi Cloud pour SIM %s"</string>
+  <string name="activate_phone_success_notif_title">Carte SIM activée</string>
+  <string name="activate_phone_success_notif_title_msim">Carte SIM %s activée</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Réessayer</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Réessayer</string>
   <string name="activate_popup_confirm_failed_phone_error">Réessayer</string>
@@ -66,6 +72,7 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Impossible de récupérer le numéro de téléphone"</string>
   <string name="activate_status_desc_checking_xiaomi_account">Vérification du compte Mi…</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">"Une erreur serveur s\'est produite lors de la vérification de votre compte Mi"</string>
+  <string name="activate_status_desc_completed_with_sms_sent">SMS envoyé pour l\'activation SIM</string>
   <string name="activate_status_desc_failed_getting_gateway">"Échec de récupération de la passerelle SMS"</string>
   <string name="activate_status_desc_getting_gateway">Récupération de la passerelle SMS…</string>
   <string name="activate_status_desc_getting_sim_info">"Obtention d\'informations de la carte SIM"</string>

@@ -149,7 +149,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screen_pinning_negative">Non merci</string>
   <string name="screen_pinning_positive">J\'ai compris</string>
   <string name="screen_pinning_title">L\'écran est épinglé</string>
-  <string name="screenshot_failed_text">Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation.</string>
+  <string name="screenshot_failed_text">Impossible de prendre une capture d\'écran, l\'espace de stockage étant insuffisant ou l\'application ne dispose pas de droits suffisants.</string>
   <string name="screenshot_saved_text">Appuyer pour l\'afficher</string>
   <string name="screenshot_saved_title">Capture d\'écran effectuée</string>
   <string name="screenshot_saving_text">Enregistrement de la capture d\'écran en cours…</string>
