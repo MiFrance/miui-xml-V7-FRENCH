@@ -101,7 +101,7 @@
   <string name="sim2_no_activated">, carte SIM 2 non vérifiée</string>
   <string name="sim_activated">Vérifiée</string>
   <string name="sim_card_activate">Carte SIM actuelle</string>
-  <string name="sim_no_activated">Non vérifiée</string>
+  <string name="sim_no_activated">Carte SIM non vérifiable</string>
   <string name="time_statistic">%1$d minutes de connexion réseau économisées</string>
   <string name="title_country">Région</string>
   <string name="title_duration">Durée</string>

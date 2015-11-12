@@ -144,6 +144,7 @@
   <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appels</string>
+  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
   <string name="cancel_confirmation_dialog_title">Annuler</string>
   <string name="cancel_export_confirmation_message">Êtes-vous sûr de vouloir annuler l\'exportation de %s ?</string>
@@ -460,6 +461,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="import_all_vcard_string">Importer tous les fichiers de carte de visite</string>
   <string name="import_contact_card_button">Importer</string>
   <string name="import_failure_no_vcard_file">Aucune carte de visite trouvée dans le stockage.</string>
+  <string name="import_from_onekey_migrate">Importer via Transfert</string>
   <string name="import_from_other_phone">Importer à partir d\'un autre téléphone</string>
   <string name="import_from_sdcard">Importer…</string>
   <string name="import_from_sim">Importer depuis la carte SIM</string>

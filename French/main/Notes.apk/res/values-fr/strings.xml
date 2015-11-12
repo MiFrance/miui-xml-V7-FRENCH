@@ -28,6 +28,7 @@
   <string name="button_new_note">Nouvelle Note</string>
   <string name="call_record_folder_name">Notes vocales</string>
   <string name="default_folder_name">Notes</string>
+  <string name="dlg_delete_message">Suppression…</string>
   <string name="dlg_desc_confirm_alarm_silent">Attention, si vous désactivez cette option, les alarmes et notes ne sonneront pas si le téléphone est en mode silencieux.</string>
   <string name="dlg_info_creating_message">Rédaction d\'un message…</string>
   <string name="dlg_title_confirm_alarm_silent">Confirmation</string>
@@ -70,6 +71,7 @@
   <string name="pref_title_common">Paramètres généraux</string>
   <string name="pref_title_font_size">Taille de police</string>
   <string name="pref_title_note_style">Style des notes</string>
+  <string name="pref_title_recover_help">Récupérer des notes</string>
   <string name="search">Notes</string>
   <string name="search_hint">Rechercher des notes</string>
   <string name="search_label">Recherche de notes…</string>

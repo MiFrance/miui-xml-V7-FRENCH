@@ -67,6 +67,7 @@ Réessayer dans %d secondes.""</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
   <string name="phone_locked_timeout_minutes_string">Veuillez réessayer dans %s minutes</string>
   <string name="phone_locked_timeout_seconds_string">Veuillez réessayer dans %s secondes</string>
+  <string name="set_lock_wallpaper_failed">Pas de nouveaux fonds d\'écran</string>
   <string name="unlock_sim_string">Déverrouiller</string>
   <string name="unlocking_sim_card">Déverrouillage de la carte SIM</string>
   <string name="unlockscreen_low_battery">Branchez le chargeur</string>

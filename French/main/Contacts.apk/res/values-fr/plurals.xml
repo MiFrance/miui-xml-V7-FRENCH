@@ -118,6 +118,10 @@
         <item quantity="other">Supprimer %d contacts</item>
         <item quantity="one">Supprimer le contact</item>
      </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d personnes</item>
+        <item quantity="one">%1$d personne</item>
+    </plurals>
      <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">, a sonné %d fois</item>
         <item quantity="one">, a sonné %d fois</item>
@@ -147,7 +151,7 @@
         <item quantity="one">%1$d contact</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d des contacts n'ont pas été synchronisé"</item>
-        <item quantity="one">"1 contact n\'a pas été synchronisé"</item>
+        <item quantity="other">"%d des contacts ou photos n'ont pas été synchronisés"</item>
+        <item quantity="one">"1 contact ou photo n\'a pas été synchronisé"</item>
     </plurals>
 </resources>

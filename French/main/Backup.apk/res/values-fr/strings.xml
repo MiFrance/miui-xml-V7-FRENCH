@@ -30,11 +30,13 @@
   <string name="backup_delete">Supprimer :</string>
   <string name="backup_empty">Aucun fichier de sauvegarde trouvé</string>
   <string name="backup_empty_info">" Sauvegarder vos données, paramètres et applications"</string>
+  <string name="backup_empty_info_onpad">" Sauvegarder vos données, paramètres et applications"</string>
   <string name="backup_error">Erreur de sauvegarde</string>
   <string name="backup_failed">Échec de la sauvegarde</string>
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
   <string name="backup_hint">N\'éteignez pas l\'appareil</string>
+  <string name="backup_hint_onpad">N\'éteignez pas l\'appareil</string>
   <string name="backup_is_running">Sauvegarde de l\'appareil</string>
   <string name="backup_items_app_tailer">" fichiers de données d\'application "</string>
   <string name="backup_items_sysdata_tailer">" fichiers de données système "</string>
@@ -70,6 +72,7 @@
   <string name="compute_delete_contact_info">Recherche des contacts…</string>
   <string name="contact_title">Contacts</string>
   <string name="current_account">Connecté en tant que : %s</string>
+  <string name="current_pad_location">Tablette</string>
   <string name="current_phone_location">Téléphone</string>
   <string name="current_sim">Carte SIM actuelle</string>
   <string name="data_no_enough_space">Pas assez d\'espace libre dans la mémoire interne, libérez de l\'espace et essayez à nouveau</string>

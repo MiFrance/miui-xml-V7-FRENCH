@@ -101,7 +101,7 @@
   <string name="online_music_enabled_summary">Ecoutez et téléchargez vos chansons favorites. Accédez aux hits et aux meilleures playlists à tout moment!</string>
   <string name="online_music_enabled_title">Ecoute en ligne gratuite</string>
   <string name="one_month">1 mois</string>
-  <string name="online_list_delete_message">Toutes les pistes téléchargées contenues dans cette liste seront supprimées de votre espace de stockage interne.</string>
+  <string name="online_list_delete_message">Toutes les pistes téléchargées contenues dans cette liste seront supprimées de votre appareil.</string>
   <string name="send_to_title">Envoyer à (%1$s)</string>
   <string name="track_list_control_download">Télécharger</string>
   <string name="track_list_control_edit_add_tracks">Ajouter des chansons</string>

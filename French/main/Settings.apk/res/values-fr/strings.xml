@@ -1570,6 +1570,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="search_settings_summary">Configurer les paramètres et l\'historique de recherche</string>
   <string name="search_description">Rechercher dans les paramètres</string>
   <string name="security_passwords_title">Mots de passe</string>
+  <string name="security_patch">Patch de sécurité Android</string>
   <string name="security_privacy_settings_title">Sécurité et confidentialité</string>
   <string name="security_relative">Sécurité</string>
   <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>

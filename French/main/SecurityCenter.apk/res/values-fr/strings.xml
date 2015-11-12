@@ -199,6 +199,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="usage_type_gps">GPS</string>
   <string name="process_kernel_label">Plate-forme Android</string>
   <string name="process_mediaserver_label">Serveur multimédia</string>
+  <string name="prompt_input_time_illegal">"Cet horaire est invalide, veuillez le modifier puis réessayer"</string>
   <string name="power_screen">Écran</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="power_bluetooth">Bluetooth</string>

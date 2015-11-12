@@ -75,6 +75,7 @@
   <string name="friday">Vendredi</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
+  <string name="hybrid_provider">Cette page Web est fournie par %1$s .</string>
   <string name="label">SDK MIUI</string>
   <string name="license_host_unreachable">Impossible de se connecter à un réseau. Pour afficher ces informations maintenant, accédez à %s.</string>
   <string name="loading">Chargement…</string>
@@ -122,6 +123,7 @@
   <string name="more">Plus</string>
   <string name="morning">AM</string>
   <string name="night">PM</string>
+  <string name="no_network">"Échec de connexion au réseau"</string>
   <string name="no_sim">Aucune carte SIM détectée</string>
   <string name="noon">PM</string>
   <string name="perm_payment_dspt">Permet à une application de facturer via le service de paiement Xiaomi</string>
@@ -182,6 +184,7 @@
   <string name="sip_phone">Tel. Sip</string>
   <string name="birthday">Anniversaire</string>
   <string name="website">Site web</string>
+  <string name="webview_reload">Réessayer</string> 
   <string name="address">Adresse</string>
   <string name="note">Note</string>
   <string name="chinese_day_1">初一</string>

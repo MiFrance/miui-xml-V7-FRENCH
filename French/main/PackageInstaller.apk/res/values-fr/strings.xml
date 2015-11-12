@@ -80,6 +80,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="message_appstore_verify_has_new_version">Une nouvelle version de cette application est disponible sur l\'App Store. Voulez-vous l\'installer ?</string>
   <string name="message_appstore_verify_inconsistent">"La signature de cette application est différente de celle de l\'App Store, il serait plus sûr d\'installer l\'application à partir de celui-ci."</string>
   <string name="message_appstore_verify_ok">La version de cette application sur l\'App Store a passé nos tests de sécurité, nous vous recommandons de l\'installer à partir de celui-ci.</string>
+  <string name="message_install_in_market">Nous vous conseillons d\'installer cette application à partir de l\'AppStore</string>
   <string name="message_security_scaning">Scanning…</string>
   <string name="ok">OK</string>
   <string name="other_relative">Autres autorisations</string>
