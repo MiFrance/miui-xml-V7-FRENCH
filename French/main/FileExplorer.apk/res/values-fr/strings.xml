@@ -56,6 +56,7 @@
   <string name="category_zip">Archives</string>
   <string name="choose_send_type">Sélectionner type d\'envoi</string>
   <string name="choose_upload_location">Choisir l’emplacement de chargement</string>
+  <string name="clean_hint">Touchez pour libérer de l\'espace</string>
   <string name="clean_message">Suppression de %1$s</string>
   <string name="clean_title">Supprimer les fichiers de plus de 30 jours dans la corbeille</string>
   <string name="clean_trash_box">Vider la corbeille</string>
@@ -72,6 +73,12 @@
   <string name="create_new_folder_desctiption">Création d\'un nouveau dossier…</string>
   <string name="create_new_folder_failed">Impossible de créer le dossier</string>
   <string name="create_share_link_description">Création d\'un lien de partage…</string>
+  <string name="create_shortcut_cancel">Non merci</string>
+  <string name="create_shortcut_checkbox_hint">"Ne plus afficher"</string>
+  <string name="create_shortcut_confirm">Créer</string>
+  <string name="create_shortcut_message">Vous utilisez l\'explorateur de fichiers très souvent. Voulez-vous créer un raccourci sur l\'écran d\'accueil pour gérer plus rapidement les fichiers ?</string>
+  <string name="create_shortcut_success">Raccourci créé</string>
+  <string name="create_shortcut_title">Créer un raccourci</string>
   <string name="cution">Conseils</string>
   <string name="data_capacity">Espace : %1$s</string>
   <string name="data_consumption_cancel">Quitter</string>
@@ -181,6 +188,7 @@
   <string name="menu_item_search">Rechercher</string>
   <string name="menu_item_sort">Trier par</string>
   <string name="menu_item_sort_add_time">"Créé "</string>
+  <string name="menu_item_sort_by_added_time">Ajouté</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
@@ -220,8 +228,10 @@ et ne ratez plus les nouveautés!"</string>
   <string name="notification_dialog_title">Notifications</string>
   <string name="notification_setting">Notifications</string>
   <string name="notification_summary">"%1$s ne supporte pas encore cette fonction"</string>
-  <string name="notification_title">Notifier lorsque de nouveaux fichiers sont ajoutés à %1$s</string>
+  <string name="notification_title">Lorsque %1$s crée un fichier</string>
   <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces fichiers vidéo.</string>
+  <string name="notification_wechat_sticker_hint">Afficher une notification lorsque de nouveaux stickers WeChat sont disponibles</string>
+  <string name="notification_wechat_sticker_switch_title">Notification quotidienne des nouveaux stickers</string>
   <string name="notification_wechat_title">Notifications vidéo de WeChat</string>
   <string name="notify_private_folder_msg">Touchez pour en savoir plus sur les dossiers cachés.</string>
   <string name="notify_private_folder_title">Protégez vos données personnelles</string>
@@ -278,6 +288,9 @@ et ne ratez plus les nouveautés!"</string>
   <string name="port_range">Le port doit être compris dans l\'intervalle 1024–65535</string>
   <string name="private_files">Caché</string>
   <string name="private_folder">Dossier caché</string>
+  <string name="private_toast_hint1">Touchez pour ajouter des fichiers aux dossiers cachés</string>
+  <string name="private_toast_hint2">Pour cacher un fichier, maintenez une pression sur celui-ci, puis ajoutez-le à un dossier caché.</string>
+  <string name="private_toast_hint3">Tirez vers le bas pour ouvrir les dossiers cachés</string>
   <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller l\'appareil ou pour désactiver le mode Enfant</string>   
   <string name="pull_to_signin">Tirer pour se connecter</string>
   <string name="qq_not_installed">"QQ n'est pas installé"</string>

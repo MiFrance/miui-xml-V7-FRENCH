@@ -1017,6 +1017,7 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="toast_making_personal_copy">Création d\'une copie personnelle…</string>
   <string name="toast_text_copied">Texte copié</string>
   <string name="today">Aujourd\'hui</string>
+  <string name="transfer_accounts">Transférer des comptes</string>
   <string name="type_incoming">Appel entrant</string>
   <string name="type_missed">Appel manqué</string>
   <string name="type_mx_msg">Mi Message</string>
