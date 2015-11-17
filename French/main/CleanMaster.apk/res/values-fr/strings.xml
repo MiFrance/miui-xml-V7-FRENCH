@@ -91,7 +91,7 @@
   <string name="garbage_month">Nettoyé %s fois ce mois-ci</string>
   <string name="go_to">Continuer</string>
   <string name="goto_set">Définir</string>
-  <string name="grabage_rank_title">Nettoyé aujourd'hui</string>
+  <string name="grabage_rank_title">Nettoyé aujourd\'hui</string>
   <string name="harass_detail">Blocage sur %1$d SMS et %2$d appels</string>
   <string name="header_optimizer">En utilisant cette fonction, vous acceptez les %s</string>
   <string name="hints_ad_header_left">Journaux</string>
