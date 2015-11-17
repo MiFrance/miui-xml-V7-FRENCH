@@ -37,4 +37,12 @@
         <item quantity="other">%d groupes</item>
         <item quantity="one">%d groupe</item>
     </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d vues</item>
+        <item quantity="zero">%1$d vues</item>
+        <item quantity="one">%1$d vue</item>
+        <item quantity="two">%1$d vues</item>
+        <item quantity="few">%1$d vues</item>
+        <item quantity="many">%1$d vues</item>
+    </plurals>
 </resources>

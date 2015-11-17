@@ -546,6 +546,9 @@
   <string name="user_agreement4">Politique de confidentialité</string>
   <string name="user_agreement5">En appuyant sur OK, vous acceptez les termes de ces contrats.</string>
   <string name="menu_yellowpage">Afficher %s</string>
+  <string name="message_block_confirmation">Vous confirmez que vous ne souhaitez plus recevoir de messages ?</string>
+  <string name="message_block_processing">Traitement en cours…</string>
+  <string name="message_block_reminder">Rappel</string>
   <string name="menu_more">Plus</string>
   <string name="mx_on_sim_1">Mi Message SIM 1</string>
   <string name="mx_on_sim_2">Mi Message SIM 2</string>

@@ -635,7 +635,7 @@
   <string name="paint_cancel_title">Annulation des modifications</string>
   <string name="cloud_folder_chooser_move">Supprimer de l\'album original</string>
   <string name="cloud_full_tip_str">Espace insuffisant sur le Cloud</string>
-  <string name="secret_album_display_name">Album secret</string>
+  <string name="secret_album_display_name">Album caché</string>
   <string name="remove_from_secret_successfully_message">Retirée de l\'album secret</string>
   <string name="add_to_secret_successfully_message">Ajoutée à l\'album secret</string>
   <string name="add_to_cloud_unfinished_message_with_count">%1$s éléments non ajoutés au cloud</string>

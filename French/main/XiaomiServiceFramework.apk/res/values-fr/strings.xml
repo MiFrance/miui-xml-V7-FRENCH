@@ -14,6 +14,7 @@
   <string name="app_name">Framework des services Xiaomi</string>
   <string name="activate_feature_call_log_sync">"Synchronisation du journal d\'appels"</string>
   <string name="activate_feature_find_device">Géolocalisation de votre appareil</string>
+  <string name="activate_feature_live_talk">Recharge téléphonique</string>
   <string name="activate_feature_mms_sync">Synchronisation des SMS</string>
   <string name="activate_feature_mx">Mi Message</string>
   <string name="activate_feature_mx_and_voip">Mi Message et Voix</string>

@@ -1050,6 +1050,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lock_settings_picker_settings">Définir l\'écran de verrouillage</string>
   <string name="lock_settings_picker_title">Sélect. verr. écran</string>
   <string name="lock_settings_title">Sécurité de l\'écran</string>
+  <string name="lock_settings_with_fingerprint">Écran de verrouillage &amp; Mot de passe</string>
   <string name="lock_setup">La configuration est terminée.</string>
   <string name="lock_sounds_enable_title">Son au verrouillage écran</string>
   <string name="lockpassword_cancel_label">Annuler</string>
@@ -3742,8 +3743,8 @@ l'assistant Wi-Fi"</string>
   <string name="fluency_mode_confirm_and_reboot">Redémarrer maintenant</string>
   <string name="font_size_exhuge">Très grande</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
-  <string name="install_no_market_app_summary">Autoriser l\'installation d\'applications provenant de sources autres que l\'App Store</string>
-  <string name="install_no_market_app_title">Sources inconnues</string>
+  <string name="install_no_market_app_summary">Analyser les applications ne provenant pas de Google Play avant de les installer</string>
+  <string name="install_no_market_app_title">Analyser les applications tierces</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Mot de passe requis immédiatement</string>
   <string name="lock_screen_secure_after_timeout_summary">Mot de passe requis dans %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Délai avant verrouillage</string>

@@ -734,12 +734,12 @@
         <item>4 premiers chiffres</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
-       <item>Demander l\'autorisation pour les applis risquées</item>
-       <item>Autoriser</item>
+       <item>Activer (recommandé)</item>
+       <item>"Ne pas utiliser (dangereux)"</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
-       <item>Demander l\'autorisation</item>
-       <item>Autoriser</item>
+       <item>Activer</item>
+       <item>Ne pas utiliser</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immédiatement</item>

@@ -49,6 +49,7 @@
   <string name="cache_title_empty_folder">Dossiers vides (%d)</string>
   <string name="cache_title_empty_folder2">Dossiers vides</string>
   <string name="cache_title_system_cache">Cache système</string>
+  <string name="cached_garbage">Cache</string>
   <string name="cancel">Annuler</string>
   <string name="clean_content_all">Tout</string>
   <string name="clean_content_one">1 élément</string>
@@ -84,11 +85,13 @@
   <string name="empty_title_installed_apps">Aucune application trouvée</string>
   <string name="empty_title_large_files">Aucun fichier volumineux trouvé</string>
   <string name="empty_title_residual">Aucun résidu trouvé</string>
+  <string name="flow_rank_title">Utilisation des données</string>
   <string name="garbage_clean_detail">Détails</string>
   <string name="garbage_cleanup_detail">%1$d fois, nettoyé le %2$s</string>
   <string name="garbage_month">Nettoyé %s fois ce mois-ci</string>
   <string name="go_to">Continuer</string>
   <string name="goto_set">Définir</string>
+  <string name="grabage_rank_title">Nettoyé aujourd'hui</string>
   <string name="harass_detail">Blocage sur %1$d SMS et %2$d appels</string>
   <string name="header_optimizer">En utilisant cette fonction, vous acceptez les %s</string>
   <string name="hints_ad_header_left">Journaux</string>
@@ -206,7 +209,7 @@
   <string name="privacy_clipboard_type">Presse-papier</string>
   <string name="privacy_search_desc">Recherche dans l\'historique</string>
   <string name="privacy_search_type">Recherche Google</string>
-  <string name="promotion">"Choix de l'éditeur"</string>
+  <string name="promotion">Annonce</string>
   <string name="recommended">Recommandé</string>
   <string name="safety_check_detail">%1$d fois, %2$d points gagnés</string>
   <string name="safety_rank">Devant %d%% utilisateurs MIUI en termes de sécurité</string>
@@ -264,7 +267,9 @@
   <string name="toast_selecte_group_restore_succeed">Photos restaurées</string>
   <string name="toast_uninstall_success">Désinstallation terminée</string>
   <string name="total_clean">Nettoyées : %s</string>
+  <string name="total_clean_text">Nettoyer</string>
   <string name="traffic_top">Top 5 des applis les plus consommatrices</string>
+  <string name="unlike">Non merci</string>
   <string name="virus_scan">Recherche de virus</string>
   <string name="white_list_ad_header">Fichiers pub. : %d</string>
   <string name="white_list_apk_header">Fichiers .apk : %d</string>
