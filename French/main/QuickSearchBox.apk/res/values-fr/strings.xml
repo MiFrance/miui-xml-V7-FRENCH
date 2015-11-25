@@ -42,14 +42,14 @@
   <string name="google_search_hint">Recherche Google</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Recherche Google</string>
-  <string name="hot_search">Tendances</string>
-  <string name="loading">Chargement</string>
+  <string name="hot_search">Populaires</string>
+  <string name="loading">Un instant…</string>
   <string name="menu_help">Aide</string>
   <string name="menu_settings">Paramètres de recherche</string>
   <string name="remove_from_history">Supprimer de l\'historique des recherches ?</string>
   <string name="remove_from_history_failed">Impossible de supprimer l\'élément de l\'historique.</string>
-  <string name="search_history">Rechercher dans l\'historique</string>
-  <string name="search_in_app_store">Rechercher sur le market</string>
+  <string name="search_history">Historique</string>
+  <string name="search_in_app_store">Rechercher sur l\'App Store Mi</string>
   <string name="search_in_web">Rechercher en ligne</string>
   <string name="search_settings">Rechercher dans les paramètres</string>
   <string name="search_sources">Sources</string>
@@ -65,7 +65,7 @@
   <string name="system_search_category_title">Téléphone</string>
   <string name="voice_search_hint_quotation_end">"</string>
   <string name="voice_search_hint_quotation_start">"</string>
-  <string name="voice_search_hint_title">Essayez de dire :</string>
+  <string name="voice_search_hint_title">"Essayez de dire "</string>
   <string name="send_secret_code">Envoyer le code secret</string>
   <string name="show_more">Afficher plus</string>
   <string name="recently_shortcut_label">Raccourcis récents</string>

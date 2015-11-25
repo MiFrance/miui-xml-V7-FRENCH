@@ -67,6 +67,7 @@
   <string name="power_config_app_background_title">Arrière-plan</string>
   <string name="power_config_app_full_screen_title">Plein écran</string>
   <string name="power_config_app_launch_title">Avant-plan</string>
+  <string name="power_config_apps">Économiser de l\'énergie en arrière-plan</string>
   <string name="power_config_choose_apps">Choisir des applications</string>
   <string name="power_config_confirm_event_delete">Supprimer cette configuration ?</string>
   <string name="power_config_cpu_freq_dialog_title">Fréquence CPU</string>
@@ -75,6 +76,10 @@
   <string name="power_config_cpu_mode_title">Mode CPU</string>
   <string name="power_config_data_connect_summary">Autoriser les applications à se connecter au réseau en arrière-plan</string>
   <string name="power_config_data_connect_title">Connexion avec données</string>
+  <string name="power_config_disable_description">"MIUI ne restreindra pas les activités en arrière-plan"</string>
+  <string name="power_config_disable_title">Désactivé</string>
+  <string name="power_config_enhance_description">MIUI restreindra toute activité en arrière-plan dès que possible</string>
+  <string name="power_config_enhance_title">Avancé</string>
   <string name="power_config_event_delete">Supprimer</string>
   <string name="power_config_idle_notification_summary">Afficher uniquement la première notification d\'une application</string>
   <string name="power_config_idle_notification_title">Afficher uniquement la première notification</string>
@@ -84,11 +89,16 @@
   <string name="power_config_lcd_mode_title">Mode LCD</string>
   <string name="power_config_location_summary">"Autoriser l'application à consulter la localisation de l'appareil"</string>
   <string name="power_config_location_title">Accès à la localisation</string>
+  <string name="power_config_mode_title">Modes d\'économie d\'énergie</string>
+  <string name="power_config_normal_description">Les accès en arrière-plan aux services de localisation ainsi qu\'au réseau seront restreints</string>
+  <string name="power_config_normal_title">Standard</string>
   <string name="power_config_phone_charging_title">En charge</string>
   <string name="power_config_phone_idle_title">Inactif</string>
   <string name="power_config_select_apps_empty">Touchez pour sélectionner les applications</string>
   <string name="power_config_select_apps_title">Applications</string>
   <string name="power_config_title">Paramètres</string>
+  <string name="power_config_ultimate_description">MIUI bloquera les applications en arrière-plan</string>
+  <string name="power_config_ultimate_title">Ultime</string>
   <string name="power_configure_screen_brightness_enable">Définir la luminosité de l\'écran</string>
   <string name="power_customize_giveup_change">Abandonner les changements ?</string>
   <string name="power_dialog_cancel">Annuler</string>

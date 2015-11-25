@@ -97,6 +97,7 @@
   <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
   <string name="turn_on_yellowpage_service_title">Utiliser le service d\'annuaire</string>
   <string name="notify_connect_title">Autorisation d\'accès au réseau</string>
+  <string name="open_installed_app">Ouvrir</string>
   <string name="do_not_remind_me">Ne pas me rappeler</string>
   
 <!-- Payment related -->

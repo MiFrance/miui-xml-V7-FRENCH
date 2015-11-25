@@ -4,7 +4,7 @@
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
   <string name="about_to_recover">Chargement…</string>
-  <string name="app_name">Sauvegarde des applis et du bureau</string>
+  <string name="app_name">Sauvegarde de la disposition du bureau</string>
   <string name="back_up_task_in_process">Sauvegarde en cours</string>
   <string name="back_up_task_unfinished">Sauvegarde interrompue</string>
   <string name="backing_up_to_micloud">Sauvegarde…</string>

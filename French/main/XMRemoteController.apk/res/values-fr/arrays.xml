@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ac_mode_array">
-        <item>Cooling</item>
-        <item>Heating</item>
-        <item>Dehumidifier</item>
-        <item>Fan</item>
+        <item>Climatisation</item>
+        <item>Chauffage</item>
+        <item>Déshumidificateur</item>
+        <item>Ventilateur</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Votre appareil peut s\'apparier uniquement avec Mi TV, Mi Box, et quelques autres appareils Android via le Wi-Fi.</item>
+        <item>"Assurez-vous d'avoir sélectionneur le modèle de climatisation adéquat lors du processus d\'appariement. Suivez les indications sur votre appareil jusqu\'à la finalisation du processus."</item>
+        <item>Malheureusement, seul le Mi 4 peut être utilisé comme télécommande pour le moment.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+    </string-array>
+    <string-array name="question">
+        <item>Pourquoi mon téléphone cherche sans cesse des appareils sans-fil ?</item>
+        <item>"Pourquoi puis-je seulement activer l'air conditionné, sans pouvoir l'arrêter ?"</item>
+        <item>Les téléphones Mi 2, Mi 3 ou encore Redmi peuvent-ils être utilisés comme télécommande ?</item>
     </string-array>
 </resources>
