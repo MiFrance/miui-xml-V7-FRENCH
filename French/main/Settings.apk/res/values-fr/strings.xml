@@ -526,6 +526,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="configure_input_method">Configurer les méthodes de saisie</string>
   <string name="confirm_action">Valider</string>
   <string name="confirm_erase">Confirmer</string>
+  <string name="confirm_fingerprint_msg">Placez votre doigt sur le scanner d\'empreinte</string>
   <string name="confirm_new_backup_pw_prompt">Confirmez votre nouveau mot de passe de sauvegarde complète.</string>
   <string name="connected_wifi">Wi-Fi connecté</string>
   <string name="contributors_title">Collaborateurs</string>

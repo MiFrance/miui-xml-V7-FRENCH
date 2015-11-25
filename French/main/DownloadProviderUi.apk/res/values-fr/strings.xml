@@ -97,6 +97,7 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="pref_download_revert_default">Par défaut</string>
   <string name="pref_download_settings_title">Utilisation des données</string>
   <string name="pref_download_storage_path">Créer un nouveau dossier pour les téléchargements</string>
+  <string name="pref_sniff_shortcut">Créer un raccourci</string>
   <string name="pref_summary_any_bytes_popup">Toujours attendre d\'être connecté via Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
@@ -146,6 +147,13 @@ sur tous vos appareils avec Xunlei"</string>
   <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; élément(s) | Source: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Taille : %1$s</string>
   <string name="sniff_search_install">Installer</string>
+  <string name="sniff_shortcut_cloudconfig_btn">Bien compris</string>
+  <string name="sniff_shortcut_cloudconfig_context">Mise à jour de la source…</string>
+  <string name="sniff_shortcut_cloudconfig_title">Un instant…</string>
+  <string name="sniff_shortcut_create">Raccourci créé</string>
+  <string name="sniff_shortcut_name">Rechercher une source</string>
+  <string name="sniff_shortcut_tip">Ajoutez des raccourcis pour trouver des sources plus rapidement.</string>
+  <string name="sniff_shortcut_tip2">Recherchez des sources pour vos téléchargements à partir de votre bureau.</string>
   <string name="sniff_sniffing_btn_text">Recherche d\'une source…</string>
   <string name="sniff_terms_agree">Accepter</string>
   <string name="sniff_terms_msg">Vous devez accepter les \"Conditions d\'utilisation\" afin de pouvoir utiliser un moteur de recherche tiers.</string>
@@ -249,6 +257,22 @@ Accélérez les téléchargements sur tous vos appareils."</string>
   <string name="web_dialog_cancel">Annuler</string>
   <string name="web_dialog_confirm">OK</string>
   <string name="xiaomi_account_not_exist_message">"Ce compte Mi n'existe pas"</string>
+  <string name="xl_annual_vip_open">Abonnement annuel (%1$s crédits Mi ou %2$s par mois)</string>
+  <string name="xl_annual_vip_renew">Renew for 1 year (%1$s crédits Mi ou %2$s par mois)</string>
+  <string name="xl_bind_account">Ajouter un compte Xunlei existant</string>
+  <string name="xl_highway_autoopen">Connexion à haut débit</string>
+  <string name="xl_highway_autoopen_info">Activer automatiquement la connexion à haut débit</string>
+  <string name="xl_highway_title">Connexion à haut débit:   </string>
+  <string name="xl_month_vip_open">Abonnement mensuel (%1$s crédits Mi)</string>
+  <string name="xl_month_vip_renew">Renouveler pour 1 mois (%1$s crédits Mi)</string>
+  <string name="xl_privilege_play">Télécharger le lecteur</string>
+  <string name="xl_privilege_play_info">Diffusez vos téléchargements non terminés sur divers appareils</string>
+  <string name="xl_privilege_speedup">Télécharger l\'accélérateur</string>
+  <string name="xl_privilege_speedup_info">Connexion haut-débit et support des téléchargements hors-ligne</string>
+  <string name="xl_privilege_storage">Stockage en ligne</string>
+  <string name="xl_privilege_storage_info">"L'espace est suffisant pour tous vos téléchargements"</string>
+  <string name="xl_privilege_title">Abonnement Xunlei</string>
+  <string name="xl_validate_title">Expire le:  </string>
   <string name="xunlei_account_has_unbind_message">Compte Xunlei retiré</string>
   <string name="high_speed_channel">Accélérateur Xunlei (payant): </string>
   <string name="hint">Attention</string>
