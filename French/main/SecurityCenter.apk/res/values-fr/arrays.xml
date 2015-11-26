@@ -64,10 +64,10 @@
         <item>Tous les 7 jours</item>
      </string-array>
      <string-array name="auto_memory_clean">
-        <item>Dans 1 minute</item>
-        <item>Dans 5 minutes</item>
-        <item>Dans 10 minutes</item>
-		<item>Dans 30 minutes</item>
+        <item>Après 1 minute</item>
+        <item>Après 5 minutes</item>
+        <item>Après 10 minutes</item>
+		<item>Après 30 minutes</item>
         <item>Jamais</item>
      </string-array>
        <string-array name="power_dialog_wifi_internet_state_items">

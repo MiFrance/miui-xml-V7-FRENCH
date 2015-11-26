@@ -3,34 +3,34 @@
     more dufos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
   <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-      <item quantity="other">&lt;Data>Certains éléments sélectionnés sont également présents sur Mi Cloud, supprimer %s éléments sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+      <item quantity="other">&lt;Data>Supprimer %s éléments sur l\'appareil et Mi Cloud ?&lt;/Data></item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-      <item quantity="other">&lt;Data>Certaines photos sélectionnées sont présentes sur Mi Cloud, supprimer %s photos sur l\'appareil et Mi Cloud ?&lt;/Data></item>
-      <item quantity="one">&lt;Data>La photo sélectionnée est présente sur Mi Cloud, supprimer %s photo sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+      <item quantity="other">&lt;Data>Supprimer %s photos sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>Supprimer %s photo sur l\'appareil et Mi Cloud ?&lt;/Data></item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-      <item quantity="other">&lt;Data>Certaines vidéos sélectionnées sont présentes sur Mi Cloud, supprimer %s vidéos sur l\'appareil et Mi Cloud ?&lt;/Data></item>
-      <item quantity="one">&lt;Data>La vidéo sélectionnée est présente sur Mi Cloud, supprimer %s vidéo sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+      <item quantity="other">&lt;Data>Supprimer %s vidéos sur l\'appareil et Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>Supprimer %s vidéo sur l\'appareil et Mi Cloud ?&lt;/Data></item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-      <item quantity="other">&lt;Data>Les éléments sélectionnés sont présents sur Mi Cloud, supprimer %s éléments de Mi Cloud ?&lt;/Data></item>
+      <item quantity="other">&lt;Data>Supprimer %s éléments de Mi Cloud ?&lt;/Data></item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_image_from_homepage">
-      <item quantity="other">&lt;Data>Les photos sélectionnées sont présentes sur Mi Cloud, supprimer %s photos de Mi Cloud ?&lt;/Data></item>
-      <item quantity="one">&lt;Data>La photo sélectionnée est présente sur Mi Cloud, supprimer %s photo de Mi Cloud ?&lt;/Data></item>
+      <item quantity="other">&lt;Data>Supprimer %s photos de Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>Supprimer %s photo de Mi Cloud ?&lt;/Data></item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_video_from_homepage">
-      <item quantity="other">&lt;Data>Les vidéos sélectionnées sont présentes sur Mi Cloud, supprimer %s vidéos de Mi Cloud ?&lt;/Data></item>
-      <item quantity="one">&lt;Data>La vidéo sélectionnée est présente sur Mi Cloud, supprimer %s vidéo de Mi Cloud ?&lt;/Data></item>
+      <item quantity="other">&lt;Data>Supprimer %s vidéos de Mi Cloud ?&lt;/Data></item>
+      <item quantity="one">&lt;Data>Supprimer %s vidéo de Mi Cloud ?&lt;/Data></item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_image">
       <item quantity="other">Supprimer %s photos du &lt;b>cloud&lt;/b> ?</item>
-      <item quantity="one">Supprimer %s photo du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer cette photo de cet album ?</item>
   </plurals>
   <plurals name="confirm_delete_has_local_image">
       <item quantity="other">Supprimer %s photos ?</item>
-      <item quantity="one">Supprimer %s photo ?</item>
+      <item quantity="one">Supprimer cette photo ?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_video">
       <item quantity="other">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
@@ -38,7 +38,7 @@
   </plurals>
   <plurals name="confirm_delete_has_local_video">
       <item quantity="other">Supprimer %s vidéos ?</item>
-      <item quantity="one">Supprimer %s vidéo ?</item>
+      <item quantity="one">Supprimer cette vidéo ?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_image">
       <item quantity="other">Supprimer %s photos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
@@ -134,15 +134,15 @@
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Synchronisation de %1$d photos…</item>
-        <item quantity="one">Synchronisation d\'une photo…</item>
+        <item quantity="one">Synchronisation de la photo…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Synchronisation de %1$d vidéos…</item>
-        <item quantity="one">Synchronisation d\'une vidéo…</item>
+        <item quantity="one">Synchronisation de la vidéo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Synchronisation de %1$d éléments…</item>
-        <item quantity="one">Synchronisation d\'un élément…</item>
+        <item quantity="one">Synchronisation de l\'élément…</item>
     </plurals>
   <plurals name="confirm_delete_album">
     <item quantity="other">Supprimer %1$s albums (%2$s au total) ?</item>
@@ -150,7 +150,7 @@
   </plurals>
   <plurals name="confirm_delete_video_from_many_albums">
     <item quantity="other">" "<Data> Supprimer %1$d vidéos de %2$d album(s) ?</Data>" "</item>
-    <item quantity="one">" "<Data> Supprimer %1$d vidéo de %2$d album(s) ?</Data>" "</item>
+    <item quantity="one">" "<Data> Supprimer cette vidéo de %2$d album(s) ?</Data>" "</item>
   </plurals>
      <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d jours</item>
@@ -164,6 +164,6 @@
      </plurals>
      <plurals name="confirm_delete_image_from_many_albums">
         <item quantity="other"><Data>Supprimer %1$d images de %2$d albums ?</Data></item>
-        <item quantity="one"><Data>Supprimer %1$d image de %2$d albums ?</Data></item>
+        <item quantity="one"><Data>Supprimer cette image de %2$d albums ?</Data></item>
      </plurals>
 </resources>

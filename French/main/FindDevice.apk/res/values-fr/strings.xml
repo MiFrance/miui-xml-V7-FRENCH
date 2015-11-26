@@ -14,7 +14,7 @@
   <string name="find_device_error_password_changed">Le mot de passe du compte a été changé récemment.</string>
   <string name="find_device_error_server">Erreur serveur</string>
   <string name="find_device_error_unknown">Erreur inconnue</string>
-  <string name="find_device_noise_title">Son de localisation de l\'appareil</string>
+  <string name="find_device_noise_title">Alarme lors de la localisation de l\'appareil</string>
   <string name="find_device_notice_p1">Allez sur</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"pour localiser, verrouiller ou restaurer votre téléphone.
@@ -39,6 +39,6 @@ Si vous changez votre carte SIM, un nouvel SMS sera envoyé automatiquement pour
   <string name="unlock_error_unknown">"Echec d'authentification"</string>
   <string name="unlock_error_user_name">Nom d\'utilisateur invalide</string>
   <string name="unlock_wrong_captcha">Le code saisi est incorrect</string>
-  <string name="unlocking">Activation...</string>
+  <string name="unlocking">Activation…</string>
   <string name="verify_password_failed">"Echec de vérification de l\'ID de compte Mi. %s."</string>
 </resources>

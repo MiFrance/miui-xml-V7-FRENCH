@@ -596,7 +596,7 @@
   <string name="confirm_delete_init_title">Information</string>
   <string name="skip_hide_special_album">"Les albums système (Camera, Capture d\'écran, Vidéos) ne peuvent pas être masqués"</string>
   <string name="bigscreen_slide_playing">Le diaporama est affiché sur \"%s"</string>
-  <string name="confirm_delete_init_message">Les photos seront supprimées de cet appareil et de votre espace Mi Cloud. Si vous voulez les supprimer uniquement localement, veuillez le faire via l\'onglet Local.</string>
+  <string name="confirm_delete_init_message">Les photos seront supprimées de cet appareil ainsi que de votre espace Mi Cloud. Si vous souhaitez seulement les supprimer localement, veuillez utiliser l\'onglet Local.</string>
   <string name="priority_storage">Utiliser la carte SD externe</string>
   <string name="priority_storage_summary">Télécharge en priorité sur la carte SD externe (si disponible)</string>
   <string name="crop_recognize_text">Détecter</string>
@@ -623,7 +623,7 @@
   <string name="menu_item_sort_size">Taille</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Nom</string>
-  <string name="cloudfolder_loading_data">Chargement…</string>
+  <string name="cloudfolder_loading_data">Un instant…</string>
   <string name="photo_paint_crop">Recadrer</string>
   <string name="photo_paint_rotate">Pivoter</string>
   <string name="only_show_camera_in_first_page">Afficher uniquement l\'album photo</string>

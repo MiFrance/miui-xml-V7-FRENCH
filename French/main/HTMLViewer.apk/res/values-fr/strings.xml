@@ -28,4 +28,11 @@ rendez-vous sur %s"</string>
   <string name="open_wifi_connect_title">Connecté à %1$s</string>
   <string name="permdesc_accessDrm">Autorise les applications à accéder à du contenu légalement protégé par DRM.</string>
   <string name="policy_name">Politique: %s</string>
+  <string name="settings_license_activity_loading">Chargement…</string>
+  <string name="settings_license_activity_title">Licences Open Source</string>
+  <string name="settings_license_activity_unavailable">Problème de chargement des licences.</string>
+  <string name="settings_safetylegal_activity_loading">Chargement…</string>
+  <string name="settings_safetylegal_activity_title">Information de sécurité</string>
+  <string name="settings_safetylegal_activity_unreachable">"Vous ne disposez pas d'une connexion Internet. Pour consulter cette information maintenant, rendez-vous sur %s à partir de n\'importe quel appareil connecté à Internet."</string>
+  <string name="settings_safetylegal_title">Information de sécurité</string>
 </resources>

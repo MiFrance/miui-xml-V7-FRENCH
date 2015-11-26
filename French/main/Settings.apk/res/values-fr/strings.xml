@@ -104,7 +104,7 @@ Assurez-vous que votre doigt recouvre le contour intérieur du capteur"</string>
   <string name="add_fingerprint_move_finger_title">Retirez votre doigt</string>
   <string name="add_fingerprint_put_finger_edge_msg">Effectuez une pression sur le capteur, retirez votre doigt, puis recommencez.</string>
   <string name="add_fingerprint_put_finger_msg">Effectuez une pression sur le capteur, retirez votre doigt, puis recommencez.</string>
-  <string name="add_fingerprint_put_finger_title">Placez votre doigt</string>
+  <string name="add_fingerprint_put_finger_title">Placez puis retirez votre doigt</string>
   <string name="add_fingerprint_text">Ajouter une empreinte</string>
   <string name="add_fingerprint_toast_text">Placez maintenant votre doigt sur le capteur</string>
   <string name="additional_system_update_settings_list_item_title">Mises à jour supplémentaires du système</string>

@@ -235,7 +235,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="ok">OK</string>
   <string name="cancel">Annuler</string>
   <string name="score_pts">%</string>
-  <string name="btn_text_start_check">Vérifier</string>
+  <string name="btn_text_start_check">Analyser</string>
   <string name="btn_text_quick_cleanup">Nettoyer</string>
   <string name="btn_text_quick_scan">Analyser</string>
   <string name="btn_text_done">OK</string>
@@ -644,8 +644,8 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="descx_finish_scan_cache">Fin de l\'analyse du cache</string>
   <string name="descx_start_cleanup_cache">Démarrage de l\'optimisation du cache</string>
   <string name="descx_finish_cleanup_cache">Fin de l\'optimisation du cache</string>
-  <string name="button_text_create_shortcut">Ajouter un raccourci</string>
-  <string name="button_text_uninstall_shortcut">Supprimer un raccourci</string>
+  <string name="button_text_create_shortcut">Créer un raccourci sur l\'écran d\'accueil</string>
+  <string name="button_text_uninstall_shortcut">Supprimer le raccourci sur l\'écran d\'accueil</string>
   <string name="empty_title_system_cache_list">Vide</string>
   <string name="empty_title_system_process_list">Vide</string>
   <string name="toast_virus_in_cloud_scanning">Impossible d\'arrêter l\'analyse pendant cette étape</string>
