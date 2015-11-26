@@ -68,7 +68,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_clean">Nettoyer</string>
   <string name="confirm_know">OK</string>
-  <string name="copy_failed">Échec de la copie</string>
+  <string name="copy_failed">Échec de la copie, l\'espace de stockage semble saturé</string>
   <string name="create_kuaipan_shortcut_pref">Créer un raccourci sur le bureau</string>
   <string name="create_new_folder_desctiption">Création d\'un nouveau dossier…</string>
   <string name="create_new_folder_failed">Impossible de créer le dossier</string>
@@ -126,6 +126,7 @@
   <string name="encrypt_error">"Impossible de cacher les fichiers, veuillez réessayer"</string>
   <string name="encrypt_prefix">CACHÉ</string>
   <string name="encrypt_success">Tous les fichiers sont cachés</string>
+  <string name="encrypt_success_first_five">"Encodage effectué. Glissez vers le bas sur la page de démarrage de l\'Explorateur pour voir les fichiers."</string>
   <string name="encrypting">Encodage…</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
@@ -288,6 +289,8 @@ et ne ratez plus les nouveautés!"</string>
   <string name="port_range">Le port doit être compris dans l\'intervalle 1024–65535</string>
   <string name="private_files">Caché</string>
   <string name="private_folder">Dossier caché</string>
+  <string name="private_folder_no_file_hints">Restez appuyé sur un fichier ou un dossier pour le cacher.</string>
+  <string name="private_folder_update">Mise à jour des dossiers cachés…</string>
   <string name="private_toast_hint1">Touchez pour ajouter des fichiers aux dossiers cachés</string>
   <string name="private_toast_hint2">Pour cacher un fichier, maintenez une pression sur celui-ci, puis ajoutez-le à un dossier caché.</string>
   <string name="private_toast_hint3">Tirez vers le bas pour ouvrir les dossiers cachés</string>
@@ -301,7 +304,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="repair_done">Restauré</string>
   <string name="repair_error">"Echec de restauration"</string>
   <string name="repair_file">Restaurer les fichiers encodés</string>
-  <string name="reset_password">Réinitialiser le mot de passe</string>
+  <string name="reset_password">Changer le mot de passe</string>
   <string name="restoring">Restauration…</string>
   <string name="rlv_last_refreshing_time">Dernière mise à jour %1$s</string>
   <string name="rlv_loading_more">Un instant…</string>
@@ -531,6 +534,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="no_downloaded_sticker_tip">"Stickers téléchargés non trouvés. Consultez les stickers partagés par les fans Mi."</string> 
   <string name="action_mode_deselect_all">Tout désélectionner</string>
   <string name="action_mode_select_all">Tout sélectionner</string>
+  <string name="add_private">Ajouter des fichiers aux dossiers cachés</string>
   <string name="add_private_files">Ajouter des fichiers</string>
   <string name="delete_selected_tasks">Supprimer la sélection ?</string>
   <string name="files">Fichiers</string>
