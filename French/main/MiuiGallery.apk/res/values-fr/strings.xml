@@ -58,7 +58,7 @@
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator">" | "</string>
   <string name="alert">Avis d\'information</string>
-  <string name="alert_message_open_sync">La synchronisation avec Mi Cloud n\'est pas active, l\'activer maintenant ?</string>
+  <string name="alert_message_open_sync">Activez au préalable la synchronisation avec Mi Cloud.</string>
   <string name="already_apply_album">Ouvrir %1$s ?</string>
   <string name="already_create_baby_album">L\'album de bébé existe déjà dans Mi Cloud.</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -356,7 +356,7 @@
   <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'albums récents</string>
   <string name="not_show_hidden_albums">Ne pas afficher les albums masqués</string>
   <string name="number_of_uploading_finish">Synchronisé(s) avec Mi Cloud</string>
-  <string name="open">Activer</string>
+  <string name="open">Synchroniser</string>
   <string name="open_public_message">Générer une URL et l\'envoyer à des amis</string>
   <string name="open_public_title">Partager publiquement</string>
   <string name="open_single_image_failure">Impossible d\'ouvrir le fichier image !</string>
@@ -646,7 +646,9 @@
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Galerie</string>
   <string name="impunity_declaration_title">Information</string>
   <string name="operation_add_secret">Ajouter au dossier secret</string>
+  <string name="operation_add_secret_button">Cacher</string>
   <string name="operation_remove_secret">Enlever du dossier secret</string>
+  <string name="operation_remove_from_face_album_button">Rendre visible</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s éléments n'ont pu être ajoutés au dossier secret: %1$s."</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s éléments n'ont pu être enlevés du dossier secret: %1$s."</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s éléments non ajoutés au dossier secret</string>
@@ -736,6 +738,7 @@
   <string name="merge_album_positive_button_text">Fusionner</string>
   <string name="old">Vintage</string>
   <string name="operation_remove_from_face_album">Supprimer de cet album</string>
+  <string name="operation_remove_from_face_album_button">Supprimer</string>
   <string name="photo_save_succeed">Image enregistrée</string>
   <string name="preparing_data">Chargement…</string>
   <string name="qq">QQ</string>

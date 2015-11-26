@@ -6,11 +6,11 @@
   <string name="main_toolbar_saving">Compression</string>
   <string name="traffic_saving_tecsupport">Propulsé par Opera Max</string>
   <string name="traffic_saving_tecsupport_international">Propulsé par Opera Max</string>
-  <string name="traffic_saving_notify_start_title">Compression des données</string>
+  <string name="traffic_saving_notify_start_title">Réduction de l\'utilisation des données</string>
   <string name="traffic_saving_notify_start_content">%s économisés ce mois-ci</string>
   <string name="traffic_saving_toast_start_mobile">Compression des données activée</string>
-  <string name="traffic_saving_toast_start_none_mobile">La compression des données démarrera lorsque vous serez connecté sur un réseau mobile</string>
-  <string name="traffic_saving_toast_start_unreachable">Erreur, impossible d\'activer la compression des données</string>
+  <string name="traffic_saving_toast_start_none_mobile">L\'économiseur de données sera activé à chaque connexion à un réseau mobile</string>
+<string name="traffic_saving_toast_start_unreachable">Erreur, impossible d\'activer la compression des données</string>
   <string name="traffic_saving_toast_stop">Compression des données désactivée</string>
   <string name="traffic_saving_title">Économie de données</string>
   <string name="traffic_saving_button_start">Activer</string>
@@ -27,7 +27,7 @@
   <string name="traffic_saving_button_mng">Gérer les paramètres d\'économie de données</string>
   <string name="traffic_saving_need_optimize">Peut être optimisé</string>
   <string name="traffic_saving_notification_button_start">Activer</string>
-  <string name="traffic_saving_notify_no_apps_saving">Aucune application n\'utilise l\'économiseur de données</string>
+  <string name="traffic_saving_notify_no_apps_saving">Réduire l\'utilisation des données</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Appuyez pour activer l\'économiseur de données.</string>
   <string name="traffic_saving_one_key_optimize">Optimiser pour économiser les données</string>
   <string name="traffic_saving_optimized">Déjà optimisé</string>
@@ -541,7 +541,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="firewall_network_restrict_notify_message">Appuyer pour modifier les paramètres.</string>
   <string name="firewall_network_restrict_notify_mobile">Données mobiles</string>
   <string name="firewall_network_restrict_notify_title">"%1$s ne peut utiliser %2$s"</string>
-  <string name="firewall_restrict_android_dialog_content">"Si vous n'autorisez pas Android à se connecter à Internet, certaines fonctions clés, comme le hotspot Wi-Fi, peuvent être affectées."</string>
+  <string name="firewall_restrict_android_dialog_content">Afin d\'assurer le bon fonctionnement de votre appareil, quelques applications système devront se connecter à Internet. Ces applications utilisent vos données mobiles et peuvent entraîner des frais modérés de la part de votre opérateur.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="traffic_correction_success_notify_message">Appuyer pour afficher les détails.</string>
   <string name="hints_install_apps_new">Jamais utilisé</string>
