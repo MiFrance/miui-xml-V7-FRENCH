@@ -323,7 +323,6 @@
   <string name="sync_notice_message">Synchroniser votre calendrier avec Mi Cloud ?</string>
   <string name="sync_notice_ok_toast_message">Le calendrier local va être synchronisé avec Mi Clound</string>
   <string name="sync_notice_title">Synchronisation du calendrier</string>
-  <string name="action_label">Entrée</string>
   <string name="birthday_notice_message">Détails de l\'anniversaire, besoin de se connecter au réseau avant le visionnement. Êtes-vous d\'accord ?</string>
   <string name="anniversary_term">anniversary</string>
   <string name="setting_wifi_mode">仅WLAN下同步大图</string>
