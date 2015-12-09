@@ -114,5 +114,4 @@
   <string name="category_india_settings_title">Réglages pour l\'Inde</string>
   <string name="enable_channel_60_alerts_summary">Le canal 60 est utilisé en Inde pour des informations spécifiques aux opérateurs</string>
   <string name="enable_channel_60_alerts_title">Afficher les diffusions du canal 60</string>
-  <string name="cell_broadcast_settings_not_available">Les paramètres de diffusion cellulaire ne sont pas disponibles pour cet utilisateur.</string>
 </resources>
