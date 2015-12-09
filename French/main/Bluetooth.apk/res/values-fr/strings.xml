@@ -181,7 +181,6 @@
   <string name="mi_key_take_photo">Prendre une photo</string>
   <string name="progress_scanning">Recherche…</string>
   <string name="ble_device_unbind">Effacer les paramètres</string>
-  <string name="airplane_can_not_share">"Le Bluetooth n'est pas disponible en mode avion"</string>
   <string name="bluetooth_in_airplane_mode">Mode avion actif</string>
   <string name="notify_need_on_BT_before_retry">Le Bluetooth est inactif. Veuillez l\'activer avant d\'essayer un nouvel envoi</string>
   <string name="panu_disconnect_while_wifi_connected">Partage Bluetooth déconnecté</string>
@@ -189,15 +188,10 @@
   <string name="sim_selected_dialog_title">Sélectionner la SIM</string>
   <string name="suggested">Suggéré(s)</string>
   <string name="too_much_file_sent">%1$s fichiers max à la fois</string>
-  <string name="upload_fail_waiting">L\'envoi de fichier(s) est en préparation, la transmission sera effectuée automatiquement par la suite</string>
-  <string name="incoming_line1">Expéditeur</string>
-  <string name="incoming_line2">Nom de fichier</string>
-  <string name="incoming_line3">Taille</string>
   <string name="bluetooth_connected">Connecté</string>
   <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
-  <string name="bluetooth_in_airplane_mode">En mode avion</string>
   <string name="bluetooth_map_settings_app_icon">Icône de l\'application</string>
   <string name="bluetooth_map_settings_cancel">Annuler</string>
   <string name="bluetooth_map_settings_count">Emplacements restants :</string>
