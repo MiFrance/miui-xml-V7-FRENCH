@@ -48,6 +48,13 @@
   <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver Mi Message. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_server">L\'activation de Mi Message par le serveur a échoué, un SMS international est requis pour réactiver Mi Message. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver Mi Message. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_status_desc_activating_now">Activation…</string>
+  <string name="mx_activate_status_desc_check_net_connection">"Échec de connexion au réseau"</string>
+  <string name="mx_activate_status_desc_fail">"Échec d\'activation de Mi Message"</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">Envoi du message d\'activation…</string>
+  <string name="mx_activate_status_desc_query_activte_info">Validation des informations de la carte SIM…</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Le numéro de téléphone saisi est invalide</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">"Échec d\'activation de Mi Message"</string>
   <string name="mx_and_voip_enable">Mi Message &amp; Voix</string>
   <string name="mx_and_voip_enable_popup_msg">"Envoyer des messages et passez des appels vers d'autres utilisateurs MIUI sans encourir de frais auprès de votre opérateur. VoIP est soutenue par Weihui. Afficher la politique de confidentialité de Weihui."</string>
   <string name="mx_and_voip_enable_popup_msg2">Politique de confidentialité</string>
@@ -284,6 +291,10 @@
   <string name="mx_enable">Activer Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Voix</string>
   <string name="mx_enable_popup_msg">Mi Message vous permet d\'envoyer gratuitement des messages entre utilisateurs de cette fonction.</string>
+  <string name="mx_filter_message_from_stranger">Bloquer les messages Mi venant de numéros inconnus</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Vous pourrez toujours recevoir des SMS provenant de numéros inconnus. Vous pouvez désactiver cette fonction à tout moment dans Messages &gt; Paramètres."</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Blocage des messages Mi provenant de numéros inconnus</string>
+  <string name="mx_filter_message_from_stranger_summary">"Vous pourrez toujours recevoir des SMS provenant de numéros inconnus"</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
@@ -521,6 +532,7 @@
   <string name="feedback_description_hint">Veuillez saisir votre rapport, en anglais, ici</string>
   <string name="feedback_submit">Envoyer</string>
   <string name="pref_key_mx_feedback">Retour d\'expérience</string>
+  <string name="pref_message_recovery_introduction_title">Restaurer le message</string>
   <string name="pref_summary_mx_feedback">Signalez les erreurs et les bugs directement à Xiaomi</string>
   <string name="toast_description_required">Veuillez saisir un message</string>
   <string name="toast_feedback_finish">Votre rapport sera envoyé lorsque vous vous connecterez à un réseau Wi-Fi</string>

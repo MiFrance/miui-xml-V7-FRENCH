@@ -248,14 +248,14 @@
   <string name="trans_my_device">Mon appareil</string>
   <string name="trans_one_key_migrate">Transférer</string>
   <string name="trans_operate_new_phone_tips">"Scannez le code QR avec votre nouvel appareil
-Allez dans Paramètres &gt; Paramètres additionnels &gt; Déplacer dans Transfert
+Allez dans Paramètres &gt; Paramètres additionnels &gt; Transfert
  Sélectionnez [Je suis un destinataire] pour créer un code QR"</string>
   <string name="trans_operate_old_phone_tips1">"Méthode A
-1. Installer l\'application Déplacer dans Transfert sur votre ancien appareil
+1. Installer l\'application Transfert sur votre ancien appareil
 2. Ouvrez l\'application et sélectionnez [Je suis un expéditeur]
 3. Scannez le code QR avec votre ancien appareil"</string>
   <string name="trans_operate_old_phone_tips2">"Méthode B
-Allez dans Paramètres &gt; Paramètres additionnels &gt; Déplacer dans Transfert
+Allez dans Paramètres &gt; Paramètres additionnels &gt; Transfert
  Sélectionnez [Je suis un expéditeur]"</string>
   <string name="trans_progress_subdescript_br_receiver">Réception de %s</string>
   <string name="trans_progress_subdescript_br_sender">Sauvegarde de %s</string>

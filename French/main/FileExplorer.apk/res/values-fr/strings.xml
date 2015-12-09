@@ -126,7 +126,7 @@
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
   <string name="encrypt_error">"Impossible de cacher les fichiers, veuillez réessayer"</string>
   <string name="encrypt_prefix">CACHÉ</string>
-  <string name="encrypt_success">Tous les fichiers sont cachés</string>
+  <string name="encrypt_success">Masquage effectué</string>
   <string name="encrypt_success_first_five">"Encodage et masquage effectués. Vous pouvez voir les fichiers cachés en glissant vers le bas sur la page de démarrage de l\'Explorateur"</string>
   <string name="encrypting">Encodage…</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>

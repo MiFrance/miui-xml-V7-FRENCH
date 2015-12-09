@@ -26,8 +26,14 @@
   <string name="button_text_update">Mettre à jour</string>
   <string name="cancel_download">Arrêter le téléchargement ?</string>
   <string name="cancel_download_buton_text">Annuler</string>
+  <string name="check_local_package_update_btn">Redémarrer et mettre à jour</string>
+  <string name="check_local_package_update_msg">"Vous êtes sur le point de mettre à jour MIUI en version %s. Le téléphone va redémarrer automatiquement durant la mise à jour."</string>
+  <string name="check_local_package_update_title">Mise à jour</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">"Échec de vérification de la mise à jour."</string>
+  <string name="check_local_package_wipe_btn">Effacer et mettre à jour</string>
+  <string name="check_local_package_wipe_msg">"Vous êtes sur le point de basculer sur la version %s de MIUI, qui est antérieure à votre version actuelle. Vos données personnelles seront supprimées. Assurez-vous d\'avoir sauvegardé tous vos éléments importants avant de démarrer le processus."</string>
+  <string name="check_local_package_wipe_title">Effacer les données</string>
   <string name="check_new_version">Vérifier</string>
   <string name="check_update_policy">Paramètres</string>
   <string name="check_update_when_wifi_available">Uniquement en connexion Wi-Fi</string>
@@ -39,6 +45,9 @@
   <string name="comment_upload_hint">Merci pour vos commentaires</string>
   <string name="comment_upload_not_logined">"Connectez-vous avant d'envoyer des commentaires"</string>
   <string name="comment_upload_success">Commentaire envoyé avec succès !</string>
+  <string name="confirm_local_package_wipe_btn">Effacer et mettre à jour</string>
+  <string name="confirm_local_package_wipe_msg">Vos données personnelles vont être effacées. Assurez-vous d\'avoir sauvegardé tous vos éléments importants avant de démarrer le processus.</string>
+  <string name="confirm_local_package_wipe_title">Erase data?</string>
   <string name="daily_build">quotidienne</string>
   <string name="dialog_no">Non</string>
   <string name="dialog_ok">OK</string>
