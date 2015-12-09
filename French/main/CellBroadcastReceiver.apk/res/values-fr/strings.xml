@@ -45,6 +45,7 @@
   <string name="cmas_operator_defined_alert">Alerte d\'urgence (opérateur)</string>
   <string name="pws_other_message_identifiers">Alerte d\'urgence</string>
   <string name="cb_other_message_identifiers">Diffusion cellulaire</string>
+  <string name="cell_broadcast_settings_not_available">Les paramètres de diffusion cellulaire ne sont pas disponibles pour cet utilisateur</string> 
   <string name="emergency_alert_settings_title">Paramètres d\'alerte d\'urgence</string>
   <string name="enable_emergency_alerts_title">Activer les notifications</string>
   <string name="enable_emergency_alerts_summary">Afficher les diffusions d\'alerte d\'urgence</string>

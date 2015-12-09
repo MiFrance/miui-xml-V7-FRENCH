@@ -18,8 +18,15 @@
  -->
 <resources>
   <string name="app_label">Documents</string>
+  <string name="button_copy">Copier</string>
+  <string name="button_select">Sélectionner</string>
+  <string name="copy_failure_alert_content">"Ces fichiers n'ont pas été copiés : %1$s"</string>
+  <string name="copy_notification_title">Copie des fichiers</string>
+  <string name="copy_preparing">Préparation de la copie…</string>
+  <string name="copy_remaining">%s restant(s)</string>
   <string name="title_open">Ouvrir à partir de</string>
   <string name="title_save">Enregistrer sous</string>
+  <string name="menu_copy">Copier vers…</string>
   <string name="menu_create_dir">Créer un dossier</string>
   <string name="menu_grid">Grille</string>
   <string name="menu_list">Liste</string>
@@ -57,4 +64,7 @@
   <string name="menu_file_size_hide">Masquer taille fichier</string>
   <string name="menu_file_size_show">Afficher taille fichier</string>
   <string name="menu_select">Sélectionner \"^1\"</string>
+  <string name="menu_select_all">Tout sélectionner</string>
+  <string name="notification_touch_for_details">Appuyez pour voir les détails</string>
+  <string name="retry">Réessayer</string>
 </resources>

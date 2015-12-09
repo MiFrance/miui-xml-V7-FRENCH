@@ -21,6 +21,7 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Suggestions de contact ouvertes</string>
   <string name="accessibility_add_attendee">Ajouter un participant</string>
   <string name="accessibility_add_reminder">Ajouter un rappel</string>
   <string name="accessibility_all_day">Toute la journée</string>
@@ -42,6 +43,7 @@
   <string name="acessibility_cal_notification">Notification de l\'agenda</string>
   <string name="acessibility_selected_marker_description">Événement sélectionné</string>
   <string name="acessibility_snooze_notification">Notification de répétition d\'alarme</string>
+  <string name="action_label">OK</string>
   <string name="add_account">Ajouter un compte</string>
   <string name="agenda_today">AUJ., %1$s</string>
   <string name="agenda_tomorrow">DEMAIN, %1$s</string>
@@ -82,6 +84,7 @@
   <string name="do_not_check">Ne pas cocher -&gt;</string>
   <string name="does_not_repeat">Événement ponctuel</string>
   <string name="done">OK</string>
+  <string name="dropdown_delete_button_desc">Retirer %s des destinataires</string>
   <string name="edit_event_all_day_label">Journée entière</string>
   <string name="edit_event_calendar_label">Agenda</string>
   <string name="edit_event_from_label">De</string>
@@ -144,7 +147,7 @@
   <string name="monthly">Tous les mois</string>
   <string name="monthly_on_day">Mensuel (même jour)</string>
   <string name="monthly_on_day_count">Mensuel (chaque %1$s %2$s)</string>
-  <string name="more_string">+ %1$s</string>
+  <string name="more_string">+ %1$d</string>
   <string name="new_event_dialog_label">Nouvel événement</string>
   <string name="new_event_dialog_option">Nouvel événement</string>
   <string name="no_calendars_found">Avant d\'ajouter un événement, vous devez ajouter au moins un compte Agenda à votre appareil et activer la visibilité de cet agenda. Pour cela, appuyez sur "Ajouter un compte", ou sur "Annuler" si vous pensez qu\'au moins un agenda est activé (vérifiez que c\'est bien le cas). Si vous venez d\'ajouter un compte, patientez jusqu\'à la fin de la synchronisation, puis réessayez.</string>

@@ -491,6 +491,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="alert_dialog_yes">Oui</string>
   <string name="alert_dialog_no">Non</string>
   <string name="alert_dialog_dismiss">Ignorer</string>
+  <string name="voicemail">Messagerie vocale</string>
   <string name="voicemail_provider">Service de messagerie vocale</string>
   <string name="voicemail_settings">Configuration</string>
   <string name="voicemail_number_not_set">&lt;Non défini&gt;</string>
@@ -577,6 +578,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="respond_via_sms_canned_response_3">"Je t'appellerai plus tard."</string>
   <string name="respond_via_sms_canned_response_4">"Je ne peux pas parler. On se rappelle ?"</string>
   <string name="respond_via_sms_custom_message">Réponse personnalisée…</string>
+  <string name="select_sim_hint">"Impossible d'utiliser la SIM %2$d, lorsque la SIM %1$d est en cours d'utilisation."</string>
   <string name="custom_message_cancel">Annuler</string>
   <string name="custom_message_send">Envoyer</string>
   <string name="respond_via_sms_setting_title">Réponses rapides</string>
@@ -1040,6 +1042,8 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="incall_error_missing_voicemail_number">Numéro de messagerie inconnu.</string>
   <string name="livetalk_dial">Recharge en cours d\'utilisation</string>
   <string name="livetalk_left_minute">%s minutes restantes</string>
+  <string name="livetalk_provider_info">Fourni par %s</string>
+  <string name="livetalk_waiting">En attente…</string>
   <string name="onscreen_audio_mode_conference">Conférence</string>
   <string name="call_recording_notification_toggle_title">"Notification d'enregistrement d'appel"</string>
   <string name="waiting_close_airplane_mode">Un instant…</string>

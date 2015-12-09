@@ -402,7 +402,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="export_to_sim1">Exporter vers la carte SIM 1</string>
   <string name="export_to_sim2">Exporter vers la carte SIM 2</string>
   <string name="export_to_sim_title">Export vers la carte SIM…</string>
-  <string name="export_vcard_description">Exporter les contacts au format vCard</string>
+  <string name="export_vcard_description">Exporter les vCards sur la carte SD</string>
   <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Échec de l'exportation des données des contacts"</string>
   <string name="exporting_contact_list_message">Vos données de contact sont en cours d\'exportation vers : \"%s\".</string>
@@ -421,7 +421,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="fail_reason_no_exportable_contact">Aucun contact ne peut être exporté.</string>
   <string name="fail_reason_not_supported">"Le format n'est pas compatible."</string>
   <string name="fail_reason_too_long_filename">Le nom de fichier requis est trop long (%s)</string>
-  <string name="fail_reason_too_many_vcard">Nombre maximum de fichiers de carte de visite sur la carte SD dépassé</string>
+  <string name="fail_reason_too_many_vcard">Trop de vCards stockées sur la carte SD</string>
   <string name="fail_reason_unknown">Erreur inconnue</string>
   <string name="fail_reason_vcard_parse_error">Impossible d\'analyser le fichier vCard pour une raison inattendue.</string>
   <string name="favoritesFrequentCalled">Appels fréquents</string>
@@ -461,7 +461,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="import_all_sim_entries_miui">Importer tous les contacts</string>
   <string name="import_all_vcard_string">Importer tous les fichiers de carte de visite</string>
   <string name="import_contact_card_button">Importer</string>
-  <string name="import_failure_no_vcard_file">Aucune carte de visite trouvée dans le stockage.</string>
+  <string name="import_failure_no_vcard_file">Aucune carte de visite trouvée sur la carte SD</string>
   <string name="import_from_onekey_migrate">Importer via Transfert</string>
   <string name="import_from_other_phone">Importer à partir d\'un autre téléphone</string>
   <string name="import_from_sdcard">Importer…</string>
@@ -480,7 +480,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="import_to_xiaomi_account_progress_message">Importation en cours…</string>
   <string name="import_to_xiaomi_account_progress_title">Importer les contacts dans le compte Mi</string>
   <string name="import_to_xiaomi_account_title">Import dans le compte Mi</string>
-  <string name="import_vcard_description">Importer des contacts à partir d\'un fichier</string>
+  <string name="import_vcard_description">Importer des contacts à partir de la carte SD</string>
   <string name="import_weibo_dialog_title">Importer des contacts Sina Weibo</string>
   <string name="import_weibo_error_no_matched_contacts">Mise à jour des contacts terminée : aucun contact assorti</string>
   <string name="import_weibo_error_no_network">Mise à jour des contacts terminée : problème de réseau</string>
@@ -906,8 +906,8 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="scan_duplicate_message">Total de (%1$d) contacts avec doublons</string>
   <string name="scan_merge">Recherche d\'éventuels contacts en double, veuillez patienter…</string>
   <string name="scanning">Recherche de périphériques…</string>
-  <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
-  <string name="scanning_sdcard_failed_title">Recherche impossible sur la carte SD</string>
+  <string name="scanning_sdcard_failed_message">Motif : \"%s\".</string>
+  <string name="scanning_sdcard_failed_title">"Recherche impossible"</string>
   <string name="searchHint">Rech. des contacts</string>
   <string name="search_results_searching">Recherche…</string>
   <string name="search_settings_description">Noms de vos contacts</string>
