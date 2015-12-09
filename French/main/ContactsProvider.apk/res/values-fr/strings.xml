@@ -41,6 +41,7 @@
   <string name="upgrade_out_of_memory_notification_text">Appuyez pour terminer la mise à jour.</string>
   <string name="upgrade_out_of_memory_notification_ticker">La mise à jour des contacts requiert plus de mémoire.</string>
   <string name="upgrade_out_of_memory_notification_title">Mise à jour du stockage des contacts</string>
+  <string name="video_call">Appel vidéo</string>
   <string name="voicemail_from_column">"Message vocal de "</string>
   <string name="search_the_yellowpage">Chercher dans les Pages Jaunes</string>
 </resources>

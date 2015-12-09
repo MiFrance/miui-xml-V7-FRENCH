@@ -584,6 +584,8 @@
   <string name="vp_app_name">Lecteur vidéo</string>
   <string name="app_plugin_ready">%1$s installé</string>
   <string name="app_update_background">Mettre à jour en arrière-plan.</string>
+  <string name="app_upgrade_hint">Cliquez pour voir les vidéos HD en ligne.</string>
+  <string name="app_upgrade_title">Mi Video est à jour.</string>
   <string name="miwifi_app_download_content">Téléchargement…</string>
   <string name="miwifi_app_download_title">Routeur Mi</string>
   <string name="miwifi_app_update_button">Mettre à jour</string>

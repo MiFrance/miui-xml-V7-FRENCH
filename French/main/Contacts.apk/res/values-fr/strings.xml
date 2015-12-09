@@ -121,6 +121,7 @@
   <string name="callrecordview_item_op_time_rejected">appel rejeté</string>
   <string name="callrecordview_item_op_time_short_incoming">"entrant : "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"sortant : "</string>
+  <string name="callrecordview_item_op_video">Vidéo</string>
   <string name="callrecordview_menu_add_call_note">Ajout. note d\'appel</string>
   <string name="callrecordview_menu_delete">Effacer du journal d\'appels</string>
   <string name="callrecordview_menu_delete_accepted">Effacer les appels reçus du journal d\'appels</string>
@@ -659,6 +660,11 @@ Les fiches de contact sont désactivés"</string>
   <string name="missing_name">(Sans nom)</string>
   <string name="more_call_logs">Accédez au journal d\'appels complet sur i.mi.com</string>
   <string name="move_and_resize">Déplacer et redimensionner</string>
+  <string name="multi_number_menu_call">Appel</string>
+  <string name="multi_number_menu_delete">Supprimer</string>
+  <string name="multi_number_menu_group">Nouveau groupe</string>
+  <string name="multi_number_menu_message">Message</string>
+  <string name="multi_number_title">Appel en conférence</string>
   <string name="multipleContactDeleteConfirmation">La suppression de ce contact entraînera celle d\'informations provenant de plusieurs comptes.</string>
   <string name="multipleContactDeleteConfirmationDetail">Supprimer "%s" entraînera la suppression des informations provenant de plusieurs comptes.</string>
   <string name="my_in_call_show">Ma vidéo</string>
@@ -907,6 +913,7 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="search_settings_description">Noms de vos contacts</string>
   <string name="searching_vcard_message">Recherche de cartes de visites…</string>
   <string name="select_all">Tout sélectionner</string>
+  <string name="select_done">Pas d\'autre élément à sélectionner</string>
   <string name="select_device">Sélectionnez un périphérique à connecter avec</string>
   <string name="select_groups">Sélectionner les groupes</string>
   <string name="select_none">Aucune sélection, l\'opération est non valide</string>
@@ -1045,6 +1052,7 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="vcard_import_will_start_message">%s sera importé</string>
   <string name="vcard_import_will_start_message_with_default_name">Le fichier sera importé</string>
   <string name="vcard_unknown_filename">contact</string>
+  <string name="video_call">Appel vidéo</string>
   <string name="video_chat">Chat vidéo</string>
   <string name="viewContactDesription">Afficher le contact</string>
   <string name="viewContactTitle">Détails du contact</string>
@@ -1095,6 +1103,7 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="sim_contact_invalid">Contact SIM non valide</string>
   <string name="group_name">Mes groupes</string>
   <string name="callrecordview_menu_batch_delete">Suppression par lots</string>
+  <string name="callrecordview_menu_conference">Appel en conférence</string>
   <string name="delete_call_log_selected_title">Supprimer les entrées sélectionnées ?</string>
   <string name="toast_finish_delete_selected_call_log">Entrées supprimées</string>
   <string name="yellowpage_navigation_network_location_enable">Activer</string>
