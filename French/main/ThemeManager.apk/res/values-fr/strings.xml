@@ -161,6 +161,9 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_tip_select_ringtone">Aucune sélectionnée</string>
   <string name="resource_title">Détail de la ressource</string>
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
+  <string name="resource_trial_days">（période d\'essai : %1$d jours）</string>
+  <string name="resource_trial_days_hours">（période d\'essai :%1$d jours %2$d heures）</string>
+  <string name="resource_trial_end_time">（période d\'essai pour %1$s）</string>
   <string name="resource_update">MàJ</string>
   <string name="resource_waiting_download">En attente…</string>
   <string name="sdcard_not_mounted_dialog_message">Carte SD non disponible, veuillez en insérer une.</string>
@@ -285,6 +288,9 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_apply_trial">"Essayer "</string>
   <string name="resource_on_trial">Essai de \"%1$s\" en cours</string>
   <string name="resource_trial_time">(%1$d minutes)</string>
+  <string name="resource_trial_hours">（période d\'essai : %1$d heures）</string>
+  <string name="resource_trial_hours_minutes">（période d\'essai :%1$d heures %2$d minutes）</string>
+  <string name="resource_trial_minutes">（période d\'essai : %1$d minutes）</string>
   <string name="resource_trial_end_title">Période d\'essai terminée</string>
   <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous a plu, vous pouvez l\'acheter.</string>
   <string name="resource_trial_end_restore">Terminer l\'essai</string>

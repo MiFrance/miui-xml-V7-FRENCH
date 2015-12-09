@@ -337,6 +337,7 @@
   <string name="exchange_name">Exchange</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Développer coordonnées du destinataire</string>
+  <string name="fail_get_email_message">Échec de récupération du message.</string>
   <string name="failed">"Impossible de charger l'image."</string>
   <string name="feedback">Envoyer des commentaires</string>
   <string name="fetching_attachment">Récupération de la pièce jointe</string>
@@ -384,7 +385,7 @@
   <string name="mailbox_list_account_selector_combined_view">Vue combinée</string>
   <string name="mailbox_name_display_drafts">Brouillons</string>
   <string name="mailbox_name_display_inbox">Boîte de réception</string>
-  <string name="mailbox_name_display_junk">Spam</string>
+  <string name="mailbox_name_display_junk">Indésirables</string>
   <string name="mailbox_name_display_outbox">Boîte d\'envoi</string>
   <string name="mailbox_name_display_sent">Éléments envoyés</string>
   <string name="mailbox_name_display_starred">Messages suivis</string>
@@ -790,6 +791,9 @@ Taille du patch Delta : %2$s"</string>
   <string name="account_setup_incoming_mail_domain_hint">Optionnel</string>
   <string name="folder_drafts_name_en0">Brouillons</string>
   <string name="folder_drafts_name_en1">Brouillon</string>
+  <string name="folder_junk_name_en1">E-mailing</string>
+  <string name="folder_junk_name_en2">Indésirables</string>
+  <string name="folder_junk_name_en3">Indésirables</string>
   <string name="folder_sent_name_en0">Envoyé</string>
   <string name="folder_sent_name_en1">Messages envoyés</string>
   <string name="folder_sent_name_en2">Message envoyé</string>
@@ -989,7 +993,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="re_download_message_button">Appuyer pour retélécharger</string>
   <string name="re_download_message_info">Échec du téléchargement de l\'e-mail</string>
-  <string name="contact_edit_set_black_list">Ajouter à la liste noire</string>
+  <string name="contact_edit_set_black_list">Filtrage…</string>
   <string name="contact_edit_set_phone_contact">Modifier les contacts du téléphone</string>
   <string name="contact_edit_set_pop_up_tips">Afficher les astuces</string>
   <string name="contact_edit_set_unread_top">Afficher les mails non lus d\'abord</string>
@@ -1004,8 +1008,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="oauth_gmail_login_notify">"Entrez vos identifiants Google sur la page d\'authentification suivante"</string>
   <string name="oauth_login_continue">Continuer</string>
   <string name="outbox_alert_description_insufficient_storage_error">Espace insuffisant sur le serveur de messagerie</string>
-  <string name="contact_edit_set_black_list_receive">Supprimer le message avec ce destinataire</string>
+  <string name="contact_edit_set_black_list_receive">Déplacer le message de ce destinataire dans le dossier des indésirables (uniquement les nouveaux messages)</string>
   <string name="contact_edit_set_black_list_receive_summary">Supprimer les messages incluant ce destinataire, dans les champs A ou Cc</string>
   <string name="account_setup_deleting_account_msg">Suppression du compte…</string>
-  <string name="contact_edit_set_black_list_from">Supprimer tous les mails de cet expéditeur</string>
+  <string name="contact_edit_set_black_list_from">Déplacer tous les mails de cet expéditeur dans le dossier des indésirables</string>
 </resources>

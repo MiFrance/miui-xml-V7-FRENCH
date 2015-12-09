@@ -124,12 +124,12 @@
       <item quantity="many">%1$d fichiers vidéo de WeChat vont expirer</item>
   </plurals>
   <plurals name="backup_message_wechat_video">
-      <item quantity="other">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
-      <item quantity="zero">%1$d fichier vidéo temporaire de WeChat va être supprimé, souhaitez-vous le conserver ?</item>
-      <item quantity="one">%1$d fichier vidéo temporaire de WeChat va être supprimé, souhaitez-vous le conserver ?</item>
-      <item quantity="two">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
-      <item quantity="few">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
-      <item quantity="many">%1$d fichiers vidéo temporaires de WeChat vont être supprimés, souhaitez-vous les conserver ?</item>
+      <item quantity="other">%1$d vidéos dans les conversations WeChat vont bientôt expirer. Souhaitez-vous les conserver ?</item>
+      <item quantity="zero">%1$d vidéos dans les conversations WeChat vont bientôt expirer. Souhaitez-vous les conserver ?</item>
+      <item quantity="one">%1$d vidéo dans les conversations WeChat va bientôt expirer. Souhaitez-vous la conserver ?</item>
+      <item quantity="two">%1$d vidéos dans les conversations WeChat vont bientôt expirer. Souhaitez-vous les conserver ?</item>
+      <item quantity="few">%1$d vidéos dans les conversations WeChat vont bientôt expirer. Souhaitez-vous les conserver ?</item>
+      <item quantity="many">%1$d vidéos dans les conversations WeChat vont bientôt expirer. Souhaitez-vous les conserver ?</item>
   </plurals>
   <plurals name="file_count">
       <item quantity="other"> %1$d éléments</item>

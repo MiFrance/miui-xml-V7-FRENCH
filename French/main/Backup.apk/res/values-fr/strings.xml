@@ -243,9 +243,20 @@
   <string name="trans_detail_category_sysdata">Données système</string>
   <string name="trans_detail_category_userdata">Applicationss</string>
   <string name="trans_device_disconnected">Appareil déconnecté</string>
+  <string name="trans_generate_qr_code_failed">"Impossible de créer le code QR"</string>
   <string name="trans_main_tutor">Transférez contacts, journal d\'appels, messages, disposition du bureau, applications, paramètres, etc. vers un nouvel appareil</string>
   <string name="trans_my_device">Mon appareil</string>
   <string name="trans_one_key_migrate">Transférer</string>
+  <string name="trans_operate_new_phone_tips">"Scannez le code QR avec votre nouvel appareil
+Allez dans Paramètres &gt; Paramètres additionnels &gt; Déplacer dans Transfert
+ Sélectionnez [Je suis un destinataire] pour créer un code QR"</string>
+  <string name="trans_operate_old_phone_tips1">"Méthode A
+1. Installer l\'application Déplacer dans Transfert sur votre ancien appareil
+2. Ouvrez l\'application et sélectionnez [Je suis un expéditeur]
+3. Scannez le code QR avec votre ancien appareil"</string>
+  <string name="trans_operate_old_phone_tips2">"Méthode B
+Allez dans Paramètres &gt; Paramètres additionnels &gt; Déplacer dans Transfert
+ Sélectionnez [Je suis un expéditeur]"</string>
   <string name="trans_progress_subdescript_br_receiver">Réception de %s</string>
   <string name="trans_progress_subdescript_br_sender">Sauvegarde de %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Réception de %s</string>
@@ -257,6 +268,8 @@
   <string name="trans_receiving_completed">Données reçues</string>
   <string name="trans_restoring">Restauration…</string>
   <string name="trans_restoring_no_items">Synchronisation des éléments</string>
+  <string name="trans_scan_invalid_qrcode">Code QR invalide</string>
+  <string name="trans_scan_qr_code_tips">Scannez le code QR avec votre nouvel appareil</string>
   <string name="trans_select_device_receive">Sélectionnez un appareil pour la réception des données.</string>
   <string name="trans_select_device_send">Sélectionnez un appareil pour l\'envoi des données.</string>
   <string name="trans_sender">"Je suis un expéditeur"</string>
@@ -265,6 +278,7 @@
   <string name="trans_sender_searching_ensurance">"Assurez-vous que l\'ancien appareil soit bien allumé
 Attente de connexion de l\'ancien appareil…"</string>
   <string name="trans_sending_completed">Données envoyées</string>
+  <string name="trans_show_qr_code_tips">Scannez le code QR avec votre ancien appareil</string>
   <string name="trans_time_format_second">moins d\'une minute</string>
   <string name="trans_time_remained">, prêt dans</string>
   <string name="trans_waiting_ensurance">"Assurez-vous que l\'ancien appareil soit bien allumé
