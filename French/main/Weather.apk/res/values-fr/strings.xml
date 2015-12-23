@@ -64,7 +64,6 @@
   <string name="aqi_quality_index_moderate">IQA %1$s</string>
   <string name="aqi_quality_index_pure">IQA %1$s</string>
   <string name="aqi_quality_index_unhealthy">IQA %1$s</string>
-  <string name="data_source_time_fromat">"dd/MM/yyyy'T'HH:mm:ss"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="first_start_network_msg">Une connexion au réseau est obligatoire pour obtenir les infos météo.</string>
   <string name="first_start_network_title">Alerte connexion</string>
