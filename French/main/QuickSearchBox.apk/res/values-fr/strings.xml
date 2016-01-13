@@ -78,4 +78,5 @@
   <string name="xiaomi_suggest_base"/>
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_hint"/>
+  <string name="default_hint">Rechercher des applis, musique, vidéos, livres…</string>
 </resources>

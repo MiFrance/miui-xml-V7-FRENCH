@@ -1394,6 +1394,8 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Lors d\'un appel, vous ne pouvez appliquer</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erreur SIM, veuillez essayer plus tard</string>
   <string name="voip_setting">Paramètres VOIP</string>
+  <string name="volte_switch_summary">Utilisez VoLTE pour améliorer la qualité des appels vocaux et vidéo</string>
+  <string name="volte_switch_title">VoLTE activé</string>
   <string name="callFailed_cb_enabled">"Vous ne pouvez pas passer d'appels tant que l'interdiction d'appel est activée."</string>
   <string name="callFailed_congestion">Réseau occupé.</string>
   <string name="callFailed_dsac_restricted">"Tous les appels sont restreints par un contrôle d'accès."</string>

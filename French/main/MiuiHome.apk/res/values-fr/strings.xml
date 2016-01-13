@@ -208,6 +208,7 @@
   <string name="app_category_travel">Voyages</string>
   <string name="apply_action">Appliquer</string>
   <string name="apply_as_lock_screen">Écran de verrouill.</string>
+  <string name="apply_as_lockwallpaper_action">Écran de verrouil.</string>
   <string name="apply_as_wallpaper">Écran d\'accueil</string>
   <string name="apply_both">Les deux</string>
   <string name="apply_negative_action">"Ne pas appliquer"</string>

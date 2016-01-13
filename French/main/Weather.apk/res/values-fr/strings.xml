@@ -278,4 +278,14 @@
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="select_all">@miui:string/select_all</string>
   <string name="to_activate_the_account">Veuillez activer votre compte Mi</string>
+  <string name="daily_forcast_drawer_on_top">Voir les autres jours</string>
+  <string name="indices_title_Precip1hr">Pluies 1h</string>
+  <string name="indices_title_car_wash">Lavage voiture</string>
+  <string name="indices_title_feel">T° ressentie</string>
+  <string name="indices_title_humidity">Humidité</string>
+  <string name="indices_title_pressure">Pression</string>
+  <string name="indices_title_restriction">Limit. Auto</string>
+  <string name="indices_title_sport">Sport</string>
+  <string name="indices_title_uv">Index UV</string>
+  <string name="indices_title_visibility">Visibilité</string>
 </resources>
