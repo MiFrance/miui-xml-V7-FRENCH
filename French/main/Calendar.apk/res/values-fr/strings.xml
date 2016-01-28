@@ -398,4 +398,5 @@
   <string name="online_reminder_slider_text">启用提醒</string>
   <string name="pengzu">彭祖</string>
   <string name="select_date">Sélectionnez une date</string>
+  <string name="user_notification_descrip">Afficher une notification utilisateur à chaque ouverture de l\'agenda</string>
 </resources>

@@ -181,7 +181,7 @@
   <string name="crop">Recadrer</string>
   <string name="crop_fail_to_load_image">Impossible de charger l\'image pour la recadrer.</string>
   <string name="crop_label">Recadrer l\'image</string>
-  <string name="crop_save_text">Recadrer</string>
+  <string name="crop_save_text">Enregistrer</string>
   <string name="crop_tooltip">Faire glisser les marqueurs pour recadrer la photo</string>
   <string name="crossprocess">Traitement croisé</string>
   <string name="cut">Recadrer</string>
