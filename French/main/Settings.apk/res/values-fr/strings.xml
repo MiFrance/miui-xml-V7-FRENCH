@@ -3787,7 +3787,7 @@ l'assistant Wi-Fi"</string>
   <string name="edge_mode_screenshot">Capture d\'écran</string>
   <string name="edge_mode_screenshot_summary">Double appui sur les 2 bords pour prendre une capture</string>
   <string name="usb_use">Use USB for</string>
-  <string name="usb_use_MIDI">MIDI</striang>
+  <string name="usb_use_MIDI">MIDI</string>
   <string name="usb_use_charging_only">Charge uniquement</string>
   <string name="usb_use_file_transfers">Transférer des fichiers (MTP)</string>
   <string name="usb_use_photo_transfers">Transférer des photos (PTP)</string>
