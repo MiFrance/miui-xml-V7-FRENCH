@@ -905,7 +905,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="force_stop">Forcer l\'arrêt</string>
   <string name="force_stop_dlg_text">Forcer l\'arrêt d\'une application peut provoquer son dysfonctionnement.</string>
   <string name="force_stop_dlg_title">Forcer l\'arrêt ?</string>
-  <string name="forget_password_button_text">&lt;u&gt;Mot de passe oublié&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Mot de passe oublié</string>
   <string name="forget_wifi_message">Oublier ce réseau Wi-Fi ? Il se peut que vous deviez saisir le mot de passe lorsque vous vous y connecterez à nouveau</string>
   <string name="frequently_fragment_delete">Supprimer</string>
   <string name="frequently_fragment_tempty">Les éléments fréquemment utilisés seront listés ici</string>

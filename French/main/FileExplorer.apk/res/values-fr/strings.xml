@@ -545,4 +545,13 @@ et ne ratez plus les nouveautés!"</string>
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments"</string>
   <string name="kuaipan_delete_guide_des">Supprimer le guide ?</string>
   <string name="yesterday">Hier</string>
+  <string name="phone_storage">Stockage</string>
+  <string name="homepage_tab_category">Catégories</string>
+  <string name="homepage_tab_file_view">Appareil</string>
+  <string name="homepage_tab_recent">Récents</string>
+  <string name="tab_common_app">Applications de base</string>
+  <string name="disk_available">Disponible:</string>
+  <string name="disk_total">Total:</string>
+  <string name="kuaipan_logged_in">Connecté</string>
+  <string name="kuaipan_not_logged_in">Non connecté</string>
 </resources>

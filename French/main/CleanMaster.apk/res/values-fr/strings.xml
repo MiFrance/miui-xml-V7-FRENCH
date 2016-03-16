@@ -335,6 +335,8 @@
   <string name="toast_delete_select_image_succeed">Supprimée</string>
   <string name="toast_must_select_before_restore">Sélectionner les photos à restaurer</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
+  <string name="dialog_msg_stop_scan">"Interrompre le nettoyage de fichiers ?"</string>
+  <string name="dialog_title_stop_scan">Interrompre le nettoyage</string>
 
 <!-- à traduire
   <string name="hints_storage_news">Security news</string>

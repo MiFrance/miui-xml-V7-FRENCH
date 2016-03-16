@@ -821,4 +821,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="app_not_installed_toast">"L'appli n'est pas installée sur votre appareil."</string>
   <string name="shutdown_time_day_tomorrow">Extinction : %1$s</string>
   <string name="boot_time_day_tomorrow">Mise sous tension : %1$s</string>
+  <string name="install_title">Installation par USB</string>
+  <string name="pc_install_manager">Installation par USB</string>
 </resources>

@@ -79,7 +79,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_server_summary">Erreur du serveur, veuillez réessayer plus tard</string>
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
   <string name="fee">%1$s MiCredit</string>
-  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
+  <string name="forget_password">Mot de passe oublié ?</string>
   <string name="format_date">dd MMM yyyy</string>
   <string name="format_time">dd MMM yyyy H:mm</string>
   <string name="frozen">(Gelé)</string>

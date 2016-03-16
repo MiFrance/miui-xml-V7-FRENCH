@@ -826,4 +826,17 @@
   <string name="invited_tip">Invité</string>
   <string name="is">Oui</string>
   <string name="byteShort">o</string>
+  <string name="add_to_album">Ajouter à l\'album</string>
+  <string name="operation_add_album">Ajouter à l\'album</string>
+  <string name="operation_send">Envoyer</string>
+  <string name="operation_edit">Modifier</string>
+  <string name="operation_delete">Supprimer</string>
+  <string name="operation_set_wallpaper">Définir comme fond d\'écran</string>
+  <string name="operation_set_contact_photo">Définir comme photo de contact</string>
+  <string name="operation_slide_show">Démarrer le diaporama</string>
+  <string name="operation_detail">Détails</string>
+  <string name="album_camera_name">Appareil photo</string>
+  <string name="album_videos_name">Vidéos</string>
+  <string name="cloud_screenshots_display_name">Captures d\'écran</string>
+  <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
 </resources>

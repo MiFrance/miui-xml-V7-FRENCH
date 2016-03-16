@@ -133,7 +133,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_local">%1$s locaux</string>
   <string name="resource_mute">Aucune</string>
   <string name="resource_my">Local</string>
-  <string name="resource_network_diagnostics">&lt;u&gt;Diagnostics Réseau&lt;/u&gt;</string>
+  <string name="resource_network_diagnostics">Diagnostics Réseau</string>
   <string name="resource_no_result">Aucun résultat.</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">%1$s en ligne</string>

@@ -79,4 +79,6 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_hint"/>
   <string name="default_hint">Rechercher des applis, musique, vidéos, livres…</string>
+  <string name="network_unavailable">Non connecté à Internet</string>
+  <string name="connect_and_retry">Connectez-vous à Internet puis réessayez</string>
 </resources>

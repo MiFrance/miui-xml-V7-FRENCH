@@ -522,4 +522,8 @@
   <string name="set_id3_not_have_read_or_write_permission">Vous n\'avez pas les droits requis pour éditer ce fichier</string>
   <string name="set_id3_not_support_format">Impossible d\'éditer ce format de fichier</string>
   <string name="page_local_setting">Paramètres</string>
+  <string name="service_and_settings">Service et paramètres</string>
+  <string name="more_settings">Paramètres avancés</string>
+  <string name="more_settings_summary">Téléchargements, Mode Sommeil, Données mobiles, filtres de fichiers, etc.</string>
+  <string name="current_version">Version courante</string>
 </resources>
