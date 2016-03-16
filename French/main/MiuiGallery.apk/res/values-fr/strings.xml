@@ -837,6 +837,4 @@
   <string name="operation_detail">Détails</string>
   <string name="album_camera_name">Appareil photo</string>
   <string name="album_videos_name">Vidéos</string>
-  <string name="cloud_screenshots_display_name">Captures d\'écran</string>
-  <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
 </resources>
