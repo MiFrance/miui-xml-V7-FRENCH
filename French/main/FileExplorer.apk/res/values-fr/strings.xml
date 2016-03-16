@@ -554,4 +554,9 @@ et ne ratez plus les nouveautés!"</string>
   <string name="disk_total">Total:</string>
   <string name="kuaipan_logged_in">Connecté</string>
   <string name="kuaipan_not_logged_in">Non connecté</string>
+  <string name="midrop_send_files">Sélectionnez les fichiers à envoyer</string>
+  <string name="category_file">Fichiers</string>
+  <string name="category_files">Fichiers</string>
+  <string name="midrop_msg_1">Activez Mi Drop sur l\'autre appareil</string>
+  <string name="midrop_msg_2">Lorsque Mi Drop est activé, vous pouvez rechercher des appareils aux alentours et partager des fichiers</string>
 </resources>
