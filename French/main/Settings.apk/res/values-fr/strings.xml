@@ -3794,4 +3794,5 @@ l'assistant Wi-Fi"</string>
   <string name="battery_light_title">LED clignotante</string>
   <string name="battery_light_summary">LED clignotante en mode charge</string>
   <string name="dial_application_title">Composer</string>
+  <string name="ac_enable_summary">Un mot de passe sera requis pour ouvrir l\'application</string>
 </resources>

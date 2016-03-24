@@ -401,4 +401,5 @@
   <string name="user_notification_descrip">Afficher une notification utilisateur à chaque ouverture de l\'agenda</string>
   <string name="birthday_event_description_days_later">Dans %1$s jour(s)</string>
   <string name="birthday_event_description_special">"%1$s, c\'est l\'anniversaire de %2$s"</string>
+  <string name="birthday_event_description_default">"%1$s, c\'est l\'anniversaire de %2$s"</string>
 </resources>

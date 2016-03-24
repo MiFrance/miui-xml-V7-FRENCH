@@ -783,6 +783,6 @@
         <item>Ecran de verrouillage</item>
         <item>Mode enfant</item>
         <item>Explorateur de fichiers</item>
-        <item>App lock</item>
+        <item>Verrou d\'applications</item>
     </string-array>
 </resources>

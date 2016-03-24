@@ -32,6 +32,18 @@
       <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
       <item quantity="one">Le mot de passe doit comporter au moins un caractère autre qu\'une lettre.</item>
   </plurals>
+  <plurals name="number_locked">
+      <item quantity="other">%d applis verrouillées</item>
+      <item quantity="one">%d appli verrouilée</item>
+  </plurals>
+  <plurals name="number_to_lock">
+      <item quantity="other">%d applis non verrouillées</item>
+      <item quantity="one">%d appli non verrouillée</item>
+  </plurals>
+  <plurals name="find_applications">
+      <item quantity="other">Rechercher parmi %d applis</item>
+      <item quantity="one">Rechercher pour %d appli</item>
+  </plurals>
   <plurals name="show_dev_countdown">
       <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
       <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>

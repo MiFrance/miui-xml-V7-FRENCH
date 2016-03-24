@@ -1515,4 +1515,6 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="livetalk_provider">Fourni par %1$s</string>
   <string name="call_settings_primary_user_only">Seul l\'utilisateur principal peut modifier les paramètres d\'appel.</string>
   <string name="call_settings_with_label">Paramètres d\'appel %s</string>
+  <string name="livetalk_name">Recharge téléphonique</string>
+  <string name="livetalk_setting">Recharge téléphonique</string>
 </resources>
