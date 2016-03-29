@@ -149,4 +149,5 @@
   <string name="timer_message_10">%1$d minutes et %2$d secondes</string>
   <string name="menu_item_sort_by_gmt_offset">Trier par fuseau horaire</string>
   <string name="menu_item_sort_by_name">Trier par nom</string>
+  <string name="oneshot_alarm">Supprimer après extinction</string>
 </resources>

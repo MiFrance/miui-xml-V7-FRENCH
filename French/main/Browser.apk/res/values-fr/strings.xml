@@ -1013,4 +1013,6 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="version_update_file_not_found">Aucune mise à jour</string>
   <string name="video_collect_cancel">Supprimée des favoris</string>
   <string name="video_collect_success">Ajoutée aux favoris</string>
+  <string name="miuichromium_error_page_unknown_error">Oups, un problème est survenu</string>
+  <string name="miuichromium_error_page_homepage">Accueil</string>
 </resources>

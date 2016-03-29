@@ -526,4 +526,6 @@
   <string name="more_settings">Paramètres avancés</string>
   <string name="more_settings_summary">Téléchargements, Mode Sommeil, Données mobiles, filtres de fichiers, etc.</string>
   <string name="current_version">Version courante</string>
+  <string name="notification_des_next_song">Piste suivante: %s</string>
+  <string name="remove_from_nowplaying">Retirer de la liste de lecture</string>
 </resources>
