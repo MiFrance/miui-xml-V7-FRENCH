@@ -332,7 +332,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="hints_unknown_virus_name">Inconnu</string>
   <string name="descx_quick_scan_done">Analyse terminée</string>
   <string name="descx_quick_scan_cancel">Analyse annulée</string>
-  <string name="descx_quick_scan_preparation">Un instant…</string>
   <string name="hints_scanning_virus_by_cloud">Analyse en utilisant la base de définition cloud…</string>
   <string name="hints_cleanning_text">Nettoyage…</string>
   <string name="dialog_title_stop_virus_scan">Arrêt de l\'analyse anti-virale</string>
@@ -400,7 +399,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="Settings_title_power_center">Paramètres batterie</string>
   <string name="Settings_title_anti_virus">Paramètres anti-virus</string>
   <string name="pref_category_title_virus_lib_auto_update">Mettre automatiquement à jour les définitions virales</string>
-  <string name="pref_category_title_reference_settings">Autres paramètres</string>
   <string name="menu_item_virus_cloud_scan_title">Base de définitions virales en ligne</string>
   <string name="menu_item_virus_cloud_scan_summary">Utiliser la base de définitions en ligne</string>
   <string name="menu_item_virus_install_monitor_title">Analyse avant installation</string>
@@ -837,7 +835,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="pref_data_usage_not_set">Définir la limite d\'utilisation des données</string>
   <string name="traffic_protection_text_hint">Définir la limite d\'utilisation de données pour %s</string>
   <string name="pref_avaible_traffic">Planification réseau mobile</string>
-  <string name="pref_daily_traffic">Limite d\'utilisation des données</string>
   <string name="pref_warning_values">Seuils d\'avertissement</string>
   <string name="begin_date">Date de remise à zéro du compteur</string>
   <string name="pref_month_begin_date">Date de remise à zéro du compteur</string>
@@ -865,7 +862,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="main_primary_message_traffic_cur_normal_overlimit">Limite de données dépassée</string>
   <string name="main_primary_message_traffic_cur_normal_warning">Avertissement sur la consommation de données</string>
   <string name="main_primary_message_traffic_enough">Sous la limite de consommation</string>
-  <string name="main_primary_message_traffic_overlimit">Limite de consommation dépassée/string>
+  <string name="main_primary_message_traffic_overlimit">Limite de consommation dépassée</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Vous devez acheter des données supplémentaires</string>
   <string name="main_primary_message_traffic_purchase">Vous devez acheter des données supplémentaires</string>
   <string name="main_primary_message_traffic_warning">Limite de consommation presque atteinte</string>
