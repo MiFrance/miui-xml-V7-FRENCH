@@ -90,4 +90,8 @@
         <item>Musique</item>
         <item>E-mail</item>
      </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Fréquence d\'utilisation</item>
+        <item>Nom</item>
+    </string-array>
 </resources>
