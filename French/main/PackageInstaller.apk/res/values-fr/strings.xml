@@ -139,7 +139,6 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="permission_send_sms_descx">Permet d\'envoyer des SMS et MMS</string>
   <string name="dlg_appstore_notice">Récupérez cette application sur notre <u>&lt;font color=#91c727>Market&lt;/font></u> officiel</string>
   <string name="lift_ban_once">Autoriser une fois</string>
-  <string name="unknown_apps_dlg_text">Votre téléphone ainsi que vos données personnelles sont plus vulnérables aux attaques si vous installez des applications provenant de sources inconnues. Vous reconnaissez être pleinement responsable de tout dommage ou perte de données résultant de leur utilisation. Vous pouvez désactiver cette alerte dans les Paramètres.</string>
   <string name="activity_package_delete_confirm_title">Remarque importante</string>
   <string name="button_text_cancel">Annuler</string>
   <string name="button_text_delete">Supprimer</string>
@@ -150,4 +149,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="package_delete_confirm_step_2">Supprimer cette application peut rendre votre système instable.</string>
   <string name="package_delete_confirm_step_3">"Vous ne pourrez plus ouvrir cette application après l'avoir supprimée."</string>
   <string name="waiting_tip">Cela peut prendre du temps, mais cela en vaut la peine</string>
+  <string name="unknown_apps_dlg_text">"Votre téléphone est configuré pour bloquer l\'installation d\'applications provenant de sources inconnues. Vous pouvez désactiver cette fonction dans Paramètres.</string>                      
+  <string name="unknown_apps_dlg_text1">"Votre téléphone est configuré pour bloquer l\'installation d\'applications provenant de sources inconnues. Vous pouvez désactiver cette fonction dans "</string>
+  <string name="unknown_apps_dlg_text2">\"Paramètres\"</string>
 </resources>
