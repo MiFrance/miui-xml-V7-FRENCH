@@ -28,13 +28,13 @@
   <string name="sst_favor_desc">Vos fonds d\'écran favoris</string>
   <string name="sst_favor_title">Favoris</string>
   <string name="sst_no_favor_wallpaper_hint">Pas de favoris</string>
-  <string name="sst_prov_enable_desc">Profitez de sublimes fonds d\'écran pour votre écran de verrouillage</string>
+  <string name="sst_prov_enable_desc">Profitez de magnifiques fonds d\'écran pour votre écran de verrouillage</string>
   <string name="sst_prov_enable_title">Activer le carrousel</string>
   <string name="sst_require_one_category_hint">Veuillez choisir au moins une catégorie</string>
   <string name="sst_sti_desc">Définir la fréquence de changement du fond d\'écran de verrouillage</string>
   <string name="sst_sti_title">Fréquence de changement</string>
   <string name="sst_subscribe_title">S\'abonner</string>
-  <string name="sst_wifi_only_desc">Désactiver les suggestions pour les réseaux mobiles</string>
-  <string name="sst_wifi_only_title">Désctiver le téléchargement de fonds d\'écran pour les réseaux mobiles</string>
+  <string name="sst_wifi_only_desc">Les suggestions seront désactivées pour les réseaux mobiles</string>
+  <string name="sst_wifi_only_title">Activer le téléchargement de fonds d\'écran pour les réseaux mobiles</string>
   <string name="ok_network">Accepter et activer</string>
 </resources>
