@@ -878,4 +878,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_applist">Applications</string>
+  <string name="usage_sorted_activity_lable">Consommation de données</string>
+  <string name="system_app">Application Système</string>
 </resources>
