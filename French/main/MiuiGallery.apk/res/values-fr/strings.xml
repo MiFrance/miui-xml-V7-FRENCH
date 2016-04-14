@@ -847,4 +847,9 @@
   <string name="slim_after_backuped_summary">Remplace les photos locales par des versions optimisées, une fois qu\'elles ont été sauvegardées sur Mi Cloud. Les images originales sont toujours stockées sur Mi Cloud. Cette option peut vous faire économiser beaucoup de mémoire de stockage locale.</string>
   <string name="browse_category_title">Navigation</string>
   <string name="slideshow_interval_title">Afficher chaque image durant</string>
+  <string name="delete_third_party_photo">Supprimer cette photo ?</string>
+  <string name="show_hidden_album_title">Afficher les albums masqués</string>
+  <string name="trash_bin">Corbeille</string>
+  <string name="trash_bin_summary">Parcourir les photos sauvegardées qui ont été supprimées récemment</string>
+  <string name="other_settings">Autres paramètres</string>
 </resources>

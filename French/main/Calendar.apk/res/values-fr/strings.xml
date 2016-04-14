@@ -402,4 +402,5 @@
   <string name="birthday_event_description_days_later">Dans %1$s jour(s)</string>
   <string name="birthday_event_description_special">"%1$s, c\'est l\'anniversaire de %2$s"</string>
   <string name="birthday_event_description_default">"%1$s, c\'est l\'anniversaire de %2$s"</string>
+  <string name="birthday_notification_title_days_later">"C\'est bientôt l\'anniversaire de %1$s."</string>
 </resources>

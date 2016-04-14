@@ -1155,4 +1155,6 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="deleting_sim_entry_miui_prepare">Préparation des contacts…</string>
   <string name="importing_sim_contacts_miui_prepare">Préparation des contacts…</string>
   <string name="loading_accounts">Chargement des infos SIM…</string>
+  <string name="menu_newContactButton">Ajouter</string>
+  <string name="miprofile_contact_add">Ajouter</string>
 </resources>
