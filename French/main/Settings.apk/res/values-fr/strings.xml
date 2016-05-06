@@ -883,7 +883,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="fingerprint_identificating_msg">Analyse de l\'empreinte…</string>
   <string name="fingerprint_identify_input_password_msg">Entrez le mot de passe</string>
   <string name="fingerprint_identify_try_again_msg">"Échec de l\'analyse, essayez à nouveau"</string>
-  <string name="fingerprint_list_title">Empreinte digitale</string>
+  <string name="fingerprint_list_title">"Empreinte "</string>
   <string name="finish_application">Terminer</string>
   <string name="finish_button_label">Terminer</string>
   <string name="firmware_version">Version Android</string>
