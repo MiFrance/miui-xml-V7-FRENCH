@@ -86,7 +86,7 @@
   <string name="empty_title_ad">Aucun journal trouvé</string>
   <string name="empty_title_apk">Aucun fichier apk trouvé</string>
   <string name="empty_title_garbage_cache">Aucun fichier cache trouvé</string>
-  <string name="empty_title_garbage_white_list">Liste blanche vide</string>
+  <string name="empty_title_garbage_white_list">Liste blanche vide.</string>
   <string name="empty_title_installed_apps">Aucune application trouvée</string>
   <string name="empty_title_large_files">Aucun fichier volumineux trouvé</string>
   <string name="empty_title_residual">Aucun résidu trouvé</string>
@@ -160,7 +160,7 @@
   <string name="msg_update_error_code_success">Mise à jour effectuée</string>
   <string name="msg_update_error_code_unknown_error">Erreur inconnue</string>
   <string name="name_debuglog_dir">Journal de débogage Bsp</string>
-  <string name="name_optimizer">"Politique de Confidentialité de Cheetah Mobile"</string>
+  <string name="name_optimizer">"Politique de Confidentialité de CleanMaster"</string>
   <string name="nb_clear_set">Nettoyer la ROM, voir la batterie et les infos de blocage dans les notifications</string>
   <string name="net_assistant_detail">%1$s utilisés, %2$s économisés</string>
   <string name="net_assistant_title">%s de données mobiles utilisées ce mois-ci</string>
@@ -177,7 +177,8 @@
   <string name="open">Activer</string>
   <string name="open_browser">Ouvrir dans le navigateur</string>
   <string name="opened">Activé</string>
-  <string name="optimizecenter_data_support">Propulsé par Clean Master</string>
+  <string name="optimizecenter_data_support_cm">Propulsé par Clean Master</string>
+  <string name="optimizecenter_data_support_tc">Propulsé par Tencent</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Planifier</string>
   <string name="pref_category_title_auto_update_cleanup_db">Paramètres de mise à jour</string>
@@ -337,7 +338,10 @@
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="dialog_msg_stop_scan">"Interrompre le nettoyage de fichiers ?"</string>
   <string name="dialog_title_stop_scan">Interrompre le nettoyage</string>
-
+  <string name="dialog_msg_esc_cleanmaster">Interrompre le nettoyage ?</string>
+  <string name="dialog_title_esc_cleanmaster">Quitter Cleanmaster</string>
+  <string name="pref_category_title_engine_settings">Paramêtres des définitions</string>
+  <string name="pref_title_choose_engine">Définitions</string>
 <!-- à traduire
   <string name="hints_storage_news">Security news</string>
   -->

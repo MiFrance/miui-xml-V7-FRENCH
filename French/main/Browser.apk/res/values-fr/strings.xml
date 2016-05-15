@@ -772,8 +772,8 @@
   <string name="edit_quicklink">Modifier</string>
   <string name="quicklink_saved">Ajouté à la page d\'accueil</string>
   <string name="quicklink_not_saved">Impossible d\'ajouter sur la page d\'accueil</string>
-  <string name="add_quicklinks">Ajouter</string>
-  <string name="add_ql_bm_title">Ajouter</string>
+  <string name="add_quicklinks">Ajouter à la page d\'accueil</string>
+  <string name="add_ql_bm_title">Enregistrer</string>
   <string name="add_to_desk">Ajouter sur l\'écran d\'accueil</string>
   <string name="add_to_desk_success">Ajouté sur l\'écran d\'accueil</string>
   <string name="action_menu_text_bookmark">Ajouter favori</string>
@@ -983,8 +983,6 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="action_menu_text_fullscreen">Plein écran</string>
   <string name="action_menu_text_copy_url">Copier l\'URL</string>
   <string name="miuichromium_error_page_diagnostic">Diagnostic réseau</string>
-  <string name="sub_sync_item_browser_title_useful">Synchroniser la page de démarrage</string>
-  <string name="sub_sync_item_browser_title_useful_summary">Synchronise la page de démarrage du navigateur</string>
   <string name="sub_sync_item_browser_title_video">Synchroniser l\'historique des vidéos</string>
   <string name="sub_sync_item_browser_title_video_summary">"Synchronise entre vos divers appareils la liste des vidéos vues récemment</string>
   <string name="video_buffering_percent_string">Mise en mémoire tampon</string>
@@ -1015,4 +1013,9 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="video_collect_success">Ajoutée aux favoris</string>
   <string name="miuichromium_error_page_unknown_error">Oups, un problème est survenu</string>
   <string name="miuichromium_error_page_homepage">Accueil</string>
+  <string name="action_menu_toolbox">Outils</string>
+  <string name="bookmark_btn_select_all">Tout sélectionner</string>
+  <string name="bookmark_btn_select_none">Tout désélectionner</string>
+  <string name="action_menu_useful_page">Ajouter aux utiles</string>
+  <string name="action_menu_useful_page_added">Ajouté aux utiles</string>
 </resources>

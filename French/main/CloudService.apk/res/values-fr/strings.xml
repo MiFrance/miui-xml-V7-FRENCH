@@ -450,4 +450,7 @@ Dernière sauvegarde le %2$s"</string>
   <string name="micloud_member_webload_fail_error_message">Erreur réseau</string>
   <string name="micloud_member_webload_fail_toast_4xx">Impossible de charger la page</string>
   <string name="micloud_member_webload_fail_toast_5xx">Erreur serveur</string>
+  <string name="micloud_main_message_not_synced">%s objets non synchronisés</string>
+  <string name="micloud_main_title_not_synced">Non synchronisé</string>
+  <string name="cloud_restore_title">Restaurer d\'une sauvegarde</string>
 </resources>

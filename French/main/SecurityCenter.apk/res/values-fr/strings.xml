@@ -880,4 +880,8 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="firewall_applist">Applications</string>
   <string name="usage_sorted_activity_lable">Consommation de données</string>
   <string name="system_app">Application Système</string>
+  <string name="ac_firstUseApplock_subTitle">Utilisez Vérouillage d\'applications pour protéger votre vie privée</string>
+  <string name="ac_firstUseApplock_title">Demande le mot de passe à l\'ouverture des applications sélectionnées</string>
+  <string name="notification_item">Activer Vérouillage d\'applications</string>
+  <string name="notification_subtitle">Toucher pour activer</string>
 </resources>

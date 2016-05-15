@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
@@ -368,7 +368,7 @@ et ne ratez plus les nouveautés!"</string>
   <string name="share_link_failed">"Échec de génération du lien."</string>
   <string name="shared_sticker_network_permission_tip">"Echec de connexion réseau. Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
   <string name="shared_sticker_page_no_file">"Veuillez vérifier votre connexion réseau et essayer à nouveau."</string>
-  <string name="shared_sticker_str">Partagés par les fans Mi</string>
+  <string name="shared_sticker_str">Récent</string>
   <string name="shared_sticker_suffix">Sticker sur %s</string>
   <string name="shared_sticker_use_tip">"Vous pouvez envoyer des stickers contenus dans les dialogues WeChat de la même façon que les images.
 (les GIF animés peuvent également être ajoutés)."</string>
@@ -558,4 +558,12 @@ et ne ratez plus les nouveautés!"</string>
   <string name="category_files">Fichiers</string>
   <string name="midrop_msg_1">Activez Mi Drop sur l\'autre appareil</string>
   <string name="midrop_msg_2">Lorsque Mi Drop est activé, vous pouvez rechercher des appareils aux alentours et partager des fichiers</string>
+  <string name="hottest_sticker_str">Populaires</string>
+  <string name="no_new_content_tip">Tous les objets sont à jour</string>
+  <string name="share_title_1">Trouvé un super pack de stickers !</string>
+  <string name="system_sticker_control">Afficher les stickers populaires</string>
+  <string name="system_sticker_control_tip">Afficher les stickers populaires dans l\'Explorateur</string>
+  <string name="system_video_control">Afficher les vidéos populaires</string>
+  <string name="system_video_control_tip">Afficher les vidéos populaires dans l\'Explorateur</string>
+  <string name="tab_hottest_video">Populaires</string> 
 </resources>

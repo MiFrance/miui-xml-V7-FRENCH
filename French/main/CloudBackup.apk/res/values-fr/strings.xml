@@ -74,4 +74,7 @@
   <string name="recover_home_settings">Restaurer les réglages du bureau</string>
   <string name="recover_miui_settings">Restaurer les réglages système de MIUI</string>
   <string name="settings_backup">Paramètres système</string>
+  <string name="restore_from_cloud">Restaurer depuis Mi Cloud</string>
+  <string name="restore_from_this_device">Restaurer avec cette sauvegarde</string>
+  <string name="query_restore_description">Restaurer les applications et les paramêtres avec cette sauvegarde. Cela va aussi écraser les données pour les applicatons déjà installées sur cet appareil. Les applicatoins non présentes dans cette sauvegarde seront déplacées sur la dernière page de l\'accueil.</string>
 </resources>
