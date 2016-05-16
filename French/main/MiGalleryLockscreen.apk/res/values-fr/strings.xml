@@ -2,39 +2,44 @@
 <resources>
   <string name="app_name">Écrans de verrouillage quotidiens</string>
   <string name="at_least_one">Sélectionnez au moins une catégorie</string>
+  <string name="auto_interval">Auto</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_international">Annuler</string>
   <string name="change_time">Fréquence de changement</string>
   <string name="day">1 jour</string>
-  <string name="declaration">"En utilisant ce produit, vous acceptez notre ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Contrat Utilisateur&lt;/a&gt; et notre &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politique de confidentialité&lt;/a&gt;. Cette application requiert un accès à Internet pour fonctionner correctement."</string>
+  <string name="declaration">Obtenez de nouveaux fonds d\'écran délivrés directement sur votre écran de verrouillage, tous les jours, gratuitement.</string>
   <string name="declaration_lockscreen_title">Carrousel de fonds d\'écran</string>
   <string name="declaration_title">Conditions d\'utilisation</string>
   <string name="hour_1">1 heure</string>
   <string name="hour_3">3 heures</string>
-  <string name="lockscreen_magazine_subscribe">%1$s followers</string>
-  <string name="lockscreen_magazine_summary">Obtenez tous les jours un nouveau fond d\'écran de verrouillage.</string>
-  <string name="lockscreen_magazine_system_subscribe">%1$s fonds d\'écran</string>
-  <string name="lockscreen_magazine_system_title">Défaut</string>
+  <string name="lockscreen_magazine_summary">Catégories</string>
+  <string name="lockscreen_magazine_system_title">Hors ligne</string>
   <string name="lockscreen_magazine_title">Écrans de verrouillage quotidiens</string>
+  <string name="minutes_15">15 minutes</string>
   <string name="no_long_show">"Ne plus afficher"</string>
-  <string name="ok">Accepter</string>
+  <string name="ok_international">Accepter</string>
+  <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Accepter</string>
   <string name="resource_apply">Appliquer</string>
   <string name="resource_no_network_text">"Échec de connexion au réseau."</string>
   <string name="setting_head">Paramètres</string>
-  <string name="theme_apply_failured">"Echec d\'application du fond à l\'écran de verrouillage"</string>
-  <string name="theme_apply_success">Écran de verrouillage appliqué</string>
-  <string name="theme_applying">Application…</string>
-  <string name="wlan_download">Uniquement via Wi-Fi</string>
   <string name="sst_favor_desc">Vos fonds d\'écran favoris</string>
   <string name="sst_favor_title">Favoris</string>
+  <string name="sst_grid_view_select_all">Tout sélectionner</string>
+  <string name="sst_grid_view_unselect_all">Tout désélectionner</string>
   <string name="sst_no_favor_wallpaper_hint">Pas de favoris</string>
   <string name="sst_prov_enable_desc">Profitez de magnifiques fonds d\'écran pour votre écran de verrouillage</string>
   <string name="sst_prov_enable_title">Activer le carrousel</string>
   <string name="sst_require_one_category_hint">Veuillez choisir au moins une catégorie</string>
   <string name="sst_sti_desc">Définir la fréquence de changement du fond d\'écran de verrouillage</string>
   <string name="sst_sti_title">Fréquence de changement</string>
-  <string name="sst_subscribe_title">S\'abonner</string>
+  <string name="sst_subscribe_title">Mes catégories</string>
   <string name="sst_wifi_only_desc">Les suggestions seront désactivées pour les réseaux mobiles</string>
   <string name="sst_wifi_only_title">Activer le téléchargement de fonds d\'écran pour les réseaux mobiles</string>
-  <string name="ok_network">Accepter et activer</string>
+  <string name="summary">"En utilisant ce produit, vous acceptez notre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Contrat Utilisateur&lt;/a&gt; et notre &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politique de confidentialité&lt;/a&gt;. Cette application requiert un accès à Internet pour fonctionner correctement."</string>
+  <string name="summary_international">"En utilisant ce produit, vous acceptez notre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Contrat Utilisateur&lt;/a&gt; et notre &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politique de confidentialité&lt;/a&gt;. Cette application requiert un accès à Internet pour fonctionner correctement."</string>
+  <string name="theme_apply_failured">"Echec d\'application du fond de l\'écran de verrouillage"</string>
+  <string name="theme_apply_success">Écran de verrouillage appliqué</string>
+  <string name="theme_applying">Application…</string>
+  <string name="wlan_download">Uniquement via Wi-Fi</string>
 </resources>
