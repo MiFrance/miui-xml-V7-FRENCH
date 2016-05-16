@@ -1521,4 +1521,5 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="roaming_notification_title">L\'itinérance semble activée</string>
   <string name="telocation_country_code_enabled_message">Ajoutez automatiquement les code des pays pour rendre les appels plus pratiques.</string>
   <string name="telocation_country_code_enabled_title">Ajouter les codes des pays lors des appels</string>
+  <string name="call_record_loading_content">Chargement…</string>
 </resources>
