@@ -1157,4 +1157,11 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="loading_accounts">Chargement des infos SIM…</string>
   <string name="menu_newContactButton">Ajouter</string>
   <string name="miprofile_contact_add">Ajouter</string>
+  <string name="hybrid_check_network">Paramêtres réseau</string>
+  <string name="hybrid_data_error">Une erreur est survenue</string>
+  <string name="hybrid_locating_fail">"Impossible de vous localiser"</string>
+  <string name="hybrid_network_unavaliable">"Connection au réseau impossible"</string>
+  <string name="hybrid_service_unavailiable">Service indisponible</string>
+  <string name="hybrid_try_again">Réessayer</string>
+  <string name="preference_key_trash_bin_title">Afficher les contacts sauvegardés qui ont été récemment supprimés</string>
 </resources>

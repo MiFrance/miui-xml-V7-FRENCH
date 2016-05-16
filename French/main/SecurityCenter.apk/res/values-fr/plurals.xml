@@ -59,4 +59,8 @@
         <item quantity="other">Utilisé il y a %d jours</item>
         <item quantity="one">Utilisé hier</item>
     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d applications ont des risques pour la vie privée</item>
+        <item quantity="one">%d application a un risque pour la vie privée</item>
+    </plurals>
 </resources>

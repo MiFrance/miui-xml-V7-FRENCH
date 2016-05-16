@@ -318,7 +318,7 @@
   <string name="nosend_message">"Non envoyé"</string>
   <string name="notification_failed_multiple">Impossible d\'envoyer %s messages</string>
   <string name="notification_failed_multiple_title">Messages non envoyés</string>
-  <string name="notification_multiple">%s messages non lus.</string>
+  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nouveaux messages</string>
   <string name="number_add_hint">Entrez un numéro pour l\'ajouter aux Contacts Privés</string>
   <string name="overwrite_edited_content">Cela écrasera le contenu édité, voulez-vous continuer ?</string>

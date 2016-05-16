@@ -3,13 +3,7 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-  <string name="account_learn_more_title">Créer un compte Mi</string>
   <string name="account_limit_update_birthday">"Impossible de mettre à jour l'anniversaire pour le moment"</string>
-  <string name="account_dspt_provision2">En savoir plus</string>
-  <string name="cloud_service_dspt">Synchronisez vos photos, contacts, notes, applis et plus sur tous vos appareils.</string>
-  <string name="mi_account_dspt_provision">Connectez-vous à Mi Cloud et aux autres services Mi avec un seul compte.</string>
-  <string name="theme_store">Boutique MIUI de thèmes</string>
-  <string name="theme_store_dspt">Choisissez votre look. Des centaines de thèmes sont disponibles afin de rendre votre appareil unique.</string>
   <string name="choose_which_one_sim">Sélectionner un numéro de téléphone</string>
   <string name="add_account">Ajouter un compte</string>
   <string name="bind_facebook">Ajouter un compte Facebook</string>
@@ -145,7 +139,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="cloud_service">Mi Cloud</string>
   <string name="account_bind_settings">Comptes</string>
   <string name="account_bind_devices">Appareils</string>
-  <string name="account_dspt_provision">Utilisez un seul compte pour tous nos produits.</string>
   <string name="find_device_dspt">Verrouiller ou effacer cet appareil à distance.</string>
   <string name="login_step2_title">Vérification en 2 étapes</string>
   <string name="micloud_user_space_title">Espace de stockage</string>
@@ -169,7 +162,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="micloud_sync_info">%d éléments non synchronisés</string>
   <string name="micloud_sync_info_synced">Synchronisation effectuée</string>
   <string name="micloud_space_info">%s disponibles</string>
-  <string name="provision_skip_login">Ignorer cette étape</string>
   <string name="reg_type_other_ways"><u>Utiliser une autre méthode de création de compte</u></string>
   <string name="reg_type_other_ways_title">Utiliser une autre méthode de création de compte</string>
   <string name="reg_using_phone_number_prompt">S\'inscrire avec un numéro de téléphone</string>
@@ -278,13 +270,11 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_loading">Chargement…</string>
   <string name="passport_login">Connexion</string>
   <string name="passport_login_check_find_device">Vérification de l\'état de la recherche d\'appareil…</string>
-  <string name="passport_login_check_find_device_failed">"Impossible de vérifier l\'état de la recherche d\'appareil. Vérifiez votre connexion Internet."</string>  
   <string name="passport_login_failed">"Échec à la connexion"</string>
   <string name="passport_login_find_device_bind">Cet appareil est associé à un identifiant de compte Mi existant (%s). Veuillez vous authentifier pour activer cet appareil.</string>
   <string name="passport_login_instead_reg">Utiliser ce numéro</string>
   <string name="passport_login_instead_reg_with_email">Utiliser cet e-mail</string>
   <string name="passport_login_notice">Connexion…</string>
-  <string name="passport_login_short">Connexion</string>
   <string name="passport_login_title">Connexion à votre compte Mi</string>
   <string name="passport_login_with_email_or_id"><u>Connectez-vous avec votre adresse e-mail ou votre ID de compte Mi</u></string>
   <string name="passport_next">Suivant</string>
@@ -308,7 +298,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_reg_type_email">Utiliser une adresse e-mail</string>
   <string name="passport_reg_type_other_ways"><u>Utilisez votre adresse e-mail ou un autre numéro</u></string>
   <string name="passport_reg_type_other_ways_title">Créer un compte Mi</string>
-  <string name="passport_reg_using_other_phone">Utiliser un autre n° de téléphone</string>
+  <string name="passport_reg_using_other_phone">&lt;u&gt;Utiliser un autre n° de téléphone&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">Créer un nouveau compte avec </string>
   <string name="passport_reg_using_phone_number_prompt">Créer le compte avec le n° de téléphone </string>
   <string name="passport_reg_via_sms_alert">Votre opérateur peut vous facturer le prix d\'un SMS pour l\'activation du service.</string>
@@ -354,9 +344,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_wrong_password">Le mot de passe est incorrect</string>
   <string name="passport_wrong_phone_number_format">Le format du n° de téléphone saisi est invalide</string>
   <string name="passport_wrong_vcode">Le code saisi est incorrect</string>
-  <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes ainsi qu\'aux autres services Mi, d\'où que vous soyez.</string>
-  <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">L\'accès au compte Mi nécessite une connexion Internet. De plus, les accès à la localisation, Mi Cloud, et Mi VIP seront activés automatiquement.</string>
   <string name="phone_activated">%s activé</string>
   <string name="phone_unactivated">Désactivé</string>
   <string name="phone_unknown">Inconnu</string>
@@ -437,4 +424,29 @@ Veuillez saisir le code de vérification contenu dans le message"</string>
   <string name="update_recovery_info_dialog_message">Vous devez vérifier votre identité avant de mettre à jour %s.</string>
   <string name="update_recovery_info_dialog_title">Mise à jour de %s</string>
   <string name="vip_level_value">%d</string>
+  <string name="passport_find_device_display_id">Numéro de déverrouillage: %s</string>
+  <string name="cta_declaration_agree_and_continue">Accepter</string>
+  <string name="cta_declaration_exit">Sortie</string>
+  <string name="cta_declaration_ignore">Ignorer</string>
+  <string name="cta_declaration_message">"Pour vous connecter à votre compte Mi, vous devez être connecté à Internet, localisez votre périphérique et activez Mi Cloud. Pour sauvegarder vos données personnelles, cette application a besoin d\’accéder à vos contacts, SMS et MMS, historique d'\appels et enregistrements. Nous n'utilisons pas ces informations à des fins commerciales, ni les partageons avec autrui. Après avoir connecté votre compte Mi, Mi VIP et Mi Service se connecterons à Internet."</string>
+  <string name="cta_declaration_title">Conditions d\'utilisation</string>
+  <string name="passport_auto_generate_pwd">Générer un mot de passe sécurisé</string>
+  <string name="passport_back">Retour</string> 
+  <string name="passport_downlink_reg">Créer un compte avec un numéro de téléphone</string>
+  <string name="passport_find_device_activate_account">Activer le compte</string>
+  <string name="passport_login_check_find_device_failed_message">Merci de vérifier votre connection au réseau.</string>
+  <string name="passport_login_check_find_device_failed_title">"Impossible de vérifier le status de localisation de périphérique"</string>
+  <string name="passport_login_prompt">Un compte Mi. Tous les services Mi.</string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;Autres façon de se connecter&lt;/u&gt;</string>
+  <string name="passport_pwd_generate_failure">"Impossible de générer un mot de passe"</string>
+  <string name="passport_pwd_generating">Génération…</string>    
+  <string name="passport_reg_btn_using_other_phone">Utiliser un autre numéro de téléphone</string>  
+  <string name="passport_reg_prompt">"Pas de compte MI ? Créez en un gratuitement."</string>
+  <string name="passport_retry">Retry</string>
+  <string name="passport_select_reg_ways_title">Other ways to sign up</string>
+  <string name="passport_uplink_reg">Utiliser un numéro de téléphone</string>
+  <string name="passport_uplink_slot1_reg">Utiliser la SIM 1</string>
+  <string name="passport_uplink_slot2_reg">Utiliser la SIM 2</string>
+  <string name="passport_use_generated_pwd_message">Souvenez vous de votre mot de passe. Utilisez le pour vous connecter aux autres services Mi.</string>
+  <string name="passport_use_generated_pwd_title">Souvenez vous de votre mot de passe !</string>
 </resources>

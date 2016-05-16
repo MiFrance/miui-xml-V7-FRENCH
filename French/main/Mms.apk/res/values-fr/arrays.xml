@@ -44,13 +44,6 @@
       <item>Narquois</item>
       <item>Neutre</item>
   </string-array>
-  <string-array name="prefEntries_ringtone_repeat">
-      <item>1 fois</item>
-      <item>2 fois</item>
-      <item>3 fois</item>
-      <item>5 fois</item>
-      <item>10 fois</item>
-  </string-array>
   <string-array name="contact_entries">
       <item>Nom</item>
       <item>Surnom</item>

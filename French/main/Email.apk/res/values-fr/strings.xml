@@ -954,7 +954,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="upload_log">Envoyer les logs de diagnostic</string>
   <string name="upload_log_failed">Échec à l\'envoi des logs</string>
   <string name="upload_log_success">Logs envoyés avec succès</string>
-  <string name="upload_log_title">Confirmation de l\'envoi</string>
+  <string name="upload_log_title">Envoyer logs à Xiaomi</string>
   <string name="uploading_logs">Envoi des logs...</string>
   <string name="upload_log_no">Annuler</string>
   <string name="upload_log_yes">Envoyer</string>
@@ -1012,4 +1012,9 @@ Taille du patch Delta : %2$s"</string>
   <string name="contact_edit_set_black_list_receive_summary">Supprimer les messages incluant ce destinataire, dans les champs A ou Cc</string>
   <string name="account_setup_deleting_account_msg">Suppression du compte…</string>
   <string name="contact_edit_set_black_list_from">Déplacer tous les mails de cet expéditeur dans le dossier des indésirables</string>
+  <string name="click_to_reload">Toucher l\'écran pour rafraichir</string>
+  <string name="menu_discovery">Découverte</string>
+  <string name="net_check_title">Impossible de se connecter au réseau. Vérifiez les paramêtres réseau et reéssayez.</string>
+  <string name="network_try_again">Vérifiez le réseau</string>
+  <string name="pull_up_to_load_more">Monter pour charger plus</string>
 </resources>

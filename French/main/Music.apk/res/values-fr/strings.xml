@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
@@ -514,7 +514,7 @@
   <string name="upgrade_nobeta">"Nous interrompons notre service de streaming pendant que nous résolvons des problèmes de copyright. Désolé pour le désagrément :("</string>
   <string name="upgrade_remind">Mise à jour disponible</string>
   <string name="upgrade_services">Mises à jour</string>
-  <string name="upgrade_suggest">"Nous interrompons notre service de streaming pendant que nous résolvons des problèmes de copyright. Mettez à jour vers la dernière version de l'application Musique pour écouter de la musique de haute qualité."</string>
+  <string name="upgrade_suggest">"Nous interrompons notre service de streaming à cause de problèmes de copyright. Mettez à jour vers la dernière version de l'application Musique pour écouter de la musique de haute qualité."</string>
   <string name="upgrade_to">Mettre à jour vers</string>
   <string name="upgrade_vip">Mettre à jour le Pack Premium</string>
   <string name="upgrade_waringing">"Vous serez uniquement en mesure d'écouter de la musique stockée hors ligne."</string>
@@ -528,4 +528,8 @@
   <string name="current_version">Version courante</string>
   <string name="notification_des_next_song">Piste suivante: %s</string>
   <string name="remove_from_nowplaying">Retirer de la liste de lecture</string>
+  <string name="permission_declaration_message">Autoriser l\'accès au stockage dans : Sécurité &gt; Permissions &gt; Permissions &gt; Stockage &gt; Musique, pour utiliser Musique normalement.</string>
+  <string name="permission_declaration_negative_text">Plus tard</string>
+  <string name="permission_declaration_positive_text">Allez à Securité</string>
+  <string name="permission_declaration_title">Autoriser l\accès</string>  
 </resources>

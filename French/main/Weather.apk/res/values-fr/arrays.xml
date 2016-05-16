@@ -32,12 +32,10 @@
       <item>Pluie verglaçante</item>
       <item>Aucune donnée</item>
   </string-array>
-  <string-array name="weather_indexes_uv_level">
-      <item>Très faible</item>
+  <string-array name="indexes_uv_level">
       <item>Faible</item>
       <item>Moyen</item>
       <item>Haut</item>
-      <item>Très haut</item>
   </string-array>
   <string-array name="wind_direction">
       <item>Vent N</item>

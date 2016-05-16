@@ -705,6 +705,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="device_cpu2_info">"Double cœur "</string>
   <string name="device_cpu4_info">"Quadruple cœur "</string>
   <string name="device_cpu8_info">"Octuple cœur "</string>
+  <string name="device_cpu10_info">"Decuple cœur "</string>
   <string name="device_edit_title">Changer le nom du périphérique</string>
   <string name="device_info_default">Inconnu</string>
   <string name="device_info_label">Informations sur l\'appareil</string>
@@ -853,8 +854,10 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="erase_internal_storage">Effacer la mémoire interne</string>
   <string name="erase_internal_storage_description">Le formatage du stockage interne supprimera tous les fichiers, tels que la musique ou les photos</string>
   <string name="erase_optional">Effacement facultatif</string>
-  <string name="erase_personal_data">Données personnelles</string>
-  <string name="erase_personal_data_description">Y compris les comptes, les contacts, les relevés d\'appels et les autres données</string>
+  <string name="erase_personal_data">Tous les fichiers du télépone</string>
+  <string name="erase_personal_data_description">Y compris les comptes, les contacts, les photos, et les applications</string>
+  <string name="erase_sd_data">Formater la carte SD</string>
+  <string name="erase_sd_data_description">Formater effacera tous les fichiers sur la carte SD</string>
   <string name="erase_sure">Confirmer la suppression ?</string>
   <string name="error_apn_empty">"L'APN est obligatoire."</string>
   <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
@@ -3797,5 +3800,20 @@ l'assistant Wi-Fi"</string>
   <string name="ac_enable_summary">Un mot de passe sera requis pour ouvrir l\'application</string>
   <string name="auto_disable_screenbuttons_summary">Désactive automatiquement les boutons de navigation pour les applications sélectionnées. Pour les réactiver, tapez deux fois sur l\'un des boutons.</string>
   <string name="auto_disable_screenbuttons_title">Désactiver automatiquement les boutons de navigation</string>
-
+  <string name="touch_assistant">Assistant tactile</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Appuyer pour modifier</string>
+    
+  <string name="security_encryption_alert_dialog_info_first">"Définissez un mot de passe de verrouillage d\'écran pour activer cette fonctionnalité. Vous aurez à entrer ce mot de passe à chaque redémarrage pour déchiffrer et utiliser l\'appareil."</string>
+  <string name="security_encryption_alert_dialog_title_first">Mot de passe de verrouillage d\'écran requis</string>
+  <string name="security_encryption_attention_1">"Vous ne pourrez pas utiliser les alarmes quand l'\appareil sera éteint."</string>
+  <string name="security_encryption_attention_2">"Vous aurez à entrer le mot de passe à chaque redémarrage pour déchiffrer l\'appareil. Le  redémarrage sera plus long que d\'habitude."</string>
+  <string name="security_encryption_attention_3">"Vous devez définir un nouveau mot de passe de verrouillage d\'écran."</string>
+  <string name="security_encryption_attention_4">"N\'oubliez pas votre mot de passe de verrouillage d\'écran, sinon vous devrez faire une remise à zéro de l\'appareil et effacer toutes les données."</string>
+  <string name="security_encryption_attention_info">Vous pouvez chiffrer les comptes, paramètres, applications et leurs données, médias, et autres fichiers.</string>
+  <string name="security_encryption_attention_title">Important</string>
+  <string name="security_encryption_close_dialog_info">Choisir de ne pas chiffrer l\'appareil avec un mot de passe de verrouillage d\'écran rendra indisponible quelques services Google.</string>
+  <string name="security_encryption_close_dialog_title">Revenir à la protection par mot de passe par défaut</string>
+  <string name="security_encryption_diaglog_continue">Suivant</string>
+  <string name="security_encryption_is_used">On</string>
+  <string name="security_encryption_title">Chiffrer l\'appareil avec un mot de passe de verrouillage d\'écran</string>
 </resources>
