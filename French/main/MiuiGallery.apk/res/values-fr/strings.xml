@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
@@ -852,4 +852,10 @@
   <string name="trash_bin">Corbeille</string>
   <string name="trash_bin_summary">Parcourir les photos sauvegardées qui ont été supprimées récemment</string>
   <string name="other_settings">Autres paramètres</string>
+  <string name="adding">Ajout</string>
+  <string name="delete_from_devices">Tous les appareils qui se synchronisent</string>
+  <string name="delete_from_devices_album">Tous les appareils qui ont synchronisé cet album</string>
+  <string name="delete_from_homepage_album">L\'album affiché sur le bureau</string>
+  <string name="delete_to_trash_tips">Vous pouvez voir les photos synchronisées récemment supprimées de la corbeille dans les paramètres</string>
+  <string name="video_edit_file_not_exits_tip">Vous devez d\abord télécharger la vidéo</string>
 </resources>

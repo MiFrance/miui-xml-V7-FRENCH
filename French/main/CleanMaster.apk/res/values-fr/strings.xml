@@ -342,6 +342,9 @@
   <string name="dialog_title_esc_cleanmaster">Quitter Cleanmaster</string>
   <string name="pref_category_title_engine_settings">Paramêtres des définitions</string>
   <string name="pref_title_choose_engine">Définitions</string>
+  <string name="dialog_msg_add_white_list_error">"Ce fichier ne peut pas être ajouté aux exceptions"</string>
+  <string name="dialog_ok_add_white_list_error">Compris</string>
+  <string name="dialog_title_add_white_list_error">Attention</string>
 <!-- à traduire
   <string name="hints_storage_news">Security news</string>
   -->

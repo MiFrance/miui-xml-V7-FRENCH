@@ -313,7 +313,7 @@
   <string name="pref_camera_scenemode_entry_snow">Neige</string>
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Coucher soleil</string>
-  <string name="pref_camera_scenemode_title">Mode scène</string>
+  <string name="pref_camera_scenemode_title">Scène</string>
   <string name="pref_camera_settings_category">Appareil photo</string>
   <string name="pref_camera_settings_title">Paramètres</string>
   <string name="pref_camera_sharpness_title">Netteté</string>

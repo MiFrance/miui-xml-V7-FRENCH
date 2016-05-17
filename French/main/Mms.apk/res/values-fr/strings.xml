@@ -21,7 +21,6 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-
   <string name="view_hms_attachment_fail">Échec du téléchargement de l\'image.</string>
   <string name="menu_new_contact">Nouveau contact</string>
   <string name="menu_add_black">Ajouter à la liste noire</string>
@@ -642,4 +641,6 @@
   <string name="sms_report_failed">"Impossible d'envoyer le signalement"</string>
   <string name="sms_report_success">Signalement envoyé</string>
   <string name="pref_title_sms_validity_period">Durée de validité des SMS</string>
+  <string name="add_to_browser_favorite_failed">échec</string>
+  <string name="add_to_browser_favorite_success">succès</string>
 </resources>
