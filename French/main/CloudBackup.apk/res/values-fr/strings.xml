@@ -63,7 +63,6 @@
   <string name="recovering">Restauration de %s</string>
   <string name="remove_task_in_process">Suppression en cours</string>
   <string name="remove_task_unfinished">Supprimer les tâches non terminées</string>
-  <string name="restore_from_cloud">Restaurer à partir de Mi Cloud</string>
   <string name="restoreing_file_tile">Restauration de %d fichiers</string>
   <string name="retry">Réessayer</string>
   <string name="self_phone">Cet appareil</string>
