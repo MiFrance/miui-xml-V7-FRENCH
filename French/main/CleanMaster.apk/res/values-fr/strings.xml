@@ -345,6 +345,7 @@
   <string name="dialog_msg_add_white_list_error">"Ce fichier ne peut pas être ajouté aux exceptions"</string>
   <string name="dialog_ok_add_white_list_error">Compris</string>
   <string name="dialog_title_add_white_list_error">Attention</string>
+  <string name="function_app_lock_title">L\'application %d contient des risques pour la vie privée</string>
 <!-- à traduire
   <string name="hints_storage_news">Security news</string>
   -->

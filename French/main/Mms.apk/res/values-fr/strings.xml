@@ -643,4 +643,7 @@
   <string name="pref_title_sms_validity_period">Durée de validité des SMS</string>
   <string name="add_to_browser_favorite_failed">échec</string>
   <string name="add_to_browser_favorite_success">succès</string>
+  <string name="delete_wild_sims">Effacer les numéros</string>
+  <string name="delete_wild_sims_confirm">Tous les messages appartenant au numéro sélectionné seront effacés sur ce téléphone. Vous pourrez les restaurez sur i.mi.com.</string>
+  <string name="delete_wild_sims_title">Effacer les numéros sélectionnés</string>
 </resources>

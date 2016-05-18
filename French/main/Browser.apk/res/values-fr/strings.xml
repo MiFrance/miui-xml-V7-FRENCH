@@ -1017,5 +1017,9 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="bookmark_btn_select_all">Tout sélectionner</string>
   <string name="bookmark_btn_select_none">Tout désélectionner</string>
   <string name="action_menu_useful_page">Ajouter aux utiles</string>
-  <string name="action_menu_useful_page_added">Ajouté aux utiles</string>
+  <string name="action_menu_useful_page_added">Ajouté aux utiles</string> 
+  <string name="data_traffic_prompt_message_short">Utiliser vos données mobiles pour regarder des vidéos en ligne peut vous faire dépasser votre forfait de données.</string>
+  <string name="video_float_window">PopUp</string>
+  <string name="video_float_window_playing">Lecture en cours</string>
+  <string name="video_float_window_text">PopUp</string>
 </resources>

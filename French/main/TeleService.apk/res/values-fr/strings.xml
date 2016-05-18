@@ -1522,4 +1522,10 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="telocation_country_code_enabled_message">Ajoutez automatiquement les code des pays pour rendre les appels plus pratiques.</string>
   <string name="telocation_country_code_enabled_title">Ajouter les codes des pays lors des appels</string>
   <string name="call_record_loading_content">Chargement…</string>
+  <string name="can_not_use_for_not_data_sim">"(Utilisation impossible: Doit être défini comme SIM par défaut pour les données)"</string>
+  <string name="cdma_alert_message">"Si vous selectionnez une autre carte comme carte par défaut pour les données mobiles, vous ne pourrez pas utiliser votre carte UIM de China Telecom (sauf en itinérance)."</string>
+  <string name="cdma_alert_title">La carte UIM doit être par défaut</string>
+  <string name="config_default_data_sim">Paramètres</string>
+  <string name="go_to_virtual_sim_title">SIM virtuelle</string>
+  <string name="got_it">OK</string>
 </resources>

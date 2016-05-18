@@ -94,4 +94,9 @@
         <item>Fréquence d\'utilisation</item>
         <item>Nom</item>
     </string-array>
+    <string-array name="lock_mode">
+        <item>Verrouille quand l\'appareil est vérouillé</item>
+        <item>Verrouille en sortant de l\'application</item>
+        <item>Verrouille 1 minute après avoir quitté l\'application</item>
+    </string-array>  
 </resources>

@@ -397,11 +397,12 @@ Les fiches de contact sont désactivés"</string>
   <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
   <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
-  <string name="export_to_sdcard">Exporter…</string>
+  <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
   <string name="export_to_sim1">Exporter vers la carte SIM 1</string>
   <string name="export_to_sim2">Exporter vers la carte SIM 2</string>
-  <string name="export_to_sim_title">Export vers la carte SIM…</string>
+  <string name="export_to_sim_title">Export…</string>
+  <string name="export_to_storage">Export vers le stockage</string>
   <string name="export_vcard_description">Exporter les vCards sur la carte SD</string>
   <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Échec de l'exportation des données des contacts"</string>
@@ -1164,4 +1165,8 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="hybrid_service_unavailiable">Service indisponible</string>
   <string name="hybrid_try_again">Réessayer</string>
   <string name="preference_key_trash_bin_title">Afficher les contacts sauvegardés qui ont été récemment supprimés</string>
+  <string name="storage_internal_description">Stockage interne</string>
+  <string name="storage_sd_card">Carte SD</string>
+  <string name="storage_sd_card_description">Carte SD</string>
+  <string name="storage_usb_description">Stockage USB</string> 
 </resources>

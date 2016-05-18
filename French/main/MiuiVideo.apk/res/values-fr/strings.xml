@@ -187,7 +187,7 @@
   <string name="vp_back">Retour</string>
   <string name="vp_loading"><CDATA>Chargement</CDATA></string>
   <string name="vp_function">Param.</string>
-  <string name="declaration_content">Acceptez-vous les <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">conditions d\'utilisation</a> stipulées par Sohu, iQiyi, et les autres fournisseurs de contenu vidéo ?</string>
+  <string name="declaration_content">Acceptez-vous les <a href="file:///android_asset/terms.html">conditions d\'utilisation</a> stipulées par Sohu, iQiyi, et les autres fournisseurs de contenu vidéo ?</string>
   <string name="more">Aller à %s</string>
   <string name="local_video">Mes vidéos</string>
   <string name="my_favorite">Favoris</string>
