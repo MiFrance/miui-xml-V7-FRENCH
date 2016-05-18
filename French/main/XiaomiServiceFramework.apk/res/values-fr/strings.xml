@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
@@ -107,4 +107,5 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
   <string name="sync_notification_title_format">Synchronisation de : %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">Info d\'activation XMSF</string>
+  <string name="activate_feature_remote_assist">Assistance à distance</string>
 </resources>

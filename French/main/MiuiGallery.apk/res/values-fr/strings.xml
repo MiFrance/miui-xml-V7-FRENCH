@@ -180,7 +180,7 @@
   <string name="create_new_cloud_folder">Créer un nouvel album</string>
   <string name="crop">Recadrer</string>
   <string name="crop_fail_to_load_image">Impossible de charger l\'image pour la recadrer.</string>
-  <string name="crop_label">Recadrer l\'image</string>
+  <string name="crop_label">Recadrer</string>
   <string name="crop_save_text">Enregistrer</string>
   <string name="crop_tooltip">Faire glisser les marqueurs pour recadrer la photo</string>
   <string name="crossprocess">Traitement croisé</string>
@@ -579,7 +579,7 @@
   <string name="internal_sd_card_hm">Stockage interne</string>
   <string name="move">Déplacer</string>
   <string name="yellow_page">Pages jaunes</string>
-  <string name="picker_tab_photo">Photo</string>
+  <string name="picker_tab_photo">Photos</string>
   <string name="local_time">(Local)</string>
   <string name="photo_page_detail_show_in_the_map">Afficher la position sur la carte</string>
   <string name="start_slide_show">Démarrer le diaporama</string>
@@ -858,4 +858,22 @@
   <string name="delete_from_homepage_album">L\'album affiché sur le bureau</string>
   <string name="delete_to_trash_tips">Vous pouvez voir les photos synchronisées récemment supprimées de la corbeille dans les paramètres</string>
   <string name="video_edit_file_not_exits_tip">Vous devez d\abord télécharger la vidéo</string>
+  <string name="auto_upload_disable_tip">Sauvegarde automatique désactivée</string>
+  <string name="auto_upload_disable_toast_long_press_menu">La sauvegarde automatique est désactivée, album ajoutés aux Autres albums</string>
+  <string name="auto_upload_enable_toast_long_press_menu">La sauvegarde automatique est activée, retournez à la liste des albums pour voir le changement</string>
+  <string name="operation_disable_auto_upload">Désactiver la sauvegarde automatique</string>
+  <string name="operation_enable_auto_upload">Activer la sauvegarde automatique</string>
+  <string name="operation_not_show_in_photos_tab">Ne pas afficher dans Photos</string>
+  <string name="operation_show_in_photos_tab">Afficher dans Photos</string>
+  <string name="other_album">Autres albums</string>
+  <string name="album_page_label">Albums</string>
+  <string name="create_new_album">Créer un album</string>
+  <string name="menu_album_new_album">Nouvel album</string>
+  <string name="people_page_label">Personnes</string>
+  <string name="album_faces_name">Personnes</string>
+  <string name="expand_people">Afficher plus de personnes</string>
+  <string name="people_page_unname">Sans nom</string>
+  <string name="album_type_baby">Partager l\'album</string>
+  <string name="album_screenshot_name">Captures d\'écran</string>
+  <string name="other_album">Autres albums</string>
 </resources>

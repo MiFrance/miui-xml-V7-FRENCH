@@ -3758,10 +3758,13 @@ l'assistant Wi-Fi"</string>
   <string name="cell_broadcast_settings_summary">Sélectionnez les types d\'alertes d\'urgence à afficher</string>
   <string name="status_bar_settings_manage_notification">Gérer les notifications</string>
   <string name="music_dirac_mode_piston_standard">Édition standard</string>
-  <string name="virtual_sim_category_title">SIM virtuelle</string>
+  <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Service d\'itinérance à l\'international</string>
   <string name="virtual_sim_search_title">SIM virtuelle</string>
   <string name="virtual_sim_title">Itinérance des données</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
+  <string name="virtual_sim_global_description">Pas de carte SIM requise pour se connecter à un réseau de données</string>
+  <string name="virtual_sim_global_title">Service de données mobiles</string>
   <string name="performance_category">Performance</string>
   <string name="processor_info">Infos processeur</string>
   <string name="close_dialog">OK</string>
