@@ -108,4 +108,8 @@ Entrez le numéro de téléphone associé à votre nouvelle carte SIM pour réac
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">Info d\'activation XMSF</string>
   <string name="activate_feature_remote_assist">Assistance à distance</string>
+  <string name="activate_sms_postfix">Cet SMS est utilisé pour activer votre service Mi</string>
+  <string name="explain_send_sms_permission_button">Vérifier</string>
+  <string name="explain_send_sms_permission_msg">Pour activer %s, Xiaomi Service Framework va envoyer un SMS pour vérifier votre numéro de téléphone. Vous serez facturé pour ce SMS par l\'opérateur.</string>
+  <string name="explain_send_sms_permission_title">Vérifier votre numéro de téléphone</string>
 </resources>

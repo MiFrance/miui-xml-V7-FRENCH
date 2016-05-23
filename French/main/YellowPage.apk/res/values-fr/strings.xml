@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
@@ -297,4 +297,5 @@
   <string name="about_phone_event">A propos du service</string>
   <string name="express_banner_header">%1$s / Numéro de suivi</string>
   <string name="phone_event_setting_notice_text">"Pages Jaunes souhaite transférer les numéros de service certifiés (par ex. votre opérateur mobile) sur les serveurs Mi, afin que vous puissiez recevoir des mises à jour de service."</string> 
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"En utilisant ce service vous donnez votre accord à %1$s et à %2$s. Dans le but de faire des recherches inversées, nous avons besoin d\'accéder  à vos contacts."</string>
 </resources>

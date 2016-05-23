@@ -78,4 +78,5 @@
   <string name="transfer_interrupt">Transfert interrompu</string>
   <string name="transmission_click_send">envoi</string>
   <string name="transmission_connect">"Le destinataire est introuvable"</string>
+  <string name="runtime_permission_ungranted">Impossible d\'utiliser Mi Drop à cause de permissions non accordées</string>
 </resources>

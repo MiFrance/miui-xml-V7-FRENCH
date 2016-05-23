@@ -875,4 +875,5 @@
   <string name="people_page_unname">Sans nom</string>
   <string name="album_type_baby">Partager l\'album</string>
   <string name="album_screenshot_name">Captures d\'écran</string>
+  <string name="runtime_permission_ungranted">Galerie va sortir à cause de permissions manquantes</string>
 </resources>
