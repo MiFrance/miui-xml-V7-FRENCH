@@ -147,4 +147,28 @@
       <item quantity="few">%1$d nouveaux stickers WeChat aujourd\'hui</item>
       <item quantity="many">%1$d nouveaux stickers WeChat aujourd\'hui</item>
   </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s fois</item>
+        <item quantity="zero">%1$s fois</item>
+        <item quantity="one">%1$s fois</item>
+        <item quantity="two">%1$s fois</item>
+        <item quantity="few">%1$s fois</item>
+        <item quantity="many">%1$s fois</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s vidéos</item>
+        <item quantity="zero">%1$s vidéos</item>
+        <item quantity="one">%1$s vidéo</item>
+        <item quantity="two">%1$s vidéos</item>
+        <item quantity="few">%1$s vidéos</item>
+        <item quantity="many">%1$s vidéos</item>
+    </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">vidéos</item>
+        <item quantity="zero">vidéos</item>
+        <item quantity="one">vidéo</item>
+        <item quantity="two">vidéos</item>
+        <item quantity="few">vidéos</item>
+        <item quantity="many">vidéos</item>
+    </plurals>  
 </resources>

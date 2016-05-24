@@ -76,4 +76,6 @@ Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="warning_tip_title">Avertissement sur l\'utilisation des données</string>
   <string name="notification_download_failed_more">Échec du téléchargement de %1$d fichiers</string>
   <string name="notification_download_success_more">Téléchargement de %1$d fichiers terminé</string>
+  <string name="notify_disabled_net_by_app">Connexion Internet restreinte par l\'application Sécurité</string>
+  <string name="notify_only_wifi_download">Attente du Wi-Fi</string>
 </resources>

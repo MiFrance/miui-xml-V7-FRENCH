@@ -532,4 +532,5 @@
   <string name="permission_declaration_negative_text">Plus tard</string>
   <string name="permission_declaration_positive_text">Allez à Securité</string>
   <string name="permission_declaration_title">Autoriser l\accès</string>  
+  <string name="desktop_lyric_lock_toast">Verouillé. Utilisez le mini lecteur dans la barre de notifications pour déverouiller.</string>
 </resources>

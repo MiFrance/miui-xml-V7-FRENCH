@@ -28,16 +28,19 @@
   <string name="merged_mailbox_compose_select_account">Sélectionner le compte</string>
   <string name="message_body_loading">[ Chargement… ]</string>
   <string name="no_contacts">Vide</string>
-  <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"        Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
   <string name="account_folder_list_summary_drafts">Brouillons</string>
   <string name="account_folder_list_summary_inbox">Boîte de réception</string>
   <string name="account_folder_list_summary_outbox">Boîte d\'envoi</string>
   <string name="account_folder_list_summary_starred">Suivis</string>
-  <string name="account_password_spaces_error">"Ce mot de passe débute ou se termine par un ou plusieurs espaces. De nombreux serveurs n'acceptent pas les mots de passe contenant des espaces."</string>
-  <string name="account_security_dialog_content_fmt">%s nécessite la mise à jour de vos paramètres de sécurité.</string>
+  <string name="account_password_spaces_error">"Ce mot de passe débute ou se termine par un ou plusieurs
+      espaces. De nombreux serveurs n'acceptent pas les mots de passe contenant des espaces."</string>
+  <string name="account_security_dialog_content_fmt">"%s nécessite la mise à jour de vos paramètres
+      de sécurité."</string>
   <string name="account_security_dialog_title">Mise à jour de sécurité</string>
-  <string name="account_security_policy_explanation_fmt">Vous devez autoriser le serveur %s à contrôler à distance certaines fonctionnalités de sécurité de votre appareil Android.</string>
+  <string name="account_security_policy_explanation_fmt">"Vous devez autoriser le serveur %s à contrôler 
+      à distance certaines fonctionnalités de sécurité de votre appareil Android."</string>
   <string name="account_security_title">Sécurité de l\'appareil</string>
   <string name="account_settings_action">Paramètres du compte</string>
   <string name="account_settings_background_attachments_label">Télécharger les pièces jointes</string>
@@ -51,7 +54,8 @@
   <string name="account_settings_exit_server_settings">Annuler les modifications non enregistrées ?</string>
   <string name="account_settings_incoming_label">Paramètres de réception</string>
   <string name="account_settings_incoming_summary">Nom d\'utilisateur, mot de passe et autres param. serveur entrant</string>
-  <string name="account_settings_login_dialog_content_fmt">Le nom d\'utilisateur ou le mot de passe de %s est incorrect. Voulez-vous les mettre à jour maintenant ?</string>
+  <string name="account_settings_login_dialog_content_fmt">"Le nom d\'utilisateur ou le mot de passe de %s 
+      est incorrect. Voulez-vous les mettre à jour maintenant ?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Échec de la connexion au compte %s. Motif donné par le serveur : %s. Voulez-vous mettre à jour votre nom d\'utilisateur et/ou votre mot de passe ?</string>
   <string name="account_settings_login_dialog_title">"Impossible de se connecter."</string>
   <string name="account_settings_mail_check_frequency_label">Fréquence de consultation</string>
@@ -90,10 +94,10 @@
   <string name="account_setup_basics_manual_setup_action">Config. manuelle</string>
   <string name="account_setup_basics_password_label">Mot de passe</string>
   <string name="account_setup_basics_title">Configurer un compte</string>
-  <string name="account_setup_check_settings_check_incoming_msg">Validation des paramètres du serveur en cours…</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Validation des paramètres SMTP en cours…</string>
-  <string name="account_setup_check_settings_retr_info_msg">Récupération des informations sur le compte…</string>
-  <string name="account_setup_creating_account_msg">Création du compte en cours…</string>
+  <string name="account_setup_check_settings_check_incoming_msg">"    Validation des paramètres du serveur en cours…"</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">"    Validation des paramètres SMTP en cours…"</string>
+  <string name="account_setup_check_settings_retr_info_msg">"    Récupération des informations sur le compte…"</string>
+  <string name="account_setup_creating_account_msg">"    Création du compte en cours…"</string>
   <string name="account_setup_exchange_certificate_title">Certificat client</string>
   <string name="account_setup_exchange_device_id_label">Numéro d\'appareil mobile :</string>
   <string name="account_setup_exchange_no_certificate">Aucun</string>
@@ -101,22 +105,23 @@
   <string name="account_setup_exchange_select_certificate">Sélectionner</string>
   <string name="account_setup_exchange_use_certificate">Utiliser un certificat client</string>
   <string name="account_setup_failed_access_denied">"Vous n'êtes pas autorisé à synchroniser votre compte avec ce serveur. Veuillez contacter l'administrateur du serveur pour en savoir plus."</string>
-  <string name="account_setup_failed_auth_required">"Les méthodes d'authentification ne sont pas compatibles avec le serveur."</string>
   <string name="account_setup_failed_certificate_inaccessible">Le certificat est invalide ou inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Certificat client requis. Voulez-vous vous connecter au serveur avec un certificat client ?</string>
-  <string name="account_setup_failed_check_credentials_message">Erreur du serveur. Veuillez vérifier votre nom d\'utilisateur et votre mot de passe, puis réessayer.</string>
+  <string name="account_setup_failed_check_credentials_message">"         Erreur du serveur. Veuillez vérifier votre nom d\'utilisateur et votre mot de passe, puis réessayer."</string>
   <string name="account_setup_failed_dlg_auth_message">Nom d\'utilisateur ou mot de passe incorrect.</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">Échec de la connexion.\"\n\"(%s)</string>
   <string name="account_setup_failed_dlg_certificate_message">"Impossible d'établir une connexion sécurisée avec le serveur."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">Impossible d\'établir une connexion sécurisée avec le serveur.\"\n\"(%s)</string>
-  <string name="account_setup_failed_dlg_device_locked">Votre adresse a été bloquée par le verrouillage de l\'appareil</string>
+  <string name="account_setup_failed_dlg_device_locked">"\"Impossible de s'identifier. Ce compte à été verrouillé."\"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Modifier les infos</string>
   <string name="account_setup_failed_dlg_server_message">"Impossible de se connecter au serveur."</string>
   <string name="account_setup_failed_dlg_title">"Impossible de configurer le compte"</string>
   <string name="account_setup_failed_ioerror">"Impossible d'établir la connexion avec le serveur."</string>
-  <string name="account_setup_failed_protocol_unsupported">"L'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec E-mail."</string>
+  <string name="account_setup_failed_protocol_unsupported">"         L'adresse de serveur saisie est incorrecte ou le serveur exige 
+      une version du protocole non compatible avec E-mail."</string>
   <string name="account_setup_failed_security">"Impossible d'établir la connexion avec le serveur en raison d'une erreur de sécurité."</string>
-  <string name="account_setup_failed_security_policies_unsupported">"Ce serveur nécessite des fonctionnalités de sécurité incompatibles avec votre appareil Android, dont : %s"</string>
+  <string name="account_setup_failed_security_policies_unsupported">"         Ce serveur nécessite des fonctionnalités de sécurité incompatibles 
+      avec votre appareil Android, dont : %s"</string>
   <string name="account_setup_failed_tls_required">Protocole TLS requis mais non pris en charge par le serveur.</string>
   <string name="account_setup_failed_too_many_partnerships">La connexion a échoué, le nombre maximal de connexions au serveur autorisé a été atteint.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Si messages suppr. de la corbeille</string>
@@ -130,9 +135,9 @@
   <string name="account_setup_incoming_security_label">Type de sécurité</string>
   <string name="account_setup_incoming_security_none_label">Aucune</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-  <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (accepter tous les certificats)</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"        SSL/TLS (accepter tous les certificats)"</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accepter tous les certificats)</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">"        STARTTLS (accepter tous les certificats)"</string>
   <string name="account_setup_incoming_server_label">Serveur</string>
   <string name="account_setup_incoming_title">Configuration du compte</string>
   <string name="account_setup_incoming_username_label">Nom d\'utilisateur</string>
@@ -176,9 +181,11 @@
   <string name="account_setup_outgoing_smtp_server_label">Serveur SMTP</string>
   <string name="account_setup_outgoing_title">Configuration du compte</string>
   <string name="account_setup_outgoing_username_label">Nom d\'utilisateur</string>
-  <string name="account_setup_security_policies_required_fmt">Vous devez autoriser le serveur %s à contrôler à distance certaines fonctionnalités de sécurité de votre appareil Android. Voulez-vous terminer la configuration de ce compte ?</string>
+  <string name="account_setup_security_policies_required_fmt">"         Vous devez autoriser le serveur %s à contrôler à distance certaines 
+      fonctionnalités de sécurité de votre appareil Android. 
+      Voulez-vous terminer la configuration de ce compte ?"</string>
   <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
-  <string name="account_setup_username_password_toast">Saisissez une adresse e-mail et un mot de passe corrects.</string>
+  <string name="account_setup_username_password_toast">"        Saisissez une adresse e-mail et un mot de passe corrects."</string>
   <string name="account_setup_username_uneditable_error">"Vous ne pouvez pas modifier le nom d'utilisateur d'un compte. Pour ajouter un compte associé à un autre nom d'utilisateur, appuyez sur \"Ajouter un compte\"."</string>
   <string name="account_setup_incoming_username_label_default_hint">Spécifiez également le domaine</string>
   <string name="account_sync_off">La synchronisation de votre compte est désactivée.</string>
@@ -242,7 +249,8 @@
   <string name="cannot_move_multiple_accounts_toast">"Impossible de déplacer le message, car la sélection comprend plusieurs comptes."</string>
   <string name="cannot_move_protocol_not_supported_toast">"Les messages ne peuvent pas être déplacés, car cette action n'est pas compatible avec les comptes POP3."</string>
   <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers \"Brouillons\", \"Boîte d'envoi\" et \"Messages envoyés\"."</string>
-  <string name="cant_move_or_change_labels">"Impossible de déplacer les messages, car la sélection comprend plusieurs comptes."</string>
+  <string name="cant_move_or_change_labels">"Impossible de déplacer les messages, 
+      car la sélection comprend plusieurs comptes."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc : %1$s&lt;br&gt;</string>
   <string name="cc_heading">"Cc : "</string>
@@ -312,7 +320,9 @@
   <string name="deleted">Supprimé</string>
   <string name="device_admin_description">Active les stratégies de sécurité spécifiées par le serveur.</string>
   <string name="device_admin_label">E-mail</string>
-  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application E-mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, événements d'agenda, etc.)."</string>
+  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil 
+      par l'application E-mail, tous les comptes de messagerie qui y sont associés seront supprimés, 
+      de même que leurs données (e-mails, contacts, événements d'agenda, etc.)."</string>
   <string name="discard">Supprimer</string>
   <string name="discard_drafts">Supprimer les brouillons</string>
   <string name="dismiss_tip_hover_text">Masquer le conseil</string>
@@ -341,7 +351,7 @@
   <string name="failed">"Impossible de charger l'image."</string>
   <string name="feedback">Envoyer des commentaires</string>
   <string name="fetching_attachment">Récupération de la pièce jointe</string>
-  <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="folder_icon_desc">Icône Dossier</string>
   <string name="folder_picker_title">Sélecteur de dossier</string>
   <string name="folder_removed">Supprimé de %1$s</string>
@@ -430,7 +440,8 @@
   <string name="message_invite_tentative">Peut-être</string>
   <string name="message_invite_title">Invitation Agenda</string>
   <string name="message_saved">Brouillon enregistré.</string>
-  <string name="message_view_attachment_background_load">Une ou plusieurs pièces jointes au message que vous transférez vont être téléchargées avant l\'envoi.</string>
+  <string name="message_view_attachment_background_load">"Une ou plusieurs pièces jointes au message
+      que vous transférez vont être téléchargées avant l\'envoi."</string>
   <string name="more_info_attachment">Infos</string>
   <string name="more_string">%1$s autres…</string>
   <string name="more_than_999">&gt; 999</string>
@@ -457,11 +468,13 @@
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="password_expire_warning_content_title">Expiration mot de passe de verrouillage</string>
-  <string name="password_expire_warning_dialog_content_fmt">Vous allez bientôt devoir modifier le code PIN ou le mot de passe de verrouillage de l\'écran, faute de quoi les données de %s vont être effacées. Voulez-vous le modifier maintenant ?</string>
+  <string name="password_expire_warning_dialog_content_fmt">"         Vous allez bientôt devoir modifier le code PIN ou le mot de passe de verrouillage de l\'écran, faute de quoi les données de %s vont être effacées. Voulez-vous le modifier maintenant ?"</string>
   <string name="password_expire_warning_dialog_title">Expiration mot de passe de verrouillage</string>
-  <string name="password_expire_warning_ticker_fmt">"%s\" exige que le code PIN ou mot de passe d\'écran de verrouillage soit modifié.</string>
+  <string name="password_expire_warning_ticker_fmt">"\"%s\" exige que le code PIN ou mot de passe d\'écran 
+      de verrouillage soit modifié."</string>
   <string name="password_expired_content_title">Mot de passe verrou. expiré</string>
-  <string name="password_expired_dialog_content_fmt">Les données de %s sont en cours d\'effacement de votre appareil. Vous pouvez les restaurer en modifiant le code PIN ou le mot de passe de verrouillage de l\'écran. Voulez-vous le modifier maintenant ?</string>
+  <string name="password_expired_dialog_content_fmt">"         Les données de %s sont en cours d\'effacement de votre appareil. 
+      Vous pouvez les restaurer en modifiant le code PIN ou le mot de passe de verrouillage de l\'écran. Voulez-vous le modifier maintenant ?"</string>
   <string name="password_expired_dialog_title">Le mot de passe de verrouillage de votre écran a expiré.</string>
   <string name="password_expired_ticker">Le code PIN ou le mot de passe de verrouillage de votre écran a expiré.</string>
   <string name="permission_access_provider_desc">Permet à l\'application d\'accéder à la base de données de votre messagerie, y compris aux messages reçus et envoyés, aux noms d\'utilisateur et aux mots de passe.</string>
@@ -521,7 +534,7 @@
   <string name="report_phishing">Signaler comme phishing</string>
   <string name="report_spam">Signaler comme spam</string>
   <string name="require_manual_sync_message">La synchronisation en arrière-plan pour ce compte est désactivée en itinérance.</string>
-  <string name="respond_inline">Répondre dans l\'e-mail</string>
+  <string name="respond_inline">"   Répondre dans l\'e-mail"</string>
   <string name="resume_draft">Modifier</string>
   <string name="retry">Réessayer</string>
   <string name="save_action">Enregistrer</string>
@@ -537,12 +550,15 @@
   <string name="search_results_searching_header">Recherche en cours…</string>
   <string name="search_title">Messagerie unifiée</string>
   <string name="search_unsupported">La fonctionnalité de recherche n\'est pas compatible avec ce compte.</string>
-  <string name="security_changed_ticker_fmt">Les paramètres de sécurité du compte \"%s\" ont été modifiés. Aucune action de votre part n\'est requise.</string>
-  <string name="security_needed_ticker_fmt">Les paramètres de sécurité du compte \"%s\" doivent être mis à jour.</string>
-  <string name="security_notification_content_change_title">Règles de sécurité modifiées</string>
+  <string name="security_changed_ticker_fmt">"            Les paramètres de sécurité du compte \"%s\" ont
+      été modifiés. Aucune action de votre part n\'est requise."</string>
+  <string name="security_needed_ticker_fmt">"            Les paramètres de sécurité du compte \"%s\" doivent être mis à jour."</string>
+  <string name="security_notification_content_change_title">"Règles de sécurité 
+      modifiées"</string>
   <string name="security_notification_content_unsupported_title">"Imposs. appliquer règles sécu"</string>
   <string name="security_notification_content_update_title">Mise à jour de sécurité requise</string>
-  <string name="security_unsupported_ticker_fmt">"Impossible de synchroniser le compte %s en raison des exigences de sécurité."</string>
+  <string name="security_unsupported_ticker_fmt">"            Impossible de synchroniser le compte %s en raison 
+      des exigences de sécurité."</string>
   <string name="select_attachment_type">Sélectionner la source de la pièce jointe</string>
   <string name="send">Envoyer</string>
   <string name="send_failed">"Échec de l'envoi."</string>
@@ -585,7 +601,9 @@
   <string name="too_large_to_attach_multiple">Un ou plusieurs fichiers n\'ont pas été joints. La limite est de %1$s.</string>
   <string name="too_large_to_attach_single">"Impossible de joindre un fichier dont la taille dépasse %1$s."</string>
   <string name="trash_folder_selection_title">Sélect. dossier \"Corbeille\" du serveur pour %s.</string>
-  <string name="turn_auto_sync_on_dialog_body">Les modifications que vous apporterez dans l\'ensemble des applications et des comptes, pas seulement dans Gmail, seront synchronisées avec le Web, vos autres appareils et votre %1$s.</string>
+  <string name="turn_auto_sync_on_dialog_body">"Les modifications que vous apporterez dans l\'ensemble des
+      applications et des comptes, pas seulement dans Gmail, seront synchronisées avec le 
+      Web, vos autres appareils et votre %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activer</string>
   <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation automatique ?</string>
   <string name="undo">Annuler</string>
@@ -600,22 +618,47 @@
   <string name="wait_for_sync_title">En attente de synchronisation</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="yes">Oui</string>
-  <string name="meeting_accepted">Réunion acceptée : %s</string>
-  <string name="meeting_declined">Réunion refusée : %s</string>
-  <string name="meeting_tentative">Projet de réunion : %s</string>
-  <string name="meeting_canceled">Réunion annulée : %s</string>
-  <string name="meeting_updated">Mise à jour : %s</string>
-  <string name="meeting_when">Date : %s</string>
-  <string name="meeting_where">Lieu : %s</string>
-  <string name="meeting_recurring">Date : %s (périodique)</string>
-  <string name="meeting_allday">Quand : %s (toute la journée)</string>
-  <string name="meeting_allday_recurring">Quand : %s (toute la journée, récurrent)</string>
+  <string name="meeting_accepted">"
+      Réunion acceptée :
+%s "</string>
+  <string name="meeting_declined">"
+      Réunion refusée : 
+%s "</string>
+  <string name="meeting_tentative">"
+      Projet de réunion : 
+%s"</string>
+  <string name="meeting_canceled">"
+      Réunion annulée : 
+%s"</string>
+  <string name="meeting_updated">"
+      Mise à jour : 
+      %s"</string>
+  <string name="meeting_when">"
+      Date : 
+%s"</string>
+  <string name="meeting_where">"
+      Lieu : 
+%s"</string>
+  <string name="meeting_recurring">"
+      Date : 
+%s (périodique)"</string>
+  <string name="meeting_allday">"
+      Quand : 
+%s (toute la journée)"</string>
+  <string name="meeting_allday_recurring">"
+      Quand : 
+%s (toute la journée, récurrent)"</string>
   <string name="notification_exchange_calendar_added">Agenda Exchange ajouté</string>
-  <string name="exception_cancel">Cet événement a été annulé pour : %s</string>
-  <string name="exception_updated">Les détails de cet événement ont été modifiés pour : %s</string>
-  <string name="policy_dont_allow_storage_cards">ne pas autoriser les cartes de stockage</string>
-  <string name="policy_dont_allow_unsigned_apps">ne pas autoriser les applications non signées</string>
-  <string name="policy_dont_allow_unsigned_installers">ne pas autoriser prog. d\'install. non signés</string>
+  <string name="exception_cancel">"
+      Cet événement a été annulé 
+      pour : %s"</string>
+  <string name="exception_updated">"
+      Les détails de cet événement ont été modifiés 
+      pour : %s"</string>
+  <string name="policy_dont_allow_storage_cards">Ne pas autoriser les cartes de stockage</string>
+  <string name="policy_dont_allow_unsigned_apps">Ne pas autoriser les applications non signées</string>
+  <string name="policy_dont_allow_unsigned_installers">"Ne pas autoriser prog. d\'install. 
+      non signés"</string>
   <string name="policy_dont_allow_wifi">ne pas autoriser le Wi-Fi</string>
   <string name="policy_dont_allow_text_messaging">ne pas autoriser les SMS</string>
   <string name="policy_dont_allow_pop_imap">ne pas autoriser les comptes POP3 ni IMAP</string>
@@ -709,7 +752,7 @@
   <string name="local_search">Recherche locale</string>
   <string name="widget_all_mail">Tous</string>
   <string name="widget_other_views">Autres</string>
-  <string name="search_result">Résultats :</string>
+  <string name="search_result">"Résultats :"</string>
   <string name="set_network">Définir le réseau</string>
   <string name="setting_default_lable"/>
   <string name="pull_to_refresh">Tirer pour actualiser</string>
@@ -826,7 +869,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="quick_reply_dialog_title">Veuillez sélectionner</string>
   <string name="send_att_title">Alerte</string>
   <string name="downloading_message_body">Chargement du e-mail, veuillez patienter…</string>
-  <string name="check_setup_data">Vérification des paramètres serveur…</string>
+  <string name="check_setup_data">"    Vérification des paramètres serveur…"</string>
   <string name="preference_head_load_title">Diminuer l\'usage des données</string>
   <string name="account_options_acc_title">Compte</string>
   <string name="account_options_common_title">Général</string>
@@ -933,8 +976,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="preference_pop_tips">Les pièces-jointes seront téléchargées avec le contenu du message, comme l\'impose le protocole POP3. Veuillez vérifier la consommation de vos données mobiles.</string>
   <string name="prefetched_got_it">OK</string>
   <string name="quick_reply_hint">Répondre aux %1$d personnes</string>
-  <string name="quick_reply_hint_bcc">"(En BCC) "</string>
-  <string name="quick_reply_hint_cc">"(En CC) "</string>
+  <string name="quick_reply_hint_bcc">(En BCC)</string>
+  <string name="quick_reply_hint_cc">(En CC)</string>
   <string name="recipient_needed_title">Avertissement</string>
   <string name="recipient_null_dialog_title">Alerte</string>
   <string name="remote_search">Tous les messages sur le serveur</string>
@@ -953,8 +996,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="sdcard_cannot_use">La carte SD ne peut être utilisée</string>
   <string name="upload_log">Envoyer les logs de diagnostic</string>
   <string name="upload_log_failed">Échec à l\'envoi des logs</string>
-  <string name="upload_log_success">Logs envoyés avec succès</string>
-  <string name="upload_log_title">Envoyer logs à Xiaomi</string>
+  <string name="upload_log_success">"Logs envoyés avec succès, nous reviendrons rapidement vers vous."</string>
+  <string name="upload_log_title">Envoyer logs pour améliorer WPS Mail</string>
   <string name="uploading_logs">Envoi des logs...</string>
   <string name="upload_log_no">Annuler</string>
   <string name="upload_log_yes">Envoyer</string>
@@ -1010,11 +1053,25 @@ Taille du patch Delta : %2$s"</string>
   <string name="outbox_alert_description_insufficient_storage_error">Espace insuffisant sur le serveur de messagerie</string>
   <string name="contact_edit_set_black_list_receive">Déplacer le message de ce destinataire dans le dossier des indésirables (uniquement les nouveaux messages)</string>
   <string name="contact_edit_set_black_list_receive_summary">Supprimer les messages incluant ce destinataire, dans les champs A ou Cc</string>
-  <string name="account_setup_deleting_account_msg">Suppression du compte…</string>
+  <string name="account_setup_deleting_account_msg">"    Suppression du compte…"</string>
   <string name="contact_edit_set_black_list_from">Déplacer tous les mails de cet expéditeur dans le dossier des indésirables</string>
   <string name="click_to_reload">Toucher l\'écran pour rafraichir</string>
   <string name="menu_discovery">Découverte</string>
   <string name="net_check_title">Impossible de se connecter au réseau. Vérifiez les paramêtres réseau et reéssayez.</string>
-  <string name="network_try_again">Vérifiez le réseau</string>
+  <string name="network_try_again">Vérifiez le réseau et reéssayez</string>
   <string name="pull_up_to_load_more">Monter pour charger plus</string>
+  <string name="att_download_failed_permission_denied">"Vous n\'avez pas la permission d\'accéder au stockage externe"</string>
+  <string name="download_whole_email">Télécharger le contenu restant</string>
+  <string name="feedback_user_edit_hint">Décrivez le problème ici. Nous vous enverons un e-mail une fois inspecté.</string>
+  <string name="feedback_user_edit_tag">De MIUI </string>
+  <string name="info_actionbar_normal_detail">Details</string>
+  <string name="info_actionbar_subscribe">Flux d\'infos</string>
+  <string name="info_loading">Chargement…</string>
+  <string name="info_no_message">Aucun article à voir</string>
+  <string name="info_no_more_message">Plus rien à voir</string>
+  <string name="info_switch_summary">Voir le top des nouvelles</string>
+  <string name="info_switch_title">Nouvelles</string>
+  <string name="info_sync_error">"Impossible de se synchroniser, essayez plus tard."</string>
+  <string name="information_subscribe_first_intro">"Il semble que vous utiliser News pour la première fois. Indiquez nous vos centres d\'intérêt pour personnaliser vous infos."</string>
+  <string name="mailbox_name_display_ad">Pubs &amp; notifications</string>
 </resources>

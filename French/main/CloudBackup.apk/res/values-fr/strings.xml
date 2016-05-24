@@ -76,4 +76,10 @@
   <string name="restore_from_cloud">Restaurer depuis Mi Cloud</string>
   <string name="restore_from_this_device">Restaurer avec cette sauvegarde</string>
   <string name="query_restore_description">Restaurer les applications et les paramêtres avec cette sauvegarde. Cela va aussi écraser les données pour les applicatons déjà installées sur cet appareil. Les applicatoins non présentes dans cette sauvegarde seront déplacées sur la dernière page de l\'accueil.</string>
+  <string name="backup_now">Sauvergarder maintenant</string> 
+  <string name="backup_successfully">Sauvegarde réussie</string>
+  <string name="cloud_backup_detail_frequence_day">Sauvegarde chaque %1$s</string>
+  <string name="cloud_backup_detail_time">Dernière sauvegarde : %1$s</string>
+  <string name="restore_task_unfinished">Restauration applis. en cours, réessayez plus tard</string>
+  <string name="account_error">Erreur du compte</string>   
 </resources>

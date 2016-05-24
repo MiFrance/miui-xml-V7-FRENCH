@@ -887,4 +887,5 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="ac_enable_title">Activer Verrouillage d\'applications</string>
   <string name="after_the_lock_screen">"L'application est verrouillée avec l\'écran, modifiable dans les paramètres de Verrouillage d\'applications."</string>
   <string name="lock_mode_title">Paramètres de verrouillage</string>
+  <string name="activity_title_other_permission_manager">Autres permissions</string>
 </resources>

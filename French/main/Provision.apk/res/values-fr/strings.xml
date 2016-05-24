@@ -59,4 +59,10 @@
   <string name="title_fingerprint">Ajouter votre empreinte</string>
   <string name="sim_card_detecting_title">Détection de la carte SIM</string>
   <string name="skip_underline"><u>Passer cette étape</u></string> 
+    <string name="alert_dialog_btn_close">Désactiver</string>
+    <string name="alert_dialog_btn_open">Annuler</string>
+    <string name="alert_dialog_msg">"Des fonctions essentielles de MIUI ne pourront pas fonctionner normalement sans ces permissions (ex. votre appareil ne sera pas capable d\'afficher les détails d\'un appelant) . Si vous désactiver ces permissions, les applications MIUI demanderons les permission individuellement lorsqu\'elles seront nécessaires."</string>
+    <string name="alert_dialog_title">Quelques services peuvent être perturbés...</string>
+    <string name="other_settings_permission">Service de permissions MIUI</string>
+    <string name="other_settings_permission_summary">Donnez à Give Mi Cloud, au téléphone, et aux autres fonctions essentielles les permissions dont elles ont besoin pour fonctionner correctement</string>
 </resources>
