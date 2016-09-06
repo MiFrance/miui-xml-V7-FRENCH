@@ -88,7 +88,7 @@
   <string name="exit">Quitter</string>
   <string name="fail_add_controller_photo">Ajouter une photo pour la télécommande</string>
   <string name="fail_add_device_photo">Ajouter une photo pour l\'appareil</string>
-  <string name="fail_content">"    Couldn't find pairing info."</string>
+  <string name="fail_content">"    Impossible de trouver les informations d' appariement."</string>
   <string name="fail_device_brand">Marque</string>
   <string name="fail_device_model">Modèle</string>
   <string name="fail_device_type">Type</string>
@@ -111,7 +111,7 @@
   <string name="humidity">Humidité:</string>
   <string name="input_complete">OK</string>
   <string name="input_source">Source</string>
-  <string name="input_speech_button">Maintenz &amp; et énoncez votre commande</string>
+  <string name="input_speech_button">Maintenez &amp; et énoncez votre commande</string>
   <string name="install_failed">"Échec d'installation de %s"</string>
   <string name="install_succed">%s installé</string>
   <string name="installing">Installation…</string>
@@ -191,7 +191,7 @@
   <string name="privacy_content">"Pour utiliser cette application, veuillez accepter notre "<u>Politique de confidentialité</u> et <u>Conditions d\'utilisations</u>. Cette application requiert un accès à internet pour fonctionner correctement.</string>
   <string name="privacy_nohit">Ne plus afficher</string>
   <string name="privacy_title">Conditions générales d\'utilisation</string>
-  <string name="projection_failed_for_disconnect">Not paired</string>
+  <string name="projection_failed_for_disconnect">Non apparié</string>
   <string name="province">Province</string>
   <string name="rc">Télécommande</string>
   <string name="rename">Renommer</string>
