@@ -401,14 +401,6 @@
       <item>Afficher les applications récentes</item>
       <item>Afficher le menu</item>
   </string-array>
-  <string-array name="screen_key_long_press_action">
-      <item>Aucune</item>
-      <item>Afficher les applications récentes</item>
-      <item>Lancer l\'Assistant Vocal</item>
-      <item>Lancer Google Now</item>
-      <item>Fermer l\'application actuelle</item>
-      <item>Afficher le menu</item>
-  </string-array>
   <string-array name="screen_key_long_press_timeout">
       <item>0.5 seconde</item>
       <item>1 seconde</item>
