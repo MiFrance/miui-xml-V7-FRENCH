@@ -598,7 +598,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="menu_joinAggregate">Associer le contact</string>
   <string name="menu_newContact">Nouveau contact</string>
   <string name="menu_new_contact_action_bar">Nouveau</string>
-  <string name="menu_new_favorite_action_bar">Nouveau</string>
+  <string name="menu_new_favorite_action_bar">Ajouter aux favoris</string>
   <string name="menu_new_group_action_bar">Nouveau</string>
   <string name="menu_not_redirect_calls_to_vm">Ne pas dévier vers la messagerie vocale</string>
   <string name="menu_redirect_calls_to_vm">Dévier vers la messagerie vocale</string>
